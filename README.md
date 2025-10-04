@@ -1,6 +1,6 @@
-# League of Legends: теория и практика
+# League of Legends: theory and practice
 
-Книга об основах игры League of Legends. В ней собрана теоретическая база для начинающих и продвинутых игроков. Материал разделён на пять глав: психологические аспекты игры, общие концепции, микроменеджмент, макроменеджмент, чемпионы и сборки. Книга расскажет вам: как правильно подходить к рейтинговым играм, что делать во время самой игры, как правильно учиться и развивать свои навыки. Она будет полезна в качестве справочника для самокоучинга.
+Here is a book about the fundamentals of League of Legends. It provides theoretical basics for both beginners and advanced players. There are five chapters: psychological aspects of the game, general concepts, micromanagement, macromanagement, champions and builds. The book will tell you how to approach ranked games correctly, what to do during the game, and how to study and develop your skills. It will also be helpful as a reference for self-coaching.
 
 ## Links
 
