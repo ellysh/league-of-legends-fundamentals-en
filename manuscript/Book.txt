@@ -1,0 +1,34 @@
+mainmatter:
+
+  foreword.md
+
+  Psychology/README.md
+  Psychology/expert-training.md
+  Psychology/obstacles-for-learning.md
+
+  Theory/README.md
+  Theory/basic-concepts.md
+  Theory/economy.md
+  Theory/fight.md
+
+  Micromanagement/README.md
+  Micromanagement/attack-animation.md
+  Micromanagement/abilities-animation.md
+  Micromanagement/positioning.md
+
+  Macromanagement/README.md
+  Macromanagement/wave-management.md
+  Macromanagement/game-theory.md
+  Macromanagement/map-control.md
+  Macromanagement/jungle-role.md
+
+  Champions/README.md
+  Champions/draft.md
+  Champions/runes-and-spells.md
+  Champions/items.md
+
+  finalwords.md
+
+  glossary.md
+  links.md
+  version.md
