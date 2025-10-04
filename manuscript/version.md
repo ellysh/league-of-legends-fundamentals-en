@@ -1,3 +1,3 @@
-# Версия
+# Version
 2025-10-03 21:29:20 +0200
 43f4dbae2e93f5ee9123dfd2a63a6cc0d2ed0dd0
