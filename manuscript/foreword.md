@@ -1,6 +1,6 @@
 # Acknowledgements
 
->>>W
+>>>R1
 
 I want to thank everyone who helped me write this book. Thanks to my mother, Elena Shpigor. She gave helpful style advice and proofreading assistance.
 
@@ -18,20 +18,22 @@ Thanks to esports player and streamer [Oleg](https://lol.fandom.com/wiki/Oleg_(O
 
 {pagebreak}
 
-# Предисловие
+# Foreword
 
-Релиз League of Legends состоялся в 2009 году. Через два года по этой дисциплине прошёл первый профессиональный турнир. Спустя 13 лет игра остаётся [главной киберспортивной дисциплиной](https://en.wikipedia.org/wiki/League_of_Legends_in_esports) как по числу зрителей, так и по количеству ежегодных соревнований.
+>>>R1
 
-Сегодня League of Legends продолжает привлекать новых игроков. Её успех [объясняют разными факторами](https://www.unrankedsmurfs.com/blog/why-is-league-of-legends-so-popular): бесплатным доступом, регулярными обновлениям, относительно короткими партиями и возможностью играть с друзьями.
+League of Legends was released in 2009. Two years later, its first professional tournament was held. Thirteen years later, the game remains the leading esports discipline in terms of viewership and the number of annual competitions.
 
-Каждый игрок в League of Legends рано или поздно пробует свои силы в рейтинговых партиях. Именно в этот момент он понимает, насколько сложна эта игра на самом деле. В рейтинговых партиях участникам важна только победа. Они вкладывают значительные силы, деньги и время на улучшение своих навыков. У новичка нет шансов конкурировать с опытными игроками, за плечами которых уже несколько рейтинговых сезонов.
+Today, League of Legends continues to attract new players. Its success is attributed to a variety of factors: free access, regular updates, relatively short games, and the ability to play with friends.
 
-Проблема обучения новых игроков до сих пор открыта, особенно в русскоговорящем сообществе. Большая часть доступного в интернете материала представлена на английском языке. Самые сильные и известные коучи также предлагают свои услуги на английском. Эта книга — попытка улучшить существующую ситуацию.
+Every League of Legends player eventually tries ranked games. At this moment, he realizes how difficult this game really is. In ranked games, victory is the only thing that matters to the participants. They invest significant effort, money, and time into improving their skills. A newcomer has no chance of competing against experienced players who have several ranked seasons under their belt.
 
-В книге собран материал из надёжных источников: гайдов, коучинг сессий и стримов профессиональных игроков. Из него складывается минимальная теоретическая база, которой должен владеть каждый продвинутый игрок. Книга состоит из четырёх глав: психологические аспекты игры, общие концепции, микроменеджмент, макроменеджмент, чемпионы и сборки. Она расскажет вам: как правильно подходить к рейтинговым играм, что делать во время самой партии, как правильно учиться и развивать свои навыки.
+The problem of training new players is still open. A huge amount of information of varying quality is available on the Internet. It's difficult for a beginner to navigate it. Some topics are basic, while others are tips for experienced players to polish their skills. It is difficult to distinguish the first from the second without sufficient experience. This book is an attempt to improve the existing situation.
 
-Если вы прочитаете эту книгу и будете следовать предложенным советам, то обязательно повысите свой уровень Эло на одну-две лиги. Некоторые упражнения и техники потребуют регулярной тренировки. Их положительный эффект проявится только со временем. Поэтому запаситесь терпением. Также книга будет полезна в качестве справочника для самокоучинга.
+The book contains material from reliable sources: guides, coaching sessions, and streams from professional players. It forms the minimum theoretical basis that every advanced player should know. The book consists of five chapters: psychological aspects of the game, general concepts, micromanagement, macromanagement, champions and builds. It will tell you how to approach ranked games correctly, what to do during the game, and how to study and develop your skills. The book will also be useful as a reference for self-coaching.
 
-Большая часть изложенного материала имеет общий характер. Он относится к жанру MOBA в целом. Рассмотренные техники и приёмы будут хорошо работать в производных от League of Legends играх: Wild Rift и Mobile Legends. Многое будет актуально и для Dota 2. Дизайн этой игры сильно разошёлся с League of Legends, но основные концепции у них общие.
+If you read this book and follow the advice given, you will definitely increase your Elo level by one or two ranks. Some exercises and techniques will require regular practice. Their positive effect will only become apparent over time. So please be patient.
+
+Most of the presented material is general. It applies to all MOBA games. The discussed techniques will work well in League of Legends derivative games: Wild Rift and Mobile Legends. Much of this will also be relevant for Dota 2. The design of this game diverges greatly from League of Legends, but they share the same basic concepts.
 
 {pagebreak}
