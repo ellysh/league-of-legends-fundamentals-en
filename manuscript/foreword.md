@@ -1,18 +1,20 @@
-# Благодарности
+# Acknowledgements
 
-Хочу поблагодарить всех, кто помог мне написать эту книгу. Спасибо моей маме Елене Шпигорь. Она давала полезные советы по стилю и помогала с корректурой.
+>>>W
 
-Спасибо Владу Маркову и Михаилу Лежнину за ревью черновиков. Они дали очень полезные отзывы, которое помогли улучшить книгу.
+I want to thank everyone who helped me write this book. Thanks to my mother, Elena Shpigor. She gave helpful style advice and proofreading assistance.
 
-Спасибо Илье Небесскому за ревью черновиков, спарринг и коучинг сессии. Он многому меня научил и помог лучше понять некоторые механики League of Legends.
+Thanks to Vlad Markov and Mikhail Lezhnin for reviewing drafts. They provided helpful feedback that helped me improve the book.
 
-Спасибо стримеру [AloisNl](https://www.twitch.tv/alois_nl) за отличные [курсы по основам игры](https://aloisnl.com/the-fundamental-laning-course/). Эта книга в каком-то смысле повторяет его идею fundamentals — основных концепций игры, которые применимы для каждой роли.
+Thanks to Illia Nebeskyi for reviewing drafts and coaching sessions. He taught me a lot and helped me better understand some of League of Legends mechanics.
 
-Спасибо киберспортсмену [Bwipo](https://lol.fandom.com/wiki/Bwipo) за открытый доступ к его [коучинг сессиям](https://www.youtube.com/watch?v=fJ-C4PEk-9Y&list=PLO-puISV1uJLhELuQ1ad3ayP5A53OMgkB). Они вдохновили меня написать эту книгу.
+Thanks to streamer [AloisNl](https://www.twitch.tv/alois_nl) for the excellent [courses on the fundamentals of the game](https://aloisnl.com/the-fundamental-laning-course/). This book continues his idea of ​​fundamentals which are the core concepts of the game that apply to every role.
 
-Спасибо комментатору [Caedrel](https://lol.fandom.com/wiki/Caedrel) за его отличную работу в освещении профессиональных матчей. Благодаря ему, я стал лучше понимать аспекты соревновательных игр в League of Legends.
+Thanks to esports player [Bwipo](https://lol.fandom.com/wiki/Bwipo) for making his [coaching sessions](https://www.youtube.com/watch?v=fJ-C4PEk-9Y&list=PLO-puISV1uJLhELuQ1ad3ayP5A53OMgkB) available. They inspired me to write this book.
 
-Спасибо киберспортсмену и стримеру [Oleg](https://lol.fandom.com/wiki/Oleg_(Oleg_Karkachev)) за качественные коучинг сессии и советы по книге. Он объяснил многие аспекты игры и базу для роли лесника.
+Thanks to caster [Caedrel](https://lol.fandom.com/wiki/Caedrel) for his excellent work covering professional matches. Thanks to him, I better understand the aspects of competitive League of Legends.
+
+Thanks to esports player and streamer [Oleg](https://lol.fandom.com/wiki/Oleg_(Oleg_Karkachev)) for his high-quality coaching session and advices on the book. He explained many aspects of the game and the basics of the jungler role.
 
 {pagebreak}
 
