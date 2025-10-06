@@ -54,7 +54,7 @@ Deliberate practice has a number of distinctive features. **First**, it requires
 
 Deliberate practice is inherently unpleasant. It requires concentration, constant effort, and is accompanied by discomfort from admitting mistakes. Often the learner has to repeat the same exercises over and over again until the goal is achieved.
 
-Deliberate practice is impossible in some areas. There are three mandatory requirements for an area to obtain expert skills there:
+Deliberate practice is impossible in some fields. There are three mandatory requirements for an field to obtain expert skills there:
 
 1. The presence of a repeatable context with stable patterns.
 
@@ -64,50 +64,52 @@ Deliberate practice is impossible in some areas. There are three mandatory requi
 
 League of Legends meets all these conditions.
 
-### 1.1.2 Pattern recognition
+### 1.1.2 Recognition of templates
 
-Исследование Андерса Эрикссона объяснило, как учатся эксперты в разных областях. Но возникает вопрос: чему именно они учатся? Разберёмся, в чём суть их навыков.
+>>>R1
 
-В конце 1990-х [Фернан Гобэ](https://en.wikipedia.org/wiki/Fernand_Gobet) и Питер Лейн разработали когнитивную архитектуру CHREST (Chunk Hierarchy and REtrieval STructures). Её название переводится как "иерархия блоков и структуры поиска".
+Anders Ericsson explained in his research how experts in different fields learn. But the question arises: what exactly are they learning? Let's figure out what the essence of their skills is.
 
-Архитектура CHREST — это модель когнитивных процессов человека. Она объясняет, как люди воспринимают, обрабатывают и запоминают информацию.
+In the late 1990s, [Fernand Gobe](https://en.wikipedia.org/wiki/Fernand_Gobet) and Peter Lane developed the cognitive architecture CHREST (Chunk Hierarchies and REtrieval STructures). It is a model of human cognitive processes. CHREST explains how people perceive, process and remember information.
 
-Ключевую роль в модели играют два механизма:
+Two mechanisms play a key role in the model:
 
-1. [**Группирование**](https://ru.wikipedia.org/wiki/Группирование_(память)) ([**chunking**](https://en.wikipedia.org/wiki/Chunking_(psychology))) — это объединение элементов с низким содержанием информации в более крупные единицы. Эти крупные единицы называются фрагменты или **блоки** (chunk).
+1. [**Chunking**](https://en.wikipedia.org/wiki/Chunking_(psychology)) is the process of combining elements with low information content into larger units. These larger units are called **chunks**.
 
-2. **Распознавание шаблонов**. **Шаблон** (template) — это когнитивная структура, которая отражает восприятие человеком окружающей среды. Структура представляет собой группу связанных между собой блоков (chunk).
+2. **Recognition of templates**. A **template** is a cognitive structure that reflects person's perception of the environment. The structure is a group of interconnected chunks.
 
-Начнём с **первого механизма — группирование**. Рассмотрим пример. Допустим, что вы пытаетесь запомнить номер телефона 84956352167. Без разделения на блоки вам придётся запомнить каждую цифру по отдельности: 8, 4, 9, 5, 6, 3, 5, 2, 1, 6, 7. Сделать это достаточно сложно.
+Let's start with **the first mechanism — chunking**. Here is an example. You are trying to remember the phone number 84956352167. Without breaking it down into chunks, you'd have to remember each digit individually: 8, 4, 9, 5, 6, 3, 5, 2, 1, 6, 7. This is quite difficult.
 
-Чтобы упростить задачу, можно разбить число на значимые группы цифр. Для этого надо знать схему, по которой составляются телефонные номера. Номер из нашего примера составлен по следующей схеме:
+You can break the number into meaningful groups of digits to make the task easier. To do this, you need to know the scheme by which phone numbers are composed. The number in our example is composed according to the following scheme:
 
-* 8 — код страны
-* 495 — код города
-* 6352167 — абонентский номер.
+* 8 — country code
+* 495 — city code
+* 6352167 — subscriber number.
 
-Мы получили три блока: 8, 495, 6352167. Запомнить их гораздо легче, чем исходное длинное число 84956352167.
+We got three blocks: 8, 495, 6352167. They are much easier to remember than the original long number 84956352167.
 
-Абонентский номер часто делят на три фрагмента следующим образом: 635-21-67. Каждый фрагмент в отдельности не несёт какого-то значения. Но за таким разделением стоит та же идея группирования: разбить число на блоки, чтобы легче его запомнить.
+The subscriber number is often divided into three parts as follows: 635-21-67. Each fragment individually has no specific meaning. But behind this division lies the same idea of ​​grouping: breaking a number into blocks to make it easier to remember.
 
-**Второй механизм — распознавание шаблонов**. Снова обратимся к примеру. Посмотрите на иллюстрацию 1-1.
+**The second mechanism is recognition of templates**. Let's use an example again. Look at Figure 1-1.
 
-{caption: "Иллюстрация 1-1. Распознавание шаблона", height: "30%"}
-![Распознавание шаблона](images/Psychology/traffic-light-red.png)
+{caption: "Figure 1-1. Recognition of the template", height: "30%"}
+![Recognition of the template](images/Psychology/traffic-light-red.png)
 
-На иллюстрации можно легко узнать светофор. На нём горит красный свет. Если вы увидите его во время ходьбы, у вас возникнет инстинктивное желание остановиться.
+You can easily recognize the traffic light on the figure. It's red. If you see it while walking, you'll instinctively want to stop.
 
-Силуэт светофора представляет собой шаблон. Он знаком каждому городскому жителю. Это означает, что в памяти человека есть когнитивная структура, соответствующая силуэту типичного светофора. В этой структуре есть три переменные или слота. Они соответствуют состоянию каждой из трёх ламп. Значение каждого слота связано с конкретным действием: стоять или идти.
+The traffic light silhouette is a template. It's familiar to every city resident. Familiar means that his memory has a cognitive structure that corresponds to the silhouette of a typical traffic light. This structure contains three variables or slots. They correspond to the state of each of the three lamps. The value of each slot is associated with a specific action: stand or walk.
 
-В общем случае шаблон управляет поведением человека. Он вызывает воспоминания, позволяет прогнозировать события и даёт общее понимание происходящего. В сложных шаблонах (как светофор) есть переменные, которые могут принимать разные значения (состояние каждой лампы). Переменные позволяют человеку быстрее усвоить информацию, аналогичную той, которая ему уже знакома. Например, если ребёнок видел только светофоры с двумя лампами, ему будет легче понять работу светофора с тремя лампами. Если же ребёнок видит светофор впервые, ему понадобиться больше времени, чтобы понять принцип его работы.
+In general, a template governs human behavior. It evokes memories, allows us to predict events, and provides a general understanding of what's happening. Complex templates (like traffic lights) contain variables that can take on different values (like the state of each light). Variables allow people to more quickly absorb information that are similar to already known.
 
-Согласно модели CHREST, обучение человека заключается в конструировании сети шаблонов. Эта сеть имеет иерархическую структуру. В ней новые знания связываются с уже знакомыми закономерностями, которые хранятся в долгосрочной памяти.
+Here is the example. The child has seen only two-lamp traffic lights. Therefore, he will easier understand how a three-lamp traffic light works. However, if the child never see any traffic light before, it will take him longer to understand how it works.
 
-Сеть шаблонов строится в результате восприятия большого набора стимулов. Другими словами, в результате упражнений и обратной связи. Стимулы представляют конкретную предметную область. Под их воздействием учащийся начинает распознавать закономерности. Он сравнивает закономерности с уже существующими шаблонами в долговременной памяти. При полном или частичном совпадении новая информация усваивается гораздо быстрее. Если совпадения не было, необходимо повторное воздействие стимула. Так шаблоны закрепляются в памяти и становятся доступны при необходимости.
+According to the CHREST model, human learning consists of constructing a network of templates. This network has a hierarchical structure, where new knowledge is linked to familiar templates stored in long-term memory.
 
-Модель CHREST объясняет процесс решения задачи с точки зрения распознавания закономерностей. Допустим, эксперт решает какую-то задачу. Для этого он использует сеть шаблонов, которая хранится в его долговременной памяти. Он изучает условия задачи и ищет в них типичные признаки. Признаки являются стимулами для системы распознавания. Стимулы помогают найти соответствующую информацию в долговременной памяти. Когда эксперт вспоминает подходящий шаблон, связанные с ним знания помещаются в кратковременную память.
+The network of templates is built as a result of the perception of a large set of stimuli. In other words, it is a result of exercise and feedback. Stimuli represent a specific subject field. When they impact the learner, he begin to recognize templates. He compares regularities with existing templates in long-term memory. If there's a complete or partial match, new information is absorbed much faster. If there is no match, a repeat stimulus impact is necessary. This way, patterns are consolidated in memory and become available when needed.
 
-Когда нужный шаблон найден, связанные с ними знания могут дать готовое решение задачи. Если этого не случилось, эксперт может вспомнить стратегию, которая сработала раньше в аналогичной ситуации. Кроме готового решения или стратегии, связанные с шаблоном знания могут предсказать вероятные результаты различных действий. На основе таких предсказаний эксперт может построить решение для новой задачи.
+The CHREST model explains the problem solving process in terms of recognition of templates. Let's say an expert is solving a problem. To do so, he uses a network of templates stored in his long-term memory. He examines the problem's conditions and search for typical features. These features act as stimuli for the recognition system. These stimuli help to locate relevant information in long-term memory. When the expert recalls a suitable template, the associated knowledge is stored in short-term memory.
+
+Once the expert found the desired template, the associated knowledge can provide a ready-made solution to the problem. If this doesn't happen, the expert can recall a strategy that worked previously in a similar situation. Besides that, the associated knowledge can predict the likely outcomes of various actions. Based on these predictions, the expert can construct a solution for a new problem.
 
 ### 1.1.3 Player skills
 
