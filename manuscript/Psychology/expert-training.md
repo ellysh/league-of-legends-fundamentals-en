@@ -28,39 +28,41 @@ The learning process is crucial for players of all levels. Let's explore it in d
 
 ### 1.1.1 Deliberate practice
 
-В начале 1990-х годов шведский психолог [Андерс Эрикссон](https://en.wikipedia.org/wiki/K._Anders_Ericsson) исследовал процесс обучения. Для этого он провёл эксперимент с участием студентов музыкальной академии. Студентов разделили на три группы:
+>>>R1
 
-1. Потенциальные звёзды мирового класса.
-2. Перспективные исполнители.
-3. Посредственные исполнители.
+In the early 1990s, Swedish psychologist [Anders Ericsson](https://en.wikipedia.org/wiki/K._Anders_Ericsson) studied the learning process. He conducted an experiment involving music academy students. The students were divided into three groups:
 
-Каждый участник рассказал о своём учебном процессе и свободном времени. Опираясь на эту информацию, учёный оценил количество и качество занятий будущего музыканта.
+1. Potential world-class stars.
+2. Promising musicians.
+3. Mediocre musicians.
 
-Андерс Эрикссон выяснил, что к 20 годам музыканты из первой группы потратили в сумме около 10000 часов на занятия. Студенты из второй группы за тот же период времени занимались порядка 7500 часов, а в третьей группе — только 5000 часов. Из этого учёный сделал вывод, что регулярная практика имеет решающее значение для приобретения навыков.
+Each participant described their educational process and free time. Based on this information, the scientist assessed the quantity and quality of the future musician's studies.
 
-Другой вывод учёного звучит так: важно не только количество практики, но и её качество. Чтобы подчеркнуть эту мысль, он ввёл специальный термин:
+Anders Ericsson came to the following results. The musicians in the first group had spent a total of about 10000 hours practicing by the age of 20. Students from the second group studied for approximately 7500 hours during the same period of time, while those in the third group studied for only 5000 hours. The scientist concluded that regular practice is crucial for acquiring skills.
 
-I> **Преднамеренная практика** (deliberate practice) — это целенаправленная и систематическая работа, направленная на улучшение производительности учащегося.
+The scientist made one more conclusion. It is important not only the quantity of practice, but also its quality. He introduced the special term to emphasize this idea:
 
-У преднамеренной практики есть ряд особенностей. **Во-первых**, она требует высокого уровня внимания и концентрации. Учащийся ставит перед собой конкретные цели и работает над их достижением. При этом он пытается пресечь любой автоматизм и бездумные действия.
+I> **Deliberate practice** is purposeful and systematic work aimed at improving a learner's performance.
 
-**Во-вторых**, преднамеренная практика нацелена на расширение текущих возможностей учащегося. Исходя из этого он выбирает конкретные упражнения. Часто это не тренировка сильных сторон, а наоборот — работа над ошибками и слабыми сторонами.
+Deliberate practice has a number of distinctive features. **First**, it requires a high level of attention and concentration. The student sets specific goals and works towards achieving them. At the same time, they strive to eliminate any automatic or thoughtless actions.
 
-**В-третьих**, для преднамеренной практики важна обратная связь. Учащийся должен немедленно получать оценку своих действий. В этом ему помогает тренер, учитель или коуч. Обратная связь указывает на ошибки и способ их исправления.
+**Second**, deliberate practice aims to expand the learner's current capabilities. He chooses specific exercises based on this. Often this is not training of strengths, but on the contrary – working on mistakes and weaknesses.
 
-**В-четвёртых**, во время преднамеренной практики учащийся концентрирует внимание на деталях. Он пресекает свои бессознательные попытки выполнить какие-то второстепенные действия на автоматизме. Вместо этого учащийся представляет себе идеальное во всех мелочах исполнение и стремится к нему.
+**Third**, deliberate practice requires feedback. The learner must receive immediate feedback on his performance. A trainer, teacher or coach helps him with this. Feedback points out errors and how to correct them.
 
-Преднамеренная практика неприятна по своей сути. Она требует концентрации внимания, постоянных усилий и сопровождается дискомфортом от признания своих ошибок. Часто учащемуся приходится повторять одни и те же упражнения снова и снова, пока поставленная цель не будет достигнута.
+**Fourth**, the learner focuses on details during deliberate practice. He stops his unconscious attempts to perform some minor actions automatically. Instead, the learner imagines a performance that is perfect in every detail and strives for it.
 
-Преднамеренная практика возможна не в любой сфере деятельности. Для получения экспертных навыков есть три обязательных условия:
+Deliberate practice is inherently unpleasant. It requires concentration, constant effort, and is accompanied by discomfort from admitting mistakes. Often the learner has to repeat the same exercises over and over again until the goal is achieved.
 
-1. Наличие повторяемого контекста со стабильными закономерностями.
+Deliberate practice is impossible in some areas. There are three mandatory requirements for an area to obtain expert skills there:
 
-2. Возможность длительной практики.
+1. The presence of a repeatable context with stable patterns.
 
-3. Быстрая и недвусмысленная обратная связь.
+2. The possibility of long-term practice.
 
-Все эти условия выполняются для League of Legends.
+3. Quick and unambiguous feedback.
+
+League of Legends meets all these conditions.
 
 ### 1.1.2 Pattern recognition
 
