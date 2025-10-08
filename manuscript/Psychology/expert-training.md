@@ -113,40 +113,42 @@ Once the expert found the desired template, the associated knowledge can provide
 
 ### 1.1.3 Player skills
 
-Мы узнали, как учатся эксперты и что составляет суть их знания. Теперь рассмотрим навыки игрока в League of Legends с точки зрения модели CHREST.
+>>>R1
 
-Прежде всего надо понять, что представляет собой типичный шаблон (template) в League of Legends. В основе игры лежит модель сражения двух армий. С каждой стороны одновременно действует ряд активных объектов. У каждого из них есть набор параметров. В совокупности они определяют свойства объекта.
+We've learned how experts learn and what constitutes their knowledge. Now let's look at the skills of a League of Legends player from the perspective of the CHREST model.
 
-League of Legends — это информационная модель, а не материальная. Поэтому параметры всех объектов представляют собой набор чисел в памяти программы. Интерфейс игры отображает параметры двумя способами: в исходном виде как числа или как графические элементы. Из этого следует, что типичный когнитивный шаблон в League of Legends — это набор чисел, графических элементов или их комбинация.
+First of all, we need to understand what is a typical template in League of Legends. The game is based on the model of a battle between two armies. Each side has a number of active objects that operate simultaneously. Each object has a set of parameters, which together define its properties.
 
-Когда опытный игрок работает с потоком информации о текущем состоянии модели, он выполняет группирование (chunking). Таким образом элементы с низким содержанием информации складываются в более крупные единицы. Так строится иерархическая структура с разными уровнями абстракции.
+League of Legends is an information model, not a material one. Therefore, the parameters of all objects are represented by a set of numbers in the program's memory. The game interface displays these parameters in two ways: in their raw form as numbers or as graphical elements. This means that the typical cognitive template in League of Legends is a set of numbers, graphical elements, or a combination of both.
 
-Рассмотрим пример. Допустим, игрок нажимает Tab и проверяет состояние своего оппонента на линии. Его параметры игрок группирует в один когнитивный блок. Дальше игрок проверяет информацию по всем остальным чемпионам вражеской команды. Для каждого из них формируется отдельный блок с соответствующими параметрами. Затем эти блоки объединяются вместе. Получается более крупная единица, которая по сути тоже является когнитивным блоком. Она описывает общее состояние вражеской команды. Работа с ней позволяет ответить на общие стратегические вопросы. Например: сильнее или слабее команда противника в текущий момент? В зависимости от ответа, игрок выбирает то или иное действие.
+When an experienced player works with a stream of information about the current state of a model, he performs chunking. This way, he combines elements with low information content into larger units. This creates a hierarchical structure with different levels of abstraction.
 
-Будем исходить из рассмотренной концепции шаблона. Тогда у игрока в League of Legends должны быть следующие навыки:
+Let's look at an example. A player presses Tab and checks the status of his opponent on lane. The player groups opponent's stats into a single cognitive block. Next, the player checks information on all other champions of the enemy team. He creates a separate block with the corresponding stats for each champion. Next, player combines these blocks. The result is a larger unit, which is also a cognitive block. It describes the overall state of the enemy team. Player use this unit to get answers for general strategic questions. For example, is the enemy team stronger or weaker than us? The player chooses his action depending on the answer.
 
-1. **Умение группировать** параметры объектов в блоки. Лучшие игроки делают это очень эффективно. Так они учитывают большинство параметров модели, которые известны им на данный момент.
+Let's start with the template concept discussed above. Then a League of Legends player should have the following skills:
 
-2. **Обнаружение шаблонов** в полученных блоках. Чем сильнее игрок, тем больше шаблонов разного уровня абстракции ему известно. Поэтому он видит намного больше возможностей, чем новичок.
+1. **Ability to group (chunking)** object parameters into blocks. The best players do this very effectively. This way, they take into account most of the model parameters they know at the moment.
 
-3. **Принятие решений** заключается в выборе подходящего действия для обнаруженного шаблона. Сильный игрок знает не только больше шаблонов, но и больше вариантов действий для каждого из них. Другими словами, увидев возможность, он точно знает, как ей воспользоваться.
+2. **Detecting templates** in the received blocks. The more advanced the player, the more templates at different levels of abstraction he knows. Therefore, he sees many more opportunities than a beginner.
 
-4. **Планирование**. Шаблон может указать на ошибку противника. Возможно, из неё нельзя немедленно извлечь выгоду. Для этого нужно выполнить некоторую последовательность действий. Сильный игрок умеет быстро и точно составлять такие последовательности. Этот навык называется макроменеджментом.
+3. **Decision making** involves choosing the appropriate action for a detected template. A strong player knows not only more templates, but also more options for each one. In other words, when the strong player sees an opportunity, he knows exactly how to take advantage of it.
 
-5. **Исполнение**. После выбора подходящего действия или составления плана игрок должен его исполнить. Этот навык называется микроменеджментом.
+4. **Planning**. The template can point out the opponent's mistake. It may not be possible to immediately get benefit from it. However, a certain sequence of actions could do it. A strong player can quickly and accurately create such sequences. This skill is called macromanagement.
 
-I> [**Макроменеджмент**](https://en.wikipedia.org/wiki/Real-time_strategy#Micromanagement_and_macromanagement) или макро (macromanagement) включает широкие стратегические аспекты игрового процесса. Они фокусируются на общем ходе партии и долгосрочном планировании.
+5. **Execution**. After choosing an appropriate action or making a plan, the player must carry it out. This skill is called micromanagement.
 
-I> [**Микроменеджмент**](https://en.wikipedia.org/wiki/Micromanagement_(gameplay)) или микро (micromanagement) означает тщательный контроль действий игрового персонажа.
+I> [**Macromanagement**](https://en.wikipedia.org/wiki/Real-time_strategy#Micromanagement_and_macromanagement) (macro) encompasses broad strategic aspects of gameplay. It focuses on the overall course of the game and long-term planning.
 
-Мы рассмотрели пять навыков. Среди них нет такого, который можно называть главным. Все они важны в равной степени:
+I> [**Micromanagement**](https://en.wikipedia.org/wiki/Micromanagement_(gameplay)) (micro) means carefully controlling the actions of a game character.
 
-* Без эффективного группирования игрок упустит важные аспекты состояния модели.
+We've looked at five player skills. No single one can be called the most important. All are equally important:
 
-* Без знания шаблонов он не поймёт происходящие события и не заметит возможности.
+* Without effective grouping, the player will miss important aspects of the model's state.
 
-* Без знания подходящих для каждого шаблона действий игрок не сможет планировать и правильно реагировать на события.
+* Without knowing the templates, the player will not understand the events taking place and will miss the opportunities.
 
-* Без хороших навыков исполнения игрок не воспользуется открывшейся возможностью.
+* Without knowledge of the appropriate actions for each template, the player will not be able to plan and react correctly to events.
+
+* Without good execution skills, a player will not take advantage of the opportunity that opens up.
 
 {pagebreak}
