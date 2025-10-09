@@ -1,10 +1,8 @@
 ## 1.1 The learning process
 
->>>R1
-
 League of Legends is a challenging esports discipline. There are several reasons for that:
 
-* This is a team game where participants must interact effectively.
+* It is a team game where participants must interact effectively.
 
 * The cost of mistakes is very high because of the snowball effect.
 
@@ -16,15 +14,17 @@ League of Legends is a challenging esports discipline. There are several reasons
 
 * There is no guarantee that the player will get his role.
 
-I> A **snowball** is a situation when a player or team gains an advantage. Then it snowballs, making it difficult to stop.
+I> A **snowball** effect occurs when a player or team gains an advantage. Then the lead grows and becomes increasingly difficult to reverse.
 
-We only consider ranked games in this book. All points above apply to them.
+This book addresses ranked games only. All points mentioned above pertain to them.
 
-League of Legends is fast, chaotic, and mechanically demanding game. Furthermore, the human brain cannot solve this game. The same way as it is impossible to [solve chess](https://en.wikipedia.org/wiki/Solving_chess). In the case of League of Legends, the problem is the huge amount of information that falls on the player every second.
+League of Legends is a fast, chaotic, and mechanically demanding game. Furthermore, the human brain cannot solve this game. In the same way, it is impossible to [solve chess](https://en.wikipedia.org/wiki/Solving_chess). In League of Legends, the problem is the vast amount of information that falls on players every second.
 
-It takes months for a beginner to learn League of Legends at a basic level. During this time, he becomes familiar with the basic mechanics. Even high-level players never stop learning. They deepen their knowledge and understanding of various aspects of the game. It is impossible to develop and improve the rank without this.
+It takes months for a beginner to learn the basics of League of Legends. During this time, he becomes familiar with essential mechanics. However, many aspects of the game are still out of his scope.
 
-The learning process is crucial for players of all levels. Let's explore it in details.
+High-level players continue to learn. They are deepening their knowledge and understanding of various aspects of the game. It is impossible to develop and improve one’s rank without ongoing learning.
+
+The learning process is crucial for players of all levels. Let's explore it in detail.
 
 ### 1.1.1 Deliberate practice
 
