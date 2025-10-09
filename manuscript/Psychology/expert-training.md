@@ -28,41 +28,39 @@ The learning process is crucial for players of all levels. Let's explore it in d
 
 ### 1.1.1 Deliberate practice
 
->>>R1
-
-In the early 1990s, Swedish psychologist [Anders Ericsson](https://en.wikipedia.org/wiki/K._Anders_Ericsson) studied the learning process. He conducted an experiment involving music academy students. The students were divided into three groups:
+In the early 1990s, Swedish psychologist [Anders Ericsson](https://en.wikipedia.org/wiki/K._Anders_Ericsson) studied the learning process. He conducted an experiment involving music academy students. The scientist divided them into three groups:
 
 1. Potential world-class stars.
 2. Promising musicians.
 3. Mediocre musicians.
 
-Each participant described their educational process and free time. Based on this information, the scientist assessed the quantity and quality of the future musician's studies.
+Each participant shared insights about his educational process and leisure activities. Based on this information, the scientist evaluated the quantity and quality of the aspiring musician's studies.
 
-Anders Ericsson came to the following results. The musicians in the first group had spent a total of about 10000 hours practicing by the age of 20. Students from the second group studied for approximately 7500 hours during the same period of time, while those in the third group studied for only 5000 hours. The scientist concluded that regular practice is crucial for acquiring skills.
+Anders Ericsson reached the following conclusions. Musicians in the first group had practiced for about 10000 hours by the age of 20. Students in the second group had spent approximately 7500 hours practicing during the same period, while those in the third group had only practiced for about 5000 hours. The scientist concluded that regular practice is essential for developing skills.
 
-The scientist made one more conclusion. It is important not only the quantity of practice, but also its quality. He introduced the special term to emphasize this idea:
+Anders Ericsson made one more conclusion. It is crucial not only the quantity of practice, but also its quality. He introduced the special term to emphasize this idea:
 
-I> **Deliberate practice** is purposeful and systematic work aimed at improving a learner's performance.
+I> **Deliberate practice** is intentional and systematic work aimed at improving a learner's performance.
 
-Deliberate practice has a number of distinctive features. **First**, it requires a high level of attention and concentration. The student sets specific goals and works towards achieving them. At the same time, they strive to eliminate any automatic or thoughtless actions.
+Deliberate practice has several distinctive features. **First**, it requires a high level of attention and concentration. The student sets specific goals and works towards achieving them. At the same time, he strives to eliminate any automatic or thoughtless actions.
 
-**Second**, deliberate practice aims to expand the learner's current capabilities. He chooses specific exercises based on this. Often this is not training of strengths, but on the contrary – working on mistakes and weaknesses.
+**Second**, deliberate practice aims to expand the learner's current capabilities. He chooses specific exercises based on this purpose. Often, this focuses not on strengths, but rather on addressing mistakes and weaknesses.
 
-**Third**, deliberate practice requires feedback. The learner must receive immediate feedback on his performance. A trainer, teacher or coach helps him with this. Feedback points out errors and how to correct them.
+**Third**, deliberate practice requires feedback. The learner must receive immediate feedback on his performance. A trainer, teacher, or coach provides this support. Feedback points out mistakes and ways to correct them.
 
-**Fourth**, the learner focuses on details during deliberate practice. He stops his unconscious attempts to perform some minor actions automatically. Instead, the learner imagines a performance that is perfect in every detail and strives for it.
+**Fourth**, the learner focuses on details during deliberate practice. He halts his unconscious attempts to perform certain actions automatically. Instead, the learner visualizes a flawless performance in every detail and works towards achieving it.
 
-Deliberate practice is inherently unpleasant. It requires concentration, constant effort, and is accompanied by discomfort from admitting mistakes. Often the learner has to repeat the same exercises over and over again until the goal is achieved.
+Deliberate practice is inherently unpleasant. It requires focus, continuous effort, and involves the discomfort of admitting mistakes. Frequently, the learner must repeat the same exercises many times until he achieves his goal.
 
-Deliberate practice is impossible in some fields. There are three mandatory requirements for an field to obtain expert skills there:
+Deliberate practice is not feasible in certain fields. Three essential requirements must be met for a field to develop expert skills:
 
 1. The presence of a repeatable context with stable patterns.
 
-2. The possibility of long-term practice.
+2. The opportunity for long-term practice.
 
-3. Quick and unambiguous feedback.
+3. Prompt and clear feedback.
 
-League of Legends meets all these conditions.
+League of Legends meets all these criteria.
 
 ### 1.1.2 Recognition of templates
 
