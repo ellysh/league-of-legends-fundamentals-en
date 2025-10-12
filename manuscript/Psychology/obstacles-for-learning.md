@@ -40,63 +40,63 @@ I> **Burnout** is a progressive physical and mental exhaustion in response to ov
 
 ### 1.2.2 Self-control
 
->>>W
+>>>R1
 
-В League of Legends игрок постоянно сталкивается с рядом факторов, которые подталкивают его к импульсивным решениям. Вот некоторые из этих факторов:
+In League of Legends, players are constantly encountered with a number of factors that push them to make impulsive decisions. Here are some of these factors:
 
-1. Когнитивное искажение **неприятие потерь**. Оно приводит к желанию отыграться по очкам рейтинга после поражения.
+1. Cognitive distortion **loss aversion**. It leads to the desire to recoup rating points after a loss.
 
-2. **Элемент случайности в игре**: непредсказуемый подбор команд, невозможность просчитать последствия всех решений, непредвиденные ситуации и т.д.
+2. **Element of randomness in the game**: unpredictable team compositions, impossibility of calculating the consequences of all decisions, unforeseen situations, etc.
 
-3. [**Тильт**](https://en.wikipedia.org/wiki/Tilt_(poker)) (tilt) — состояние сильного разочарования или гнева, которое негативно влияет на производительность игрока.
+3. [**Tilt**](https://en.wikipedia.org/wiki/Tilt_(poker)) is a state of intense frustration or anger that negatively impacts a player's performance.
 
-4. **Неоправданные ожидания** относительно своего прогресса и качества игр. Это одна из основных причин тильта.
+4. **Unrealistic expectations** regarding player's progress and the quality of games. This is one of the main causes of tilt.
 
-5. **Эмоциональные качели** после чередующихся побед и поражений. Они влияют на качество игр и мешают принимать решения.
+5. **Emotional swings** after alternating victories and defeats. Is affects the quality of games and interfere with decision making.
 
-I> [**Неприятие потерь**](https://en.wikipedia.org/wiki/Loss_aversion) (loss aversion) — это поведенческая аномалия, которая проявляется в условиях риска. Ей суть в том, что люди испытывают большее неудовольствие от потери, чем удовольствие от получения эквивалентной прибыли. Другими словами, потери ощущаются сильнее, чем выигрыши.
+I> [**Loss aversion**](https://en.wikipedia.org/wiki/Loss_aversion) is a behavioral anomaly that appears itself in risky situations. It involves people experiencing greater pain from a loss than pleasure from an equivalent gain. In other words, losses are felt more intensely than gains.
 
-I> Подробнее тему тильта разбирает Coach Curtis в [следующем видео](https://www.youtube.com/watch?v=5UJtqKi11uo).
+I> Coach Curtis discusses the topic of tilt in detail in the [next video](https://www.youtube.com/watch?v=5UJtqKi11uo).
 
-Импульсивные решения сильно мешают процессу обучения. Типичный пример — решение продолжать игровую сессию на истощении эго. В этом случае у игрока нет сил на концентрацию внимания и он действует на автопилоте. Качество игры понижается, а преднамеренная практика невозможна.
+Impulsive decisions seriously interfere the learning process. A typical example is the decision to continue a gaming session in a state of ego depletion. In this case, the player lacks the energy to concentrate and operates on autopilot. The quality of the game deteriorates, and deliberate practice is impossible.
 
-Самоконтроль — это то, что может защитить игрока от импульсивных решений. Самоконтроль не работает в состоянии истощения эго, когда ресурс силы воли уже исчерпан. Поэтому игрок в первую очередь должен заботиться о сохранении этого ресурса.
+Self-control is something that can protect a player from impulsive decisions. Self-control doesn't work in a state of ego depletion, when the willpower resource is already depleted. Therefore, the player must prioritize preserving this resource.
 
-Есть несколько решений для того, чтобы экономнее расходовать ресурс силы воли.
+There are several solutions to use your willpower more economically.
 
-**Во-первых**, надо правильно организовать подход к игре. Опытные игроки рекомендуют в течение дня проводить серию игровых сессии. Каждая сессия состоит из 2-3 партий и длится не дольше 3-х часов. Когда сессия заканчивается, игрок обязательно делает перерыв, независимо от результатов. Перерыв должен длиться минимум 15-20 минут.
+**First**, a player needs to properly organize his approach to the game. Coaches recommend holding a series of gaming sessions throughout the day. Each session consists of 2-3 games and lasts no longer than 3 hours. When the session ends, the player must take a break, regardless of the results. The break should last at least 15-20 minutes.
 
-После каждой сыгранной партии игрок должен оценивать результат. Если производительность стала низкой, надо немедленно прекратить сессию. В этот день больше не следует играть рейтинговые партии. Идея заключается в том, чтобы сделать успешные сессии длиннее, а неудачные короче.
+After each game, the player should evaluate the result. If performance has dropped, the session should be stopped immediately. No more ranked games should be played that day. The idea is to make successful sessions longer and unsuccessful ones shorter.
 
-**Во-вторых**, надо исключить любую коммуникацию с эмоциональной окраской во время и после партии. Это сократит расход ресурса силы воли на переживание ненужных эмоций.
+**Secondly**, it's important to avoid any emotionally charged communication during and after the game. This will prevent a player from wasting his willpower on unnecessary emotions.
 
-В игре есть следующие типы коммуникации:
+The game offers the following types of communication:
 
-1. Вербальная коммуникация во время партии:
+1. Verbal communication during a game:
 
-   * Общий чат — в него могут писать союзники и противники.
+   * General chat – both allies and opponents can use this chat.
 
-   * Чат команды — в него могут писать только союзники.
+   * Team chat – only allies can use this chat.
 
-2. Визуальная коммуникация:
+2. Visual communication:
 
-   * Иконки эмоций противников.
+   * Enemy emotion icons.
 
-   * Иконки эмоций союзников.
+   * Ally emotion icons.
 
-   * Пинг союзников.
+   * Ally pings.
 
-3. Вербальная коммуникация после партии:
+3. Verbal communication after a game:
 
-   * Общий чат — в него могут писать союзники и противники.
+   * General chat – both allies and opponents can use this chat.
 
-Из этих способов коммуникации самый информативный — пинг союзников. Всё остальное надо отключить в настройках игры. В подавляющем большинстве случаев эта коммуникация неинформативна. Обычно игроки используют её, чтобы выплеснуть эмоции.
+Of these communication methods, the most informative is pinging of teammates. Everything else should be disabled in the game settings. In the vast majority of cases, this communication is uninformative. Players typically use it to vent.
 
-Пинг союзников тоже может иметь эмоциональный окрас, если его спамят. В этом случае его надо отключить индивидуально через функцию mute.
+Teammates' pings can also have an emotional tone if they're spammed. In this case, this player should be individually muted.
 
-**В-третьих**, не следует играть рейтинговые партии с друзьями. Усиление эмоций в группах — это хорошо известный психологический феномен. Его подтверждают такие явления, как [эмоциональное заражение](https://en.wikipedia.org/wiki/Emotional_contagion) (emotional contagion), эффект толпы, [коллективное вскипание](https://en.wikipedia.org/wiki/Collective_effervescence) (collective effervescence) и другие. Переживание любых сильных эмоций расходует ресурс силы воли. Это мешает самоконтролю и провоцирует импульсивные действия.
+**Thirdly**, playing with friends reduces the quality of games. The amplification of emotions in groups is a well-known psychological phenomenon. It is confirmed by such phenomena as [emotional contagion](https://en.wikipedia.org/wiki/Emotional_contagion), the crowd effect, [collective effervescence](https://en.wikipedia.org/wiki/Collective_effervescence), and others. Experiencing any strong emotions drains willpower. This interferes with self-control and provokes impulsive actions.
 
-**В-четвёртых**, во время и после сессии игрок должен восстанавливать ресурс силы воли. Эксперименты Роя Баумейстера показали, что истощение эго можно частично компенсировать потребляя глюкозу. Учёный рекомендует продукты с низким [**гликемическим индексом**](https://en.wikipedia.org/wiki/Glycemic_index), которые перевариваются медленно. Также он подчёркивает важность полноценного сна. Недостаток сна нарушает общий метаболизм глюкозы в организме. Это в свою очередь отражается на способности к самоконтролю.
+**Fourth**, the player must replenish his willpower during and after the session. Roy Baumeister's experiments have shown that ego depletion can be partially offset by consuming glucose. The scientist recommends foods with a low [**glycemic index**](https://en.wikipedia.org/wiki/Glycemic_index), which are digested slowly. He also emphasizes the importance of adequate sleep. Lack of sleep disrupts the body's overall glucose metabolism. This affects self-control.
 
 ### 1.2.3 Repeatable context
 
