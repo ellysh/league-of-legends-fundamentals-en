@@ -109,44 +109,42 @@ When the expert locates the appropriate template, the relevant knowledge can off
 
 ### 1.1.3 Player skills
 
->>>R1
+>>>>R1
 
 We have learned how experts acquire knowledge and the essence of their expertise. Now, let's examine the skills of a League of Legends player through the CHREST model.
 
->>>
+First, we need to understand what a typical template looks like in League of Legends. The game is based on the model of a battle between two armies. Each side has some active objects that operate simultaneously. Each object has a set of parameters, which together define its properties.
 
-First of all, we need to understand what is a typical template in League of Legends. The game is based on the model of a battle between two armies. Each side has a number of active objects that operate simultaneously. Each object has a set of parameters, which together define its properties.
+League of Legends operates as an information model rather than a material one. This means that the parameters of all objects within the game are represented by a set of numbers stored in the program's memory. The game interface presents these parameters in two ways: either as raw numbers or as graphical elements. Consequently, the typical cognitive template in League of Legends consists of either a set of numbers, graphical elements, or a combination of both.
 
-League of Legends is an information model, not a material one. Therefore, the parameters of all objects are represented by a set of numbers in the program's memory. The game interface displays these parameters in two ways: in their raw form as numbers or as graphical elements. This means that the typical cognitive template in League of Legends is a set of numbers, graphical elements, or a combination of both.
+When an experienced player processes the flow of information about a model's current state, he performs chunking. This way, he combines elements with low information content into larger, more meaningful units. This creates a hierarchical structure with varying levels of abstraction.
 
-When an experienced player works with a stream of information about the current state of a model, he performs chunking. This way, he combines elements with low information content into larger units. This creates a hierarchical structure with different levels of abstraction.
+Let's look at an example. A player presses Tab to check the status of his opponent on the lane. He groups the opponent's statistics into a single cognitive block. Next, the player reviews the information on all other enemy champions, creating a separate block for each champion with its corresponding stats. Then the player combines these individual blocks into a larger unit, which also serves as a cognitive block. This new unit provides an overview of the enemy team's status. The player utilizes this information to answer general strategic questions, such as whether the enemy team is stronger or weaker than his team. Based on the answer, the player decides on his next action.
 
-Let's look at an example. A player presses Tab and checks the status of his opponent on lane. The player groups opponent's stats into a single cognitive block. Next, the player checks information on all other champions of the enemy team. He creates a separate block with the corresponding stats for each champion. Next, player combines these blocks. The result is a larger unit, which is also a cognitive block. It describes the overall state of the enemy team. Player use this unit to get answers for general strategic questions. For example, is the enemy team stronger or weaker than us? The player chooses his action depending on the answer.
+If we apply the template concept discussed earlier, a League of Legends player should have the following skills:
 
-Let's start with the template concept discussed above. Then a League of Legends player should have the following skills:
+1. **The ability to group (chunking)** object parameters into blocks. The best players do this effectively, taking into account most of the model parameters they currently know.
 
-1. **Ability to group (chunking)** object parameters into blocks. The best players do this very effectively. This way, they take into account most of the model parameters they know at the moment.
+2. **Detecting templates** in the received blocks. A more advanced player knows more templates at various levels of abstraction. Therefore, he recognizes significantly more opportunities than a beginner.
 
-2. **Detecting templates** in the received blocks. The more advanced the player, the more templates at different levels of abstraction he knows. Therefore, he sees many more opportunities than a beginner.
+3. **Decision Making** involves selecting the best action for a recognized template. A skilled player is not only familiar with more templates but also has a wider range of options for each one. In other words, when a proficient player identifies an opportunity, he knows exactly how to capitalize on it.
 
-3. **Decision making** involves choosing the appropriate action for a detected template. A strong player knows not only more templates, but also more options for each one. In other words, when the strong player sees an opportunity, he knows exactly how to take advantage of it.
-
-4. **Planning**. The template can point out the opponent's mistake. It may not be possible to immediately get benefit from it. However, a certain sequence of actions could do it. A strong player can quickly and accurately create such sequences. This skill is called macromanagement.
+4. **Planning**. The template can point out the opponent's mistake. While it may not be possible to take advantage of this mistake immediately, there may be a specific sequence of actions that allows it. A skilled player can quickly and accurately devise such sequences. This ability is known as macromanagement.
 
 5. **Execution**. After choosing an appropriate action or making a plan, the player must carry it out. This skill is called micromanagement.
 
-I> [**Macromanagement**](https://en.wikipedia.org/wiki/Real-time_strategy#Micromanagement_and_macromanagement) (macro) encompasses broad strategic aspects of gameplay. It focuses on the overall course of the game and long-term planning.
+I> [**Macromanagement**](https://en.wikipedia.org/wiki/Real-time_strategy#Micromanagement_and_macromanagement) (macro) encompasses broad strategic aspects of gameplay. It focuses on the game's overall course and long-term planning.
 
 I> [**Micromanagement**](https://en.wikipedia.org/wiki/Micromanagement_(gameplay)) (micro) means carefully controlling the actions of a game character.
 
-We've looked at five player skills. No single one can be called the most important. All are equally important:
+We have examined five player skills. No single one can be deemed the most important. All of them hold equal significance:
 
-* Without effective grouping, the player will miss important aspects of the model's state.
+* Without effective grouping, the player will miss essential aspects of the model's state.
 
-* Without knowing the templates, the player will not understand the events taking place and will miss the opportunities.
+* Without knowing the templates, the player will not understand the events occurring and will miss out on potential opportunities.
 
-* Without knowledge of the appropriate actions for each template, the player will not be able to plan and react correctly to events.
+* Without knowledge of the appropriate actions for each template, the player will not be able to plan and respond correctly to events.
 
-* Without good execution skills, a player will not take advantage of the opportunity that opens up.
+* Without good execution skills, the player will fail to capitalize on the opportunities that arise.
 
 {pagebreak}
