@@ -1,6 +1,6 @@
 ## 1.2 Barriers to learning
 
->>>W
+>>>R1
 
 League of Legends meets all the requirements for deliberate practice. However, less than a third of players actually do it. Only those players effectively learn and develop their skills.
 
@@ -10,33 +10,33 @@ I> The [**Elo rating system**](https://en.wikipedia.org/wiki/Elo_rating_system) 
 
 ### 1.2.1 Willpower
 
->>>W
+>>>R1
 
-Главное препятствие для эффективного обучения — это слабый самоконтроль и дисциплина. Между этими понятиями есть тонкое различие. **Самоконтроль** позволяет избежать нежелательное поведение. Например, не есть десерт на ночь. **Дисциплина** помогает достичь желательное поведение. Например, пойти с утра на пробежку. Оба качества связаны с понятием силы воли.
+The main barrier to effective learning is weak self-control and discipline. There's a subtle difference between these concepts. **Self-control** allows you to avoid undesirable behavior, such as not eating dessert at night. **Discipline** helps you achieve desired behavior, such as going for a morning jog. Both qualities are related to the concept of willpower.
 
-В конце 1990-х и начале 2000-х американский психолог [Рой Баумейстер](https://en.wikipedia.org/wiki/Roy_Baumeister) провёл ряд экспериментов. Он изучал способности человека к самоконтролю. Свои результаты учёный опубликовал в книге "Сила воли. Возьми свою жизнь под контроль".
+In the late 1990s and early 2000s, American psychologist [Roy Baumeister](https://en.wikipedia.org/wiki/Roy_Baumeister) conducted a series of experiments. He studied human abilities for self-control. The scientist published his results in the book "Willpower: Rediscovering the Greatest Human Strength".
 
-Эксперименты Роя Баумейстера показали, что все виды усилий (когнитивные, эмоциональные и физические) хотя бы частично используют общий ограниченный ресурс. Учёный назвал его **силой воли** (willpower). Любые усилия истощают этот ресурс точно так же, как физическая нагрузка утомляет мышцы. При этом сила воли нужна для всех видов самоконтроля: управления вниманием, концентрации усилий для выполнения сложной задачи, сопротивления искушениям и т.д.
+Roy Baumeister's experiments showed that all types of effort (cognitive, emotional, and physical) utilize a common and limited resource. The scientist called it **willpower**. Any effort depletes this resource, just as physical exertion tires muscles. Moreover, willpower is needed for all types of self-control: managing attention, concentrating on a difficult task, resisting temptation, and so on.
 
-Участники экспериментов Роя Баумейстера выполняли разные задания, которые истощали их силу воли. Например, в одном из них испытуемых просили не есть лежащие на столе шоколадные булочки. Вместо этого они должны были есть горький редис. Эта задача требовала самоконтроля. Затем участники решали сложные головоломки. Группа, которая до этого сопротивлялась искушению съесть булочку, быстрее сдавалась при решении головоломок, чем контрольная группа. Рой Баумейстер предположил, что первая стадия эксперимента исчерпала у участников ресурсы самоконтроля. Учёный назвал это явление истощением эго.
+Participants of experiments performed various tasks that depleted their willpower. For example, the subjects were asked not to eat chocolate buns lying on the table. Instead, they were to eat bitter radishes. This task required self-control. The participants then solved challenging puzzles. The group that had previously resisted the temptation to eat the bun gave up on the puzzles more quickly than the control group. Roy Baumeister suggested that the first stage of the experiment exhausted the participants' self-control resources. The scientist called this phenomenon ego depletion.
 
-I> **Истощение эго** (ego depletion) означает снижение способности человека регулировать свои мысли, чувства и действия.
+I> **Ego depletion** refers to reduced ability of a person to regulate his thoughts, feelings, and actions.
 
-В своей книге Рой Баумейстер подробно разбирает проблему нехватки самоконтроля и дисциплины. Он даёт следующие советы для развития этих качеств:
+In his book, Roy Baumeister explores the problem of a lack of self-control and discipline in detail. He offers the following advices for developing these qualities:
 
-1. **Регулярно концентрировать внимание на изменении привычного поведения**. Например, это может быть контроль за своей осанкой или использование недоминантной руки для рутинных действий (чистка зубов, использование компьютерной мыши и т.д.).
+1. **Regularly focus on changing your habitual behavior**. For example, this could be monitoring your posture or using your non-dominant hand for routine activities (brushing your teeth, using a computer mouse, etc.).
 
-2. **Полезные привычки**. Учёный утверждает, что проявление дисциплины в одной области жизни влияет на все другие. Это означает, что такие привычки, как регулярная уборка и занятие спортом, повысят самоконтроль и во время игровых сессий.
+2. **Good habits**. The scientist claims that showing discipline in one area of ​​life affects all others. This means that habits such as regular cleaning and exercise will increase self-control during gaming sessions.
 
-3. **Понятные и простые правила**. Пресекать импульсивные действия проще, когда их ограничивают чётко сформулированные правила. Например, правило прекращать игровую сессию после двух поражений подряд.
+3. **Clear and simple rules**. It's easier to curb impulsive behavior when it's constrained by clearly defined rules. For example, a rule to end a gaming session after two consecutive losses.
 
-4. **Мотивация**. Чтобы заставить себя регулярно тратить силы на какое-то занятие, надо хорошо представить себе его цель и конечный результат.
+4. **Motivation**. You need to clearly visualize the purpose and the end result of some activity, to force yourself to regularly expend energy on it.
 
-5. **Поддерживать свою силу воли** на приемлемом уровне и **избегать истощения эго**. Этому помогает полноценный отдых и правильное питание.
+5. **Maintain your willpower** at a healthy level and **avoid ego depletion**. You can achieve this through getting enough rest and proper nutrition.
 
-Развитие силы воли помогает игроку учиться эффективнее и предотвращает выгорание. В состоянии истощения никакая преднамеренная практика уже невозможна.
+Developing willpower helps a player learn more effectively and prevents burnout. It is important because deliberate practice is no longer possible in the exhausted state.
 
-I> **Выгорание** (burnout) — нарастающее физическое и психическое истощение в ответ на перенапряжение.
+I> **Burnout** is a progressive physical and mental exhaustion in response to overexertion.
 
 ### 1.2.2 Self-control
 
