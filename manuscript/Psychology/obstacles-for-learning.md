@@ -1,12 +1,10 @@
 ## 1.2 Barriers to learning
 
->>>R1
+League of Legends meets all the criteria for deliberate practice. However, less than a third of players actually engage in it. Only those players who do so effectively learn and develop their skills.
 
-League of Legends meets all the requirements for deliberate practice. However, less than a third of players actually do it. Only those players effectively learn and develop their skills.
+Statistics show that around 75% of all players consistently find themselves in the bottom four ranks: iron, bronze, silver, and gold. This means that the majority of players are stuck below the middle of the rankings. Why aren't they learning and growing? Let's explore this question.
 
-According to statistics, approximately 75% of all players are constantly in the bottom four ranks: iron, bronze, silver, and gold. In other words, most players are stuck below the middle of the rankings. Why aren't they learning and growing? Let's try to answer this question.
-
-I> The [**Elo rating system**](https://en.wikipedia.org/wiki/Elo_rating_system) is a method for calculating the relative skill of a player. It assigns a numerical rating to each player, reflecting his current skill. After each game, the ratings are adjusted based on the outcome. The winner receives points, while the loser loses them.
+I> The [**Elo rating system**](https://en.wikipedia.org/wiki/Elo_rating_system) is a method used to calculate the relative skill levels of players. Each player is assigned a numerical rating that reflects his current skill. After every game, these ratings are adjusted based on the outcome: the winner receives points, while the loser loses points.
 
 ### 1.2.1 Willpower
 
