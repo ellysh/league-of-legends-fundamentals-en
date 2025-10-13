@@ -118,28 +118,28 @@ Usually, a player switches roles and champions due to a lack of self-control.
 
 ### 1.2.4 Feedback
 
->>>W
+>>>R1
 
-Последнее препятствие для обучение — это отсутствие обратной связи. Она так же необходима для преднамеренной практики, как и повторяемый контекст.
+The final barrier to learning is a lack of feedback. Feedback is just as essential to deliberate practice as repeated context.
 
-Игрок может проводить много времени в рейтинговых партиях. Но это вовсе не означает, что он активно чему-то учится. Он может просто выполнять одни и те же действия на автопилоте. Тогда игрок не задумывается о своих решениях и не делает выводов из ошибок.
+A player may spend a lot of time in ranked games. But this doesn't mean he is actively learning. He could simply be performing the same actions on autopilot. In this case, the player doesn't reflect on his decisions or learn from his mistakes.
 
-Рассмотрим, что такое автопилот с точки зрения архитектуры CHREST. В таком состоянии игрок сводит всё множество возможных ситуаций к минимальному набору грубых шаблонов. Для каждого шаблона игрок рассматривает только один вариант действия. Например, лесник в каждой партии выбирает один и тот же путь для первой чистки.
+Let's consider what autopilot is from the perspective of the CHREST architecture. In this state, the player reduces the entire set of possible situations to a minimal set of rough patterns. For each pattern, the player considers only one course of action. For example, the jungler chooses the same path for the first clear in every game.
 
-Поскольку League of Legends — это сложная игра, некоторые элементарные типовые действия приходится делать на автопилоте (например, исполнение комбо). Это уменьшает когнитивную нагрузку и позволяет уделять внимание более важным аспектам игры. Проблема заключается в том, что автопилот постепенно распространяется на все действия и решения игрока. А это уже мешает качественно исполнять свою роль в команде.
+Because League of Legends is a complex game, some basic, routine actions (like executing combos) have to be performed on autopilot. This reduces cognitive load and allows players to focus on more important aspects of the game. The problem is that autopilot gradually permeates all player actions and decisions, which can interfere with the ability to perform a role in the team well.
 
-Обратная связь как раз решает проблему автопилота. Она позволяет исправлять укоренившиеся привычки, которые приводят к ошибкам. Обратную связь можно получить двумя способами: коучинг и самокоучинг.
+Feedback solves the autopilot problem. It allows player to correct ingrained habits that lead to mistakes. Feedback can be obtained in two ways: coaching and self-coaching.
 
-**Качественный коучинг** — это не лекция и не видеогайд от эксперта. Это анализ реплея игрока или его действий в режиме live. Коуч указывает на ошибки и объясняет, какое действие правильно в сложившейся ситуации. По сути, коуч корректирует ошибочные когнитивные шаблоны игрока и реакцию на них.
+**Quality coaching** isn't a lecture or a video guide from an expert. It's an analysis of a player's replay or his actions in real time. The coach points out mistakes and explains the correct course of action in a given situation. This way, the coach corrects the player's faulty cognitive patterns and his reactions to them.
 
-**Самокоучинг** состоит из трёх шагов:
+Self-coaching consists of three steps:
 
-1. Сбор информации об игре.
-2. Анализ своего реплея.
-3. Корректировка ошибок.
+1. Gathering information about the game.
+2. Analyzing your replay.
+3. Correcting mistakes.
 
-Сначала игрок изучает новую для себя концепцию или механику. Источник информации может быть любым: видеогайд, запись чей-то коучинг сессии, статья, книга и т.д. Затем игрок просматривает запись своей партии (replay). Он проверяет, когда и почему его действий расходятся с рекомендованными. Игрок запоминает свои ошибки и старается скорректировать их в следующей партии. Дальше сессия самокоучинга повторяется до тех пор, пока концепция не будет усвоена.
+First, the player learns a new concept or game mechanic. The source of information can be anything: a video guide, a recording of someone else's coaching session, an article, a book, etc. Then the player watches his replay. He checks when and why his actions deviate from the recommended ones. The player remembers his mistakes and tries to correct them in the next game. The self-coaching session is then repeated until the concept is mastered.
 
-Нехватка самоконтроля и дисциплины часто приводит к отсутствию обратной связи. Когда игрок продолжает сессию уставшим, у него нет сил, чтобы активно думать. В такой ситуации он всегда будет играть на автопилоте. Это проблема с самоконтролем. Когда игрок не может заставить себя проанализировать свои ошибки — это проблема дисциплины.
+A lack of self-control and discipline often leads to a lack of feedback. When a player continues a session tired, he lacks the energy to actively think. In such a situation, he will always play on autopilot. This is a problem with self-control. When a player can't bring himself to analyze his mistakes, it's a problem with discipline.
 
 {pagebreak}
