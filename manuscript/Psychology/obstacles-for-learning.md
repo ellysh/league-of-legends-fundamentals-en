@@ -100,21 +100,21 @@ Teammates' pings can also have an emotional tone if they're spammed. In this cas
 
 ### 1.2.3 Repeatable context
 
->>>W
+>>>R1
 
-Другое препятствие для обучения связано с условиями, которые игрок себе создаёт.
+Another barrier to learning is related to the conditions that the player creates for himself.
 
-В League of Legends есть повторяемый контекст для обучения. Проблема в том, что из-за высокой сложности его нельзя освоить целиком. Весь контекст игры можно представить как пять отдельных дисциплин. Каждая дисциплина соответствует одной из пяти ролей в команде. Для каждой роли подходит определённый набор чемпионов. Их можно сравнить со специализациями в каждой дисциплине.
+League of Legends has a repeatable context for learning. The problem is that it's so complex that a player cannot master it completely. The entire game can be thought of as five distinct disciplines. Each discipline corresponds to one of five roles on a team. Each role is suited to a specific set of champions. These champions can be compared to specializations within each discipline.
 
-Проведём параллель с обучением эксперта. Роль в команде — это сфера деятельности. Например, музыка или столярное дело. Чемпион — это инструмент для работы в выбранной сфере. Например, скрипка или пианино.
+Let's draw a parallel with expert training. A role on a team is a field of activity. For example, music or carpentry. A champion is a tool for working in a chosen field. For example, a violin or a piano.
 
-Начинающий игрок не понимает, что каждая роль — это по сути отдельная дисциплина. Поэтому он часто переключается между ролями и тем самым полностью меняет контекст обучения. Это можно сравнить с попыткой профессионально учиться музыке и столярному делу одновременно. Такое возможно, но требует гораздо больше усилий и времени.
+A beginner player doesn't understand that each role is a separate discipline. Therefore, he frequently switches between roles. Thereby, the player completely changes the context of his learning. It's like trying to master music and carpentry at the same time. That is possible, but it requires much more effort and time.
 
-Необходимость повторяемого контекста приводит к следующему правилу:
+The need for a repeatable context leads to the following rule:
 
-> Чем выше специализация игрока, тем быстрее он будет учиться и прогрессировать. Высокая специализация в League of Legends означает выбор только одной роли и только одного чемпиона.
+> The higher a player's specialization, the faster he will learn and progress. High specialization in League of Legends means choosing only one role and only one champion.
 
-Обычно игрок меняет роли и чемпионов из-за недостатка самоконтроля.
+Usually, a player switches roles and champions due to a lack of self-control.
 
 ### 1.2.4 Feedback
 
