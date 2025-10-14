@@ -8,33 +8,31 @@ I> The [**Elo rating system**](https://en.wikipedia.org/wiki/Elo_rating_system) 
 
 ### 1.2.1 Willpower
 
->>>R1
+The primary barrier to effective learning is a lack of self-control and discipline. While these concepts are closely related, there is a subtle difference between them. **Self-control** enables you to resist undesirable behaviors, like avoiding dessert at night. **Discipline** empowers you to pursue desired behaviors, such as going for a morning jog. Both qualities are closely tied to the concept of willpower.
 
-The main barrier to effective learning is weak self-control and discipline. There's a subtle difference between these concepts. **Self-control** allows you to avoid undesirable behavior, such as not eating dessert at night. **Discipline** helps you achieve desired behavior, such as going for a morning jog. Both qualities are related to the concept of willpower.
+In the late 1990s and early 2000s, American psychologist [Roy Baumeister](https://en.wikipedia.org/wiki/Roy_Baumeister) conducted a series of experiments to study human self-control abilities. He published his findings in the book "Willpower: Rediscovering the Greatest Human Strength".
 
-In the late 1990s and early 2000s, American psychologist [Roy Baumeister](https://en.wikipedia.org/wiki/Roy_Baumeister) conducted a series of experiments. He studied human abilities for self-control. The scientist published his results in the book "Willpower: Rediscovering the Greatest Human Strength".
+Roy Baumeister's experiments showed that all types of effort (cognitive, emotional, and physical) draw on a common and limited resource. The scientist called it **willpower**. Any effort depletes this resource, just like physical exertion tires out muscles. Willpower is essential for various forms of self-control, including managing attention, focusing on challenging tasks, resisting temptation, and so on.
 
-Roy Baumeister's experiments showed that all types of effort (cognitive, emotional, and physical) utilize a common and limited resource. The scientist called it **willpower**. Any effort depletes this resource, just as physical exertion tires muscles. Moreover, willpower is needed for all types of self-control: managing attention, concentrating on a difficult task, resisting temptation, and so on.
+Participants of experiments performed various tasks that depleted their willpower. For example, they were instructed not to eat the chocolate buns on the table. Instead, they had to consume bitter radishes. This task required significant self-control. After completing it, the participants were asked to solve challenging puzzles. Those who had previously resisted the temptation to eat the buns gave up on the puzzles more quickly than the control group. Roy Baumeister proposed that the first task exhausted the participants' self-control resources. He called this phenomenon "ego depletion".
 
-Participants of experiments performed various tasks that depleted their willpower. For example, the subjects were asked not to eat chocolate buns lying on the table. Instead, they were to eat bitter radishes. This task required self-control. The participants then solved challenging puzzles. The group that had previously resisted the temptation to eat the bun gave up on the puzzles more quickly than the control group. Roy Baumeister suggested that the first stage of the experiment exhausted the participants' self-control resources. The scientist called this phenomenon ego depletion.
+I> **Ego depletion** refers to the reduced ability of a person to regulate his thoughts, feelings, and actions.
 
-I> **Ego depletion** refers to reduced ability of a person to regulate his thoughts, feelings, and actions.
+In his book, Roy Baumeister explores the problem of a lack of self-control and discipline in detail. He provides practical advice for developing these qualities:
 
-In his book, Roy Baumeister explores the problem of a lack of self-control and discipline in detail. He offers the following advices for developing these qualities:
+1. **Regularly focus on altering your habitual behaviors**. For example, this could involve paying attention to your posture or using your non-dominant hand for everyday tasks (such as brushing your teeth or using a computer mouse).
 
-1. **Regularly focus on changing your habitual behavior**. For example, this could be monitoring your posture or using your non-dominant hand for routine activities (brushing your teeth, using a computer mouse, etc.).
+2. **Good habits**. The scientist claims that being disciplined in one area of life positively impacts all others. This means that habits like regular cleaning and exercise can boost self-control during gaming sessions.
 
-2. **Good habits**. The scientist claims that showing discipline in one area of ​​life affects all others. This means that habits such as regular cleaning and exercise will increase self-control during gaming sessions.
+3. **Clear and simple rules** help to constrain impulsive behavior. For example, a rule to stop a gaming session after two consecutive losses.
 
-3. **Clear and simple rules**. It's easier to curb impulsive behavior when it's constrained by clearly defined rules. For example, a rule to end a gaming session after two consecutive losses.
+4. **Motivation**. You need to clearly visualize the purpose and final result of some activity. This helps you consistently invest energy into it.
 
-4. **Motivation**. You need to clearly visualize the purpose and the end result of some activity, to force yourself to regularly expend energy on it.
+5. **Keep your willpower** at a healthy level and **prevent ego depletion**. You can achieve this by getting sufficient rest and proper nutrition.
 
-5. **Maintain your willpower** at a healthy level and **avoid ego depletion**. You can achieve this through getting enough rest and proper nutrition.
+Building willpower enables a player to learn more effectively and avoid burnout. It is crucial because deliberate practice becomes impossible in a state of exhaustion.
 
-Developing willpower helps a player learn more effectively and prevents burnout. It is important because deliberate practice is no longer possible in the exhausted state.
-
-I> **Burnout** is a progressive physical and mental exhaustion in response to overexertion.
+I> **Burnout** is a state of physical and mental exhaustion caused by excessive stress and overexertion.
 
 ### 1.2.2 Self-control
 
