@@ -38,41 +38,41 @@ I> **Burnout** is a state of physical and mental exhaustion caused by excessive 
 
 >>>R1
 
-In League of Legends, players are constantly encountered with a number of factors that push them to make impulsive decisions. Here are some of these factors:
+In League of Legends, players frequently encounter factors that drive them to make impulsive decisions. Here are some of those factors:
 
 1. Cognitive distortion **loss aversion**. It leads to the desire to recoup rating points after a loss.
 
-2. **Element of randomness in the game**: unpredictable team compositions, impossibility of calculating the consequences of all decisions, unforeseen situations, etc.
+2. **Element of randomness in the game**: unpredictable team compositions, the inability to calculate the consequences of all decisions, unforeseen situations, etc.
 
-3. [**Tilt**](https://en.wikipedia.org/wiki/Tilt_(poker)) is a state of intense frustration or anger that negatively impacts a player's performance.
+3. [**Tilt**](https://en.wikipedia.org/wiki/Tilt_(poker)) is a state of intense frustration or anger that negatively affects a player's performance.
 
-4. **Unrealistic expectations** regarding player's progress and the quality of games. This is one of the main causes of tilt.
+4. **Unrealistic expectations** regarding the player's progress and the quality of games. This is one of the leading causes of tilt.
 
-5. **Emotional swings** after alternating victories and defeats. Is affects the quality of games and interfere with decision making.
+5. **Emotional swings** after alternating victories and defeats. It affects game quality and interferes with decision-making.
 
-I> [**Loss aversion**](https://en.wikipedia.org/wiki/Loss_aversion) is a behavioral anomaly that appears itself in risky situations. It involves people experiencing greater pain from a loss than pleasure from an equivalent gain. In other words, losses are felt more intensely than gains.
+I> [**Loss aversion**](https://en.wikipedia.org/wiki/Loss_aversion) is a behavioral phenomenon that occurs in risky situations. In these scenarios, people experience greater pain from a loss than pleasure from an equivalent gain. In other words, losses are felt more intensely than gains.
 
-I> Coach Curtis discusses the topic of tilt in detail in the [next video](https://www.youtube.com/watch?v=5UJtqKi11uo).
+I> Coach Curtis thoroughly discusses the topic of tilt in the [following video](https://www.youtube.com/watch?v=5UJtqKi11uo).
 
-Impulsive decisions seriously interfere the learning process. A typical example is the decision to continue a gaming session in a state of ego depletion. In this case, the player lacks the energy to concentrate and operates on autopilot. The quality of the game deteriorates, and deliberate practice is impossible.
+Impulsive decisions seriously interfere with the learning process. A typical example is the decision to continue a gaming session while in the state of ego depletion. In this case, the player lacks the energy to concentrate and operates on autopilot. This leads to a decline in gameplay quality and makes deliberate practice impossible.
 
-Self-control is something that can protect a player from impulsive decisions. Self-control doesn't work in a state of ego depletion, when the willpower resource is already depleted. Therefore, the player must prioritize preserving this resource.
+Self-control can protect a player from impulsive decisions. However, it doesn't work in a state of ego depletion, when the willpower resource is gone. Thus, players must prioritize conserving this resource.
 
-There are several solutions to use your willpower more economically.
+There are several ways to use willpower more effectively.
 
-**First**, a player needs to properly organize his approach to the game. Coaches recommend holding a series of gaming sessions throughout the day. Each session consists of 2-3 games and lasts no longer than 3 hours. When the session ends, the player must take a break, regardless of the results. The break should last at least 15-20 minutes.
+**First**, a player needs to organize his approach to the game properly. Coaches recommend scheduling a series of gaming sessions throughout the day. Each session should include 2-3 games and last no more than 3 hours. Once a session ends, the player must take a break, regardless of the outcome. The break should last at least 15-20 minutes.
 
-After each game, the player should evaluate the result. If performance has dropped, the session should be stopped immediately. No more ranked games should be played that day. The idea is to make successful sessions longer and unsuccessful ones shorter.
+The player should assess the results after each game. If he notices a decline in his performance, he should stop the gaming session immediately and refrain from playing any more ranked games that day. The goal is to extend successful sessions while shortening unsuccessful ones.
 
-**Secondly**, it's important to avoid any emotionally charged communication during and after the game. This will prevent a player from wasting his willpower on unnecessary emotions.
+**Secondly**, it is essential to avoid emotionally charged communication during and after the game. This helps a player conserve willpower by not wasting it on unnecessary emotions.
 
 The game offers the following types of communication:
 
 1. Verbal communication during a game:
 
-   * General chat – both allies and opponents can use this chat.
+   * General chat – both allies and opponents can write there.
 
-   * Team chat – only allies can use this chat.
+   * Team chat – only allies can write there.
 
 2. Visual communication:
 
@@ -84,15 +84,15 @@ The game offers the following types of communication:
 
 3. Verbal communication after a game:
 
-   * General chat – both allies and opponents can use this chat.
+   * General chat – both allies and opponents can write there.
 
-Of these communication methods, the most informative is pinging of teammates. Everything else should be disabled in the game settings. In the vast majority of cases, this communication is uninformative. Players typically use it to vent.
+The most informative communication type is pinging teammates. All other options should be disabled in the game settings, as they are generally uninformative. Players often use verbal communication and emotion icons to vent their frustrations.
 
-Teammates' pings can also have an emotional tone if they're spammed. In this case, this player should be individually muted.
+Teammates' pings can convey an emotional tone when they are spammed. In this situation, the player should mute the specific teammate individually.
 
-**Thirdly**, playing with friends reduces the quality of games. The amplification of emotions in groups is a well-known psychological phenomenon. It is confirmed by such phenomena as [emotional contagion](https://en.wikipedia.org/wiki/Emotional_contagion), the crowd effect, [collective effervescence](https://en.wikipedia.org/wiki/Collective_effervescence), and others. Experiencing any strong emotions drains willpower. This interferes with self-control and provokes impulsive actions.
+**Thirdly**, playing with friends lowers the quality of games. The amplification of emotions in groups is a well-known psychological phenomenon. Some concepts confirm it as [emotional contagion](https://en.wikipedia.org/wiki/Emotional_contagion), the crowd effect, [collective effervescence](https://en.wikipedia.org/wiki/Collective_effervescence), and others. Experiencing intense emotions depletes willpower. This interferes with self-control and may lead to impulsive actions.
 
-**Fourth**, the player must replenish his willpower during and after the session. Roy Baumeister's experiments have shown that ego depletion can be partially offset by consuming glucose. The scientist recommends foods with a low [**glycemic index**](https://en.wikipedia.org/wiki/Glycemic_index), which are digested slowly. He also emphasizes the importance of adequate sleep. Lack of sleep disrupts the body's overall glucose metabolism. This affects self-control.
+**Fourth**, the player should replenish his willpower during and after the gaming session. Research by Roy Baumeister indicates that consuming glucose can mitigate ego depletion. He recommends foods with a low [**glycemic index**](https://en.wikipedia.org/wiki/Glycemic_index), which are digested slowly. Additionally, the scientist highlights the importance of getting adequate sleep. Lack of sleep disrupts the body's overall glucose metabolism and can negatively impact self-control.
 
 ### 1.2.3 Repeatable context
 
