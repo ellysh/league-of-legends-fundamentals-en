@@ -36,8 +36,6 @@ I> **Burnout** is a state of physical and mental exhaustion caused by excessive 
 
 ### 1.2.2 Self-control
 
->>>R1
-
 In League of Legends, players frequently encounter factors that drive them to make impulsive decisions. Here are some of those factors:
 
 1. Cognitive distortion **loss aversion**. It leads to the desire to recoup rating points after a loss.
@@ -96,21 +94,19 @@ Teammates' pings can convey an emotional tone when they are spammed. In this sit
 
 ### 1.2.3 Repeatable context
 
->>>R1
+Another barrier to learning is the conditions that the player creates for himself.
 
-Another barrier to learning is related to the conditions that the player creates for himself.
+League of Legends provides a repeatable context for learning. But there is one problem. The game is so complex that a player cannot master it completely. We can break down the game into five distinct disciplines. Each discipline corresponds to a specific role on a team. Each role is suited to a particular set of champions. We can compare these champions to specializations within each discipline.
 
-League of Legends has a repeatable context for learning. The problem is that it's so complex that a player cannot master it completely. The entire game can be thought of as five distinct disciplines. Each discipline corresponds to one of five roles on a team. Each role is suited to a specific set of champions. These champions can be compared to specializations within each discipline.
+Let's draw a parallel between the training of a player and an expert. Each role in a team represents a distinct field of activity, similar to music or carpentry. Each champion is a tool for working in a chosen field, like a violin or a piano in music.
 
-Let's draw a parallel with expert training. A role on a team is a field of activity. For example, music or carpentry. A champion is a tool for working in a chosen field. For example, a violin or a piano.
-
-A beginner player doesn't understand that each role is a separate discipline. Therefore, he frequently switches between roles. Thereby, the player completely changes the context of his learning. It's like trying to master music and carpentry at the same time. That is possible, but it requires much more effort and time.
+A beginner player often does not realize that each role in the game is a distinct discipline. As a result, he frequently switches between roles. Therefore, the player completely changes the context of his learning. It is similar to attempting to master music and carpentry at the same time. That is possible, but it requires much more effort and time.
 
 The need for a repeatable context leads to the following rule:
 
-> The higher a player's specialization, the faster he will learn and progress. High specialization in League of Legends means choosing only one role and only one champion.
+> The higher a player's specialization, the faster he will learn and progress. In League of Legends, high specialization means selecting only one role and only one champion.
 
-Usually, a player switches roles and champions due to a lack of self-control.
+Usually, a player changes his role and champion because of a lack of self-control.
 
 ### 1.2.4 Feedback
 
