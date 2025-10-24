@@ -22,7 +22,7 @@ League of Legends is a fast, chaotic, and mechanically demanding game. Furthermo
 
 It takes months for a beginner to learn the basics of League of Legends. During this time, he becomes familiar with essential mechanics. However, many aspects of the game are still out of his scope.
 
-High-level players continue to learn. They are deepening their knowledge and understanding of various aspects of the game. It is impossible to develop and improve one’s rank without ongoing learning.
+High-level players continue to learn. They are deepening their knowledge and understanding of various aspects of the game. It is impossible to develop and improve one's rank without ongoing learning.
 
 The learning process is crucial for players of all levels. Let's explore it in detail.
 

@@ -110,28 +110,28 @@ Usually, a player changes his role and champion because of a lack of self-contro
 
 ### 1.2.4 Feedback
 
->>>R1
+>>>>R1
 
-The final barrier to learning is a lack of feedback. Feedback is just as essential to deliberate practice as repeated context.
+The final barrier to learning is a lack of feedback. Feedback is as essential to deliberate practice as repeated context.
 
-A player may spend a lot of time in ranked games. But this doesn't mean he is actively learning. He could simply be performing the same actions on autopilot. In this case, the player doesn't reflect on his decisions or learn from his mistakes.
+A player may invest a significant amount of time in ranked games, but that does not necessarily mean he is actively learning. Instead, the player could execute the same actions on autopilot. In this case, he does not reflect on his decisions or learn from his mistakes.
 
-Let's consider what autopilot is from the perspective of the CHREST architecture. In this state, the player reduces the entire set of possible situations to a minimal set of rough patterns. For each pattern, the player considers only one course of action. For example, the jungler chooses the same path for the first clear in every game.
+Let us examine autopilot from the perspective of the CHREST architecture. In this state, a player simplifies all possible game situations to a minimal set of rough patterns. For each of these patterns, the player considers only one specific course of action. For example, the jungler chooses the same path for the first clear in every game.
 
-Because League of Legends is a complex game, some basic, routine actions (like executing combos) have to be performed on autopilot. This reduces cognitive load and allows players to focus on more important aspects of the game. The problem is that autopilot gradually permeates all player actions and decisions, which can interfere with the ability to perform a role in the team well.
+League of Legends is a complex game. Therefore, the player should perform some basic actions, such as executing combos, on autopilot. This reduces cognitive load, allowing the player to concentrate on more critical aspects of the game. However, there is one pitfall. Autopilot tends to permeate all player actions and decisions gradually. This interferes with the ability to perform his role in the team effectively.
 
-Feedback solves the autopilot problem. It allows player to correct ingrained habits that lead to mistakes. Feedback can be obtained in two ways: coaching and self-coaching.
+Feedback solves the autopilot problem. It allows the player to correct ingrained habits that lead to mistakes. There are two ways to obtain feedback: coaching and self-coaching.
 
-**Quality coaching** isn't a lecture or a video guide from an expert. It's an analysis of a player's replay or his actions in real time. The coach points out mistakes and explains the correct course of action in a given situation. This way, the coach corrects the player's faulty cognitive patterns and his reactions to them.
+**High-quality coaching** is not a lecture or a video guide from an expert. Instead, it involves analyzing a player's game replay or his actions in the current game. The coach identifies mistakes and explains the proper course of action for each situation. This way, the coach corrects the player's faulty cognitive patterns and his reactions to them.
 
-Self-coaching consists of three steps:
+**Self-coaching** involves three steps:
 
 1. Gathering information about the game.
-2. Analyzing your replay.
+2. Analyzing your game replay.
 3. Correcting mistakes.
 
-First, the player learns a new concept or game mechanic. The source of information can be anything: a video guide, a recording of someone else's coaching session, an article, a book, etc. Then the player watches his replay. He checks when and why his actions deviate from the recommended ones. The player remembers his mistakes and tries to correct them in the next game. The self-coaching session is then repeated until the concept is mastered.
+First, the player learns a new concept or game mechanic. The source of information can be anything: a video guide, a recording of a coaching session, an article, a book, etc. Afterward, the player reviews his own game replay. He identifies when and why his actions deviate from the recommended ones. By recognizing his mistakes, the player can work on correcting them in the next game. The player repeats the self-coaching process until the concept is fully mastered.
 
-A lack of self-control and discipline often leads to a lack of feedback. When a player continues a session tired, he lacks the energy to actively think. In such a situation, he will always play on autopilot. This is a problem with self-control. When a player can't bring himself to analyze his mistakes, it's a problem with discipline.
+A lack of self-control and discipline often results in a lack of feedback. When a player continues a session while tired, he lacks the energy to think actively. In this state, he tends to play on autopilot. This is a problem with self-control. When a player cannot bring himself to analyze his mistakes, this is a problem with discipline.
 
 {pagebreak}
