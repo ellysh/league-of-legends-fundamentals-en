@@ -24,7 +24,7 @@ It takes months for a beginner to learn the basics of League of Legends. During 
 
 High-level players continue to learn. They are deepening their knowledge and understanding of various aspects of the game. It is impossible to develop and improve one's rank without ongoing learning.
 
-The learning process is crucial for players of all levels. Let's explore it in detail.
+The learning process is crucial for players of all levels. Let us explore it in detail.
 
 ### 1.1.1 Deliberate practice
 
@@ -64,7 +64,7 @@ League of Legends meets all these criteria.
 
 ### 1.1.2 Recognition of templates
 
-Anders Ericsson's research explains how experts in various fields acquire skills. However, a critical question arises: what exactly are they learning? Let's explore the essence of their skills.
+Anders Ericsson's research explains how experts in various fields acquire skills. However, a critical question arises: what exactly are they learning? Let us explore the essence of their skills.
 
 In the late 1990s, [Fernand Gobe](https://en.wikipedia.org/wiki/Fernand_Gobet) and Peter Lane developed the cognitive architecture CHREST (Chunk Hierarchies and REtrieval STructures). This model illustrates human cognitive processes. It explains how individuals perceive, process, and remember information.
 
@@ -74,9 +74,9 @@ Two mechanisms are essential to the model:
 
 2. **Recognition of templates**. A **template** is a cognitive structure that represents how a person perceives his environment. This structure consists of interconnected chunks of information.
 
-Let's begin with **the first mechanism — chunking**. For example, consider the phone number 84956352167. Without breaking it down into chunks, you'd have to remember each digit individually: 8, 4, 9, 5, 6, 3, 5, 2, 1, 6, 7. This task is quite tricky.
+Let us begin with **the first mechanism — chunking**. For example, consider the phone number 84956352167. Without breaking it down into chunks, you would have to remember each digit individually: 8, 4, 9, 5, 6, 3, 5, 2, 1, 6, 7. This task is quite tricky.
 
-You can divide the number into meaningful groups of digits to make the task easier. To do this, it's essential to understand the structure of phone numbers. The number in our example follows the specific scheme:
+You can divide the number into meaningful groups of digits to make the task easier. To do this, it is essential to understand the structure of phone numbers. The number in our example follows the specific scheme:
 
 * 8 — country code
 * 495 — city code
@@ -86,12 +86,12 @@ We have three blocks: 8, 495, and 6352167. They are much easier to remember than
 
 The subscriber number is typically divided into three parts: 635-21-67. Each segment individually has no specific meaning. However, this division follows the idea of grouping: breaking a number into blocks to enhance memorability.
 
-**The second mechanism is recognition of templates**. Let's use an example again. Refer to Figure 1-1.
+**The second mechanism is recognition of templates**. Let us use an example again. Refer to Figure 1-1.
 
 {caption: "Figure 1-1. Recognition of the template", height: "30%"}
 ![Recognition of the template](images/Psychology/traffic-light-red.png)
 
-You can easily recognize the traffic light in the image. It's red. If you see it while walking, you'll instinctively want to stop.
+You can easily recognize the traffic light in the image. It is red. If you see it while walking, you will instinctively want to stop.
 
 The silhouette of a traffic light serves as a familiar template for every city resident. This familiarity indicates that our memory has a cognitive structure that aligns with the typical shape of a traffic light. This structure contains three variables or slots. They represent the state of one of the three lamps. The value of each slot is linked to a specific action: either to stand or to walk.
 
@@ -105,13 +105,13 @@ The network of templates is formed from the perception of a broad range of stimu
 
 The CHREST model explains the problem-solving process in terms of template recognition. When an expert faces a problem, he draws on a network of templates stored in his long-term memory. He analyzes the problem's conditions and looks for typical features that can act as stimuli for their recognition system. These stimuli help the expert locate relevant information in long-term memory. Once the expert identifies an appropriate template, the associated knowledge is then activated and stored in short-term memory.
 
-When the expert locates the appropriate template, the relevant knowledge can offer a ready-made solution to the problem at hand. If that doesn't occur, the expert can recall a previously successful strategy used in a similar situation. Additionally, this related knowledge can help predict the likely outcomes of different actions. Using these predictions, the expert can formulate a solution for a new problem.
+When the expert locates the appropriate template, the relevant knowledge can offer a ready-made solution to the problem at hand. If that does not occur, the expert can recall a previously successful strategy used in a similar situation. Additionally, this related knowledge can help predict the likely outcomes of different actions. Using these predictions, the expert can formulate a solution for a new problem.
 
 ### 1.1.3 Player skills
 
 >>>>R1
 
-We have learned how experts acquire knowledge and the essence of their expertise. Now, let's examine the skills of a League of Legends player through the CHREST model.
+We have learned how experts acquire knowledge and the essence of their expertise. Now, let us examine the skills of a League of Legends player through the CHREST model.
 
 First, we need to understand what a typical template looks like in League of Legends. The game is based on the model of a battle between two armies. Each side has some active objects that operate simultaneously. Each object has a set of parameters, which together define its properties.
 
@@ -119,7 +119,7 @@ League of Legends operates as an information model rather than a material one. T
 
 When an experienced player processes the flow of information about a model's current state, he performs chunking. This way, he combines elements with low information content into larger, more meaningful units. This creates a hierarchical structure with varying levels of abstraction.
 
-Let's look at an example. A player presses Tab to check the status of his opponent on the lane. He groups the opponent's statistics into a single cognitive block. Next, the player reviews the information on all other enemy champions, creating a separate block for each champion with its corresponding stats. Then the player combines these individual blocks into a larger unit, which also serves as a cognitive block. This new unit provides an overview of the enemy team's status. The player utilizes this information to answer general strategic questions, such as whether the enemy team is stronger or weaker than his team. Based on the answer, the player decides on his next action.
+Let us look at an example. A player presses Tab to check the status of his opponent on the lane. He groups the opponent's statistics into a single cognitive block. Next, the player reviews the information on all other enemy champions, creating a separate block for each champion with its corresponding stats. Then the player combines these individual blocks into a larger unit, which also serves as a cognitive block. This new unit provides an overview of the enemy team's status. The player utilizes this information to answer general strategic questions, such as whether the enemy team is stronger or weaker than his team. Based on the answer, the player decides on his next action.
 
 If we apply the template concept discussed earlier, a League of Legends player should have the following skills:
 

@@ -2,7 +2,7 @@
 
 League of Legends meets all the criteria for deliberate practice. However, less than a third of players actually engage in it. Only those players who do so effectively learn and develop their skills.
 
-Statistics show that around 75% of all players consistently find themselves in the bottom four ranks: iron, bronze, silver, and gold. This means that the majority of players are stuck below the middle of the rankings. Why aren't they learning and growing? Let's explore this question.
+Statistics show that around 75% of all players consistently find themselves in the bottom four ranks: iron, bronze, silver, and gold. This means that the majority of players are stuck below the middle of the rankings. Why are not they learning and growing? Let us explore this question.
 
 I> The [**Elo rating system**](https://en.wikipedia.org/wiki/Elo_rating_system) is a method used to calculate the relative skill levels of players. Each player is assigned a numerical rating that reflects his current skill. After every game, these ratings are adjusted based on the outcome: the winner receives points, while the loser loses points.
 
@@ -54,7 +54,7 @@ I> Coach Curtis thoroughly discusses the topic of tilt in the [following video](
 
 Impulsive decisions seriously interfere with the learning process. A typical example is the decision to continue a gaming session while in the state of ego depletion. In this case, the player lacks the energy to concentrate and operates on autopilot. This leads to a decline in gameplay quality and makes deliberate practice impossible.
 
-Self-control can protect a player from impulsive decisions. However, it doesn't work in a state of ego depletion, when the willpower resource is gone. Thus, players must prioritize conserving this resource.
+Self-control can protect a player from impulsive decisions. However, it does not work in a state of ego depletion, when the willpower resource is gone. Thus, players must prioritize conserving this resource.
 
 There are several ways to use willpower more effectively.
 
@@ -98,7 +98,7 @@ Another barrier to learning is the conditions that the player creates for himsel
 
 League of Legends provides a repeatable context for learning. But there is one problem. The game is so complex that a player cannot master it completely. We can break down the game into five distinct disciplines. Each discipline corresponds to a specific role on a team. Each role is suited to a particular set of champions. We can compare these champions to specializations within each discipline.
 
-Let's draw a parallel between the training of a player and an expert. Each role in a team represents a distinct field of activity, similar to music or carpentry. Each champion is a tool for working in a chosen field, like a violin or a piano in music.
+Let us draw a parallel between the training of a player and an expert. Each role in a team represents a distinct field of activity, similar to music or carpentry. Each champion is a tool for working in a chosen field, like a violin or a piano in music.
 
 A beginner player often does not realize that each role in the game is a distinct discipline. As a result, he frequently switches between roles. Therefore, the player completely changes the context of his learning. It is similar to attempting to master music and carpentry at the same time. That is possible, but it requires much more effort and time.
 
@@ -109,8 +109,6 @@ The need for a repeatable context leads to the following rule:
 Usually, a player changes his role and champion because of a lack of self-control.
 
 ### 1.2.4 Feedback
-
->>>>R1
 
 The final barrier to learning is a lack of feedback. Feedback is as essential to deliberate practice as repeated context.
 
