@@ -9,6 +9,6 @@ C> *(5) He will win who has military capacity and is not interfered with by the 
 C>
 C> -- Sun Tzu "Art of War"
 
-In this chapter, we will cover the fundamental concepts of League of Legends. They form the foundation of all other knowledge about the game. A good understanding of the fundamentals helps you absorb new information more quickly and distinguish useful advice from misguided ones.
+In this chapter, we will explore the fundamental concepts of League of Legends. These concepts serve as the basics for all other knowledge about the game. A solid understanding of the fundamentals helps you absorb new information more quickly and differentiate between valuable advice and misguided suggestions.
 
 {pagebreak}
