@@ -1,9 +1,14 @@
-# 2 Теория
+# 2 Theory
 
-C> *Поэтому знают, что победят в пяти случаях: побеждают, если знают, когда можно сражаться и когда нельзя; побеждают, когда умеют пользоваться и большими и малыми силами; побеждают там, где высшие и низшие имеют одни и те же желания; побеждают тогда, когда сами осторожны и выжидают неосторожности противника; побеждают те, у кого полководец талантлив, а государь не руководит им. Эти пять положений и есть путь знания победы.*
+C> *Thus we may know that there are five essentials for victory:*
+C> *(1) He will win who knows when to fight and when not to fight.*
+C> *(2) He will win who knows how to handle both superior and inferior forces.*
+C> *(3) He will win whose army is animated by the same spirit throughout all its ranks.*
+C> *(4) He will win who, prepared himself, waits to take the enemy unprepared.*
+C> *(5) He will win who has military capacity and is not interfered with by the sovereign.*
 C>
-C> -- Сунь-цзы "Искусство войны"
+C> -- Sun Tzu "Art of War"
 
-В этой главе мы поговорим о базовых концепциях League of Legends. На них строятся все остальные знания об игре. Хорошее понимание основ помогает быстрее усваивать новую информацию и отличать полезные советы от ошибочных.
+In this chapter, we will cover the fundamental concepts of League of Legends. They form the foundation of all other knowledge about the game. A good understanding of the fundamentals helps you absorb new information more quickly and distinguish useful advice from misguided ones.
 
 {pagebreak}
