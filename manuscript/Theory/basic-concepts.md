@@ -26,82 +26,84 @@ We will examine each concept in detail to eliminate any misunderstandings.
 
 ### 2.1.1 Equilibrium
 
->>>W
+>>>R1
 
-Первый вопрос в нашем списке звучит так:
+The first question on our list is the following:
 
-> Какое исходное состояние объектов на карте?
+> What is the initial state of objects on the map?
 
-Изначально все объекты на карте находятся в равновесии. **Равновесие** (equilibrium) означает баланс и устойчивое состояние элементов игры. На этом понятии строятся все дальнейшие концепции.
+Initially, all objects on the map are in equilibrium. **Equilibrium** means balance and a stable state of the game's elements. All subsequent concepts are built on this concept.
 
-Равновесие игровых объектов хорошо видно на карте для рейтинговых игр. Рассмотрим её на иллюстрации 2-1. 
+You can easily find the equilibrium of game objects if you look on the Summoner's Rift map. Figure 2-1 demonstrates it.
 
-I> Общая структура карты не менялась в 14-м и 15-м сезонах. Некоторые схемы в книге даются для карты 13-го сезона. Все они остаются актуальными и для её новых версий.
+I> The general structure of the map remained unchanged between Seasons 14 and 15. Some diagrams in the book are for the Season 13 map. All of them remain relevant for the new versions.
 
-{caption: "Иллюстрация 2-1. Карта Summoner's Rift для 13-го сезона", height: "50%"}
-![Карта Summoner's Rift](images/Theory/map-season-13-no-champions.png)
+{caption: "Figure 2-1. Summoner's Rift map for Season 13", height: "50%"}
+![Summoner's Rift ma](images/Theory/map-season-13-no-champions.png)
 
-Буквы и геометрические фигуры отмечают на карте интерактивные объекты. Обратите внимание, что среди них нет чемпионов игроков. Сейчас мы исключим их для простоты.
+Letters and geometric shapes mark interactive objects on the map. Note that player champions are not among them. Now we exclude them for simplicity.
 
-Обозначения на карте следующие:
+Map symbols are as follows:
 
-* T1, T2, T3, T4 — [**башни**](https://leagueoflegends.fandom.com/ru/wiki/Башня) каждой команды.
+* T1, T2, T3, T4 — [**turrets**](https://wiki.leagueoflegends.com/en-us/Turret) of each team.
 
-* I — [**Ингибиторы**](https://leagueoflegends.fandom.com/ru/wiki/Ингибитор) каждой команды.
+* I — [**inhibitors**](https://wiki.leagueoflegends.com/en-us/Inhibitor) of each team.
 
-* N — [**Нексус**](https://leagueoflegends.fandom.com/ru/wiki/Нексус) каждой команды.
+* N — [**Nexus**](https://wiki.leagueoflegends.com/en-us/Nexus) of each team.
 
-* Зелёный круг — лагерь нейтральных [**монстров**](https://leagueoflegends.fandom.com/ru/wiki/Монстр).
+* Green circle — the neutral [**monster**](https://wiki.leagueoflegends.com/en-us/Monster) camp.
 
-* Синий прямоугольник — волна [**миньонов**](https://wiki.leagueoflegends.com/en-us/Minion) (крипов) синей команды.
+* Blue rectangle — the [**minion**](https://wiki.leagueoflegends.com/en-us/Minion) (creep) wave of blue team.
 
-* Красный прямоугольник — волна миньонов красной команды.
+* Red rectangle the minion wave of red team.
 
-На карте можно заметить несколько форм равновесия. Эти формы следующие:
+You can see three forms of equilibrium on the map:
 
-1. Равновесие ландшафта.
+1. Landscape equilibrium.
 
-2. Равновесие ресурсов.
+2. Resource equilibrium.
 
-3. Равновесие сил команд.
+3. Teams power equilibrium.
 
-**Равновесие ландшафта** касается геометрии карты и всех статических объектов на ней: стены, кусты, строения и дороги (линии). На иллюстрации 2-1 видно, что эти объекты симметричны относительно центра карты.
+**Landscape equilibrium** refers to the geometry of the map and all static objects on it: walls, bushes, buildings, and roads (lanes). Figure 2-1 shows that these objects are symmetrical about the center of the map.
 
-Вот несколько примеров симметрии ландшафта:
+Here are some examples of landscape equilibrium:
 
-* База синей команды находится в левом нижнем углу. База красной команды симметрична относительно центра карты и находится в правом верхнем углу.
+* The blue team's base is in the lower left corner. The red team's base is symmetrical about the center of the map and is in the upper right corner.
 
-* Лес [красного огнедрева](https://leagueoflegends.fandom.com/ru/wiki/Красный_огнедрев) (красный баф) синей команды находится внизу. Для красной команды этот лес находится вверху, симметрично центру. То же самое справедливо для двух лесов [синего стража](https://leagueoflegends.fandom.com/ru/wiki/Синий_страж) (синий баф).
+* The blue team's jungle with [Red Brambleback](https://wiki.leagueoflegends.com/en-us/Red_Brambleback) (red buff) is at the bottom. The same jungle of the red team is at the top, symmetrical to the map center. The same is true for both jungles with [Blue Sentinel](https://wiki.leagueoflegends.com/en-us/Blue_Sentinel) (blue buff).
 
-* Логово [**барона Нашора**](https://leagueoflegends.fandom.com/ru/wiki/Барон_Нашор) находится на верхней речке. Логово дракона находится на нижней речке, симметрично центру.
+* The [baron pit](https://wiki.leagueoflegends.com/en-us/Baron_pit) is located on the upper river. The [dragon pit](https://wiki.leagueoflegends.com/en-us/Dragon_pit) is on the lower river, symmetrical to the map center.
 
-* Каждое строение синей команды имеет симметричное относительно центра строение красной команды.
+* Each blue team structure has a red team structure that is symmetrical about the center.
 
-**Равновесие ресурсов** связано с тем, что есть у игроков обеих команд. Это то, чем они уже обладают и то, что могут потенциально получить на карте.
+**Resource equilibrium** means the resources available to both teams. This refers to what they already possess and what they can potentially acquire on the map.
 
-На карте есть ряд объектов, за уничтожение которых даётся награда. Прежде всего это лесные монстры. На иллюстрации 2-1 лесные монстры отмечены зелёными кругами. Обратите внимание, что у каждого зелёного круга есть симметричный ему двойник относительно центра карты. Это означает, что потенциально команды могут получать одинаковое количество ресурсов в лесу.
+There are a number of objects on the map that grant rewards when destroyed. The first example is neutral monsters. They are marked by green circles on Figure 2-1. Note that each green circle has a symmetrical counterpart relative to the center of the map. This means that teams can potentially earn equal amounts of resources in the jungle.
 
-Вражеские миньоны — это другой источник дохода. Каждые 30 секунд у каждого Нексуса появляется одинаковое количество миньонов. Это означает, что обе команды потенциально могут убить одинаковое количество миньонов.
+Enemy minions are another source of income. Every 30 seconds, each Nexus spawns the same number of minions. This means both teams have the potential to kill the same number of minions.
 
-Строения также можно рассматривать как ресурсы. За разрушение строений противника даётся награда. Благодаря равновесию ландшафта, эти ресурсы тоже равны у обеих команд.
+We can consider all buildings like resources too. Destroying an enemy building grants a reward. Thanks to the landscape equilibrium, these resources are also equal for both teams.
 
-**Равновесие сил команд** касается всех их юнитов: башни, ингибиторы, Нексус, миньоны, чемпионы. Башни, ингибиторы и Нексус — это неподвижные строения. Они подчиняются равновесию ландшафта и симметричны относительно центра карты. Таким образом команды имеют равное число строений каждого типа.
+**Teams power equilibrium** applies to all of their units: towers, inhibitors, the Nexus, minions, and champions. Towers, inhibitors, and the Nexus are immobile structures. They are subject to landscape equilibrium and are symmetrical about the map's center. This means teams have an equal number of each type of structure.
 
-Миньоны — это подвижные объекты. Они представляют собой и силы команд, и ресурсы для противника. Миньоны перемещаются в группах, которые называются **волнами** (wave). Волны появляются около Нексусов через равные промежутки времени. Впервые это происходит в 1:05 по игровому времени и повторяется каждые 30 секунд.
+Minions are mobile units. They represent both team power and enemy resources. Minions move in groups called **waves**. Waves spawn near Nexuses at regular intervals. The first wave occurs at 1:05 game time and repeats every 30 seconds.
 
-С каждой стороны одновременно появляется по три волны миньонов. Они двигаются по трём линиям: верхней, средней и нижней. Эти линии соединяют базы команд. На каждой линии синяя и красная волна миньонов встречается ровно посередине. Там они сражаются друг с другом.
+Three waves of minions spawn simultaneously on each side. They move along three lanes: top, middle, and bottom. These lanes connect the teams' bases. On each lane, the blue and red waves of minions meet exactly in the middle. Then they fight each other.
 
-Волны миньонов находятся в равновесии. Если фронт их столкновения находится в середине линии, он никуда не сдвинется. Его положение будет оставаться постоянным, как на иллюстрации 2-1. Это происходит по следующей причине. Каждая следующая волна подходит как раз в тот момент, когда последние миньоны предыдущей волны умирают.
+Minion waves are in equilibrium. If their clash front is in the middle of the line, it would not move. Its position will remain constant, as Figure 2-1 shows. This happens because each successive wave arrives just as the last minions of the previous wave die.
 
-Чемпионы — также подвижные объекты. Они являются основной силой каждой команды. Если чемпион стал слишком слаб относительно противников, он уже не может вносить вклад в игру. Тогда он становится скорее ресурсом для вражеской команды, наподобие миньона.
+Champions are also mobile units. They are the primary units of each team. If a champion becomes too weak relative to opponents, he can no longer contribute to the game. Then the champion becomes a resource for the enemy team, like a minion.
 
-Мы рассмотрели три формы равновесия объектов. Каждое из них является **динамическим**. Это означает, что если его нарушить, оно вернётся в исходное состояние со временем. Рассмотрим примеры.
+We have considered three forms of equilibrium for game objects. Each of these forms is dynamic. It means that if something disturbs the equilibrium of objects, they will recover to its original state over time. Let us look at some examples.
 
-**Равновесие ландшафта** могут нарушить умения некоторых чемпионов. Они создают новые стены (Anivia W) или проходы (Bard E). Таким образом равновесие статических объектов нарушается. Но эффект действия подобных умений ограничен по времени. Через несколько секунд ландшафт возвращается в исходное состояние.
+Some champions' abilities can disrupt the **landscape equilibrium**. They create new walls (Anivia W) or passages (Bard E). This disrupts the balance of static objects. However, the effect of such abilities is limited in time. The landscape returns to its original state after a few seconds.
 
-**Равновесие ресурсов** нарушается, когда игрок уничтожает какой-то объект. Во-первых, игрок получает за него награду, которой нет у противника. Во-вторых, уничтоженный объект пропадает с карты. Например, после убийства лесного монстра его лагерь опустеет. Но через определённое время монстр снова появится в своём лагере. Время возрождение зависит от его типа и длится от 2 до 6 минут.
+When a player destroys some object, he disrupts the **resource equilibrium**. First, the player receives a reward that the enemy does not have. Second, the destroyed object disappears from the map. For example, after killing a jungle monster, its camp will empty. However, after a certain amount of time, the monster will reappear at its camp. The respawn time depends on the monster type and lasts from 2 to 6 minutes.
 
-Динамическое **равновесие сил** команд устроено сложнее. Во-первых, только некоторые строения могут восстанавливаться после разрушения. Во-вторых, фронт столкновения миньонов может перемещаться вдоль линии. Если он отклоняется от середины линии, то со временем возвращается обратно. Подробнее эту механику мы рассмотрим в разделе "4.1 Управление волной миньонов".
+The dynamic balance of power between teams is more complex. First, only some structures can regenerate after being destroyed. Second, the minion collision front can move along the line. If it deviates from the line's center, it eventually returns. We'll discuss this mechanic in more detail in section "4.1 Minion Wave Management."
+
+The dynamic **equilibrium of power** between teams is more complex. First, only some structures can recover after being destroyed. Second, the minion collision front can move along the line. If it deviates from the line's center, it eventually returns. We will discuss this mechanic in more detail in section "4.1 Minion wave management."
 
 ### 2.1.2 Action
 
