@@ -144,65 +144,67 @@ Each player has a task to select and execute the most advantageous macro action 
 
 ### 2.1.3 Game scenario
 
-Мы рассмотрели действия игроков. Важно понять, что они происходят в жёстких рамках. Их диктует дизайн и баланс игры. Разработчики хотят, чтобы каждая партия протекала по определённому сценарию. Поэтому они подбирают параметры игровых объектов так, чтобы игрокам было выгодно следовать этому сценарию.
+>>>R1
 
-Рассмотрим, как выглядит сценарий типичной рейтинговой партии. Прежде всего её можно разделить на три стадии:
+We have considered actions of player champions. It is important to emphasize that players act within strict boundaries. They are dictated by the game's design and balance. The developers want each game to follow a specific scenario. Therefore, they adjust the parameters of game objects to ensure that players benefit from following that scenario.
 
-1. Стадия лейнинга (laning) — начало.
+Let us look on how a typical rating game scenario looks like. We can divide it into three phases:
 
-2. Стадия мидгейма (mid game) — середина.
+1. Laning – the beginning.
 
-3. Стадия лейтгейма (late game) — конец.
+2. Mid game – the middle.
 
-**Стадия лейнинга** начинается с первой секунды и продолжается примерно до 14-й минуты. Она заканчивается, когда разрушается первая башня на любой линии. Цели команд на этой стадии — собирать ресурсы и мешать это делать противнику.
+3. Late game – the end.
 
-В течение стадии лейнинга игроки распределяются по карте так, чтобы максимально эффективно собирать все доступные ресурсы. К ним относятся: вражеские миньоны и лесные монстры. Поэтому на каждой линии и в лесу должен быть как минимум один чемпион команды.
+The **laning** phase begins at the first second and lasts until approximately the 14th minute. It ends when players destroy the first tower on any lane. The teams' goals during this phase are to gather resources and prevent the enemy from doing the same.
 
-Стандартное распределение чемпионов на стадии лейнинга выглядит так:
+During the laning phase, players are distributed across the map to maximize their income. The resources are enemy minions and jungle monsters. Therefore, at least one champion should occupy each lane and jungle.
 
-1. Один игрок (топлейнер) идёт на верхнюю линию.
+The standard champion distribution across the map in the laning phase looks like this:
 
-2. Один игрок (мидлейнер) идёт на среднюю линию.
+1. One player goes to the top lane.
 
-3. Два игрока (ADC и саппорт) идут на нижнюю линию.
+2. One player goes to the mid lane.
 
-4. Один игрок (лесник) идёт в лес своей команды.
+3. Two players (the ADC and the support) go to the bottom lane.
 
-На нижней линии обычно находятся два игрока. Один из них (саппорт) не убивает миньонов. Вместо этого у него есть специальный предмет, который даёт ему золото другим способом.
+4. One player goes to the jungle.
 
-**Стадия мидгейма** обычно начинается с 14-й минуты и продолжается до 25-й минуты. Она заканчивается примерно тогда, когда игроки собирают по третьему предмету. Цели команд на этой стадии следующие:
+Typically two players occupy bot lane. One of them is a support. He does not kill minions. Instead, he has a special item that provides him gold in a different way.
 
-1. Контроль карты.
+The **mid game** phase typically begins at the 14th minute and lasts until the 25th minute. It ends around the time when players collect their third item. Teams' goals during this stage are following:
 
-2. Взятие объектов на карте (map objective).
+1. Map control.
 
-I> **Map objective** (объект на карте) — это эпический лесной монстр или вражеское строение. Их уничтожение увеличивает силу команды или даёт значительную награду. К объектам относятся: драконы, Герольд, барон Нашор, личинки бездны, вражеские башни и ингибиторы.
+2. Capturing objectives.
 
-На стадии мидгейма чемпионы меняются линиями. Стандартная смена выглядит так:
+I> An **objective** is an epic jungle monster or enemy structure. Destroying one increases the team's strength or provides a significant reward. Objectives include dragons, Herald, Baron Nashor, Voidgrubs, enemy towers, and inhibitors.
 
-1. ADC переходит с нижней линии на среднюю.
+When the mid game phase begins, players swap their lanes. The standard swap looks like this:
 
-2. Топлейнер переходит с верхней линии на нижнюю.
+1. The ADC moves from the bot lane to the mid lane.
 
-3. Мидлейнер переходит с средней линии на верхнюю.
+2. The top laner moves from the top lane to the bot lane.
 
-Такое распределение позволяет команде лучше контролировать карту. Эту схему диктуют возможности чемпионов для каждой роли. Подробнее мы рассмотрим эту тему в разделе "4.2 Контроль карты".
+3. The mid laner moves from the mid lane to the top lane.
 
-На стадии мидгейма чемпионы часто покидают свои линии и группируются вместе. Это помогает эффективнее контестить объекты.
+These swaps allows the team to better control the map. The champions' abilities for each role dictate which lane they should occupy during the mid game. We will cover this topic in more detail in section "4.2 Map Control."
 
-I> **Контест** (contest) — это сражение команд за конкретный объект на карте: строение или эпического монстра.
+During the mid game, champions often leave their lanes and group together. This helps them to contest objectives more effectively.
 
-**Стадия лейтгейма** начинается примерно с 25-й минуты. К этому времени уже разрушены все T1, T2 и T3 башни на одной или нескольких линиях.
+I> **Contest** is a battle between teams for a specific object on the map: a building or an epic monster.
 
-Цели команд в лейтгейме следующие:
+The late game phase begins around the 25th minute. By this time, players usually have destroyed all T1, T2, and T3 towers on one or more lanes
 
-1. Победа в решающих командных сражениях.
+The teams' goals in the late game are following:
 
-2. Взятие эпических монстров.
+1. Win decisive team fights.
 
-3. Разрушение строений на базе противника (Т3 и T4 башни, ингибиторы, Нексус).
+2. Capture epic monsters.
 
-На протяжении лейтгейма команды часто сталкиваются в сражениях пять на пять. Их исход решает, кто возьмёт очередного эпического монстра. Победа в решающем сражении позволяет разрушить Т4 башни и Нексус противника.
+3. Destroy structures on enemy base (T3 and T4 towers, inhibitors, Nexus).
+
+Teams frequently clash in five-on-five fights during the late game. The outcome of these fights determines who will take the next epic monster. Victory in the decisive teamfight allows to destroy the enemy T4 towers and Nexus.
 
 ### 2.1.4 Advantage
 
