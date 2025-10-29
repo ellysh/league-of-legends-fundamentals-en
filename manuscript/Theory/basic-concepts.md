@@ -107,38 +107,40 @@ The dynamic **equilibrium of power** between teams is more complex. First, only 
 
 ### 2.1.2 Action
 
-Второй вопрос звучит так:
+>>>R1
 
-> Что выводит объекты из равновесия?
+Here is the second question on our list:
 
-Чемпионы игроков — это единственное, что может вывести объекты на карте из равновесия. Само их присутствие уже нарушает равновесие сил команд. Это происходит потому, что в рейтинговой партии игроки не могут выбирать одинаковых чемпионов.
+> What throws objects off equilibrium?
 
-Когда чемпион выполняет какое-то действие, он влияет на игровой объект и меняет его состояние. Тем самым нарушается одна из трёх форм равновесия.
+Player champions are the only thing that can disrupt any form of equilibrium of game objects. Even their presence on map changes teams balance. This happens because players cannot select the same champion.
 
-Все действия чемпиона можно разделить на две категории: микро и макро. Самые элементарные действия относятся к уровню **микро**. Они преследуют краткосрочные цели. Вот несколько примеров:
+When a champion performs some action, it affects a game object and changes its state. This disrupts one of the three forms of equilibrium.
 
-* Переместиться на пару шагов, чтобы уклониться от летящего снаряда.
+We can divide all possible champion's actions into two categories: micro and macro. The most basic actions fall into the **micro-level** and pursue short-term goals. Here are a few examples:
 
-* Применить умение контроля по противнику, чтобы его остановить.
+* Move a few steps back to avoid an incoming projectile.
 
-Последовательность действий уровня микро складывается в одно действие уровня **макро**. Оно направлено на достижение более долгосрочной цели. Например, чемпион используют автоатаку и умения, чтобы быстро убить вражеских миньонов. Всё это одно макро действие — пуш линии.
+* Use a crowd control (CC) skill on an enemy to stop him.
 
-Вот список простейших действий на уровне макро, которые нарушают равновесие игровых объектов:
+A sequence of micro-level actions compiles into a single **macro-level** action. It is aimed at achieving a longer-term goal. For example, a champion uses auto-attacks and abilities to quickly kill enemy minions. This is one macro action, called pushing a lane.
 
-1. Атака вражеских миньонов на линий.
-2. Атака вражеского чемпиона.
-3. Атака вражеской башни.
-4. Атака вражеского ингибитора, если это возможно.
-5. Атака вражеского Нексуса, если это возможно.
-6. Атака лесных монстров.
+Here is a list of basic macro-level actions that disrupt the balance of game objects:
 
-Последовательность простейших макро действий складывается в одно сложное макро действие. Оно направлено на исполнение плана из нескольких шагов. Вот примеры таких действий:
+1. Attacking enemy minions.
+2. Attacking an enemy champion.
+3. Attacking an enemy tower.
+4. Attacking an enemy inhibitor, if possible.
+5. Attacking the enemy Nexus, if possible.
+6. Attacking jungle monsters.
 
-* Сплит-пуш, чтобы создать угрозу на боковой линии и получить контроль над картой.
+A sequence of basic macro actions combines into a single complex macro action. It is aimed at executing a plan with several steps. Here are examples of such actions:
 
-* Осада вражеской базы по двум направлениям, чтобы разрушить один из ингибиторов.
+* Split push to create a threat on the side lane and gain map control.
 
-Задача каждого игрока заключается в том, чтобы выбрать и исполнить самое выгодное в данный момент макро действие. Оно должно нарушить равновесие любого типа в пользу команды игрока. Таким образом повышаются её шансы на победу.
+* Siege the enemy base from two directions to destroy one of the inhibitors.
+
+Each player has a task to select and execute the most advantageous macro action at the given moment. This action should disrupt any type of equilibrium in favor of the player's team. This way, he increases his team's chances of winning.
 
 ### 2.1.3 Game scenario
 
