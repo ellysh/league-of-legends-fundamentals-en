@@ -45,7 +45,7 @@ Letters and geometric shapes mark interactive objects on the map. Note that play
 
 Map symbols are as follows:
 
-* T1, T2, T3, T4 — [**turrets**](https://wiki.leagueoflegends.com/en-us/Turret) of each team.
+* T1, T2, T3, T4 — [**towers**](https://wiki.leagueoflegends.com/en-us/Turret) of each team.
 
 * I — [**inhibitors**](https://wiki.leagueoflegends.com/en-us/Inhibitor) of each team.
 
@@ -208,80 +208,82 @@ Teams frequently clash in five-on-five fights during the late game. The outcome 
 
 ### 2.1.4 Advantage
 
-Мы переходим к третьему вопросу, который звучит так:
+>>>W
 
-> Какие действия являются выгодными?
+Now we reach the third question in our list:
 
-Чтобы ответить на него, обратимся к примеру. Допустим, что начинается стадия лейнинга. Оба мидлейнера находятся на средней линии. Каждую секунду игроки выбирают и исполняют какое-то действие. Ограничим выбор только средней линей. Тогда варианты будут следующими:
+> What actions are beneficial?
 
-1. Атаковать вражеского чемпиона
-2. Атаковать вражескую башню
-3. Фармить вражеских миньонов
-4. Отойти в безопасную зону под свою башню.
+Let us look at an example to answer this question. There is beginning of the laning phase. Both mid laners come to their lane. The players should choose and execute some action every second. We could limit the list of possible actions by the mid lane scope only. Then we get the following list:
 
-Пусть на средней линии будет равновесие сил. Это означает, что фронт столкновения миньонов находится посередине линии. Их количество одинаково с каждой стороны. Также здоровье, мана, уровни и предметы обоих чемпионов равны.
+1. Attack the enemy champion
+2. Attack the enemy tower
+3. Farm enemy minions
+4. Retreat to a safe area under ally tower.
 
-Рассмотрим варианты действий с точки зрения мидлейнера синей команды. **Во-первых**, атака вражеского чемпиона ведёт к риску из-за равенства сил. Примерно в 50% случаев игрок сможет его убить. Тогда он получит опыт и золото. В других 50% случаев игрок погибнет. Таким образом он отдаст противнику опыт и золото. Это означает, что действие "атаковать вражеского чемпиона" невыгодное. Оно не увеличивает шансы команды на победу.
+There is the equilibrium of power on the mid lane. This means that the minions clash front is in the middle of lane. There are equal numbers of minions on each side. Also, the health, mana, levels, and items of both champions are equal.
 
-**Во-вторых**, мидлейнер не может атаковать башню без поддержки миньонов. Они должны принимать на себя атаки башни, пока чемпион её атакует. В противном случае башня быстро убьёт чемпиона. Поэтому нападение на башню в текущей ситуации будет невыгодным.
+What options does the blue team's mid laner have?  **First**, attacking the enemy champion is risky because of the equilibrium of power. The player could kill the opponent and gain a reward with a 50% probability. In the other 50% of cases, the player will die. This way his opponent will gain a reward. Therefore, attacking the enemy champion is disadvantageous action. It does not increase the team's chances of winning.
 
-**В-третьих**, фарм вражеских миньонов — это стандартное действие на фазе лейнинга. Оно сохраняет равновесие по ресурсам между игроками на линии. Если синий мидлейнер лучше добивает миньонов, он получит преимущество с минимальным риском. В данной ситуации это будет наилучшим действием.
+**Second**, the player cannot attack the enemy tower without support of ally minions. They should absorb the tower's shots while the champion is attacking the structure. Otherwise, the tower kills the champion quickly. Therefore, attacking the enemy tower in the current situation is unfavorable.
 
-**В-четвертых**, отход в безопасную зону означает отказ от фарма. В результате противник будет фармить и получить преимущество по ресурсам. Это невыгодное действие, которое увеличит шансы вражеской команды на победу.
+**Third**, farming enemy minions is a standard action during the laning phase. It maintains resource equilibrium between the mid laners. If the blue team's player is better at last-hitting minions, he will gain an advantage with minimal risk. It is the best scenario in the current situation.
 
-Теперь допустим, что ситуация меняется. К мидлейнеру синей команды подходит его лесник. Тогда шансы атаковать и убить красного чемпиона возрастают. Это становится выгодным действием.
+**Fourth**, retreating to the safe zone means giving up farming. This decision gives the enemy mid laner a resource advantage. Therefore, this is disadvantageous action that increases the enemy team's chances of winning.
 
-Что произошло в нашем примере, когда пришел синий лесник? Синяя команда получила численное преимущество на средней линии. Преимущество — это вторая фундаментальная концепция. Она следует из понятия равновесия.
+Now let us assume that the situation changes. The blue team's jungler comes to mid lane. This increases chances to kill red team's mid laner. Therefore, attacking him becomes a profitable action.
 
-Команда получает **преимущество** (advantage), когда любая из форм равновесия смещается в её пользу. Преимущество может получить не только команда, но и отдельный игрок. Когда равновесие на линии смещается в его пользу, он получает преимущество.
+What happened in our example when the jungler appeared? The blue team gained a numerical advantage in the mid lane. Advantage is the second fundamental concept. It follows from the concept of equilibrium.
 
-Преимущество бывает разного типа. Он зависит от того, какая из форм равновесия была нарушена. Опытные игроки различают следующие типы преимущества:
+A team gains an **advantage** when any form of equilibrium shifts in its favor. An advantage can be gained not only by a team, but also by an individual player. When the equilibrium on the lane shifts in his favor, the player gains an advantage.
 
-1. **Численное** — в сражении со стороны одной команды участвует больше чемпионов, чем с другой.
+Advantage comes in different types. It depends on which form of equilibrium has been disrupted. Experienced players distinguish the following types of advantage:
 
-2. **По предметам** — у одного или нескольких чемпионов команды предметов больше или они дороже, чем у оппонентов.
+1. **By quantity** — one team has more champions participating in the teamfight than the other.
 
-3. **По уровню** — у одного или нескольких чемпионов команды уровень выше, чем у оппонентов.
+2. **By items** — one or more champions on the team have more items or they are more expensive than their opponents.
 
-4. **По ресурсам** — у одного или нескольких чемпионов команды есть что-то из следующего, когда у оппонентов этого нет:
+3. **By level** — one or more champions on the team have a higher level than their opponents.
 
-   * здоровье
+4. **By resources** — one or more champions on the team have one of the following while their opponents do not:
 
-   * мана
+   * health
 
-   * готовые [**заклинания призывателя**](https://leagueoflegends.fandom.com/ru/wiki/Заклинание_призывателя) (summoner spell)
+   * mana
 
-   * готовые умения, особенно [**абсолютное умение**](https://leagueoflegends.fandom.com/ru/wiki/Умение_чемпиона) (ultimate)
+   * ready-to-use [**summoner spells**](https://wiki.leagueoflegends.com/en-us/Summoner_spell)
 
-   * индивидуальные или командные [**усиления**](https://leagueoflegends.fandom.com/ru/wiki/Усиление), полученные за убийство лесного монстра.
+   * ready-to-use [**abilities**](https://wiki.leagueoflegends.com/en-us/Champion_ability), especially ultimate
 
-5. **Контроль карты** означает иметь обзор и влияние в её ключевых областях. Обзор дают специальные предметы — [**варды**](https://leagueoflegends.fandom.com/ru/wiki/Тотем) (ward). Влияние появляется, когда чемпионы находятся в зоне доступности от ключевых точек карты. Эту концепцию мы рассмотрим в разделе "4.2 Контроль карты".
+   * individual or team [**buffs**](https://wiki.leagueoflegends.com/en-us/Buff) received for killing a neutral monsters.
 
-6. **Позиционное преимущество** означает более выгодное расположение чемпиона на линии или команды перед сражением. Примеры: обход с фланга, контроль узких мест карты, вытеснение (zoning) противника из какой-то области.
+5. **Map control** means a team has vision and influence over key areas of the map. Vision is granted by special items called [**wards**](https://wiki.leagueoflegends.com/en-us/Ward). Influence is gained when champions are within range of key points on the map. We will cover this concept in section "4.2 Map Control."
 
-7. **По составу команды** — чемпионы одной стороны лучше взаимодействуют и усиливают друг друга, чему у противников.
+6. **Positional advantage** has two meanings. First, a champion has advantageous position in a lane than his opponent. Second, a team has advantageous position before the teamfight. Here are examples: flanking, controlling narrow passages or zoning out the enemy team.
 
-8. **По темпу**. Мы рассмотрим концепцию темпа далее.
+7. **By team composition** — champions on the team interact and strengthen each other better than champions on enemy team .
 
-Обратите внимание, что команда может иметь сразу несколько типов преимущества. При этом у оппонентов тоже может быть преимущество, но в других аспектах.
+8. **By tempo**. We will consider the concept of tempo further.
 
-Рассмотрим пример. Пусть у синей команды сильнее состав чемпионов и лучший контроль карты. У красной команды есть усиление [**старшего дракона**](https://leagueoflegends.fandom.com/ru/wiki/Старший_дракон). В этом случае усиление дракона станет решающим преимуществом. **Решающее преимущество** (decisive advantage) — нарушает равновесие сил команд или чемпионов на линии больше, чем другие типы преимущества.
+Please note that a team can have multiple types of advantages at once. Opponents can also have advantages, but of a different type.
 
-Обратите внимание, что важность каждого типа преимущества зависит от текущего состояния партии. Например, на стадии лейнинга преимущество по уровню важнее, чем по предметам. Это правило справедливо до тех пор, пока чемпионы не получат 6-й уровень. Поэтому в таких условиях преимущество по уровню будет решающим. После 6-го уровня предметы дают больше и становятся решающим преимуществом.
+Let us look at the example. The blue team has a stronger champion composition and better map control. The red team has the [**Elder Dragon**](https://wiki.leagueoflegends.com/en-us/Dragon_Slayer#Aspect_of_the_Dragon) buff. The dragon buff is the decisive advantage in this case. **Decisive advantage** is one that disrupts the equilibrium of power between teams or champions in a lane more than other types of advantage.
 
-Вернёмся к начальному вопросу о выгодных действиях. По убыванию выгоды они будут следующими:
+Please note that the importance of each type of advantage depends on the current state of the game. For example, a level advantage is more important than an item advantage during the laning phase. This rule applies until champions reach level 6. Therefore, a level advantage is decisive on first minutes. Items provide more power after level 6 and become the decisive advantage.
 
-1. Реализация имеющегося преимущества.
+Let us return to the question we asked at the beginning of this section. Here are beneficial actions in the descending order:
 
-2. Действие которое, даст какой-то тип преимущества.
+1. Use the existing advantage.
 
-3. Стандартное действие.
+2. Take action that gives some type of advantage.
 
-**Реализация преимущества** — это самое выгодное действие в общем случае. Команда или отдельный чемпион уже сильнее противника. Они должны как-то это реализовать и получить что-то в награду. Пример: атака противников на объекте, когда у команды есть численное преимущество.
+3. A standard action in the current conditions.
 
-**Действие, которое потенциально даст преимущество** будет вторым по выгоде. Если удастся нарушить какую-либо форму равновесия в свою пользу, этим можно будет воспользоваться. Пример: атака дракона, чтобы получить его усиление.
+**Using an advantage** is the most beneficial action in general. A team or a single champion is already stronger than the enemy. Players must somehow capitalize on this and gain something in return. For example, contest some object when the team has a numerical advantage.
 
-**Стандартное действие** будет самым невыгодным в нашем списке. Обычно оно направлено на то, чтобы сохранить текущее равновесие сил. Игрок сможет получить преимущество из такого действия только тогда, когда исполняет его значительно лучше оппонента. Пример: фарминг миньонов на линии.
+**Take action that gives some type of advantage**. It is the second most beneficial choice. If you manage to tip some form of equilibrium in your favor, you can take advantage of it. For example, attack a dragon to gain its buff.
+
+The **standard action** is the most disadvantageous choice on our list. It is usually aimed at maintaining the current equilibrium of teams power. A player will only benefit from this action if he executes it significantly better than his opponent. For example, farm minions on lane.
 
 ### 2.1.5 Macrocycle
 
