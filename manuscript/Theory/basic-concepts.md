@@ -208,7 +208,7 @@ Teams frequently clash in five-on-five fights during the late game. The outcome 
 
 ### 2.1.4 Advantage
 
->>>W
+>>>R1
 
 Now we reach the third question in our list:
 
@@ -285,46 +285,52 @@ Let us return to the question we asked at the beginning of this section. Here ar
 
 The **standard action** is the most disadvantageous choice on our list. It is usually aimed at maintaining the current equilibrium of teams power. A player will only benefit from this action if he executes it significantly better than his opponent. For example, farm minions on lane.
 
-### 2.1.5 Macrocycle
+### 2.1.5 Macro cycle
 
-Четвёртый вопрос звучит так:
+>>>W
 
-> Как обнаружить преимущество?
+Here is the fourth question on our list:
 
-Для этого игроку нужно две вещи:
+> How do you discover an advantage?
 
-1. Заучить шаблоны для распознавания типичных игровых ситуаций.
+A player needs two things fo doing this:
 
-2. Эффективно управлять вниманием во время партии.
+1. Learn templates for recognizing typical game situations.
 
-Шаблоны для разных игровых аспектов и правильные действия мы будем рассматривать дальше в каждой главе этой книги. Сейчас мы поговорим об управлении вниманием.
+2. Effectively manage his attention during the game.
 
-В **стратегиях реального времени** (real-time strategy или RTS) есть понятие макроцикла. **Макроцикл** (macro cycle) — это подход к эффективному управлению игровой экономикой. Его идея в том, чтобы составить список задач и регулярно его исполнять.
+We will explore templates for various gameplay aspects and proper actions further in this book. Now, let us talk about attention management.
 
-Вот пример макроцикла для типичной стратегии:
+There is the concept of a macro cycle in **real-time strategy** (RTS) games. A **macro cycle** is an approach to effectively managing a game's economy. The idea is to create a list of tasks and execute them sequentially.
 
-1. Производство рабочих.
-2. Распределение рабочих для добычи ресурсов.
-3. Производство военных юнитов.
-4. Строительство новых зданий.
-5. Выполнение технических улучшений.
+Here is an example macro cycle for a typical strategy game:
 
-Когда игрок следует макроциклу, он по порядку выполняет действия из списка. Достигнув последнего, игрок начинает список сначала.
+1. Produce workers.
+2. Deploy workers to mine resources.
+3. Produce military units.
+4. Construct new buildings.
+5. Perform technical upgrades.
 
-Преимущество макроцикла в том, что игрок не забудет ничего важного. После многократного повторения макроцикл формирует устойчивую привычку. Если в списке есть какое-то действие, игрок обязательно его выполнит. Ему не надо тратить лишние когнитивные ресурсы на запоминание. Макроцикл позволяет в равных долях распределять внимание между всеми аспектами игры.
+When a player follows a macro cycle, he performs the actions in the list in order. Upon reaching the last action, the player starts the list over again.
 
-В любой стратегии происходят случайные события. Некоторые из них требуют полного внимания игрока. После решения возникшей проблемы, игрок должен начать макроцикл по новой. Это его режим работы по умолчанию.
+The advantage of a macro cycle is that the player would not forget anything important. The macro cycle forms a strong habit after repeated use.  If an action is listed, the player will definitely perform it. He does not have to waste unnecessary cognitive resources on memorization. The macro cycle allows for equal attention distribution across all aspects of the game.
 
-В League of Legends нет такой экономической составляющий, как в типичной стратегии. Игроки не строят базу и не производят новые юниты. Тем не менее, сама идея макроцикла остаётся актуальна. Потому что в игре есть много аспектов и игроку нужно распределять внимание между ними.
+Random events occur in any strategy game. Some of these events require the player's full attention. After resolving the problem, the player must restart the macro cycle. This is his default mode.
 
-Среди новичков типична ошибка, когда игрок фокусирует внимание только на одном аспекте игры. Например, начинающий топлейнер смотрит только на волну вражеских миньонов. Таким образом он старается не пропустить возможность для их добивания (ластхит). При этом игрок не видит состояние своего чемпиона и противника. Он не замечает моменты, когда получает преимущество по здоровью, мане или уровню. Поэтому игрок не может реализовать такое преимущество. Макроцикл позволяет избежать подобных ошибок.
+League of Legends does not have an economy like a typical strategy game. Players do not build a base or produce new units. However, the idea of ​​a macro cycle remains relevant. Because the game has many aspects, players need to balance their attention between them.
 
-Макроцикл для каждой из пяти ролей будет отличаться. Для примера мы рассмотрим возможные макроциклы мидлейнера и лесника.
+A common mistake among new players is focusing on only one aspect of the game. For example, a novice top laner might focus exclusively on the enemy minion wave, trying not to miss an opportunity to last-hit them. This prevents the player from seeing the health, mana, or level of his champion. He does not notice when he gains an advantage in health, mana, or level. Therefore, the player fails to capitalize on this advantage. A macro cycle helps to avoid such mistakes.
 
-Иллюстрация 2-2 демонстрирует объекты на карте, между которыми должен переключать своё внимание мидлейнер.
+The macro cycle for each of the five team roles will be different. For example, we will look at possible macro cycles for a mid laner and a jungler.
 
-{caption: "Иллюстрация 2-2. Макроцикл мидлейнера", height: "50%"}
-![Макроцикл для мидлейнера](images/Theory/map-season-13-midlaner-macrocycle.png)
+Figure 2-2 shows the objects on the map that the mid laner must switch his attention between.
+
+{caption: "Figure 2-2. Macro cycle for mid laner", height: "50%"}
+![Mid laner macro cycle](images/Theory/map-season-13-midlaner-macrocycle.png)
+
+>>>
+
+>>>
 
 Это дополненная версия иллюстрации 2-1. На ней синие и красные круги отмечают чемпионов.
 
