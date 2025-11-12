@@ -328,60 +328,58 @@ Figure 2-2 shows the objects on the map that the mid laner must switch his atten
 {caption: "Figure 2-2. Macro cycle for mid laner", height: "50%"}
 ![Mid laner macro cycle](images/Theory/map-season-13-midlaner-macrocycle.png)
 
->>>
+This is an expanded version of Figure 2-1. It has the blue and red circles that mark the champions of each team.
+
+Let us have a look on Figure 2-2. The pink circle with number 1 marks the the blue team's mid laner. The pink text marks the objects that the player should check during his macro cycle. Here are these objects:
+
+1. State of his own champion:
+
+   * health
+   * mana
+   * level
+   * ready abilities
+   * items and their effects' readiness.
+
+2. State of the enemy champion on the lane:
+
+   * health
+   * mana
+   * level
+   * ready abilities (remember cooldowns)
+   * items.
+
+3. Enemy minions wave:
+
+   * is there a minion for the last hit?
+   * total number of minions in the wave
+   * location of the next wave (symmetrical to the next allied wave).
+
+4. Allied minion wave:
+
+   * is there a minion for the last hit?
+   * total number of minions in the wave
+   * location of the next wave.
+
+5. Allied or enemy tower, if it is nearby:
+
+   * health and plate count
+   * its attack range.
+
+6. Minimap:
+
+   * Allied jungler location
+   * Enemy jungler location (requires tracking skill)
+   * State of adjacent lanes (minion wave positions, presence of champions in lanes)
+   * State of nearby jungle monster camps (especially epic ones: Herald, Baron, Dragon).
+
+7. Game stats by the Tab key:
+
+   * levels of all champions
+   * items of all champions.
 
 >>>
 
-Это дополненная версия иллюстрации 2-1. На ней синие и красные круги отмечают чемпионов.
-
-Рассмотрим макроцикл мидлейнера синей команды. На иллюстрации его чемпион отмечен розовым кругом. Розовый текст указывает объекты, проверка которых входит в макроцикл игрока.
-
-Согласно иллюстрации, макроцикл мидлейнера выглядит так:
-
-1. Состояние своего чемпиона:
-
-   * количество здоровья
-   * количество маны
-   * уровень
-   * готовые умения
-   * предметы и готовность их эффектов.
-
-2. Состояние оппонента на линии:
-
-   * количество здоровья
-   * количество маны
-   * уровень
-   * готовые умения (надо запоминать время перезарядки)
-   * предметы.
-
-3. Вражеская волна миньонов:
-
-   * есть ли миньон для ластхита?
-   * общее количество миньонов в волне
-   * место нахождения следующей волны (симметрично следующей союзной).
-
-4. Союзная волна миньонов:
-
-   * есть ли миньон для ластхита?
-   * общее количество миньонов в волне
-   * место нахождения следующей волны.
-
-5. Союзная или вражеская башня, если она находится поблизости:
-
-   * количество здоровья и пластин
-   * дальность её атаки.
-
-6. Миникарта:
-
-   * место расположения союзного лесника
-   * место расположения вражеского лесника (нужен навык его трекинга)
-   * состояние соседних линий (положение волн миньонов, наличие чемпионов на линиях)
-   * состояние ближайших лагерей монстров (особенно эпических: Герольд, барон, дракон).
-
-7. Статистика команд (scores) по клавише Tab:
-
-   * уровни всех чемпионов
-   * предметы всех чемпионов.
+>>>
 
 I> [**Перезарядка**](https://leagueoflegends.fandom.com/ru/wiki/Перезарядка) (cooldown или CD) наступает сразу после использования умения. Это время, в течение которого оно недоступно. Перезарядка есть не только у умений чемпиона, но и у рун, заклинаний призывателя и эффектов предметов.
 
