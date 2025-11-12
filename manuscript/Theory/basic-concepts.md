@@ -287,7 +287,7 @@ The **standard action** is the most disadvantageous choice on our list. It is us
 
 ### 2.1.5 Macro cycle
 
->>>W
+>>>R1
 
 Here is the fourth question on our list:
 
@@ -377,79 +377,75 @@ Let us have a look on Figure 2-2. The pink circle with number 1 marks the the bl
    * levels of all champions
    * items of all champions.
 
->>>
+I> [**Cooldown**](https://wiki.leagueoflegends.com/en-us/Cooldown) (CD) occurs immediately after using an ability. It is the time during which the ability is unavailable. Cooldowns apply not only to champion abilities, but also to runes, summoner spells, and item effects.
 
->>>
+The list shows objects and game aspects that a player should regularly pay attention to. A typical pattern may emerge in one of them. This pattern could indicate a temporary advantage and an opportunity to capitalize on it. It is impossible to notice the pattern without focusing on the corresponding game object.
 
-I> [**Перезарядка**](https://leagueoflegends.fandom.com/ru/wiki/Перезарядка) (cooldown или CD) наступает сразу после использования умения. Это время, в течение которого оно недоступно. Перезарядка есть не только у умений чемпиона, но и у рун, заклинаний призывателя и эффектов предметов.
+> To find a pattern in something, you have to look at it.
 
-Список приводит все аспекты партии, на которые игрок должен регулярно обращать внимание. В одном из них может возникнуть шаблон типичной ситуации. Он укажет на временное преимущество и возможность его реализовать. Шаблон невозможно заметить без переключения внимания на соответствующий аспект игры.
+Let us look at the blue team's jungler macro cycle. This role is unique because the player spends almost the entire laning phase in the jungle. Therefore, his macro cycle is significantly different from the others.
 
-> Чтобы обнаружить закономерность в чём-либо, на это что-то надо посмотреть.
+Figure 2-3 shows the objects on the map that are part of the jungler's macro cycle.
 
-Рассмотрим макроцикл лесника синей команды. Эта роль отличается от остальных тем, что почти всю стадию лейнинга игрок проводит в лесу. Поэтому его макроцикл кардинально отличается от остальных.
+{caption: "Figure 2-3. Macro cycle for jungler", height: "50%"}
+![Jungler macro cycle](images/Theory/map-season-13-jungler-macrocycle.png)
 
-Иллюстрация 2-3 демонстрирует объекты на карте, которые входят в макроцикл лесника.
+The blue team's jungler is marked with a pink circle with the number 1. Here are the objects in his macro cycle:
 
-{caption: "Иллюстрация 2-3. Макроцикл лесника", height: "50%"}
-![Макроцикл для лесника](images/Theory/map-season-13-jungler-macrocycle.png)
+1. State of his own champion:
 
-Лесник синей команды отмечен розовым кругом. Согласно иллюстрации, его макроцикл выглядит так:
+   * health
+   * mana
+   * level
+   * ready abilities
+   * items and their effects' readiness.
 
-1. Состояние своего чемпиона:
+2. Location and state of the enemy jungler (requires tracking skill):
 
-   * количество здоровья
-   * количество маны
-   * уровень
-   * готовые умения
-   * предметы и готовность их эффектов.
+   * minimap
+   * game stats window.
 
-2. Место расположения и состояние вражеского лесника (нужен навык его трекинга):
+3. Nearest jungle monster camps:
 
-   * миникарта
-   * окно статистики команд.
+   * current farming target
+   * next farming target.
 
-3. Ближайшие лагеря лесных монстров:
+4. Lane state, starting with the closest:
 
-   * текущая цель для фарминга
-   * следующая цель для фарминга.
+   * minion wave position
+   * presence of champions in the lane
+   * champions state (health, mana, level, items).
 
-4. Состояние линий, начиная с ближайшей:
+5. Next epic monster to contest:
 
-   * положение волн миньонов
-   * наличие чемпионов на линии
-   * состояние чемпионов (здоровье, мана, уровень, предметы).
+   * its respawn timer
+   * allied champions in range
+   * enemy champions in range.
 
-5. Следующий эпический монстр для взятия:
+6. Game stats by the Tab key:
 
-   * таймер его возрождения
-   * союзные чемпионы в зоне доступности
-   * вражеские чемпионы в зоне доступности.
+   * levels of all champions
+   * items of all champions.
 
-6. Статистика команд (scores) по клавише Tab:
+Please note that a jungler cannot read all information from minimap. He should switch the camera to each lane and check what is happening there. The best way for doing it is using hotkeys F1, F2, F3, and F4. The [following video](https://www.youtube.com/watch?v=pizMcCWv8y8) explains how to configure them.
 
-   * уровни всех чемпионов
-   * предметы всех чемпионов.
+You could try to introduce macro cycle into your games step by step:
 
-Обратите внимание, что леснику недостаточно смотреть только на миникарту. Игрок должен переключать камеру на каждую линию и проверять, что именно там происходит. Для этого лучше использовать горячие клавиши (hotkey) F1, F2, F3, F4. [Следующее видео](https://www.youtube.com/watch?v=pizMcCWv8y8) объясняет, как их настроить.
+1. Make a list of the minimum required actions to repeat. A good starting point could be the following:
 
-Попробуйте постепенно ввести макроцикл в свои игры. Для этого выполните следующие шаги:
+   * check game objects on the main screen
+   * check the minimap
+   * check game stats by pressing the Tab key.
 
-1. Составьте макроцикл из минимально необходимых действий. Для начала это может быть следующий список:
+2. Install and set the [metronome app](https://play.google.com/store/apps/details?id=com.andymstone.metronome&hl=en) to 15 seconds. It gives your a regular sound signal.
 
-   * проверить игровые объекты на основном экране
-   * проверить миникарту
-   * проверить статистику команд по клавише Tab.
+3. When the signal happens, perform the macro cycle. Consistently switch your attention between the items on the list.
 
-2. Поставьте [приложение метроном](https://play.google.com/store/apps/details?id=com.andymstone.metronome&hl=en) на 15 секунд, чтобы получать регулярный звуковой сигал.
+4. If some game event distracts you, you should process it first. Then return to the macro cycle and start it from the beginning.
 
-3. При срабатывании сигнала выполняйте макроцикл. Последовательно переключайте внимание между пунктами, указанными в списке.
+You could start practicing the macro cycle in "Co-op vs. AI" mode. It will be easier to control your attention there. The minimal macro cycle will become a habit soon. Add new actions to the list that you consider as important. Gradually reduce the delay between sound signals.
 
-4. Если вас отвлекло какое-то игровое событие, сначала обработайте его. Затем вернитесь к макроциклу и начните его сначала.
-
-Начните тренировать макроцикл в режиме "Co-op vs. AI" (против ботов). Так вам будет проще следить за переключением внимания. Постепенно минимальный макроцикл войдёт у вас в привычку. Добавьте в него действия, которые считаете важными. Постепенно сокращайте задержку между звуковыми сигналами.
-
-Равномерно распределять внимание между аспектами игры важно для каждой роли. Для лесника это просто необходимо. Если лес — ваша основная роль, постарайтесь освоить минимальный макроцикл перед следующей рейтинговой игрой.
+Distributing your attention between important aspects of the game is essential for each role. This is especially true for the jungler. If jungler is your primary role, you need to learn a minimal macro cycle before your next ranked game.
 
 ### 2.1.6 Tempo
 
