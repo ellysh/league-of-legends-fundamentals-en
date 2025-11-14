@@ -449,95 +449,95 @@ Distributing your attention between important aspects of the game is essential f
 
 ### 2.1.6 Tempo
 
-Пятый вопрос был таким:
+>>>W
 
-> Как получить преимущество?
+Here is the fifth question on our list:
 
-Опытные игроки накапливают преимущество **от малого к большему**. Это самый надёжный способ выиграть у равного по силам противника.
+> How do you gain an advantage?
 
-Накопление преимущества начинается, когда одна из форм равновесия нарушается в пользу игрока. Он должен это заметить и воспользоваться возможностью. Часто это означает действовать по плану, в котором каждое действие даёт небольшую выгоду. Постепенно план приводит к крупному преимуществу.
+Experienced players accumulate advantages **from small to large**. This is the most reliable way to win against an equally strong opponent.
 
-Темп — это то, с чего начинают накапливать преимущество опытные игроки. Разберёмся, что означает этот термин.
+The player starts to accumulate an advantage when one of the equilibrium forms shifts in his favor. He should notice this shift and take advantage of the opportunity. It means that the player should act according to some plan in which each step provides a small benefit. Gradually, this plan leads to a major advantage.
 
-В **пошаговых стратегиях** (turn-based strategy или TBS) есть понятие хода. **Ход** — это определённый момент времени, когда игроку разрешено действовать. Ходы следуют друг за другом последовательно. Каждый игрок действует в свой ход.
+Tempo is the starting point from which experienced players begin to accumulate an advantage. Let us explore what this term means.
 
-League of Legends — это игра в реальном времени. Её механика не ограничивает моменты, когда игроки могут действовать. Тем не менее, в игре есть понятия хода. Он называется плэй.
+There is the concept of a turn in turn-based strategy (TBS) games. A **turn** is a specific moment in time when a player is allowed to act. Turns follow one after another sequentially. Each player acts on his turn.
 
-I> **Плэй** (play) — так называют ход команды или чемпиона опытные игроки в League of Legends.
+League of Legends is a real-time game. Its mechanics allow players to act continuously. The only exception is death. In this case, the player must wait for a respawn timer. However, the game does have a concept of a turn which is called a play.
 
-Команда и каждый её чемпион эффективно действуют только при определённых условиях. Они складываются из имеющихся ресурсов и позиций игроков на карте. Если ресурсы есть и позиции выгодные — можно делать плэй. В противном случае команда или чемпион действовать не могут.
+I> A **play** is a single action by a team or player that pursues a specific goal. For example, taking an epic monster or destroying an enemy tower.
 
-Условия при которых команда или чемпион могут действовать эффективно называются [**темпом**](https://wiki.leagueoflegends.com/en-us/Snowball#Qualities). Coach Kairos подробно объясняет эту концепцию в [следующем видео](https://www.youtube.com/watch?v=vHVeltI0IkE). Он даёт следующую **формулу расчёта темпа** для конкретного чемпиона:
+A team and each of its champions can only operate effectively under certain conditions. Two things determine these conditions: the available resources and the players' positions on the map. If resources are available and the positions are favorable, a play can be made. Otherwise, the team or champion cannot act.
+
+The conditions under which a team or champion can operate effectively are called [**tempo**](https://wiki.leagueoflegends.com/en-us/Snowball#Qualities). Coach Kairos explains this concept in detail in [the this video](https://www.youtube.com/watch?v=vHVeltI0IkE). He gives the following **tempo formula** for a specific champion:
 {line-numbers: false, format: text}
 ```
-tempo = champion power / distance from objective
+tempo = champion power / distance to object
 ```
 
-Обозначения в формуле следующие:
+**The first part of the formula** is champion power. It is made up of a champion's resources. We can divide them into two types:
 
-* tempo — темп
-* champion power — сила чемпиона
-* distance from objective — расстояние до объекта.
+1. Static
+2. Dynamic.
 
-**Первая часть формулы** — champion power (сила чемпиона). Она складывается из его ресурсов. Для удобства разделим их на два типа:
+**Static resources** are things that a champion has already acquired and can no longer lose. Examples: level, items, gold, and permanent stacks of certain abilities.
 
-1. Статические
-2. Динамические.
+**Dynamic resources** are things that a champion can spend or lose. Examples: health and mana, temporary buffs, readiness of abilities, summoner spells, and item effects.
 
-**Статические ресурсы** — это то, что чемпион уже получил и больше не может потерять. Примеры: уровень, предметы, золото, постоянные стаки каких-то умений.
+We have talked about the equilibrium of game objects. One of its forms is resource equilibrium, which is restored over time. Dynamic resources restore over time. It is obvious. For example, each champion passively replenishes health and mana, even without returning to the fountain. Their abilities and item effects also recharge after a cooldown.
 
-**Динамические ресурсы** — это то, что чемпион может потратить или потерять. Примеры: запас здоровья и маны, временные усиления, готовность умений, заклинаний призывателя и эффектов предметов.
+It is less obvious that the equilibrium of static resources is also restored over time. Here is an example. The blue team's mid laner is the first player who has reached level 18 and get all items. This is a significant advantage and he could carry his team to victory. However, if the game drags on, the red team returns to the game. After some time, its champions will reach level 18 and get all items. Therefore, the blue mid laner, who led in static resources, will lose his advantage over time. Then, the balance of power between the teams will be restored along with the equilibrium of static resources.
 
-Мы говорили о равновесии игровых объектов. Одна из его форм — равновесие ресурсов, которое восстанавливается с течением времени. Очевидно, что динамические ресурсы восстанавливаются с течением времени. Например, каждый чемпион пассивно пополняет здоровье и ману, даже не возвращаясь на фонтан. Также его умения и эффекты предметов снова готовы после времени перезарядки.
+Coach Kairos suggests considering only a portion of a champion's static and dynamic resources for simplicity. Table 2-1 shows them.
 
-Менее очевидно то, что равновесие статических ресурсов тоже восстанавливается с течением времени. Рассмотрим пример. Допустим, что мидлейнер синей команды первым получил 18-й уровень и собрал все предметы. Для его команды это большое преимущество, которое можно довести до победы. Но если партия затягивается, красная команда вернётся в игру. Спустя какое-то время её чемпионы получат 18-е уровни и соберут все предметы. Таким образом игрок, который лидировал по статическим ресурсам, потеряет преимущество через какое-то время. Тогда вместе с равновесием статических ресурсов восстановится и равновесие сил команд.
-
-Для простоты coach Kairos предлагает учитывать статические и динамические ресурсы чемпиона из таблицы 2-1.
-
-{caption: "Таблица 2-1. Ресурсы чемпиона для расчёта темпа", width: "100%"}
-| Обозначение | Описание | Шкала |
+{caption: "Table 2-1. Champion resources for tempo calculation", width: "100%"}
+| Designation | Description | Scale |
 |  | | |
 | --- | --- | --- |
 |  | | |
-| resources | Здоровье и мана | от 1 до 3, где 2 — это половина |
+| resources | Health and mana | from 1 to 3, where 2 is half |
 |  | | |
-| stats | Базовые характеристики за уровень | от 1 до 5, где 3 — равенство уровней |
+| stats | Base champion stats per level | from 1 to 5, where 3 is equality of levels |
 |  | | |
-| items | Предметы и их характеристики | от 1 до 5, где 3 — равенство предметов |
+| items | Items and their stats | from 1 to 5, where 3 is the equality of items |
 |  | | |
-| cooldowns | Готовность умений, заклинаний призывателя и эффектов предметов | от 1 до 5, где 3 — означает, что некоторые CD готовы |
+| cooldowns | Readiness of abilities, summoner spells, and item effects | from 1 to 5, where 3 means that some CDs are ready |
 
-Формула для расчёта силы чемпиона выглядит так:
+Here is the formula to calculate champion power:
 {line-numbers: false, format: text}
 ```
 champion power = resources * (stats + items + cooldowns)
 ```
 
-Обратите внимание, что resources — это множитель. Другими словами, здоровье и мана являются определяющим фактором. На низком уровне здоровья у чемпиона нет темпа, независимо от остальных его характеристик.
+Note that resources are the multiplier. It means that health and mana are the determining factors. A champion has no tempo at low health, regardless of his other stats.
 
-**Вторая часть формулы** для расчёта темпа — расстояние до объекта. Объектом может быть не только эпический монстр или вражеское строение. В контексте темпа им может быть линия для ганка, командное сражение, лагерь лесных монстров и даже волна миньонов на лини.
+**The second part of the tempo calculation formula** is the distance to the object. An object can be anything besides an epic monster or enemy structure. In the context of tempo, it can also be a lane for gank, a teamfight, a jungle camp, or even a minion wave.
 
-Обратите внимание, что темп считается для конкретного объекта на карте. Пример: пусть чемпион находится на нижней линии. Тогда его темп относительно дракона будет высоким, а относительно барона — низким.
+Note that tempo is calculated for a given map object. For example, suppose a champion is on the bottom lane. His tempo on a dragon will be high, but his tempo on baron will be low.
 
-Расстояние до объекта измеряется в секундах, чтобы его достичь. Например, если игрок на базе, но у него готово заклинание телепорта, то его расстояние до объекта будет маленьким.
+The distance to an object is measured in seconds to reach it. For example, if a player is at base but has a teleport spell ready, his distance to the object is small.
 
-Чтобы оценить расстояние, coach Kairos предлагает шкалу от 1 до 10:
+Coach Kairos suggests a scale from 1 to 10 that allows to estimate the distance:
 
-* 1 — чемпион уже на объекте.
-* 5 — чемпион на полпути к объекту.
-* 10 — чемпион на базе или мёртв.
+* 1 — the champion is already at the objective.
+* 5 — the champion is halfway to the objective.
+* 10 — the champion is at the base or dead.
 
-Рассмотрим, как использовать формулу для расчёта темпа на примере. Вычислим темп синего лесника Viego относительно дракона. Для простоты будем учитывать только лесников обеих команд и проигнорируем остальных чемпионов.
+Let us calculate tempo for a specific example. There is a blue jungler Viego. We want to know his tempo on the dragon. For simplicity, we will only consider the junglers of both teams and ignore other champions.
 
-Допустим, что Viego имеет полное здоровье и ману. Тогда его resources равны 3. У него восьмой уровень, а у красного лесника — шестой. Тогда stats Viego равны 5. Пусть он собрал первый предмет, а противнику не хватает одного компонента. Тогда его items равно 4. Все умения и заклинания у Viego готовы. Поэтому cooldowns чемпиона равны 5. Он выходит на нижнюю реку из своего леса — его расстояние до объекта равно 2.
+Viego has full health and mana. Therefore, his resources equal 3. He has level 8, and the red jungler has level 6. It mans that Viego's stats equal 5. He bought his first item, and the enemy jungler does not have it. Then Viego's items equal 4. All of Viego's abilities and spells are ready. Therefore, the champion's cooldowns equal 5. Viego enters the lower river from his jungle. Then his distance to the object equals 2.
 
-Расчёт темпа для Viego относительно дракона выглядит так: 
+Here is the tempo on the dragon calculation for Viego:
 {line-numbers: false, format: text}
 ```
 tempo = 3 * (5 + 4 + 5) / 2 = 21
 ```
 
-Это очень высокое значение. Сравним его с темпом красного лесника Ekko, который находится в своём верхнем лесу. Расстояние до объекта для него равно 7. Пусть его ресурсы будут следующими:
+This is a very high value. Let us compare it to the tempo of the red jungler Ekko, who is in top jungle now. His distance to the object is 7. His resources are the following:
+
+>>>
+
+>>>
 
 * Полное здоровье и мана: resources = 3.
 
