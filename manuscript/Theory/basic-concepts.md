@@ -172,7 +172,7 @@ The standard champion distribution across the map in the laning phase looks like
 
 Typically two players occupy bot lane. One of them is a support. He does not kill minions. Instead, he has a special item that provides him gold in a different way.
 
-The **mid game** phase typically begins at the 14th minute and lasts until the 25th minute. It ends around the time when players collect their third item. Teams' goals during this stage are following:
+The **mid game** phase typically begins at the 14th minute and lasts until the 25th minute. It ends around the time when players collect their third item. Teams' goals during this phase are following:
 
 1. Map control.
 
@@ -578,58 +578,58 @@ A player can easily gain a small tempo advantage if he comes to a closer positio
 
 ### 2.1.7 Victory condition
 
->>>W
+>>>R1
 
-Последний вопрос в нашем списке следующий:
+Here is the last question on our list:
 
-> Как довести преимущество до победы?
+> How to turn an advantage into a victory?
 
-Мы выяснили, что есть разные типы преимущества. Также преимущество одного типа может отличаться количественно. Например, сравним разницу по золоту между командами в 1000 и в 14000. Во втором случае примерно каждый чемпион лидирующей команды опережает своего оппонента на линии на целый предмет. Это открывает гораздо больше возможностей, чем небольшое преимущество команды в 1000 золота.
+We already know that there are different types of advantage. The advantage within a given type can also vary in quantity. Let us compare the gold gap between teams with 1000 and 14000 gold for example. In the second case, every champion of the leading team is a full item ahead of his opponent in lane. This opens up far more opportunities than a small advantage of 1000 gold.
 
-Не всякого преимущество достаточно, чтобы одержать верх в партии. **Условие победы** (win condition) — это конкретный тип преимущества в достаточном количестве, чтобы гарантировать команде победу.
+Not every advantage is enough to win a game. A **win condition** is a specific type of advantage in sufficient quantity to guarantee a victory.
 
-**Цель команды на партию** — достигнуть своё условие победы. Обратите внимание, что оно зависит от состава команды. Другими словами, разные комбинации чемпионов имеют разные условия для победы в партии.
+A team's goal for the game is to achieve its win condition. Note that this depends on the team composition. In other words, different champion combinations have different win conditions.
 
-Чтобы достичь условия победы, команде нужен **общий план на игру**. Он определяет решения и действия команды в течение партии. План строится исходя из следующих факторов:
+A team needs a **general game plan** to achieve a win condition. It guides the team's decisions and actions throughout the game. The plan is based on the following factors:
 
-1. Комбинация чемпионов в команде.
+1. Combination of champions in the team.
 
-2. Комбинация чемпионов у противника.
+2. Combination of opponent champions.
 
-3. План каждого игрока на стадию лейнинга.
+3. Each player's plan for the laning phase.
 
-**Комбинация чемпионов в команде** определяет, как они могут взаимодействовать и тем самым усилить свои возможности. В зависимости от чемпионов, надо выбирать подходящие приёмы для контроля карты и строить командные сражения.
+**Combination of champions in the team** determines how they can interact and enhance their capabilities. Players should choose the right strategies for map control and teamfights depending on their champions setup.
 
-**Комбинация чемпионов противников** показывает, какие средства есть у вражеской команды. Некоторые средства могут полностью нейтрализовать возможности команды игрока. Это надо учитывать при составлении плана.
+**Combination of opponent champions** defines the enemy team's capabilities. Some of them can completely neutralize the capabilities of player's team. Players should take this into account when developing a game plan.
 
-**План игрока на лейнинг** определяет, как именно он собирается выходить в мидгейм с преимуществом. Некоторые чемпионы могут смещаться и помогать союзникам в течение лейнинга. Другие вынужденны постоянно оставаться на своей линии. В противном случае, они выйдут в мидгейм с отставанием. Это тоже надо учитывать в общем плане на игру.
+**Player's plan for the laning phase** determines how he intends to gain an advantage during the laning phase. Some champions can rotate and assist their allies during the laning phase. Others are forced to remain in their lane constantly. Otherwise, they will fall behind in the mid game. Players must factor this into their game plan.
 
-В текущем балансе игры есть ряд устоявшихся типичных планов. Игроки выбирают один из них в подавляющем большинстве партий. Эти планы работают как в соревновательных играх, так и в рейтинговых на всех уровнях Эло.
+There are several typical plans in the current game balance. Players choose one of them in the vast majority of games. These plans work in both competitive and ranked games on all Elo levels.
 
-Вот список типичных планов на игру:
+Here is a list of typical game plans:
 
-1. **Ранняя агрессия** (early game aggression). Команда выбирает чемпионов, которые особенно сильны на стадии лейнинга. Примеры: Renekton, Lee Sin, Lucian. На равных ресурсах они сильнее оппонента на линии за счёт ранних power spike от умений. Эти power spike позволяют убивать противников и получать ранее преимущество по ресурсам. План на игру заключается в том, чтобы накапливать преимущество от малого к большему.
+1. **Early game aggression**. The team picks champions that are very strong in the laning phase. Examples: Renekton, Lee Sin, Lucian. They outperform their opponents in lane with equal resources thanks to early power spikes from abilities. These power spikes allow them to kill opponents and gain an early resource advantage. The game plan is to accumulate the advantage from small to large.
 
-I> **Power spike** (пик силы) — момент в игре, когда конкретный чемпион становится значительно сильнее. Это происходит после достижения определённого уровня или приобретения ключевого предмета.
+I> A **power spike** is a moment in the game when a champion becomes significantly stronger. This happens after reaching a certain level or buying a key item.
 
-2. **Скейлинг в лейтгейм** (late game scaling). В команде есть минимум один гиперкерри чемпион. Примеры: Kayle, Jinx, Smolder, Aurelion Sol. Он слаб в начале партии, но становится очень сильным в лейтгейме. План заключается в замедлении игры и получении с карты равных ресурсов с противником. Те же ресурсы дают гиперкерри более сильные power spike, чем другим чемпионам. Тогда в мидгейме он начинает доминировать в командных сражениях. Игра всей команды строится вокруг гиперкерри.
+2. **Late game scaling**. The team has at least one hypercarry champion. Examples: Kayle, Jinx, Smolder, Aurelion Sol. They are weak early on but become very strong in the late game. The plan is to slow down the game and gain resources on par with opponents. The same resources give the hypercarry stronger power spikes than other champions. Then, they dominate teamfights in the mid game. The entire team's plays revolve around hypercarry.
 
-I> **Scaling** (скейлинг или масштабирование) — это увеличение силы чемпиона в результате получения ресурсов и с течением времени.
+I> **Scaling** is the increase in a champion's power as a result of resource acquisition and over time.
 
-I> **Carry** (кэри) — это чемпион с хорошим масштабированием умений от AD или AP. После приобретения нескольких предметов он становится основным источником урона в команде. Его участие в сражении — это решающий фактор.
+I> **Carry** is a champion with good skills scaling from AD or AP statistics. He becomes the primary damage dealer in the team after buying a few items. His presence in teamfights is crucial in mid and late game.
 
-3. [**Сплит-пуш**](https://leagueoflegends.fandom.com/wiki/User_blog:Fistful_of_Force/Split_push.) (split push) — это давление одного чемпиона на боковой линии. План заключается в том, чтобы создавать угрозу разрушения башни или ингибитора. Противники будут вынуждены на неё реагировать. Тем самым команда получает контроль карты и численное преимущество в сражениях за объекты.
+3. [**Split push**](https://leagueoflegends.fandom.com/wiki/User_blog:Fistful_of_Force/Split_push.) is a single champion pushing on the side lane. The plan is to create a threat to destroy an enemy tower or inhibitor. This threat forces opponents to react. Therefore, the team gains map control and a number advantage in contesting some objective.
 
-I> **Пушинг миньонов** ([pushing](https://www.mobafire.com/league-of-legends/wiki/game-mechanics/pushing)) — это быстрое убийство вражеских миньонов на линии. Для этого обычно применяют атакующие умения чемпиона.
+I> [**Pushing**](https://www.mobafire.com/league-of-legends/wiki/game-mechanics/pushing) is the rapid killing of enemy minions in a lane. This is usually done by using a champion's offensive abilities.
 
-4. **Командное сражение** (team fight). Команда выбирает чемпионов, которые сильны в сражениях пять на пять. Умения таких чемпионов позволяют инициировать сражение (engage) или наносить урон по области (area-of-effect damage). Примеры: Malphite, Amumu, Rumble, Zyra, Brand. План заключается в ускорении игры. Команда навязывает частые сражения за объекты на карте. Подходящая комбинация чемпионов даёт в них преимущество.
+4. **Teamfight**. The team picks champions who excel in five-on-five combat. Their abilities allow them to engage or deal area-of-effect (AoE) damage. Examples: Malphite, Amumu, Rumble, Zyra, Brand. The plan is to speed up the game. The team forces frequent fights for objectives on the map. A suitable combination of champions gives the team an advantage in these fights.
 
-5. **Осада** (siege). В команду входят чемпионы с большой дальностью умений или атаки. Примеры: Jayce, Ziggs, Caitlyn, Ezreal, Zoe. План состоит в том, чтобы наносить противнику урон с безопасного расстояния. Это истощает динамические ресурсы вражеской команды. Когда она уже не сможет действовать, надо навязывать сражение за объект на карте.
+5. **Siege**. The team picks champions with long range abilities or auto attacks. Examples: Jayce, Ziggs, Caitlyn, Ezreal, Zoe. The plan is to deal damage to the opponents from a safe distance. This drains dynamic resources of the enemy team. Player and his team should force a fight for the objective on the map once opponents can not act because of lacking resources.
 
-Чем больше чемпионов команды ориентированы на один план, тем лучше он работает. С другой стороны, противник может выбрать чемпионов так, чтобы полностью нейтрализовать этот план. Поэтому в соревновательных партиях и на высоком Эло игроки комбинируют несколько планов. Например, команда выбирает одного гиперкерри и нескольких чемпионов на раннюю агрессию. Таким образом их слабости компенсируются.
+The more champions in a team are suitable for the specific game plan, the better it works. On the other hand, the enemy team could pick champions that completely neutralize the specific game plan. Therefore, players combine several plans in competitive games and on high Elo level. For example, a team picks one hypercarry and several champions that focus on early aggression. This way players compensate weaknesses of their champions.
 
-Общий план на игру может быть не только у команды, но и у отдельного игрока. Чаще всего на индивидуальный план полагаются в рейтинговых партиях на низком Elo. В них сложно коммуницировать с командой и договариваться. Некоторые планы строятся вокруг одного чемпиона (например, сплит-пуш или выход в лейтгейм). Именно их предпочитают опытные игроки. Так они меньше зависят от решений команды и могут достичь условия победы самостоятельно.
+The team should have a general game plan. Also, an individual player could have it too. Individual game plan is important on low Elo level. It is hard to communicate with the team and reach any agreement quickly on this Elo. Some game plans are built around a single champion (for example, split-push or scaling). Experienced players take these game plans and execute them on their own. This way, they are less dependent on the team's decisions and can achieve the win condition independently.
 
-Вернёмся к нашему вопросу: как довести преимущество до победы? Для этого надо использовать преимущество так, чтобы реализовать общий план на игру. Например, в плане "ранняя агрессия" преимущество надо постепенно накапливать, пока оно не станет решающим. А в плане "командное сражение" преимущество надо реализовывать в контесте объектов. Поступая так, команда достигает своё условие победы.
+Let us return to our question: how to turn an advantage into a victory? The team should use its advantage to implement the general game plan. For example, the advantage should be gradually accumulated until it becomes decisive in the "early aggression" plan. Another example, the team's advantage should be realized in the objective contests in the "teamfight" game plan. The team achieves its win condition by doing these.
 
 {pagebreak}
