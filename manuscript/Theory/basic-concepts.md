@@ -449,7 +449,7 @@ Distributing your attention between important aspects of the game is essential f
 
 ### 2.1.6 Tempo
 
->>>W
+>>>R1
 
 Here is the fifth question on our list:
 
@@ -535,52 +535,50 @@ tempo = 3 * (5 + 4 + 5) / 2 = 21
 
 This is a very high value. Let us compare it to the tempo of the red jungler Ekko, who is in top jungle now. His distance to the object is 7. His resources are the following:
 
->>>
+* Full health and mana: resources = 3.
 
->>>
+* Sixth level when the enemy has eighth:
+stats = 1.
 
-* Полное здоровье и мана: resources = 3.
+* No first item when the enemy has it: items = 2.
 
-* Шестой уровень, когда у противника восьмой: 
- stats = 1.
+* All skills and spells ready: cooldowns = 5.
 
-* Нет первого предмета, когда у противника есть: items = 2.
-
-* Готовы все умения и заклинания: cooldowns =  5.
-
-Темп Ekko относительно дракона следующий: 
+Here is the tempo on the dragon calculation for Ekko:
 {line-numbers: false, format: text}
 ```
 tempo = 3 * (1 + 2 + 5) / 7 = 3.4
 ```
 
-Это очень низкое значение. Оно означает, что Ekko не может контестить дракона.
+This is a very low value. It means Ekko can not contest the dragon.
 
-Формула от coach Kairos показывает, как можно увеличить темп. Для этого надо получить один или несколько следующих пунктов:
+Coach Kairos' formula shows how a player can increase his tempo. He needs to get one of the following things:
 
-1. Преимущество по ресурсам (здоровье, мана).
+1. Resource advantage (health, mana).
 
-2. Преимущество по уровню чемпиона.
+2. Champion level advantage.
 
-3. Преимущество по предметам.
+3. Item advantage.
 
-4. Преимущество по времени перезарядки умений, заклинаний и эффектов предметов.
+4. Cooldown advantage for skills, spells, and item effects.
 
-5. Находиться близко к объекту.
+5. Being close to the object.
 
-Этот список работает и в обратную сторону. Если что-то из перечисленного есть у противника, то он получает темп. Соответственно, игрок теряет темп.
+This list also works in reverse. If the opponent has any of these things, he gains tempo. Consequently, the player loses tempo.
 
-Coach Kairos предлагает рассчитывать темп команды, как сумму темпов её игроков. Эта формула выглядит так:
+Coach Kairos suggests to calculate a team's tempo as the sum of its players' tempos. The formula looks like this:
 {line-numbers: false, format: text}
 ```
 team tempo = top tempo + jungle tempo + mid tempo + adc tempo + support tempo
 ```
 
-Применив эту формулу к обеим командам, можно сделать вывод — кто имеет темп на конкретном объекте. Имеющая темп команда с большей вероятностью выиграет сражение и заберёт объект.
+If you apply this formula to both teams, you can determine one that has tempo at the specific object at the moment. The team with tempo is more likely to win the fight and get the object.
 
-Небольшой выигрыш по темпу можно легко получить, если занять более выгодную позицию ближе к объекту. Но преимущество по темпу меняется динамично. Оно даёт временное окно, когда команда или игрок могут действовать с преимуществом. Если эту возможность не заметить или не воспользоваться ей, то от темпа не будет пользы.
+A player can easily gain a small tempo advantage if he comes to a closer position to the object. However, a tempo advantage is dynamic. It creates a window of opportunity when a team or player can exploit the advantage. If this opportunity is missed, the tempo advantage will be useless.
 
 ### 2.1.7 Victory condition
+
+>>>W
 
 Последний вопрос в нашем списке следующий:
 
