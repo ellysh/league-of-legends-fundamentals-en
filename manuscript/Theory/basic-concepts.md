@@ -1,26 +1,24 @@
 ## 2.1 Basic concepts
 
->>>R1
+In this section, we will review the fundamental concepts of the game. It would be beneficial to organize them systematically. For this purpose, the following list of questions will assist us:
 
-In this section, we will review the basic concepts of the game. It would be better to systematize them. For this purpose, the following list of questions would help us:
+1. What is the initial state of the objects on the map?
 
-1. What is the initial state of objects on the map?
+2. What disrupts the equilibrium of the objects?
 
-2. What throws objects off equilibrium?
+3. What actions are advantageous?
 
-3. What actions are beneficial?
+4. How to identify an advantage?
 
-4. How do you discover an advantage?
+5. How to acquire an advantage?
 
-5. How do you gain an advantage?
+6. How to use an advantage to achieve victory?
 
-6. How do you leverage an advantage to victory?
+Each of these questions relates to a specific game concept.
 
-Each of these question is related to a specific game concept.
+The order of the questions is important: each one logically follows from the previous one. Similarly, the game concepts are interconnected: more complex ideas build on simpler ones.
 
-The order of the questions is important: each follows logically from the previous one. The game concepts are similarly interconnected: complex ones are based on simpler ones.
-
-The basics always seem trivial. However, many new players have a poor understanding of them. This prevents them from mastering specific practical techniques (for example, wave management). Until a player understands the general patterns of League of Legends mechanics, information from guides will seem disjointed and chaotic. It is almost impossible to absorb information in this form.
+The basics may seem trivial, but many new players struggle to understand them. This lack of understanding can prevent them from mastering essential techniques, such as wave management. Until a player grasps the general patterns of League of Legends mechanics, information from guides may appear disjointed and chaotic to him. Absorbing information in this fragmented manner is nearly impossible.
 
 We will examine each concept in detail to eliminate any misunderstandings.
 
