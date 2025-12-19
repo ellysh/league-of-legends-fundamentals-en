@@ -24,24 +24,22 @@ We will examine each concept in detail to eliminate any misunderstandings.
 
 ### 2.1.1 Equilibrium
 
->>>R1
+The first question on our list is as follows:
 
-The first question on our list is the following:
+> What is the initial state of the objects on the map?
 
-> What is the initial state of objects on the map?
+Initially, all objects on the map are in equilibrium. **Equilibrium** refers to a balanced and stable state of the game's elements. All subsequent concepts are based on this idea.
 
-Initially, all objects on the map are in equilibrium. **Equilibrium** means balance and a stable state of the game's elements. All subsequent concepts are built on this concept.
+You can easily determine the equilibrium of game objects by examining the Summoner's Rift map. Figure 2-1 demonstrates it.
 
-You can easily find the equilibrium of game objects if you look on the Summoner's Rift map. Figure 2-1 demonstrates it.
-
-I> The general structure of the map remained unchanged between Seasons 14 and 15. Some diagrams in the book are for the Season 13 map. All of them remain relevant for the new versions.
+I> Please note that the general structure of the map has remained unchanged between Seasons 14 and 15. Some diagrams in this book depict the Season 13 map, but all of them still apply to the newer versions.
 
 {caption: "Figure 2-1. Summoner's Rift map for Season 13", height: "50%"}
 ![Summoner's Rift ma](images/Theory/map-season-13-no-champions.png)
 
-Letters and geometric shapes mark interactive objects on the map. Note that player champions are not among them. Now we exclude them for simplicity.
+Letters and geometric shapes indicate interactive objects on the map. Note that player champions are excluded for simplicity.
 
-Map symbols are as follows:
+The symbols used on the map are as follows:
 
 * T1, T2, T3, T4 — [**towers**](https://wiki.leagueoflegends.com/en-us/Turret) of each team.
 
@@ -51,57 +49,55 @@ Map symbols are as follows:
 
 * Green circle — the neutral [**monster**](https://wiki.leagueoflegends.com/en-us/Monster) camp.
 
-* Blue rectangle — the [**minion**](https://wiki.leagueoflegends.com/en-us/Minion) (creep) wave of blue team.
+* Blue rectangle — the [**minion**](https://wiki.leagueoflegends.com/en-us/Minion) (creep) wave of the blue team.
 
-* Red rectangle the minion wave of red team.
+* Red rectangle the minion wave of the red team.
 
-You can see three forms of equilibrium on the map:
+You can identify three forms of equilibrium on the map:
 
 1. Landscape equilibrium.
 
 2. Resource equilibrium.
 
-3. Teams power equilibrium.
+3. Teams' power equilibrium.
 
-**Landscape equilibrium** refers to the geometry of the map and all static objects on it: walls, bushes, buildings, and roads (lanes). Figure 2-1 shows that these objects are symmetrical about the center of the map.
+**Landscape equilibrium** refers to the geometry of the map and all static objects on it: walls, bushes, buildings, and roads (lanes). As shown in Figure 2-1, these objects are symmetrical about the map's center.
 
 Here are some examples of landscape equilibrium:
 
-* The blue team's base is in the lower left corner. The red team's base is symmetrical about the center of the map and is in the upper right corner.
+* The blue team's base is located in the lower-left corner. The red team's base is symmetric about the map's center and is in the upper-right corner.
 
-* The blue team's jungle with [Red Brambleback](https://wiki.leagueoflegends.com/en-us/Red_Brambleback) (red buff) is at the bottom. The same jungle of the red team is at the top, symmetrical to the map center. The same is true for both jungles with [Blue Sentinel](https://wiki.leagueoflegends.com/en-us/Blue_Sentinel) (blue buff).
+* The blue team's jungle with [Red Brambleback](https://wiki.leagueoflegends.com/en-us/Red_Brambleback) (red buff) is at the bottom. The red team's jungle, containing the same camps, is at the top, symmetrically aligned with the map center. The same is true for both jungles with [Blue Sentinel](https://wiki.leagueoflegends.com/en-us/Blue_Sentinel) (blue buff).
 
-* The [baron pit](https://wiki.leagueoflegends.com/en-us/Baron_pit) is located on the upper river. The [dragon pit](https://wiki.leagueoflegends.com/en-us/Dragon_pit) is on the lower river, symmetrical to the map center.
+* The [baron pit](https://wiki.leagueoflegends.com/en-us/Baron_pit) is located in the upper river. The [dragon pit](https://wiki.leagueoflegends.com/en-us/Dragon_pit) is in the lower river, symmetrical to the map center.
 
-* Each blue team structure has a red team structure that is symmetrical about the center.
+* Each structure belonging to the blue team has a corresponding structure for the red team that is symmetrical around the center.
 
-**Resource equilibrium** means the resources available to both teams. This refers to what they already possess and what they can potentially acquire on the map.
+**Resource equilibrium** refers to the availability of resources for both teams, encompassing both what they currently possess and what they can potentially acquire on the map.
 
-There are a number of objects on the map that grant rewards when destroyed. The first example is neutral monsters. They are marked by green circles on Figure 2-1. Note that each green circle has a symmetrical counterpart relative to the center of the map. This means that teams can potentially earn equal amounts of resources in the jungle.
+Several objects on the map provide rewards when destroyed. One example is neutral monsters, which are indicated by green circles in Figure 2-1. Each green circle has a symmetrical counterpart relative to the center of the map, meaning that both teams can earn equal amounts of resources from the jungle.
 
-Enemy minions are another source of income. Every 30 seconds, each Nexus spawns the same number of minions. This means both teams have the potential to kill the same number of minions.
+Enemy minions also serve as a source of income. Every 30 seconds, each Nexus spawns the same number of minions, allowing both teams to kill an equal number of them.
 
-We can consider all buildings like resources too. Destroying an enemy building grants a reward. Thanks to the landscape equilibrium, these resources are also equal for both teams.
+Additionally, we can consider all buildings as resources. Destroying an enemy building rewards the attacking team. Due to the landscape's equilibrium, these resources are also balanced for both teams.
 
-**Teams power equilibrium** applies to all of their units: towers, inhibitors, the Nexus, minions, and champions. Towers, inhibitors, and the Nexus are immobile structures. They are subject to landscape equilibrium and are symmetrical about the map's center. This means teams have an equal number of each type of structure.
+**Teams' Power Equilibrium** refers to all their units: towers, inhibitors, the Nexus, minions, and champions. Towers, inhibitors, and the Nexus are immobile structures. They are subjects of the landscape equilibrium and are symmetrical about the map's center. This means teams have an equal number of each type of structure.
 
-Minions are mobile units. They represent both team power and enemy resources. Minions move in groups called **waves**. Waves spawn near Nexuses at regular intervals. The first wave occurs at 1:05 game time and repeats every 30 seconds.
+Minions are mobile units that represent both team power and enemy resources. They move in groups called **waves**. Waves spawn near the Nexuses at regular intervals — the first wave spawns at 1:05 game time, and then every 30 seconds thereafter.
 
-Three waves of minions spawn simultaneously on each side. They move along three lanes: top, middle, and bottom. These lanes connect the teams' bases. On each lane, the blue and red waves of minions meet exactly in the middle. Then they fight each other.
+Three waves of minions spawn simultaneously on each side and move along three lanes: top, middle, and bottom. These lanes connect the bases of both teams. In each lane, the blue and red waves of minions meet exactly in the middle and engage in combat.
 
-Minion waves are in equilibrium. If their clash front is in the middle of the line, it would not move. Its position will remain constant, as Figure 2-1 shows. This happens because each successive wave arrives just as the last minions of the previous wave die.
+Minion waves maintain equilibrium. If the clash front remains in the middle of the lane, it will not move. Its position will remain constant, as shown in Figure 2-1. This stability occurs because each successive wave arrives just as the last minions from the previous wave die.
 
-Champions are also mobile units. They are the primary units of each team. If a champion becomes too weak relative to opponents, he can no longer contribute to the game. Then the champion becomes a resource for the enemy team, like a minion.
+Champions are the primary mobile units of each team. If a champion becomes significantly weaker compared to opponents, he can no longer effectively contribute to the game. In such cases, the champion becomes a resource for the enemy team, like a minion.
 
-We have considered three forms of equilibrium for game objects. Each of these forms is dynamic. It means that if something disturbs the equilibrium of objects, they will recover to its original state over time. Let us look at some examples.
+We have considered three forms of equilibrium for game objects. Each of these forms is dynamic. This means that if something disturbs the equilibrium of an object, it returns to its original state over time. Let us explore some examples.
 
-Some champions' abilities can disrupt the **landscape equilibrium**. They create new walls (Anivia W) or passages (Bard E). This disrupts the balance of static objects. However, the effect of such abilities is limited in time. The landscape returns to its original state after a few seconds.
+Abilities of certain champions can disrupt the **landscape equilibrium**. They create new walls (Anivia W) or passages (Bard E). These actions disturb the balance of static objects. However, the effects of such abilities are temporary. The landscape will revert to its original state after a few seconds.
 
-When a player destroys some object, he disrupts the **resource equilibrium**. First, the player receives a reward that the enemy does not have. Second, the destroyed object disappears from the map. For example, after killing a jungle monster, its camp will empty. However, after a certain amount of time, the monster will reappear at its camp. The respawn time depends on the monster type and lasts from 2 to 6 minutes.
+When a player destroys an object, it disrupts the **resource equilibrium**. First, the player receives a reward that the enemy can no longer obtain. Second, the destroyed object disappears from the map. For example, killing a jungle monster leaves its camp empty. Nevertheless, the monster will respawn at its camp after a specific period. The respawn time varies by monster type and ranges from 2 to 6 minutes.
 
-The dynamic balance of power between teams is more complex. First, only some structures can regenerate after being destroyed. Second, the minion collision front can move along the line. If it deviates from the line's center, it eventually returns. We'll discuss this mechanic in more detail in section "4.1 Minion Wave Management."
-
-The dynamic **equilibrium of power** between teams is more complex. First, only some structures can recover after being destroyed. Second, the minion collision front can move along the line. If it deviates from the line's center, it eventually returns. We will discuss this mechanic in more detail in section "4.1 Minion wave management."
+The dynamic **equilibrium of power** between teams is more intricate. First, only some structures can recover after being destroyed, while others cannot. Second, the minion clash front can shift along its lane. If it strays from the center of the lane, it will gradually return to the center. We will discuss this mechanics in more detail in section "4.1 Minion wave management."
 
 ### 2.1.2 Action
 
