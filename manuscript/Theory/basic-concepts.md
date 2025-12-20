@@ -101,25 +101,23 @@ The dynamic **equilibrium of power** between teams is more intricate. First, onl
 
 ### 2.1.2 Action
 
->>>R1
-
 Here is the second question on our list:
 
-> What throws objects off equilibrium?
+> What disrupts the equilibrium of the objects?
 
-Player champions are the only thing that can disrupt any form of equilibrium of game objects. Even their presence on map changes teams balance. This happens because players cannot select the same champion.
+Player champions are the only entities capable of disrupting the equilibrium of game objects. Even their mere presence on the map alters the balance of the teams. This happens because cannot select the same champion.
 
-When a champion performs some action, it affects a game object and changes its state. This disrupts one of the three forms of equilibrium.
+When a champion takes action, it affects a game object and changes its state. This disrupts one of the three forms of equilibrium.
 
-We can divide all possible champion's actions into two categories: micro and macro. The most basic actions fall into the **micro-level** and pursue short-term goals. Here are a few examples:
+We can categorize all possible actions by champions into two types: micro and macro. The most basic actions fall under the **micro-level** and aim for short-term goals. Here are a few examples:
 
-* Move a few steps back to avoid an incoming projectile.
+* Moving a few steps back to avoid an incoming projectile.
 
-* Use a crowd control (CC) skill on an enemy to stop him.
+* Using a crowd control (CC) ability on an enemy to stop him.
 
-A sequence of micro-level actions compiles into a single **macro-level** action. It is aimed at achieving a longer-term goal. For example, a champion uses auto-attacks and abilities to quickly kill enemy minions. This is one macro action, called pushing a lane.
+A sequence of micro-level actions combines to form a single **macro-level** action. It is aimed at achieving a long-term goal. For example, a champion uses auto-attacks and abilities to kill enemy minions quickly. This is considered one macro action, commonly known as pushing a lane.
 
-Here is a list of basic macro-level actions that disrupt the balance of game objects:
+Here is a list of basic macro-level actions that can disrupt the balance of game objects:
 
 1. Attacking enemy minions.
 2. Attacking an enemy champion.
@@ -128,13 +126,13 @@ Here is a list of basic macro-level actions that disrupt the balance of game obj
 5. Attacking the enemy Nexus, if possible.
 6. Attacking jungle monsters.
 
-A sequence of basic macro actions combines into a single complex macro action. It is aimed at executing a plan with several steps. Here are examples of such actions:
+A series of basic macro actions can combine to form a complex macro action. It is aimed at executing a plan consisting of several steps. Here are examples of complex macro actions:
 
-* Split push to create a threat on the side lane and gain map control.
+* Split pushing to create a threat on a side lane and gain map control.
 
-* Siege the enemy base from two directions to destroy one of the inhibitors.
+* Sieging the enemy base from two directions to destroy one of the inhibitors.
 
-Each player has a task to select and execute the most advantageous macro action at the given moment. This action should disrupt any type of equilibrium in favor of the player's team. This way, he increases his team's chances of winning.
+Each player must choose and execute the most advantageous macro action at any given moment. This action should disrupt any type of equilibrium in favor of the player's team. This way, he increases his team's chances of winning.
 
 ### 2.1.3 Game scenario
 
@@ -536,7 +534,7 @@ stats = 1.
 
 * No first item when the enemy has it: items = 2.
 
-* All skills and spells ready: cooldowns = 5.
+* All abilities and spells ready: cooldowns = 5.
 
 Here is the tempo on the dragon calculation for Ekko:
 {line-numbers: false, format: text}
@@ -554,7 +552,7 @@ Coach Kairos' formula shows how a player can increase his tempo. He needs to get
 
 3. Item advantage.
 
-4. Cooldown advantage for skills, spells, and item effects.
+4. Cooldown advantage for abilities, spells, and item effects.
 
 5. Being close to the object.
 
@@ -610,7 +608,7 @@ I> A **power spike** is a moment in the game when a champion becomes significant
 
 I> **Scaling** is the increase in a champion's power as a result of resource acquisition and over time.
 
-I> **Carry** is a champion with good skills scaling from AD or AP statistics. He becomes the primary damage dealer in the team after buying a few items. His presence in teamfights is crucial in mid and late game.
+I> **Carry** is a champion with good abilities scaling from AD or AP statistics. He becomes the primary damage dealer in the team after buying a few items. His presence in teamfights is crucial in mid and late game.
 
 3. [**Split push**](https://leagueoflegends.fandom.com/wiki/User_blog:Fistful_of_Force/Split_push.) is a single champion pushing on the side lane. The plan is to create a threat to destroy an enemy tower or inhibitor. This threat forces opponents to react. Therefore, the team gains map control and a number advantage in contesting some objective.
 
