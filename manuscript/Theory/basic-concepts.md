@@ -274,21 +274,21 @@ Let us revisit the question we asked at the beginning of this section. Here are 
 
 ### 2.1.5 Macro cycle
 
->>>R1
+>>>>R1
 
 Here is the fourth question on our list:
 
-> How do you discover an advantage?
+> How to identify an advantage?
 
-A player needs two things fo doing this:
+A player needs two key elements to identify an advantage:
 
 1. Learn templates for recognizing typical game situations.
 
-2. Effectively manage his attention during the game.
+2. Manage his attention during the game effectively.
 
-We will explore templates for various gameplay aspects and proper actions further in this book. Now, let us talk about attention management.
+We will explore templates for various gameplay aspects and appropriate actions further in this book. Now, let us discuss attention management.
 
-There is the concept of a macro cycle in **real-time strategy** (RTS) games. A **macro cycle** is an approach to effectively managing a game's economy. The idea is to create a list of tasks and execute them sequentially.
+There is a concept of a macro cycle in real-time strategy (RTS) games. A **macro cycle** is an approach to effectively managing the game's economy. The idea is to create a list of tasks and execute them sequentially.
 
 Here is an example macro cycle for a typical strategy game:
 
@@ -298,141 +298,144 @@ Here is an example macro cycle for a typical strategy game:
 4. Construct new buildings.
 5. Perform technical upgrades.
 
-When a player follows a macro cycle, he performs the actions in the list in order. Upon reaching the last action, the player starts the list over again.
+When a player follows a macro cycle, they perform the actions in the order listed. Upon reaching the last action, the player restarts the list.
 
-The advantage of a macro cycle is that the player would not forget anything important. The macro cycle forms a strong habit after repeated use.  If an action is listed, the player will definitely perform it. He does not have to waste unnecessary cognitive resources on memorization. The macro cycle allows for equal attention distribution across all aspects of the game.
+The advantage of a macro cycle is that it helps players remember essential tasks. Repeated use of the macro cycle builds a strong habit. If an action is included in the list, the player is likely to perform it without expending unnecessary cognitive resources on memorization. This approach ensures that attention is evenly distributed across all aspects of the game.
 
-Random events occur in any strategy game. Some of these events require the player's full attention. After resolving the problem, the player must restart the macro cycle. This is his default mode.
+Random events occur in any strategy game. Some of these events require the player's full attention. Once the issue is resolved, the player must return to the macro cycle, which serves as his default mode.
 
-League of Legends does not have an economy like a typical strategy game. Players do not build a base or produce new units. However, the idea of ​​a macro cycle remains relevant. Because the game has many aspects, players need to balance their attention between them.
+League of Legends does not incorporate an economy in the same way as a typical strategy game. Players do not build a base or produce new units. However, the idea of ​​a macro cycle remains relevant. The game encompasses multiple aspects, so players need to balance their attention among them.
 
-A common mistake among new players is focusing on only one aspect of the game. For example, a novice top laner might focus exclusively on the enemy minion wave, trying not to miss an opportunity to last-hit them. This prevents the player from seeing the health, mana, or level of his champion. He does not notice when he gains an advantage in health, mana, or level. Therefore, the player fails to capitalize on this advantage. A macro cycle helps to avoid such mistakes.
+A common mistake among new players is focusing exclusively on one aspect of the game. For instance, a novice top laner might concentrate only on the enemy minion wave, striving not to miss any last-hitting opportunities. This narrow focus can prevent the player from noticing his champion's health, mana, or level. As a result, the player may fail to recognize when he has a health, mana, or level advantage, missing the opportunity to capitalize on it. A macro cycle can help players avoid such mistakes.
 
-The macro cycle for each of the five team roles will be different. For example, we will look at possible macro cycles for a mid laner and a jungler.
+The macro cycle for each of the five team roles varies. For instance, let us examine the macro cycles for a mid laner and a jungler.
 
-Figure 2-2 shows the objects on the map that the mid laner must switch his attention between.
+Figure 2-2 shows the map objects that a mid laner must monitor.
 
 {caption: "Figure 2-2. Macro cycle for mid laner", height: "50%"}
 ![Mid laner macro cycle](images/Theory/map-season-13-midlaner-macrocycle.png)
 
-This is an expanded version of Figure 2-1. It has the blue and red circles that mark the champions of each team.
+You see the expanded version of Figure 2-1. It has the blue and red circles that mark the champions of each team.
 
-Let us have a look on Figure 2-2. The pink circle with number 1 marks the the blue team's mid laner. The pink text marks the objects that the player should check during his macro cycle. Here are these objects:
+Now, let us take a closer look at Figure 2-2. The pink circle with the number 1 marks the blue team's mid laner. The pink text indicates the objects that the player should check during his macro cycle. These objects are as follows:
 
 1. State of his own champion:
 
-   * health
-   * mana
-   * level
-   * ready abilities
-   * items and their effects' readiness.
+   * Health
+   * Mana
+   * Level
+   * Ready-to-use abilities
+   * Ready-to-use runes
+   * Items and readiness of their effects.
 
 2. State of the enemy champion on the lane:
 
-   * health
-   * mana
-   * level
-   * ready abilities (remember cooldowns)
-   * items.
+   * Health
+   * Mana
+   * Level
+   * Ready-to-use abilities (remember cooldowns)
+   * Ready-to-use runes (remember cooldowns)
+   * Items.
 
 3. Enemy minions wave:
 
-   * is there a minion for the last hit?
-   * total number of minions in the wave
-   * location of the next wave (symmetrical to the next allied wave).
+   * Is there a minion available for last hitting?
+   * Total number of minions in the wave
+   * Location of the next wave (symmetric to the next allied wave).
 
 4. Allied minion wave:
 
-   * is there a minion for the last hit?
-   * total number of minions in the wave
-   * location of the next wave.
+   * Is there a minion available for last hitting?
+   * Total number of minions in the wave
+   * Location of the next wave.
 
-5. Allied or enemy tower, if it is nearby:
+5. Allied or enemy tower if it is nearby:
 
-   * health and plate count
-   * its attack range.
+   * Health and plate count
+   * Attack range.
 
 6. Minimap:
 
-   * Allied jungler location
-   * Enemy jungler location (requires tracking skill)
-   * State of adjacent lanes (minion wave positions, presence of champions in lanes)
+   * Location of the allied jungler
+   * Location of the enemy jungler (requires tracking skill)
+   * State of adjacent lanes (minion wave positions, presence of champions)
    * State of nearby jungle monster camps (especially epic ones: Herald, Baron, Dragon).
 
-7. Game stats by the Tab key:
+7. Game stats (accessed by pressing the Tab key):
 
-   * levels of all champions
-   * items of all champions.
+   * Levels of all champions
+   * Items of all champions.
 
-I> [**Cooldown**](https://wiki.leagueoflegends.com/en-us/Cooldown) (CD) occurs immediately after using an ability. It is the time during which the ability is unavailable. Cooldowns apply not only to champion abilities, but also to runes, summoner spells, and item effects.
+I> [**Cooldown**](https://wiki.leagueoflegends.com/en-us/Cooldown) (CD) occurs immediately after using an ability. It is the period when the ability is unavailable. Cooldowns apply not only to champion abilities but also to runes, summoner spells, and item effects.
 
-The list shows objects and game aspects that a player should regularly pay attention to. A typical pattern may emerge in one of them. This pattern could indicate a temporary advantage and an opportunity to capitalize on it. It is impossible to notice the pattern without focusing on the corresponding game object.
+This list highlights the objects and game aspects a player should consistently monitor. A typical pattern may emerge in one of them. This pattern could indicate a temporary advantage and an opportunity to capitalize on it. It is impossible to notice the pattern without focusing on the corresponding game object.
 
 > To find a pattern in something, you have to look at it.
 
-Let us look at the blue team's jungler macro cycle. This role is unique because the player spends almost the entire laning phase in the jungle. Therefore, his macro cycle is significantly different from the others.
+Let us examine the macro cycle of the blue team's jungler. This role is distinct because the player spends almost the entire laning phase in the jungle. Therefore, his macro cycle is significantly different from that of other roles.
 
-Figure 2-3 shows the objects on the map that are part of the jungler's macro cycle.
+Figure 2-3 illustrates the key elements in the jungler's macro cycle.
 
 {caption: "Figure 2-3. Macro cycle for jungler", height: "50%"}
 ![Jungler macro cycle](images/Theory/map-season-13-jungler-macrocycle.png)
 
-The blue team's jungler is marked with a pink circle with the number 1. Here are the objects in his macro cycle:
+The blue team's jungler is marked with a pink circle with the number 1. The elements in his macro cycle include:
 
 1. State of his own champion:
 
-   * health
-   * mana
-   * level
-   * ready abilities
-   * items and their effects' readiness.
+   * Health
+   * Mana
+   * Level
+   * Ready-to-use abilities
+   * Ready-to-use runes
+   * Items and readiness of their effects.
 
 2. Location and state of the enemy jungler (requires tracking skill):
 
-   * minimap
-   * game stats window.
+   * Minimap
+   * Game stats window.
 
 3. Nearest jungle monster camps:
 
-   * current farming target
-   * next farming target.
+   * Current target for farming
+   * Next target for farming.
 
 4. Lane state, starting with the closest:
 
-   * minion wave position
-   * presence of champions in the lane
-   * champions state (health, mana, level, items).
+   * Position of the minion wave
+   * Presence of champions in the lane
+   * State of champions (health, mana, level, items).
 
 5. Next epic monster to contest:
 
-   * its respawn timer
-   * allied champions in range
-   * enemy champions in range.
+   * Respawn timer
+   * Allied champions in range
+   * Enemy champions in range
 
-6. Game stats by the Tab key:
+6. Game stats (accessed by pressing the Tab key):
 
-   * levels of all champions
-   * items of all champions.
+   * Levels of all champions
+   * Items of all champions.
 
-Please note that a jungler cannot read all information from minimap. He should switch the camera to each lane and check what is happening there. The best way for doing it is using hotkeys F1, F2, F3, and F4. The [following video](https://www.youtube.com/watch?v=pizMcCWv8y8) explains how to configure them.
+Keep in mind that a jungler cannot gather all necessary information from the minimap alone. It's essential to switch the camera to each lane and assess what is happening there. Using the hotkeys F1, F2, F3, and F4 is the most efficient method for this. The [following video](https://www.youtube.com/watch?v=pizMcCWv8y8) explains how to configure these hotkeys.
 
-You could try to introduce macro cycle into your games step by step:
+To gradually incorporate the macro cycle into your gameplay, follow these steps:
 
-1. Make a list of the minimum required actions to repeat. A good starting point could be the following:
+1. Make a minimal list of actions to repeat. A solid starting point might include:
 
-   * check game objects on the main screen
-   * check the minimap
-   * check game stats by pressing the Tab key.
+   * Checking game objects on the main screen
+   * Checking the minimap
+   * Viewing game stats by pressing the Tab key.
 
-2. Install and set the [metronome app](https://play.google.com/store/apps/details?id=com.andymstone.metronome&hl=en) to 15 seconds. It gives your a regular sound signal.
+2. Install and set the [metronome app](https://play.google.com/store/apps/details?id=com.andymstone.metronome&hl=en) to 15 seconds. This will provide a consistent sound signal.
 
-3. When the signal happens, perform the macro cycle. Consistently switch your attention between the items on the list.
+3. When you hear the signal, perform your macro cycle. Consistently switch your focus between the items on your list.
 
-4. If some game event distracts you, you should process it first. Then return to the macro cycle and start it from the beginning.
+4. If a game event distracts you, process that event first. Then return to your macro cycle and start over.
 
-You could start practicing the macro cycle in "Co-op vs. AI" mode. It will be easier to control your attention there. The minimal macro cycle will become a habit soon. Add new actions to the list that you consider as important. Gradually reduce the delay between sound signals.
+You can begin practicing the macro cycle in "Co-op vs. AI" mode. It will be easier to manage your focus there. The minimal macro cycle will soon become a habit. Afterwards, you can add new actions to the list as you identify them as essential. Gradually decrease the time between sound signals.
 
-Distributing your attention between important aspects of the game is essential for each role. This is especially true for the jungler. If jungler is your primary role, you need to learn a minimal macro cycle before your next ranked game.
+Distributing your attention across the game's key elements is crucial for every role, particularly for the jungler. If jungler is your primary role, you need to master a minimal macro cycle before your next ranked game.
 
 ### 2.1.6 Tempo
 
