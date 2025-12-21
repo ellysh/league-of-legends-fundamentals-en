@@ -195,44 +195,44 @@ Teams often engage in five-on-five fights during the late game. The outcome of t
 
 ### 2.1.4 Advantage
 
->>>R1
-
 Now we reach the third question in our list:
 
-> What actions are beneficial?
+> What actions are advantageous?
 
-Let us look at an example to answer this question. There is beginning of the laning phase. Both mid laners come to their lane. The players should choose and execute some action every second. We could limit the list of possible actions by the mid lane scope only. Then we get the following list:
+Let us look at an example to answer this question. At the beginning of the laning phase, both mid laners arrive in their lane. The players should choose and execute some action every second. If we limit the list of possible actions to the mid lane scope, the players have the following options:
 
-1. Attack the enemy champion
-2. Attack the enemy tower
-3. Farm enemy minions
-4. Retreat to a safe area under ally tower.
+1. Attack the enemy champion.
+2. Attack the enemy tower.
+3. Farm enemy minions.
+4. Retreat to a safe area under the ally tower.
 
-There is the equilibrium of power on the mid lane. This means that the minions clash front is in the middle of lane. There are equal numbers of minions on each side. Also, the health, mana, levels, and items of both champions are equal.
+In this context, there is an equilibrium of power in the mid lane. This means that the minion clash is in the middle of the lane, with equal numbers of minions on both sides. Additionally, both champions have similar health, mana, levels, and items.
 
-What options does the blue team's mid laner have?  **First**, attacking the enemy champion is risky because of the equilibrium of power. The player could kill the opponent and gain a reward with a 50% probability. In the other 50% of cases, the player will die. This way his opponent will gain a reward. Therefore, attacking the enemy champion is disadvantageous action. It does not increase the team's chances of winning.
+What options does the blue team's mid laner have?
 
-**Second**, the player cannot attack the enemy tower without support of ally minions. They should absorb the tower's shots while the champion is attacking the structure. Otherwise, the tower kills the champion quickly. Therefore, attacking the enemy tower in the current situation is unfavorable.
+**First**, attacking the enemy champion is risky because of the equilibrium of power. There is a 50% chance the player will kill the opponent and receive a reward. But there is also a 50% chance that the player will die, allowing the opponent to gain a reward instead. Therefore, attacking the enemy champion is a disadvantageous action that does not increase the team's chances of winning.
 
-**Third**, farming enemy minions is a standard action during the laning phase. It maintains resource equilibrium between the mid laners. If the blue team's player is better at last-hitting minions, he will gain an advantage with minimal risk. It is the best scenario in the current situation.
+**Second**, the player cannot attack the enemy tower without the support of allied minions. They should absorb the tower's shots while the champion attacks the structure. If the champion tries to do this without minions, the tower will quickly kill him. Thus, attacking the enemy tower in the current situation is unprofitable.
 
-**Fourth**, retreating to the safe zone means giving up farming. This decision gives the enemy mid laner a resource advantage. Therefore, this is disadvantageous action that increases the enemy team's chances of winning.
+**Third**, farming enemy minions is a standard action during the laning phase. This maintains resource equilibrium between the mid laners. If the blue team's player excels at last-hitting minions, he can gain an advantage with minimal risk. This is the best scenario in the current situation.
 
-Now let us assume that the situation changes. The blue team's jungler comes to mid lane. This increases chances to kill red team's mid laner. Therefore, attacking him becomes a profitable action.
+**Fourth**, retreating to a safe zone means giving up farming. This decision provides the enemy mid laner with a resource advantage. Therefore, this is also a disadvantageous action that increases the enemy team's chances of winning.
 
-What happened in our example when the jungler appeared? The blue team gained a numerical advantage in the mid lane. Advantage is the second fundamental concept. It follows from the concept of equilibrium.
+Now, let us assume that the situation changes and the blue team's jungler comes to the mid lane. This increases the chances of killing the red team's mid laner. Thus, attacking him becomes a profitable action.
 
-A team gains an **advantage** when any form of equilibrium shifts in its favor. An advantage can be gained not only by a team, but also by an individual player. When the equilibrium on the lane shifts in his favor, the player gains an advantage.
+What happened in our example when the jungler appeared? The blue team gained a numerical advantage in the mid lane. This brings us to the second fundamental concept: advantage. It follows from the concept of equilibrium.
 
-Advantage comes in different types. It depends on which form of equilibrium has been disrupted. Experienced players distinguish the following types of advantage:
+A team gains an **advantage** when any form of equilibrium shifts in its favor. Every player can gain an advantage in a similar manner when the equilibrium on his lane shifts in his favor.
 
-1. **By quantity** — one team has more champions participating in the teamfight than the other.
+Advantage comes in various forms, depending on which type of equilibrium has been disrupted. Experienced players identify the following types of advantages:
 
-2. **By items** — one or more champions on the team have more items or they are more expensive than their opponents.
+1. **By quantity** — one team has more champions participating in a team fight than the other.
 
-3. **By level** — one or more champions on the team have a higher level than their opponents.
+2. **By items** — one or more champions on the team have more items than their opponents, or these items are of higher value.
 
-4. **By resources** — one or more champions on the team have one of the following while their opponents do not:
+3. **By level** — one or more champions on the team are at a higher level than their opponents.
+
+4. **By resources** — one or more champions on the team have one of the following resources, while their opponents do not:
 
    * health
 
@@ -244,33 +244,33 @@ Advantage comes in different types. It depends on which form of equilibrium has 
 
    * individual or team [**buffs**](https://wiki.leagueoflegends.com/en-us/Buff) received for killing a neutral monsters.
 
-5. **Map control** means a team has vision and influence over key areas of the map. Vision is granted by special items called [**wards**](https://wiki.leagueoflegends.com/en-us/Ward). Influence is gained when champions are within range of key points on the map. We will cover this concept in section "4.2 Map Control."
+5. **Map control** means a team has vision and influence over key areas of the map. Vision is provided by special items called [**wards**](https://wiki.leagueoflegends.com/en-us/Ward). Influence is gained when champions are within range of key points on the map. We will discuss this concept in section "4.2 Map Control."
 
-6. **Positional advantage** has two meanings. First, a champion has advantageous position in a lane than his opponent. Second, a team has advantageous position before the teamfight. Here are examples: flanking, controlling narrow passages or zoning out the enemy team.
+6. **Positional advantage** has two meanings. First, a champion holds a favorable position in a lane compared to his opponent. Second, a team has an advantageous position before the teamfight. Here are examples: flanking, controlling narrow passages, or zoning out the enemy team.
 
-7. **By team composition** — champions on the team interact and strengthen each other better than champions on enemy team .
+7. **By team composition** — The champions on one team synergize and enhance each other's abilities better than those on the opposing team.
 
-8. **By tempo**. We will consider the concept of tempo further.
+8. **By tempo**. We will explore the concept of tempo further.
 
-Please note that a team can have multiple types of advantages at once. Opponents can also have advantages, but of a different type.
+It is important to note that a team can hold multiple types of advantages simultaneously. At the same time, opponents may also have advantages, but of a different kind.
 
-Let us look at the example. The blue team has a stronger champion composition and better map control. The red team has the [**Elder Dragon**](https://wiki.leagueoflegends.com/en-us/Dragon_Slayer#Aspect_of_the_Dragon) buff. The dragon buff is the decisive advantage in this case. **Decisive advantage** is one that disrupts the equilibrium of power between teams or champions in a lane more than other types of advantage.
+Let us look at the example. The blue team has a stronger champion composition and better map control. The red team has the [**Elder Dragon**](https://wiki.leagueoflegends.com/en-us/Dragon_Slayer#Aspect_of_the_Dragon) buff. The dragon buff is the decisive advantage in this case. A **decisive advantage** disrupts the equilibrium of power between teams or champions in a lane more significantly than other types of advantages.
 
-Please note that the importance of each type of advantage depends on the current state of the game. For example, a level advantage is more important than an item advantage during the laning phase. This rule applies until champions reach level 6. Therefore, a level advantage is decisive on first minutes. Items provide more power after level 6 and become the decisive advantage.
+Additionally, the significance of each type of advantage can vary depending on the current state of the game. For instance, during the laning phase, a level advantage is generally more critical than an item advantage. This holds true until champions reach level 6. Therefore, a level advantage is crucial in the early minutes, while item advantages become more impactful after level 6.
 
-Let us return to the question we asked at the beginning of this section. Here are beneficial actions in the descending order:
+Let us revisit the question we asked at the beginning of this section. Here are beneficial actions ranked in descending order:
 
-1. Use the existing advantage.
+1. Utilize the existing advantage.
 
-2. Take action that gives some type of advantage.
+2. Take actions that provide some type of advantage.
 
-3. A standard action in the current conditions.
+3. Perform actions that are standard in the current conditions.
 
-**Using an advantage** is the most beneficial action in general. A team or a single champion is already stronger than the enemy. Players must somehow capitalize on this and gain something in return. For example, contest some object when the team has a numerical advantage.
+**Utilizing an advantage** is generally the most beneficial action. A team or individual champion may already be stronger than the enemy, and players should capitalize on this strength to gain an advantage. For example, contest an objective when the team has a numerical advantage.
 
-**Take action that gives some type of advantage**. It is the second most beneficial choice. If you manage to tip some form of equilibrium in your favor, you can take advantage of it. For example, attack a dragon to gain its buff.
+**Taking actions that provide some type of advantage** is the second most beneficial choice. If a player can shift the balance of power in his favor, he should take advantage of that situation. For instance, attack a dragon to secure its buff.
 
-The **standard action** is the most disadvantageous choice on our list. It is usually aimed at maintaining the current equilibrium of teams power. A player will only benefit from this action if he executes it significantly better than his opponent. For example, farm minions on lane.
+**Performing standard actions** is the least advantageous option. This type of action typically aims to maintain the current equilibrium of team power. A player will only gain an advantage from a standard action if he executes it significantly better than his opponent. The example is farming minions in the lane.
 
 ### 2.1.5 Macro cycle
 
