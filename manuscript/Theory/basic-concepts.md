@@ -136,23 +136,19 @@ Each player must choose and execute the most advantageous macro action at any gi
 
 ### 2.1.3 Game scenario
 
->>>R1
+We have examined the actions of player champions. It is important to emphasize that players act within strict boundaries. These boundaries are dictated by the game's design and balance, as developers aim for each game to follow a specific scenario. To achieve this, they adjust the parameters of game objects to ensure players benefit from adhering to that scenario.
 
-We have considered actions of player champions. It is important to emphasize that players act within strict boundaries. They are dictated by the game's design and balance. The developers want each game to follow a specific scenario. Therefore, they adjust the parameters of game objects to ensure that players benefit from following that scenario.
-
-Let us look on how a typical rating game scenario looks like. We can divide it into three phases:
+A typical ranked game scenario can be divided into three phases:
 
 1. Laning – the beginning.
-
 2. Mid game – the middle.
-
 3. Late game – the end.
 
-The **laning** phase begins at the first second and lasts until approximately the 14th minute. It ends when players destroy the first tower on any lane. The teams' goals during this phase are to gather resources and prevent the enemy from doing the same.
+The **laning** phase begins at the first second and lasts until approximately the 14th minute. It ends when players destroy the first tower on any lane. The primary goals for teams during this phase are to gather resources and prevent the enemy from doing the same.
 
-During the laning phase, players are distributed across the map to maximize their income. The resources are enemy minions and jungle monsters. Therefore, at least one champion should occupy each lane and jungle.
+During the laning phase, players are distributed across the map to maximize their income. It comes from enemy minions and jungle monsters. Therefore, at least one champion should occupy each lane and the jungle.
 
-The standard champion distribution across the map in the laning phase looks like this:
+The standard champion distribution across the map during the laning phase is as follows:
 
 1. One player goes to the top lane.
 
@@ -162,17 +158,16 @@ The standard champion distribution across the map in the laning phase looks like
 
 4. One player goes to the jungle.
 
-Typically two players occupy bot lane. One of them is a support. He does not kill minions. Instead, he has a special item that provides him gold in a different way.
+Typically, two players occupy the bot lane. One of them is the support, who does not kill minions. Instead, the support has a special item that provides gold in an alternative way.
 
-The **mid game** phase typically begins at the 14th minute and lasts until the 25th minute. It ends around the time when players collect their third item. Teams' goals during this phase are following:
+The **mid game** phase typically begins at the 14th minute and lasts until the 25th minute. It ends around the time when players complete their third item. During this phase, teams aim to achieve the following goals:
 
-1. Map control.
+1. Control the map.
+2. Capture objectives.
 
-2. Capturing objectives.
+I> An **objective** refers to an epic jungle monster or enemy structure. Destroying an objective increases the team's strength or provides significant rewards. Objectives include dragons, Herald, Baron Nashor, Voidgrubs, enemy towers, and inhibitors.
 
-I> An **objective** is an epic jungle monster or enemy structure. Destroying one increases the team's strength or provides a significant reward. Objectives include dragons, Herald, Baron Nashor, Voidgrubs, enemy towers, and inhibitors.
-
-When the mid game phase begins, players swap their lanes. The standard swap looks like this:
+When the mid game phase begins, players often swap their lanes. The standard lane swap occurs as follows:
 
 1. The ADC moves from the bot lane to the mid lane.
 
@@ -180,23 +175,23 @@ When the mid game phase begins, players swap their lanes. The standard swap look
 
 3. The mid laner moves from the mid lane to the top lane.
 
-These swaps allows the team to better control the map. The champions' abilities for each role dictate which lane they should occupy during the mid game. We will cover this topic in more detail in section "4.2 Map Control."
+These swaps allow the team to control the map better. The champions' abilities for each role dictate which lane they should occupy during the mid game. We will discuss this topic in more detail in section "4.2 Map Control."
 
-During the mid game, champions often leave their lanes and group together. This helps them to contest objectives more effectively.
+During the mid game, champions frequently leave their lanes to group up. Grouping allows them to contest objectives more effectively.
 
-I> **Contest** is a battle between teams for a specific object on the map: a building or an epic monster.
+I> **Contest** refers to the battle between teams for a specific objective, such as a building or an epic monster.
 
-The late game phase begins around the 25th minute. By this time, players usually have destroyed all T1, T2, and T3 towers on one or more lanes
+The late game phase begins around the 25th minute. By this time, teams usually have destroyed all T1, T2, and T3 towers on one or more lanes.
 
-The teams' goals in the late game are following:
+The goals for teams in the late game phase include:
 
-1. Win decisive team fights.
+1. Winning decisive team fights.
 
-2. Capture epic monsters.
+2. Capturing epic monsters.
 
-3. Destroy structures on enemy base (T3 and T4 towers, inhibitors, Nexus).
+3. Destroying structures in the enemy base (T3 and T4 towers, inhibitors, and the Nexus).
 
-Teams frequently clash in five-on-five fights during the late game. The outcome of these fights determines who will take the next epic monster. Victory in the decisive teamfight allows to destroy the enemy T4 towers and Nexus.
+Teams often engage in five-on-five fights during the late game. The outcome of these battles determines which team gains control of the next epic monster. Victory in a decisive teamfight allows the destruction of the enemy's T4 towers and Nexus.
 
 ### 2.1.4 Advantage
 
