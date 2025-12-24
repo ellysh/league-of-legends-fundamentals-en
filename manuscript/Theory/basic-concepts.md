@@ -12,7 +12,7 @@ In this section, we will review the fundamental concepts of the game. It would b
 
 5. How to acquire an advantage?
 
-6. How to use an advantage to achieve victory?
+6. How to turn an advantage into a victory?
 
 Each of these questions relates to a specific game concept.
 
@@ -53,7 +53,7 @@ The symbols used on the map are as follows:
 
 * Red rectangle the minion wave of the red team.
 
-You can identify three forms of equilibrium on the map:
+You can identify three types of equilibrium on the map:
 
 1. Landscape equilibrium.
 
@@ -91,7 +91,7 @@ Minion waves maintain equilibrium. If the clash front remains in the middle of t
 
 Champions are the primary mobile units of each team. If a champion becomes significantly weaker compared to opponents, he can no longer effectively contribute to the game. In such cases, the champion becomes a resource for the enemy team, like a minion.
 
-We have considered three forms of equilibrium for game objects. Each of these forms is dynamic. This means that if something disturbs the equilibrium of an object, it returns to its original state over time. Let us explore some examples.
+We have considered three types of equilibrium for game objects. Each type is dynamic. This means that if something disturbs the equilibrium of an object, it returns to its original state over time. Let us explore some examples.
 
 Abilities of certain champions can disrupt the **landscape equilibrium**. They create new walls (Anivia W) or passages (Bard E). These actions disturb the balance of static objects. However, the effects of such abilities are temporary. The landscape will revert to its original state after a few seconds.
 
@@ -107,7 +107,7 @@ Here is the second question on our list:
 
 Player champions are the only entities capable of disrupting the equilibrium of game objects. Even their mere presence on the map alters the balance of the teams. This happens because cannot select the same champion.
 
-When a champion takes action, it affects a game object and changes its state. This disrupts one of the three forms of equilibrium.
+When a champion takes action, it affects a game object and changes its state. This disrupts one of the three types of equilibrium.
 
 We can categorize all possible actions by champions into two types: micro and macro. The most basic actions fall under the **micro-level** and aim for short-term goals. Here are a few examples:
 
@@ -222,7 +222,7 @@ Now, let us assume that the situation changes and the blue team's jungler comes 
 
 What happened in our example when the jungler appeared? The blue team gained a numerical advantage in the mid lane. This brings us to the second fundamental concept: advantage. It follows from the concept of equilibrium.
 
-A team gains an **advantage** when any form of equilibrium shifts in its favor. Every player can gain an advantage in a similar manner when the equilibrium on his lane shifts in his favor.
+A team gains an **advantage** when any type of equilibrium shifts in its favor. Every player can gain an advantage in a similar manner when the equilibrium on his lane shifts in his favor.
 
 Advantage comes in various forms, depending on which type of equilibrium has been disrupted. Experienced players identify the following types of advantages:
 
@@ -273,8 +273,6 @@ Let us revisit the question we asked at the beginning of this section. Here are 
 **Performing standard actions** is the least advantageous option. This type of action typically aims to maintain the current equilibrium of team power. A player will only gain an advantage from a standard action if he executes it significantly better than his opponent. The example is farming minions in the lane.
 
 ### 2.1.5 Macro cycle
-
->>>>R1
 
 Here is the fourth question on our list:
 
@@ -439,46 +437,46 @@ Distributing your attention across the game's key elements is crucial for every 
 
 ### 2.1.6 Tempo
 
->>>R1
+>>>>R1
 
 Here is the fifth question on our list:
 
-> How do you gain an advantage?
+> How to acquire an advantage?
 
 Experienced players accumulate advantages **from small to large**. This is the most reliable way to win against an equally strong opponent.
 
-The player starts to accumulate an advantage when one of the equilibrium forms shifts in his favor. He should notice this shift and take advantage of the opportunity. It means that the player should act according to some plan in which each step provides a small benefit. Gradually, this plan leads to a major advantage.
+A player begins to gain an advantage when one type of equilibrium shifts in his favor. He should recognize this shift and take advantage of the opportunity. This means the player should follow a plan in which each step provides a small benefit, gradually leading to a significant advantage.
 
-Tempo is the starting point from which experienced players begin to accumulate an advantage. Let us explore what this term means.
+Tempo is the starting point from which experienced players begin to build an advantage. Let us explore what this term means.
 
-There is the concept of a turn in turn-based strategy (TBS) games. A **turn** is a specific moment in time when a player is allowed to act. Turns follow one after another sequentially. Each player acts on his turn.
+There is a concept called a turn in turn-based strategy (TBS) games. A **turn** is a specific moment in time when a player is allowed to act. Turns follow one another in sequence. Each player acts on his turn.
 
-League of Legends is a real-time game. Its mechanics allow players to act continuously. The only exception is death. In this case, the player must wait for a respawn timer. However, the game does have a concept of a turn which is called a play.
+League of Legends is a real-time game. Its mechanics allow players to act continuously. The only exception to this is when a player dies. In this case, he must wait for a respawn timer. However, the game does have a concept akin to a turn, called a play.
 
-I> A **play** is a single action by a team or player that pursues a specific goal. For example, taking an epic monster or destroying an enemy tower.
+I> A **play** is a single action taken by a team or player that pursues a specific goal. Examples are taking an epic monster or destroying an enemy tower.
 
-A team and each of its champions can only operate effectively under certain conditions. Two things determine these conditions: the available resources and the players' positions on the map. If resources are available and the positions are favorable, a play can be made. Otherwise, the team or champion cannot act.
+A team and each of its champions can only operate effectively under certain conditions. Two factors determine these conditions: available resources and players' positions on the map. If resources are available and the positions are favorable, a play can be made. Otherwise, the team or champion cannot act.
 
-The conditions under which a team or champion can operate effectively are called [**tempo**](https://wiki.leagueoflegends.com/en-us/Snowball#Qualities). Coach Kairos explains this concept in detail in [the this video](https://www.youtube.com/watch?v=vHVeltI0IkE). He gives the following **tempo formula** for a specific champion:
+The conditions under which a team or champion can operate effectively are called [**tempo**](https://wiki.leagueoflegends.com/en-us/Snowball#Qualities). Coach Kairos explains this concept in detail in [this video](https://www.youtube.com/watch?v=vHVeltI0IkE). He provides the following **tempo formula** for a specific champion:
 {line-numbers: false, format: text}
 ```
 tempo = champion power / distance to object
 ```
 
-**The first part of the formula** is champion power. It is made up of a champion's resources. We can divide them into two types:
+**The first part of the formula** is champion power. It is the sum of the champion's primary resources. We can categorize these resources into two types:
 
 1. Static
 2. Dynamic.
 
-**Static resources** are things that a champion has already acquired and can no longer lose. Examples: level, items, gold, and permanent stacks of certain abilities.
+**Static resources** are those that a champion has already acquired and cannot lose. Here are examples: level, items, gold, and permanent stacks of specific abilities.
 
-**Dynamic resources** are things that a champion can spend or lose. Examples: health and mana, temporary buffs, readiness of abilities, summoner spells, and item effects.
+**Dynamic resources** are those that a champion can spend or lose. Examples include: health, mana, temporary buffs, cooldowns of abilities, summoner spells, and item effects.
 
-We have talked about the equilibrium of game objects. One of its forms is resource equilibrium, which is restored over time. Dynamic resources restore over time. It is obvious. For example, each champion passively replenishes health and mana, even without returning to the fountain. Their abilities and item effects also recharge after a cooldown.
+We have previously discussed the equilibrium of game objects. One form of this is resource equilibrium, which restores over time. It is obvious that dynamic resources restore over time. For example, each champion passively recovers health and mana, even without returning to the fountain. Additionally, his abilities and item effects also recharge after a cooldown.
 
-It is less obvious that the equilibrium of static resources is also restored over time. Here is an example. The blue team's mid laner is the first player who has reached level 18 and get all items. This is a significant advantage and he could carry his team to victory. However, if the game drags on, the red team returns to the game. After some time, its champions will reach level 18 and get all items. Therefore, the blue mid laner, who led in static resources, will lose his advantage over time. Then, the balance of power between the teams will be restored along with the equilibrium of static resources.
+It is less obvious that the equilibrium of static resources also restores over time. Here is an example. The blue team's mid laner is the first player to reach level 18 and acquire all six items. This gives him a significant advantage that can lead his team to victory. However, if the game drags on, the red team comes back. After some time, every red champion will reach level 18 and get all six items. Consequently, the blue mid laner, who initially had an advantage in static resources, will eventually lose that advantage. This way, the balance of power between the teams is restored, along with the equilibrium of static resources.
 
-Coach Kairos suggests considering only a portion of a champion's static and dynamic resources for simplicity. Table 2-1 shows them.
+Coach Kairos suggests evaluating only a portion of a champion's static and dynamic resources for simplicity. Table 2-1 shows these resources.
 
 {caption: "Table 2-1. Champion resources for tempo calculation", width: "100%"}
 | Designation | Description | Scale |
@@ -499,50 +497,52 @@ Here is the formula to calculate champion power:
 champion power = resources * (stats + items + cooldowns)
 ```
 
-Note that resources are the multiplier. It means that health and mana are the determining factors. A champion has no tempo at low health, regardless of his other stats.
+It is important to note that resources serve as the multiplier. This means that health and mana are crucial factors. A champion has no tempo at low health, regardless of his other stats.
 
-**The second part of the tempo calculation formula** is the distance to the object. An object can be anything besides an epic monster or enemy structure. In the context of tempo, it can also be a lane for gank, a teamfight, a jungle camp, or even a minion wave.
+**The second part of the tempo calculation formula** is the distance to the object. The object can be anything, not just an epic monster or an enemy building. In the context of tempo, this could include a lane for a gank, a teamfight, a jungle camp, or even a minion wave.
 
-Note that tempo is calculated for a given map object. For example, suppose a champion is on the bottom lane. His tempo on a dragon will be high, but his tempo on baron will be low.
+Tempo is calculated with respect to a specific map object. For example, suppose a champion is on the bottom lane. His tempo on a dragon will be high, but his tempo on Baron will be low.
 
-The distance to an object is measured in seconds to reach it. For example, if a player is at base but has a teleport spell ready, his distance to the object is small.
+The distance to an object is measured in seconds required to reach it. For instance, if a player is at the base but has a teleport spell available, his distance to the object is considered small.
 
-Coach Kairos suggests a scale from 1 to 10 that allows to estimate the distance:
+Coach Kairos suggests using a scale from 1 to 10 to estimate a champion's distance to an objective:
 
 * 1 — the champion is already at the objective.
 * 5 — the champion is halfway to the objective.
 * 10 — the champion is at the base or dead.
 
-Let us calculate tempo for a specific example. There is a blue jungler Viego. We want to know his tempo on the dragon. For simplicity, we will only consider the junglers of both teams and ignore other champions.
+Let us calculate the tempo for a specific example. There is a blue jungler Viego. We want to know his tempo on the dragon. For simplicity, we will only consider the junglers of both teams and ignore other champions.
 
-Viego has full health and mana. Therefore, his resources equal 3. He has level 8, and the red jungler has level 6. It mans that Viego's stats equal 5. He bought his first item, and the enemy jungler does not have it. Then Viego's items equal 4. All of Viego's abilities and spells are ready. Therefore, the champion's cooldowns equal 5. Viego enters the lower river from his jungle. Then his distance to the object equals 2.
+Viego has full health and mana, giving him a resource score of 3. He is at level 8, while the red jungler Ekko is at level 6. This means Viego's stats score is 5. Viego has purchased his first item, whereas the enemy jungler has not yet acquired one. Then Viego's items score is 4. All of Viego's abilities and spells are ready, resulting in a cooldown score of 5. As Viego enters the lower river from his jungle, his distance to the objective is 2.
 
-Here is the tempo on the dragon calculation for Viego:
+Here is Viego's tempo on the dragon:
 {line-numbers: false, format: text}
 ```
 tempo = 3 * (5 + 4 + 5) / 2 = 21
 ```
 
-This is a very high value. Let us compare it to the tempo of the red jungler Ekko, who is in top jungle now. His distance to the object is 7. His resources are the following:
+This is a very high value.
+
+Next, we will calculate the tempo of the red jungler Ekko, who is currently in the top jungle. His distance to the object is 7. His resources are the following:
 
 * Full health and mana: resources = 3.
 
-* Sixth level when the enemy has eighth:
+* He is at level 6 while the enemy is level 8:
 stats = 1.
 
-* No first item when the enemy has it: items = 2.
+* He does not have his first item while the enemy does: items = 2.
 
 * All abilities and spells ready: cooldowns = 5.
 
-Here is the tempo on the dragon calculation for Ekko:
+Here is Ekko's tempo on the dragon:
 {line-numbers: false, format: text}
 ```
 tempo = 3 * (1 + 2 + 5) / 7 = 3.4
 ```
 
-This is a very low value. It means Ekko can not contest the dragon.
+This results in a very low value, indicating that Ekko cannot contest the dragon.
 
-Coach Kairos' formula shows how a player can increase his tempo. He needs to get one of the following things:
+Coach Kairos' formula shows how a player can increase his tempo. To do this, a player needs to gain one of the following advantages:
 
 1. Resource advantage (health, mana).
 
@@ -552,19 +552,19 @@ Coach Kairos' formula shows how a player can increase his tempo. He needs to get
 
 4. Cooldown advantage for abilities, spells, and item effects.
 
-5. Being close to the object.
+5. Proximity to the objective.
 
-This list also works in reverse. If the opponent has any of these things, he gains tempo. Consequently, the player loses tempo.
+This list works both ways: if the opponent has any of these advantages, he gains tempo. Consequently, the player loses tempo.
 
-Coach Kairos suggests to calculate a team's tempo as the sum of its players' tempos. The formula looks like this:
+Coach Kairos suggests calculating a team's tempo as the sum of each player's tempo. The formula looks as follows:
 {line-numbers: false, format: text}
 ```
 team tempo = top tempo + jungle tempo + mid tempo + adc tempo + support tempo
 ```
 
-If you apply this formula to both teams, you can determine one that has tempo at the specific object at the moment. The team with tempo is more likely to win the fight and get the object.
+By applying this formula to both teams, you can determine which one currently has the tempo for a specific object. The team that has tempo is more likely to win the fight and secure the objective.
 
-A player can easily gain a small tempo advantage if he comes to a closer position to the object. However, a tempo advantage is dynamic. It creates a window of opportunity when a team or player can exploit the advantage. If this opportunity is missed, the tempo advantage will be useless.
+A player can easily gain a slight tempo advantage by moving closer to the objective. However, the tempo advantage is dynamic. It creates a window of opportunity when a team or player can exploit the advantage. If this opportunity is missed, the tempo advantage becomes useless.
 
 ### 2.1.7 Victory condition
 
