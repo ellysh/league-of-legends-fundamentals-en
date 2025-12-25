@@ -109,8 +109,6 @@ When the expert locates the appropriate template, the relevant knowledge can off
 
 ### 1.1.3 Player skills
 
->>>>R1
-
 We have learned how experts acquire knowledge and the essence of their expertise. Now, let us examine the skills of a League of Legends player through the CHREST model.
 
 First, we need to understand what a typical template looks like in League of Legends. The game is based on the model of a battle between two armies. Each side has some active objects that operate simultaneously. Each object has a set of parameters, which together define its properties.

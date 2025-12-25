@@ -566,8 +566,6 @@ A player can easily gain a slight tempo advantage by moving closer to the object
 
 ### 2.1.7 Victory condition
 
->>>>R1
-
 Here is the final question on our list:
 
 > How to turn an advantage into a victory?
