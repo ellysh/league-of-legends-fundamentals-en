@@ -437,8 +437,6 @@ Distributing your attention across the game's key elements is crucial for every 
 
 ### 2.1.6 Tempo
 
->>>>R1
-
 Here is the fifth question on our list:
 
 > How to acquire an advantage?
@@ -568,58 +566,58 @@ A player can easily gain a slight tempo advantage by moving closer to the object
 
 ### 2.1.7 Victory condition
 
->>>R1
+>>>>R1
 
-Here is the last question on our list:
+Here is the final question on our list:
 
 > How to turn an advantage into a victory?
 
-We already know that there are different types of advantage. The advantage within a given type can also vary in quantity. Let us compare the gold gap between teams with 1000 and 14000 gold for example. In the second case, every champion of the leading team is a full item ahead of his opponent in lane. This opens up far more opportunities than a small advantage of 1000 gold.
+We already know that there are different types of advantages. The advantage within a given type can also vary in quantity. For instance, let us compare the gold gap between teams with 1000 and 14000 gold. In the second scenario, every champion of the leading team is a complete item ahead of his opponent in the lane. This opens up far more opportunities than a 1000-gold advantage.
 
-Not every advantage is enough to win a game. A **win condition** is a specific type of advantage in sufficient quantity to guarantee a victory.
+However, not every advantage guarantees a win. A **win condition** is a specific type of advantage in sufficient quantity to secure a victory.
 
-A team's goal for the game is to achieve its win condition. Note that this depends on the team composition. In other words, different champion combinations have different win conditions.
+A team's goal for the game is to achieve its win condition. Note that this goal is influenced by team composition. In other words, different champion combinations have different win conditions.
 
 A team needs a **general game plan** to achieve a win condition. It guides the team's decisions and actions throughout the game. The plan is based on the following factors:
 
-1. Combination of champions in the team.
+1. The combination of champions in the team.
 
-2. Combination of opponent champions.
+2. The combination of the opponent's champions.
 
 3. Each player's plan for the laning phase.
 
-**Combination of champions in the team** determines how they can interact and enhance their capabilities. Players should choose the right strategies for map control and teamfights depending on their champions setup.
+**The combination of champions in the team** determines how they can interact and enhance each other's capabilities. Players should choose the right strategies for map control and teamfights depending on their champions setup.
 
-**Combination of opponent champions** defines the enemy team's capabilities. Some of them can completely neutralize the capabilities of player's team. Players should take this into account when developing a game plan.
+**The combination of opponents' champions** defines the capabilities of the enemy team. Some enemy champions may completely neutralize the capabilities of the player's team. Players should take this into account when developing a game plan.
 
-**Player's plan for the laning phase** determines how he intends to gain an advantage during the laning phase. Some champions can rotate and assist their allies during the laning phase. Others are forced to remain in their lane constantly. Otherwise, they will fall behind in the mid game. Players must factor this into their game plan.
+**Player's plan for the laning phase** determines how he intends to gain an advantage before the mid game starts. Some champions can rotate and assist their allies during the laning phase. Others are forced to remain in their lane constantly. Otherwise, they will fall behind in the mid game. Players must factor this into their game plan.
 
-There are several typical plans in the current game balance. Players choose one of them in the vast majority of games. These plans work in both competitive and ranked games on all Elo levels.
+There are several typical game plans in the current League of Legends balance. Players choose one of them in the vast majority of games. These plans work in both competitive and ranked matches across all Elo levels.
 
-Here is a list of typical game plans:
+Here is a list of typical game plans in League of Legends:
 
-1. **Early game aggression**. The team picks champions that are very strong in the laning phase. Examples: Renekton, Lee Sin, Lucian. They outperform their opponents in lane with equal resources thanks to early power spikes from abilities. These power spikes allow them to kill opponents and gain an early resource advantage. The game plan is to accumulate the advantage from small to large.
+1. **Early game aggression**. The team picks champions who are very strong during the laning phase. Examples include Renekton, Lee Sin, and Lucian. These champions outperform their opponents in the lane with equal resources due to their early power spikes from abilities. These power spikes enable them to secure kills and gain an early resource advantage. The game plan is to build this advantage from small to large.
 
 I> A **power spike** is a moment in the game when a champion becomes significantly stronger. This happens after reaching a certain level or buying a key item.
 
-2. **Late game scaling**. The team has at least one hypercarry champion. Examples: Kayle, Jinx, Smolder, Aurelion Sol. They are weak early on but become very strong in the late game. The plan is to slow down the game and gain resources on par with opponents. The same resources give the hypercarry stronger power spikes than other champions. Then, they dominate teamfights in the mid game. The entire team's plays revolve around hypercarry.
+2. **Late game scaling**. The team has at least one hypercarry champion. Examples include Kayle, Jinx, Smolder, Aurelion Sol. These champions may be weak early on, but become exceptionally powerful in the late game. The plan is to slow down the game and gain resources on par with opponents. The same resources give the hypercarry stronger power spikes than other champions. Then they dominate teamfights in the mid and late game. The team's plays revolve around hypercarry.
 
-I> **Scaling** is the increase in a champion's power as a result of resource acquisition and over time.
+I> **Scaling** is the increase in a champion's power as a result of resource acquisition.
 
-I> **Carry** is a champion with good abilities scaling from AD or AP statistics. He becomes the primary damage dealer in the team after buying a few items. His presence in teamfights is crucial in mid and late game.
+I> **Carry** is a champion whose abilities scale well with Attack Damage (AD) or Ability Power (AP). He becomes the primary damage dealer for the team after buying key items. His presence in teamfights is crucial in the mid and late game.
 
-3. [**Split push**](https://leagueoflegends.fandom.com/wiki/User_blog:Fistful_of_Force/Split_push.) is a single champion pushing on the side lane. The plan is to create a threat to destroy an enemy tower or inhibitor. This threat forces opponents to react. Therefore, the team gains map control and a number advantage in contesting some objective.
+3. [**Split push**](https://leagueoflegends.fandom.com/wiki/User_blog:Fistful_of_Force/Split_push.). This strategy involves a single champion pushing a side lane. The game plan is to create a threat to destroy an enemy tower or inhibitor, forcing opponents to react. This reaction gives the team map control and a numerical advantage when contesting objectives.
 
-I> [**Pushing**](https://www.mobafire.com/league-of-legends/wiki/game-mechanics/pushing) is the rapid killing of enemy minions in a lane. This is usually done by using a champion's offensive abilities.
+I> [**Pushing**](https://www.mobafire.com/league-of-legends/wiki/game-mechanics/pushing) is the rapid killing of enemy minions in a lane. This is usually done by using a champion's damaging abilities.
 
-4. **Teamfight**. The team picks champions who excel in five-on-five combat. Their abilities allow them to engage or deal area-of-effect (AoE) damage. Examples: Malphite, Amumu, Rumble, Zyra, Brand. The plan is to speed up the game. The team forces frequent fights for objectives on the map. A suitable combination of champions gives the team an advantage in these fights.
+4. **Teamfight**. The team picks champions who excel in five-on-five combat. These champions have abilities that allow them to engage opponents or deal area-of-effect (AoE) damage. Examples include Malphite, Amumu, Rumble, Zyra, Brand. The plan is to accelerate the pace of the game and force frequent fights for objectives on the map. A well-combined roster of champions provides the team with an advantage in these plays.
 
-5. **Siege**. The team picks champions with long range abilities or auto attacks. Examples: Jayce, Ziggs, Caitlyn, Ezreal, Zoe. The plan is to deal damage to the opponents from a safe distance. This drains dynamic resources of the enemy team. Player and his team should force a fight for the objective on the map once opponents can not act because of lacking resources.
+5. **Siege**. The team picks champions with long-range abilities or auto-attacks. Examples include Jayce, Ziggs, Caitlyn, Ezreal, Zoe. The game plan is to deal damage to the opponents from a safe distance. This drains the enemies dynamic resources. The team should force a fight for the objective once opponents are unable to act due to a lack of resources.
 
-The more champions in a team are suitable for the specific game plan, the better it works. On the other hand, the enemy team could pick champions that completely neutralize the specific game plan. Therefore, players combine several plans in competitive games and on high Elo level. For example, a team picks one hypercarry and several champions that focus on early aggression. This way players compensate weaknesses of their champions.
+The effectiveness of a game plan increases with the number of champions on a team that align with it. However, the enemy team can also select champions that counter a specific game plan. Therefore, experienced players combine several plans in competitive games and at high Elo levels. For instance, a team might pick one hypercarry accompanied by several champions that focus on early aggression. This way, players compensate for the weaknesses of their champions.
 
-The team should have a general game plan. Also, an individual player could have it too. Individual game plan is important on low Elo level. It is hard to communicate with the team and reach any agreement quickly on this Elo. Some game plans are built around a single champion (for example, split-push or scaling). Experienced players take these game plans and execute them on their own. This way, they are less dependent on the team's decisions and can achieve the win condition independently.
+The team should have a general game plan. Also, an individual player could have it too. An individual game plan is essential at low Elo levels, where it is challenging to communicate with teammates and reach consensus quickly. Some game plans are built around a single champion, such as split-pushing or scaling. Experienced players can execute these plans on their own. This way, they are less dependent on team decisions and can achieve the win condition independently.
 
-Let us return to our question: how to turn an advantage into a victory? The team should use its advantage to implement the general game plan. For example, the advantage should be gradually accumulated until it becomes decisive in the "early aggression" plan. Another example, the team's advantage should be realized in the objective contests in the "teamfight" game plan. The team achieves its win condition by doing these.
+Let us return to our question: how to turn an advantage into a victory? The team must utilize its advantage to implement its general game plan. For instance, the players should gradually accumulate the advantage until it becomes decisive in the "early aggression" plan. Another example, the players should capitalize on their advantage in the objective contests in the "teamfight" game plan. The team achieves its win condition by consistently adhering to the game plan.
 
 {pagebreak}
