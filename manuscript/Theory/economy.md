@@ -95,14 +95,16 @@ Note that the 30th minion wave spawns at 16 minutes, which is roughly when the l
 
 #### 2.2.1.2 Income in jungle
 
-Теперь поговорим о чемпионах в лесу. Каждый лагерь лесных монстров даёт 4 creep score. Это в среднем 100 золота. За минуту лесник может забрать три лагеря. Следовательно, его доход составляет около 300 золота в минуту. Обратите внимание, что он примерно равен доходу чемпиона на линии.
+>>>R1
 
-Убийство монстра кроме золота даёт ещё и опыт. В среднем за один лагерь лесник получает от 165 до 240 опыта. Это значение увеличивается по ходу партии. За три лагеря лесник получает в среднем 600 опыта. Другими словами, его доход составляет примерно 600 опыта в минуту. Это примерно равно тому, что получает чемпион на одиночной линии.
+Now, let us talk about champions who farm jungle monsters. Each jungle camp grants 4 creep score, which is an average of 100 gold. A jungler can take three camps per minute. Therefore, his income is approximately 300 gold per minute. Note that this is roughly equal to the income of a champion who farms on a lane.
 
-Таблица 2-5 показывает сколько лагерей монстров нужно забрать леснику, чтобы получить первые 7 уровней.
+Killing a monster not only grants gold, but also experience. On average, a jungler receives between 165 and 240 experience for one camp. This value increases as the game progresses. For three camps, a jungler receives an average of 600 experience. In other words, his income is approximately 600 experience per minute. This is roughly equal to what a champion in a solo lane receives.
 
-{caption: "Таблица 2-5. Опыт для получения лесником уровня", width: "85%"}
-| Уровень | Опыт | Лагеря монстров | Creep score |
+Table 2-5 shows how many monster camps a jungler needs to take to reach the first 7 levels.
+
+{caption: "Table 2-5. Experience for gaining levels for a jungler", width: "85%"}
+| Level | Experience | Camps | Creep score |
 |  | | | |
 | :---: | :---: | :---: | :---: |
 |  | | | |
@@ -113,19 +115,19 @@ Note that the 30th minion wave spawns at 16 minutes, which is roughly when the l
 | 6 | +680 | 13 | 52 |
 | 7 | +780 | 17 | 68 |
 
-За убийство первого лагеря чемпион получает дополнительно 150 опыта за счёт предмета для леса. Этот же предмет даёт дополнительные 80 опыта за убийство больших монстров. Таким образом лесник всегда получает 2-й уровень на 4 cs.
+For killing the first camp, the champion receives an additional 150 experience thanks to a jungle item. This same item also provides an additional 80 experience for killing large monsters. Thus, the jungler always gains level 2 at 4 CS.
 
-Мы рассмотрели доход чемпионов на линии и в лесу. Из этого можно сделать следующие выводы:
+We examined the income of champions in the lane and jungle. We can draw the following conclusions from this:
 
-1. Первые четыре волны миньонов чрезвычайно важны. Для лесника важна первая чистка леса. В сумме это 6 лагерей монстров.
+1. The first four minion waves are extremely important. For the jungler, the first jungle clear is crucial. This is six monster camps in total.
 
-2. Если отнять у чемпиона доход на первых минутах партии, это даст преимущество в два и более уровней.
+2. Depriving a champion of income in the first minutes of the game gives an advantage of two or more levels later.
 
-3. Когда чемпион не фармит свою линию, он теряет ресурсы. За каждую минуту отсутствия он платит в среднем 300 золота и 600 опыта, которые мог бы получить.
+3. When a champion is not farming his lane, he loses resources. For every minute the champion is away, he loses an average of 300 gold and 600 experience that he could have gained.
 
-4. Разделять волны миньонов между двумя чемпионами на линии выгодно только в начале партии. Чем дольше идёт игра, тем это становится менее выгодным. Отставание чемпионов по уровню от одиночных линию будет расти.
+4. Sharing minion waves between two champions in a lane is only beneficial at the beginning of the game. The longer the game goes on, the less beneficial this becomes. The level gap between champions and solo laners will widen.
 
-Опытные игроки уделяют особое внимание первым двум волнам миньонов на линии. В самом начале партии каждый убитый миньон на счету. Он может решить, кто на линии получит ранее преимущество. Это преимущество можно превратить в первое убийство и взятие пластин башни. Так решение игрока в первые минуты игры может определить исход стадии лейнинга.
+Experienced players pay special attention to the first two waves of minions in the lane. At the very beginning of the game, every minion killed counts. It can determine who in lane gains an early advantage. A good player can convert this advantage into the first kill and the tower plate. Thus, correct decisions in the first minutes of the game can determine the outcome of the laning stage.
 
 ### 2.2.2 Action planning
 
