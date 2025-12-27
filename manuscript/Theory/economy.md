@@ -131,13 +131,15 @@ Experienced players pay special attention to the first two waves of minions in t
 
 ### 2.2.2 Action planning
 
-Новички редко связывают свои действия и их отложенные во времени результаты. Поэтому они недооценивают последствия своих ошибок и просчётов. Рассмотрим пример.
+>>>R1
 
-Допустим, лесник провёл неудачный ганк. В результате вражеский топлейнер выжил и даже не потерял здоровья. Игроку кажется, что в этом нет ничего плохого и равновесие между командами не нарушилось. На самом деле, это не так: противники получили преимущество. Причина в том, что игрок впустую потратил своё время и недополучил ресурсы за фарм леса.
+Beginner players rarely connect the dots between some action and its long-term results. Therefore, they underestimate the consequences of their mistakes and miscalculations.
 
-I> **Ганк** (gank) — нападение из засады на вражеского чемпиона на линии. Это обычная тактика лесника.
+Here is an example. Suppose a jungler performs a poor gank. As a result, the enemy top laner survives without even losing health. The player believes there is nothing wrong with this play, and the equilibrium between the teams remains unchanged. In fact, this is not the case: the enemy team gained an advantage. The reason is that the player wasted his time and did not farm the jungle while the enemy jungler did.
 
-Рассмотрим несколько примеров игровых ситуаций с точки зрения экономики. Они покажут, как расчёт ресурсов предсказывает результат того или иного действия.
+I> A **gank** is an ambush of an enemy champion in the lane. This is a typical jungler tactic.
+
+Let us look at several examples of gameplay situations from an economic perspective. They will demonstrate how resource calculations predict the outcome of a given play.
 
 #### 2.2.2.1 Gank
 
