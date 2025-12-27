@@ -1,6 +1,6 @@
 ## 2.2 Economy
 
->>>W
+>>>R1
 
 C> The general that hearkens to my counsel and acts upon it, will conquer: let such a one be retained in command! The general that hearkens not to my counsel nor acts upon it, will suffer defeat — let such a one be dismissed! While heading the profit of my counsel, avail yourself also of any helpful circumstances over and beyond the ordinary rules.
 C>
@@ -14,20 +14,24 @@ Let us look at how to calculate resources when planning actions correctly.
 
 ### 2.2.1 Gold and experience income
 
-Расчёт ресурсов помогает принимать решения. Чем он точнее, тем более полной информацией располагает игрок. Информация даёт потенциальную возможность принимать лучшие решения. Но она не гарантирует безошибочную игру.
+>>>R1
 
-Подсчитаем, какие ресурсы получают чемпионы на фазе лейнинга.
+Resource calculations help make decisions. The more accurate they are, the more complete the information a player has. This information can help make better decisions, but it does not guarantee error-free play.
+
+Let us calculate the resources that champions receive during the laning phase.
 
 #### 2.2.1.1 Income on lane
 
-Сначала рассмотрим чемпионов на линиях. Первая волна миньонов для каждой линии появляется около Нексуса в 1:05 по игровому времени. После этого следующие волны появляются через каждые 30 секунд: в 1:35, в 2:05 и т.д.
+>>>R1
 
-Если чемпион добивает всех вражеских миньонов в одной волне, он получает максимально возможное золото. Эта сумма увеличивается по ходу партии.
+Let us first look at champions who farm minions on some lane. The first wave of minions for each lane spawns near the Nexus at 1:05 game time. Subsequent waves then spawn every 30 seconds: at 1:35, 2:05, and so on.
 
-Таблица 2-2 приводит среднюю стоимость одной волны миньонов в зависимости от игрового времени.
+If a champion finishes off all enemy minions in a single wave, he receives the maximum possible gold. This amount increases as the game progresses.
 
-{caption: "Таблица 2-2. Стоимость по золоту волны миньонов", width: "70%"}
-| Игровое время | Средняя стоимость волны | Среднее золото за 1 cs |
+Table 2-2 shows the average cost of one minion wave depending on game time.
+
+{caption: "Table 2-2. Minion wave gold reward", width: "70%"}
+| Game time | Average wave cost | Average gold per 1 cs |
 |  | | |
 | --- | --- | --- |
 |  | | |
@@ -39,31 +43,31 @@ Let us look at how to calculate resources when planning actions correctly.
 |  | | |
 | 25:00 | 190 | 27.6 |
 
-I> **Creep score** (cs) дословно переводится как "счёт миньонов". Это количество вражеских миньонов или лесных монстров, которых добил чемпион.
+I> **Creep score** (cs) is the number of enemy minions or jungle monsters that a champion has last hit.
 
-Согласно таблице, одна волна миньонов даёт в среднем 150 золота. Волны появляются у Нексуса каждые 30 секунд. Следовательно, чемпион на линии за одну минуту фармит две волны миньонов. То есть его доход составляет примерно 300 золота в минуту.
+According to the table, one minion wave yields an average of 150 gold. Waves spawn at the Nexus every 30 seconds. Therefore, a lane champion farms two minion waves in one minute. This means his income is approximately 300 gold per minute.
 
-Убийство миньона даёт не только золото, но и опыт. Если в момент его смерти чемпион находится на расстоянии 1500, он получает опыт. Для этого даже не нужно атаковать миньона.
+Killing a minion grants not only gold but also experience (EXP or XP). If the champion is within 1500 range when the minion dies, he receives experience. This does not even require attacking the minion.
 
-Таблица 2-3 приводит награду опытом за каждый вид миньона.
+Table 2-3 shows the experience reward for each minion type.
 
-{caption: "Таблица 2-3. Награда опытом за миньонов", width: "80%"}
-| Вид миньона | Награда опытом | Рост награды каждые 3 минуты |
+{caption: "Table 2-3. Minion experience rewards", width: "80%"}
+| Minion type | Experience reward | Reward increases every 3 minutes |
 |  | | |
 | --- | --- | --- |
 |  | | |
-| Миньон-воин | 60 | +5 |
+| Melee minion | 60 | +5 |
 |  | | |
-| Миньон-маг | 30 | +3 |
+| Caster minion | 30 | +3 |
 |  | | |
-| Осадной миньон | 93 | +7 |
+| Siege minion | 93 | +7 |
 
-В каждой волне три миньона-воина и три миньона-мага. Первый осадной миньон появляется в четвёртой волне. Далее до 15-й минуты он будет в каждой третьей волне: 7, 10, 13 и т.д. Далее с 15-й по 25-ю минуту он появляется в каждой второй волне. После 25-й минуты каждая волна включает осадного миньона. 
+Each wave contains three warrior minions and three mage minions. The first siege minion appears in the fourth wave. After that, until the 15th minute, it appears in every third wave: 7, 10, 13, and so on. Then, from the 15th to the 25th minute, it appears in every second wave. After the 25th minute, each wave includes a siege minion.
 
-Посчитаем доход опыта в минуту на линии. За одну волну чемпион в среднем получает `60 * 3 + 30 * 3 ~ 300` опыта до 15-й минуты. Это означает, что за две волны он получит 600 опыта. Другими словами, его доход составляет 600 опыта в минуту. Оценим — много это или мало. Для этого обратимся к таблице 2-4. Она показывает количество опыта и волн миньонов, которые нужны чемпиону для получения каждого уровня.
+Let us calculate the experience income per minute in a lane. In one wave, a champion receives, on average, `60 * 3 + 30 * 3 ~ 300` experience until the 15th minute. This means he will receive 600 experience in two waves. In other words, his income is 600 experience per minute. We could evaluate whether this is a big or a small number. To do this, let us refer to Table 2-4. It shows the amount of experience and minion waves a champion needs to reach each level.
 
-{caption: "Таблица 2-4. Опыт для получения чемпионом уровня", width: "80%"}
-| Уровень | Опыт | Волны миньонов | Разделённые волны миньонов  |
+{caption: "Table 2-4. Experience to reach certain champion levels", width: "80%"}
+| Level | Experience | Minion waves | Shared minion waves |
 |  | | | |
 | :---: | :---: | :---: | :---: |
 |  | | | |
@@ -85,9 +89,9 @@ I> **Creep score** (cs) дословно переводится как "счёт
 | 17 | +1780 | 54 | 76 |
 | 18 | +1880 | 60 | 84 |
 
-Разделённые волны миньонов означают, что на линии стоят два чемпиона. В этом случае убийство каждого миньона даёт 130% опыта. Он делится поровну: каждый чемпион получает по 65%. Из-за этого они будут отставать по уровню от чемпионов на одиночных линиях.
+Shared minion waves mean that two champions are in a lane. In this case, killing each minion grants 130% of the experience gained. This experience is split evenly, with each champion receiving 65%. Because of this, they will be at a lower level than champions in solo lanes.
 
-Обратите внимание, что 30-я волна миньонов появляется на 16-й минуте. Примерно к этому времени заканчивается фаза лейнинга.
+Note that the 30th minion wave spawns at 16 minutes, which is roughly when the laning phase ends.
 
 #### 2.2.1.2 Income in jungle
 
