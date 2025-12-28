@@ -143,117 +143,118 @@ Let us look at several examples of gameplay situations from an economic perspect
 
 #### 2.2.2.1 Gank
 
-В первом примере лесник синей команды планирует свои действия. Он только что вернулся на базу после первой чистки леса. Для простоты допустим, что он рассматривает только два варианта:
+>>>R1
 
-1. Фармить дальше свой лес.
+In the first example, the blue team's jungler is planning his actions. He has just returned to base after the first jungle clear. For simplicity, let us assume he is only considering two options:
 
-2. Ганкать вражеского чемпиона на средней линии.
+1. Continue farming his jungle.
+2. Gank the enemy mid laner.
 
-Мы уже посчитали, что за фарм леса чемпион получает около 300 золота и 600 опыта в минуту. Если вражеский лесник делает то же самое, то между командами сохраняется равновесие по ресурсам.
+We have already calculated that farming the jungle earns a champion about 300 gold and 600 experience per minute. If the enemy jungler does the same, then resource equilibrium remains unchanged between the teams.
 
-Рассчитаем, какой результат даст игроку ганк средней линии. Сначала оценим время, которое для этого понадобится. Чемпион потратит около 30 секунд, чтобы дойти до средней линии и занять позицию для нападения. Это время может быть меньше. Оно зависит от предметов и рун на мобильность.
+Let us calculate the outcome of ganking the mid laner. First, we need to estimate the time it will take. The champion will spend about 30 seconds reaching the mid lane and positioning themselves to attack. This time may be shorter, depending on mobility items and runes.
 
-Допустим, что синий лесник занял позицию для атаки на вражеского мидлейнера. Возможно, он не сможет напасть сразу. Какое-то время лесник проведёт в засаде, чтобы дождаться удачного момента. Например, когда противник отойдёт далеко от своей башни. После этого игрок атакует и какое-то время преследует цель. Весь ганк от момента принятия решения на базе до окончания займёт около 40 секунд.
+Let us assume the blue jungler has reached the position to attack the enemy mid laner. He may not be able to attack right away. The jungler will spend some time in ambush, waiting for the right moment. For example, when the enemy moves far away from his tower. After this, the player attacks and pursues the target for a while. The entire gank, from the moment the decision is made at the base until its completion, takes about 40 seconds.
 
-Мы выяснили, что лесник потратил на ганк около 40 секунд. Если бы он вернулся в лес и начал фармить, он бы успел забрать один лагерь монстров. В пересчёте на ресурсы получим примерно 100 золота и 200 опыта. Это плата лесника за участие в ганке.
+We found that the jungler spent about 40 seconds on the gank. If the player had returned to the jungle and started farming, he would have taken one monster camp. Converted to resources, this comes to approximately 100 gold and 200 experience. This is the jungler's fee for participating in the gank.
 
-Теперь посчитаем выигрыши команд от возможных результатов ганка. Всего в ганке три участника: мидлейнер красной команды, лесник и мидлейнер синей команды. Результаты для каждого из них могут быть такими:
+Now, let us calculate the teams' gain from the possible gank outcomes. There are three participants in the gank: the red team's mid laner, the blue team's jungler, and the blue team's mid laner. The possible outcomes for each of them are:
 
-1. Убит
-2. Выжил на минимальном количестве здоровья
-3. Выжил на среднем или высоком количестве здоровья.
+1. Killed
+2. Survived with minimal health
+3. Survived with medium or high health.
 
-**Первый случай** — чемпион был убит. Тогда он отсутствует на карте какое-то время. Оно складывается из двух частей:
+**The first scenario** is when an enemy kills the champion. He is then absent from the map for a period of time. This time is made up of two parts:
 
-1. Время воскрешения, которое зависит от уровня чемпиона. На стадии лейнинга это в среднем 20 секунд.
+1. The resurrection time, which depends on the champion's level. During the laning stage, this is on average 20 seconds.
 
-2. Время, чтобы дойти до середины своей линии или лагеря лесных монстров. Оно зависит от предметов и умений чемпиона. В среднем это около 30 секунд.
+2. The time to reach the middle of his lane or a jungle camp. This time depends on the champion's items and abilities. On average, this is around 30 seconds.
 
-В сумме убитый чемпион отсутствует на своей линии или в лесу почти одну минуту. За это время он теряет две волны миньонов или три лагеря монстров. Другими словами, его потери составляют 300 золота и 600 опыта.
+In total, a killed champion is absent from his lane or jungle for almost one minute. During this time, he loses two minion waves or three jungle camps. In other words, he loses 300 gold and 600 experience.
 
-**Второй случай** — чемпион выживает на минимальном количестве здоровья. В таком состоянии ему опасно оставаться на своей линии или фармить лес. Вражеский лесник может легко его добить.
+**The second scenario** is when the champion survives on minimal health. In this state, it is dangerous for him to remain in his lane or farm the jungle. The enemy jungler can easily finish him off.
 
-Чемпион возвращается на базу. Тогда он тратит 8 секунда на заклинание [**возвращения**](https://leagueoflegends.fandom.com/ru/wiki/Возвращение_(Заклинание)) (recall). После этого восстанавливает здоровье и ману на фонтане в течение 10 секунд. Затем чемпион возвращается на линию около 30 секунд. В сумме он отсутствует на карте порядка 50 секунд. Это означает, что он пропустит почти две волны миньонов. Другими словами, его потери составляют 300 золота и 600 опыта. Для лесника результат будет такой же.
+The champion returns to base. Then, he spends 8 seconds casting the [**recall**](https://leagueoflegends.fandom.com/ru/wiki/Воставение_(Закаление)) spell. Afterward, he restores health and mana at the fountain for over 10 seconds. The champion then returns to the lane for about 30 seconds. In total, he is off the map for about 50 seconds. This means he will miss almost two minion waves. In other words, he loses 300 gold and 600 experience. The jungler will have the same effect.
 
-**Третий случай** — чемпион выживает на среднем или высоком количестве здоровья. В таком состоянии он может продолжать фармить миньонов на линии или лесных монстров. Если у него достаточно золота, он может вернуться на базу для покупки предмета. Recall будет стоить ему около 40 секунд отсутствия на карте. Это минимум одна пропущенная волна или 150 золота и 300 опыта.
+**Third case**: the champion survives on medium or high health. In this state, he can continue farming lane minions or jungle monsters. If he has enough gold, he can return to base to buy an item. Recall will cost him about 40 seconds off the map. That is at least one missed wave, or 150 gold and 300 experience.
 
-Сложим результаты по каждому чемпиону, чтобы оценить выигрыши команд. Для простоты рассмотрим только три исхода ганка:
+Let us summarize the results for each of the three champions to estimate the team's income. For simplicity, we will consider only three gank outcomes:
 
-1. **Лучший** — мидлейнер красной команды убит, а чемпионы синей команды остались с полным уровнем здоровья.
+1. **Best** - the red team's mid laner is killed, and the blue team's champions remain at full health.
 
-2. **Посредственный** — мидлейнер красной команды ушёл на минимальном уровне здоровья, а чемпионы синей команды не пострадали.
+2. **Mediocre** - the red team's mid laner survives at minimum health, and the blue team's champions remain at full health.
 
-3. **Худший** — мидлейнер красной команды остался на полном уровне здоровья, а оба чемпиона синей команды убиты.
+3. **Worst** - the red team's mid laner remains at full health, and both blue team champions are killed.
 
-В **лучшем случае** выигрыш синей команды будет следующим:
+In the **best case**, the blue team's income would be as follows:
 
-1. Синий лесник и мидлейнер получают за убийство золото и опты. Тот кто убил получает 300 золота, а помогавший (assist) — 150. В сумме это составляет 450 золота. Вместе они разделяют около 300 опыта.
+1. The blue jungler and mid laner receive gold and experience for the kill. The player who did a kill receives 300 gold, and the player who did assist receives 150 gold. It totals 450 gold. They both share approximately 300 experience.
 
-2. Синий мидлейнер может остаться на линии и фармить. Тогда он получит 300 золота и 600 опыта за одну минуту. Всё это время его оппонента не будет на линии.
+2. The blue mid laner can stay in lane and farm. Then he will receive 300 gold and 600 experience in one minute. His opponent will be absent from the lane for the entire time.
 
-I> **Ассист** (assist) Помощь при убийстве вражеского чемпиона.
+I> **Assist** is helping to kill an enemy champion in any form.
 
-Суммарный перевес в пользу синей команды сложится из награды за убийство и фарма мидлейнера. Из него надо вычесть плату лесника за участие в ганке.
+The total advantage in favor of the blue team will be the kill reward and the mid laner's farm. Then we need to subtract the jungler's fee for participating in the gank.
 
-Перевес по золоту получится такой:
+Here is the gold advantage for the blue team:
 {line-numbers: false, format: text}
 ```
 450 + 300 - 100 = 650
 ```
 
-Перевес по опыту получится следующий:
+Here is the experience advantage for the blue team:
 {line-numbers: false, format: text}
 ```
 300 + 600 - 200 = 700
 ```
 
-Преимущество команды в 650 золота и 700 опыта — это много на первых минутах игры. Поэтому ранний успешный ганк может сильно повлиять на стадию лейнинга.
+A team advantage of 650 gold and 700 experience is significant in the first minutes of the game. Therefore, an early successful gank can significantly impact the laning phase.
 
-При **посредственном** ганке выигрыш синей команды рассчитывается аналогично. Только из расчёта надо исключить награду за убийство мидлейнера красной команды.
+In a **mediocre** gank, the blue team's income is calculated similarly. However, we must exclude the bounty for killing the red team's mid laner from the formula.
 
-Красный мидлейнер вернётся на базу, чтобы восстановить здоровье. За это он заплатит одной минутой фарма, который пропустит.
+The red mid laner will return to base to regenerate health. This will cost him one minute of missed farm.
 
-Перевес синей команды по золоту будет такой:
+Here is the gold advantage for the blue team:
 {line-numbers: false, format: text}
 ```
 300 - 100 = 200
 ```
 
-Перевес по опыту следующий:
+Here is the experience advantage for the blue team:
 {line-numbers: false, format: text}
 ```
 600 - 200 = 400
 ```
 
-Получился неплохой результат. Но он вряд ли решит исход фазы лейнинга.
+We got a decent result. But it is unlikely that this advantage decides the outcome of the laning phase.
 
-В **худшем случае** выигрыш получит красная команда. Он сложится из следующего:
+In the **worst case**, the red team gets the advantage. It comes from the following:
 
-1. Красный мидлейнер получит награду за двойное убийство. Это 300 золота и 300 опыта за каждого противника.
+1. The red mid laner will receive the bounty for the double kill. That is 300 gold and 300 experience for each blue champion.
 
-2. Красный мидлейнер может остаться на линии и фармить. Тогда он получит 300 золота и 600 опыта. Оппонент эти ресурсы не получит.
+2. The red mid laner can stay in lane and farm. Then he will receive 300 gold and 600 experience. The blue mid laner would not receive these resources.
 
-3. Потери синей команды составят два раза по 300 золота и 600 опыта. Это фарм мидлейнера и лесника за одну минуту, который они не получат.
+3. The blue team's losses will be twice 300 gold and 600 experience. This is the farm per one minute of the blue mid laner and jungler, which they would not receive.
 
-Суммарный перевес красной команды сложится из выигрыша мидлейнера и потерь обоих синих чемпионов. Учтём также плату лесника за участие в ганке.
+The red team's overall advantage will come from the mid laner's gain and both blue champions' losses. We will also take into account the jungler's fee for participating in the gank.
 
-Перевес по золоту получится такой:
+Here is the gold advantage for the red team:
 {line-numbers: false, format: text}
 ```
 300 + 300 + 300 + 300 + 100 = 1300
 ```
 
-Перевес по опыту будет следующий:
+Here is the experience advantage for the red team:
 {line-numbers: false, format: text}
 ```
 300 + 300 + 600 + 600 + 200 = 2000
 ```
 
-Это означает, что провальный ганк даёт противнику огромное преимущество. После этого синий мидлейнер фактически проиграл стадию лейнинга. Из такого сильного отставания ему очень сложно вернуться в игру.
+This means that a failed gank gives the enemy team a huge advantage. After this play, the blue mid laner lost his laning phase for sure. It is tough for him to come back from such a significant gap.
 
-Из наших расчётов можно сделать вывод, что синему леснику выгоден ганк. Но только при условии, что он даст как минимум посредственный результат. Чтобы сократить плату за участие в ганке, игрок должен выходить на мидлейн после чистки своего леса. Так он повысит выигрыш в случае успеха и немного сократит потери при неудаче.
+Here is the summary from our calculations. The gank is beneficial for the blue jungler. But only if it leads to at least a mediocre result. To reduce the cost of participating in a gank, the blue jungler should come to the mid lane after clearing his camps. This will increase the income in case of success and slightly reduce the losses in case of failure.
 
-Наш пример показал, сколько стоит одна грубая ошибка в League of Legends. Её причиной может быть как плохой план, так и плохое исполнение. Другими словами, даже хороший план не гарантирует преимущество, если игрок не может качественно его исполнить.
+Our example showed the cost of a single serious mistake in League of Legends. Either a poor plan or poor execution can cause the mistake. In other words, even a good plan does not guarantee an advantage if a player can not execute it well.
 
 #### 2.2.2.2 Taking the dragon
 
