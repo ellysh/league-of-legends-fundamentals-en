@@ -258,78 +258,80 @@ Our example showed the cost of a single serious mistake in League of Legends. Ei
 
 #### 2.2.2.2 Taking the dragon
 
-Во втором примере лесник синей команды забирает [огненного дракона](https://leagueoflegends.fandom.com/ru/wiki/Огненный_дракон). Сначала он чистит свой нижний лес во второй раз. После этого выходит на эпического монстра. Так игрок использует своё время максимально эффективно.
+>>>R1
 
-Пусть лесником синей команды будет Xin Zhao. Он имеет 5-й уровень, когда подходит к логову дракона. Его **урон в секунду** (damage per second или DPS) составляет около 100 физического урона (AD). В этот момент у дракона 5730 здоровья. Это означает, что лесник в одиночку заберёт монстра примерно за одну минуту.
+In the second example, the blue team's jungler takes the [Infernal Drake](https://wiki.leagueoflegends.com/en-us/Infernal_Drake). First, he clears all his jungle camps for the second time. Then, he goes to the dragon pit. This way, the player uses his time as efficiently as possible.
 
-За убийство дракона лесник получит 125 золота и 150 опыта. Ещё 80 опыта даст предмет лесника. Команда получит постоянное усиление до конца партии: 3% силы атаки (attack damage или AD) и силы умений (ability power или AP). Оценим это усиление в золоте.
+Let us say Xin Zhao is the blue team's jungler. He is level 5 when he approaches the dragon pit. His damage per second (DPS) is around 100 physical damage (AD). At this point, the dragon has 5730 health. This means the jungler will take the monster solo in about one minute.
 
-I> Когда команда забирает эпического монстра, его всегда должен добивать лесник. Предмет лесника даст ему дополнительные 80 опыта. Это увеличит суммарную награду за монстра для команды.
+For killing the dragon, the jungler will receive 125 gold and 150 experience. The jungler item will provide an additional 80 experience. The team will receive a permanent buff for the rest of the game: 3% attack damage (AD) and ability power (AP). We can convert this buff into gold.
 
-[Следующая таблица](https://wiki.leagueoflegends.com/en-us/Gold_efficiency#Basic_reference_items) даёт оценку параметров чемпиона в золоте. Согласно ей, мы получаем:
+When a team takes an epic monster, the jungler should always finish it off. The jungler's item will grant him an additional 80 experience, increasing the team's total reward for the monster.
 
-* 1 AD = 35 золота
-* 1 AP = 20 золота
+[The following table](https://wiki.leagueoflegends.com/en-us/Gold_efficiency#Basic_reference_items) gives the cost of a champion's stats in gold. According to the table, we get the following values:
 
-Xin Zhao имеет 100 AD, следовательно усиление дракона даст ему `100 * 0.03 = 3` AD. Эта прибавка равна `3 * 35 = 105` золота. Её можно взять за среднее значение для всех AD чемпионов в команде.
+* 1 AD = 35 gold
+* 1 AP = 20 gold
 
-AP чемпион к этому моменту будет иметь максимум два предмета [Amplifying Tome](https://wiki.leagueoflegends.com/en-us/Amplifying_Tome). Поэтому его суммарное AP составит `20 + 20 = 40`. Усиление дракона даст чемпиону `40 * 0.03 = 1.2` AP. Это равно `1.2 * 20 = 24` золота.
+Xin Zhao has 100 AD so that the dragon buff will give him `100 * 0.03 = 3` AD. This increase is equal to `3 * 35 = 105` gold. We can take this number as the average AD value for all champions on the team.
 
-Посчитаем среднее усиление для всех AP и AD чемпионов в команде:
+At this point, an AP champion will have a maximum of two [Amplifying Tomes](https://wiki.leagueoflegends.com/en-us/Amplifying_Tome). Therefore, his total AP will be `20 + 20 = 40`. Taking the dragon will give the AP champion `40 * 0.03 = 1.2` AP. This equals `1.2 * 20 = 24` gold.
+
+Let us calculate the average gain in gold for all AP and AD champions on the team:
 {line-numbers: false, format: text}
 ```
 5 * (105 + 24) / 2 = 322.5
 ```
 
-То есть усиление красного дракона даст всей команде около 300 золота в начале партии. Таким образом, когда лесник в одиночку убил красного дракона, команда заработала 425 золота и 230 опыта. Часть награды получил сам лесник, а часть — его союзники.
+This means that taking the red dragon will give the entire team approximately 300 gold at the beginning of the game. Therefore, when the jungler soloed the infernal dragon, the team earned 425 gold and 230 experience. Part of this reward went to the jungler, and the rest went to his allies. 
 
-Соотнесём награду лесника с его обычным фармом монстров в течение минуты: 300 золота и 600 опыта. Получается, что за взятие дракона лично он заплатил `300 - 125 - 105 = 70` золота и `600 - 150 - 80 = 370` опыта. Его команда получила в сумме 240 золота.
+Let us compare the jungler's reward with his typical monster farming per minute: 300 gold and 600 experience. These numbers are bigger. Thus, the jungler personally paid `300 - 125 - 105 = 70` gold and `600 - 150 - 80 = 370` experience for taking the dragon. His team received a total of 240 gold.
 
-Можно сделать вывод, что лесник потерял примерно половину уровня за взятие дракона. Суммарный доход команды получился скромным. Из этого следует, что взятие дракона — это долгосрочное вложение лесника в свою команду. Оно не даёт немедленной выгоды. Но на поздней стадии игры усиление дракона станет значительным преимуществом при пересчёте на золото.
+We can conclude that the jungler lost approximately half a level for taking the dragon. The team's overall gain was modest. This suggests that taking the dragon is a long-term investment for the jungler and his team. It does not provide immediate benefits. However, the dragon's buff will become a significant advantage in the late game when converted into gold.
 
-Рассмотрим худший сценарий взятия дракона. Допустим, что леснику синей команды помогает его мидлейнер и ADC. В этом случае они забирают дракона примерно за 20 секунд. Ещё 10 секунд они потратят, чтобы вернуться на свои линии. Их суммарная плата по золоту за участие в командном действии составит:
+Let us consider the worst-case scenario for taking the dragon. In this case, the blue mid laner and ADC help their jungler to take the object. They take the dragon in about 20 seconds. Then, the mid laner and ADC will spend another 10 seconds returning to their lanes. Their total gold payment for participating in the team action will be:
 {line-numbers: false, format: text}
 ```
 150 + 150 + 150 = 450
 ```
 
-Плата по опыту будет такой:
+The experience payment will be:
 {line-numbers: false, format: text}
 ```
 300 + 300 + 300 = 900
 ```
 
-На начальной стадии игры это серьёзное вложение. Как мы посчитали, команда получит за дракона 425 золота и 230 опыта. То есть награда скомпенсирует золото, но не опыт.
+At the early stages of the game, this is a significant investment. We calculated that the team will receive 425 gold and 230 experience for the dragon. This means the reward will compensate for the gold, but not the experience.
 
-Теперь допустим, что лесник красной команды ждёт в засаде, пока синие чемпионы бьют дракона. Когда у него остаётся мало здоровья, красный лесник добивает монстра [заклинанием кара](https://leagueoflegends.fandom.com/ru/wiki/Кара_(Заклинание)) (smite) и выживает после этого. В этом случае синие чемпионы не компенсируют свою плату за участие в командном действии.
+Now, let us say the red jungler waits in ambush while the blue champions take the dragon. When the monster has low health, the red jungler finishes him off with the smite spell and survives. In this case, the blue champions receive nothing for their participation fee in the team action.
 
-Посчитаем, какое преимущество получила красная команда. Оно складывается из следующего:
+The red team gets a significant advantage. It consists of the following:
 
-1. Плата синих чемпионов за участие в командном действии.
+1. The blue champions' team action participation fee.
 
-2. Награда за дракона: золото плюс усиление.
+2. The dragon reward: gold plus the buff.
 
-Перевес по золоту получится такой:
+Here is the gold advantage for the red team:
 {line-numbers: false, format: text}
 ```
 450 + 425 = 875
 ```
 
-Перевес по опыту получится следующий:
+Here is the experience advantage for the red team:
 {line-numbers: false, format: text}
 ```
 900 + 230 = 1130
 ```
 
-Это означает, что кража дракона даёт противнику большое преимущество. В начале партии оно особенно значительно.
+This means that stealing a dragon gives the enemy team a significant advantage. It is challenging to compensate for this advantage at the beginning of the game.
 
-Из нашего примера можно сделать несколько выводов:
+Our example leads to several conclusions:
 
-1. Чем больше чемпионов участвует в командном действии и чем дольше оно длится, тем дороже это обходится для команды.
+1. The more champions involved in a team action and the longer it lasts, the more expensive it is for the team.
 
-2. Брать эпических монстров надо максимально быстро. Это уменьшает шанс вмешательства вражеской команды, если она не готова действовать с самого начала.
+2. Taking epic monsters should be done as quickly as possible. This reduces the chance of the enemy team interfering.
 
-3. Неудачное командное действие даёт противнику большое преимущество. Чем выше плата за участие в нём, тем выше цена ошибки.
+3. A failed team action gives the enemy a significant advantage. The higher the cost of participating in the play, the higher the cost of a mistake.
 
 #### 2.2.2.3 Destruction of the tower
 
