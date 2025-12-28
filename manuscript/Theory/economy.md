@@ -335,76 +335,75 @@ Our example leads to several conclusions:
 
 #### 2.2.2.3 Destruction of the tower
 
-В третьем примере команда разрушает вражескую башню. За это она получает награду золотом, но не опытом. Сначала рассмотрим, как работает эта награда.
+>>>R1
 
-На иллюстрации 2-1 отмечены разные типы башен: T1, T2, T3 и T4. Тип башни определяет награду за её разрушение. Таблица 2-6 приводит конкретные цифры.
+The team destroys an enemy tower in the third example. The tower gives only a gold reward, not experience. First, let us look at how this reward works.
 
-{caption: "Таблица 2-6. Награда за разрушение башен", width: "100%"}
-| Обозначение башни | Название башни | Глобальное золото | Локальное золото | 
+Figure 2-1 shows the different tower types: T1, T2, T3, and T4. The tower type determines the reward for destroying it. Table 2-6 provides the specific numbers.
+
+{caption: "Table 2-6. Tower rewards", width: "100%"}
+| Tower designation | Tower name | Global gold | Local gold |
 |  | | | |
 | :---: | --- | :---: | --- |
 |  | | | |
-| T1 | Внешняя башня | 50 | 250 |
-|  | (Outer turret) | | |
+| T1 | Outer turret | 50 | 250 |
 |  | | | |
-| T2 | Внутренняя башня | 25 | • 425 на средней линии |
-|  | (Inner turret) | | • 675 на верхней и нижней линии |
+| T2 | Inner turret | 25 | • 425 on mid lane |
+|  | | | • 675 on top and bot lanes |
 |  | | | |
-| T3 | Башня ингибитора | 25 | 375 |
-|  | (Inhibitor turret) | | |
+| T3 | Inhibitor turret | 25 | 375 |
 |  | | | |
-| T4 | Башня Нексуса | 50 | 0 |
-|  | (Nexus turret) | | |
+| T4 | Nexus turret | 50 | 0 |
 
-За уничтожение башни команда получает два типа награды: глобальное и локальное золото. **Глобальное золото** получают все чемпионы, включая убитых в данный момент. **Локальное золото** делится поровну между чемпионами, которые находятся в радиусе 1200 от разрушенной башни. Если чемпион нанёс ей урон в течение 10 секунд перед разрушением, он тоже получает локальное золото. В этом случае награда не зависит от расстояния до башни.
+Destroying a tower rewards a team with two types of gold: global and local gold. **Global gold** is awarded to all champions, including those currently killed. **Local gold** is split equally among champions within a 1200 radius of the destroyed tower. If a champion deals damage to the tower within 10 seconds before its destruction, he also receives local gold. In this case, the reward does not depend on the distance to the tower.
 
-Внешние башни имеют механику пластин [**turret plating**](https://wiki.leagueoflegends.com/en-us/Turret#General). Она работает так. Весь уровень здоровья башни делится на пять частей. Каждая часть соответствует 1000 единиц здоровья. В сумме это 5000 здоровья. За уничтожение каждой пластины чемпион получает награду 125 локального золота. После этого башня получает дополнительную броню и сопротивление магии на 20 секунд. На 14-й минуте пластины пропадают и награду за них больше нельзя получить.
+The outer turrets have a plating mechanic [**turret plating**](https://wiki.leagueoflegends.com/en-us/Turret#General). It works like this. The tower's total health is divided into five parts. Each part represents 1000 health, for a total of 5000 health. The champion receives 125 local gold for each plate destroyed. After this, the tower gains bonus armor and magic resistance for 20 seconds. At 14 minutes, the plates disappear, and players can no longer obtain the reward for them.
 
-Награду за башни и пластины следует учитывать при расчёте ресурсов. Это важный источник дохода. Он может дать команде значительное преимущество.
+Tower and plate rewards should be taken into account when calculating resources. They are an important source of income and can give a team a significant advantage.
 
-Вернёмся к нашему примеру. Допустим, что синяя команда забирает барона Нашора. Красная команда пытается этому помешать. В результате происходит сражение. В нём погибают три красных чемпиона и два синих. Тогда красные отступают, а синие добивают барона Нашора.
+Let us return to our example. The blue team takes Baron Nashor. The red team tries to prevent this. This leads to a five-on-five teamfight. Three red champions and two blue champions are killed. The red team then retreats, and the blue team finishes off Baron Nashor.
 
-Три выживших игрока синей команды выбирают действие перед recall. Для простоты предположим, что у них есть только два варианта:
+The three surviving blue team players choose an action before recalling. For simplicity, we assume that they have only two options:
 
-1. Преследовать двух выживших красных чемпионов.
+1. Pursue the two surviving red champions.
 
-2. Разрушить вражескую T2 башню на верхней линии.
+2. Destroy the enemy T2 tower on the top lane.
 
-Посчитаем награду синей команды за преследование. За каждого убитого красного чемпиона она получит 300 золота плюс 150 золота за ассист. В сумме это даст 450 золота. Награда по опыту составит 300.
+Let us calculate the blue team's reward for pursuing. For each red champion killed, players will receive 300 gold plus 150 gold for the assist. This gives a total of 450 gold. The experience reward is 300.
 
-Максимальная награда по золоту за двух чемпионов составит:
+The maximum gold reward for two champions will be as follows:
 {line-numbers: false, format: text}
 ```
 450 + 450 = 900
 ```
 
-Без ассистов награда по золоту будет меньше:
+The gold reward without assists reduces to the following:
 {line-numbers: false, format: text}
 ```
 300 + 300 = 600
 ```
 
-Награда по опыту не зависит от ассистов и будет следующей:
+The experience reward does not depend on assists and will be as follows:
 {line-numbers: false, format: text}
 ```
 300 + 300 = 600
 ```
 
-Теперь посчитаем награду синей команды за разрушение T2 башни на верхней линии. Каждый синий чемпион получит 25 глобального золота. Те кто разрушил башню, разделят 675 локального золота. В сумме для всей команды это даст:
+Now, let us calculate the blue team's reward for destroying the T2 top lane tower. Each blue champion will receive 25 global gold. Those who destroyed the tower will split 675 local gold. In total, this will give the entire team:
 {line-numbers: false, format: text}
 ```
 25 * 5 + 675 = 800
 ```
 
-Какой из двух вариантов выгоднее для синей команды? Если преследование закончится двумя убийствами с ассистами, оно даст больше. Но с этим связан риск: оба красных чемпиона могут уйти. Тогда синяя команда потеряет время и ничего не получит. Вероятнее всего, погоня закончится только одним убийством. Красный чемпион останется, чтобы выиграть время для союзника и дать ему уйти. В этом случае синяя команда получит только 450 золота и 150 опыта.
+Which of the two options is more beneficial for the blue team? If the pursuit ends with two kills and assists, it will yield more. However, this comes with a risk: both red champions might escape. Then the blue team will lose time and gain nothing. Most likely, the pursuit will end with only one kill. One red champion will stay behind to buy time for their ally to escape. In this case, the blue team will only receive 450 gold and 150 experience.
 
-Награда за разрушение башни надёжнее. Два красных чемпиона с истощенными ресурсами не смогут её защитить. Поэтому синяя команда гарантированно получит 800 золота за башню. Эта награда выше, чем вероятный результат преследования в 450 золота и 150 опыта. Поэтому синей команде выгодно атаковать башню, а не преследовать противников.
+The reward for destroying the tower is more reliable. Two red champions with depleted resources will be unable to defend it. Therefore, the blue team is guaranteed to receive 800 gold for the tower. This reward is higher than the likely outcome of pursuing enemies for 450 gold and 150 experience. Therefore, the blue team should choose to attack the tower.
 
-Может возникнуть вопрос: почему синяя команда не может сначала преследовать противника, а потом разрушить башню? Проблема в том, что на преследовании синие потеряют темп. Трое красных чемпионов, убитых на бароне,  возродятся. Они быстро вернутся на карту, потому что противник находится около их базы. Тогда трое синих чемпионов окажутся в меньшинстве и с истощёнными ресурсами. Они могут попасть в окружение под башней и погибнуть.
+One might wonder: why can not the blue team first pursue the enemy and then destroy the tower? The problem is that pursuing causes the blue team to lose tempo. The three red champions killed on the Baron will respawn. They will quickly return to the map because the enemy is near their base. Then the three blue champions will find themselves outnumbered and depleted of resources. They could become surrounded near the red T2 tower and die.
 
-Когда команда имеет темп, она должна решить, как именно его реализовать. Обычно это выбор одного действия из нескольких вариантов. Когда оно исполнено, очередь хода переходит к противнику.
+When a team has tempo, it must decide how to capitalize on it. Typically, this involves choosing one action from several options. Once the team does the chosen play, the turn passes to the enemy.
 
-I> Опытные игроки рекомендуют делать только один командный ход за раз. Несколько параллельных плэев распыляют ресурсы команды и часто заканчиваются неудачно.
+I> Experienced players recommend making only one team play at a time. Multiple parallel plays spread the team's resources and often fail as a result.
 
 ### 2.2.3 Practice of resource calculation
 
