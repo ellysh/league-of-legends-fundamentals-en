@@ -407,46 +407,48 @@ I> Experienced players recommend making only one team play at a time. Multiple p
 
 ### 2.2.3 Practice of resource calculation
 
-Мы рассмотрели три примера расчёта ресурсов. Может показаться, что этот навык нужен только леснику. Обычно именно он начинает командные действия вокруг объектов на стадии лейнинга. Поэтому леснику важно просчитывать, к чему они могут привести.
+>>>R1
 
-На самом деле, навык расчёта ресурсов нужен каждой роли. Вот примеры нескольких ситуаций:
+We have looked at three examples of resource calculation. It might seem that only the jungler needs this skill. He is usually the one who initiates team plays around objectives during the laning phase. Therefore, the jungler needs to calculate the potential consequences of these plays.
 
-1. Топлейнер собирается помочь леснику взять герольда. Он должен посчитать, сколько ресурсов за это заплатит.
+In fact, every role needs the resource calculation skill. Here are some examples:
 
-2. Мидлейнер собирается ганкать нижнюю линию. Он должен оценить выигрыш команды по ресурсам от удачного ганка и потери от неудачного.
+1. The top laner is planning to help his jungler take a Herald. He should calculate how many resources he will pay for this play.
 
-3. ADC собирается помочь леснику взять дракона. Он должен посчитать, сколько ресурсов за это заплатит.
+2. The mid laner is planning to gank the bottom lane. He should estimate the team's resource gain from a successful gank and the loss from an unsuccessful one.
 
-4. Саппорт собирается ганкать среднюю линию. Он должен оценить выигрыш по ресурсам за успех и потери за неудачу.
+3. The ADC is planning to help the jungler take a Dragon. He should calculate how many resources he will pay for this play.
 
-В каждом из этих случаев предварительный расчёт покажет, насколько выгодно планируемое действие. Если риск велик, а выгода — нет, игроку стоит отказаться от участия в командном действии.
+4. The support is planning to gank the mid lane. He should estimate the team's resource gain from a successful gank and the loss from an unsuccessful one.
 
-Чтобы научиться считать ресурсы, игроку придётся концентрировать на этом своё внимание. Во время игры внимание в дефиците. Поэтому лучше начать тренироваться при просмотре реплеев или стримов.
+In each of these cases, a resource calculation will show the profitability of the planned action. If the risk is high and the reward is low, the player should avoid participating in the team action.
 
-Для качественного самокоучинга новичкам не хватает знаний. Расчёт ресурсов — это универсальный метод для оценки качества решений. Рассмотрим на примере, как его применять.
+The player needs to focus his attention on numbers if he wants to learn how to calculate resources. During a game, his attention is in short supply. Therefore, it is better to start practicing resource calculation by watching replays or streams.
 
-I> [**Outplayed**](https://www.overwolf.com/app/overwolf-outplayed) — одно из лучших приложений для записи реплеев. Они сохраняются на диске в формате MP4 и не требуют клиента игры для просмотра. Поэтому вы можете смотреть реплеи, пока стоите в очереди на следующую игру.
+Beginner players lack the knowledge to make effective self-coaching sessions. On the other hand, resource calculation is a universal method for assessing the quality of decisions. It could be a good starting point for new players. Let us look at an example of how to apply it.
 
-Допустим, что вы смотрите свой реплей и проводите сессию самокоучинга. Во время партии есть явные моменты, когда вы принимаете решения. Обычно они касаются участия в предстоящем командном действии. Например, ваш лесник пингует помощь на драконе. Остановите реплей в этот момент. Посчитайте, сколько ресурсов ваша команда получит за успешное взятие дракона. Вычтите из этого свою плату за участие. Посчитайте также, сколько команда потеряет, если противник будет контестить дракона и заберёт его.
+I> [**Outplayed**](https://www.overwolf.com/app/overwolf-outplayed) is one of the best apps for recording replays. It saves video files to your disk in MP4 format. You do not need the game client to open these files. Therefore, you can watch replays while waiting in the queue for the next game.
 
-Когда у вас есть оценки результатов, спросите себя — оправдано ли ваше участие в командном действии? Стоит ли риск возможной выгоды? Сравните свои расчёты с дальнейшими событиями в реплее. Это даст мгновенную обратную связь. Если ваши расчёты разошлись с фактическими результатами, найдите в них ошибку.
+Suppose that you are watching your replay to make a self-coaching session. During the game, there are clear moments when you make decisions. These usually involve participating in an upcoming team play. For example, your jungler pings for help on a dragon. You need to stop the replay at this moment. Then, calculate how many resources your team will receive for successfully taking the dragon. Subtract your participation fee for joining this play. Also, calculate how much your team will lose if the opponent contests the dragon and takes it.
 
-Привычка рассчитывать ресурсы заставит вас внимательнее относиться ко времени. Игроки платят недополученными ресурсами за участие в любом командном действии. Поэтому его длительность определяет выгоду для команды. Например, взятие дракона за 30 секунд даст команде преимущество. Но то же самое действие, выполненное за минуту, даст преимущество противнику. Учитывайте это в своих играх.
+Once the resource calculation results are done, ask yourself whether your joining this team play is justified. Is the risk worth the potential benefit? Continue watching the replay and check whether your calculations match the actual results. This will provide you with immediate feedback. If your calculations diverge from the actual results, you need to find a mistake in your assumptions.
 
-Во время просмотра реплеев обращайте внимание, сколько времени вы тратите на принятие решений. Это может быть выбор предмета в магазине или планирование следующего действия на карте. Подсчитайте, сколько всего времени за партию вы стояли на месте и думали. Переведите это время в недополученные ресурсы. Если получилось много, вам стоит поработать над этой проблемой.
+Getting used to calculating resources will make you more mindful of time management. Players pay to participate in any team play by losing resources. Therefore, the duration of the play determines the team's benefit. For example, capturing a dragon in 30 seconds will give your team an advantage. But if you did the same for one minute, it would give your opponent an advantage. Take this into account in your games.
 
-Чтобы научиться принимать решение быстрее, вам нужно накопить больше шаблонов типичных игровых ситуаций. Расчёт ресурсов поможет находить правильные действия в них. Таким образом вы сможете запомнить, как признаки ситуации, так и подходящую реакцию на неё. В следующий раз, когда вам встретится аналогичная ситуация, вы сразу примете правильное решение.
+When watching replays, pay attention to how much time you spend making decisions. This could be choosing an item in the shop or planning your next move on the map. Calculate how much time you spent standing still and thinking during the game. Convert this time into lost resources. If it is a lot, you need to work on your decision-making skills.
 
-Чтобы эффективнее запоминать шаблоны ситуаций, их лучше документировать. Текстовые заметки для этого не подходят. Например, вы можете записать: "не забирать дракона, когда у команды нет темпа". Это хороший совет, но для него нужны признаки конкретной игровой ситуации.
+You can learn to make decisions faster by accumulating more patterns of typical game situations. Calculating your resources will help you identify the right actions. This way, you will be able to remember both the situation's characteristics and the appropriate action. The next time you encounter a similar situation, you will make the right decision immediately.
 
-Шаблоны типичных ситуаций в League of Legends визуальные. Поэтому лучшая документация для них тоже визуальная. Делайте скриншоты из реплеев, которые демонстрируют конкретные шаблоны. Например, это может быть ошибка, которую вы хотите запомнить и больше не повторять. Шаблоном также может быть ваше или чужое хорошее действие.
+If you want to remember patterns of situations more effectively, you need to document them. Text notes are not suitable for this purpose. For example, you might write down in a text file: "Do not take the dragon when the team has no tempo." This is good advice in general, but it requires characteristics of a specific game situation.
 
-I> [**Greenshot**](https://getgreenshot.org/) — удобная программа для сохранения скриншотов. Она имеет встроенный графический редактор, чтобы добавлять обозначения и текст.
+Typical patterns in League of Legends are visual. Therefore, the best documentation for them is a visual format. Take screenshots from replays that demonstrate specific patterns. For example, it could be a mistake you want to remember and avoid repeating. A pattern could also be a good action that you or someone else made.
 
-Давайте файлам со скриншотами говорящие названия, например "не-брать-дракона-без-темпа.png". Регулярно просматривайте свои скриншоты, чтобы освежить в памяти знакомые шаблоны. Таким образом вы будете постепенно накапливать знания об игре. Вы заметите, что перестанете допускать прежние ошибки и ваш уровень начнёт расти.
+I> [Greenshot](https://getgreenshot.org/) is a convenient program for saving screenshots. It has a built-in graphics editor for adding labels and text.
 
-Скриншоты также полезно делать при просмотре гайдов, стримов, соревнований и коучинг сессий (своих и чужих). Сохраняйте и просматривайте все важные шаблоны, которые вам удалось распознать в контенте любого типа.
+Give your screenshot files descriptive names, such as "do-not-take-dragon-without-tempo.png." Review your screenshots regularly to refresh your memory of familiar patterns. This way, you will gradually accumulate knowledge about the game. You will notice that you stop making the same mistakes, and your decision-making skills will develop.
 
-I> Подробнее тему экономики разбирает профессиональный игрок Bwipo в [следующем видео](https://www.youtube.com/watch?v=fJ-C4PEk-9Y).
+Taking screenshots is also useful when watching guides, streams, competitions, and coaching sessions (both your own and others'). Save and review any important patterns you recognize in any content.
+
+I> Professional player Bwipo discusses the economic aspects of League of Legends in more detail in the [following video](https://www.youtube.com/watch?v=fJ-C4PEk-9Y).
 
 {pagebreak}
