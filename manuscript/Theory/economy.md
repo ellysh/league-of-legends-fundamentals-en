@@ -1,16 +1,14 @@
 ## 2.2 Economy
 
->>>R1
-
-C> The general that hearkens to my counsel and acts upon it, will conquer: let such a one be retained in command! The general that hearkens not to my counsel nor acts upon it, will suffer defeat — let such a one be dismissed! While heading the profit of my counsel, avail yourself also of any helpful circumstances over and beyond the ordinary rules.
+C> *The general that hearkens to my counsel and acts upon it, will conquer: let such a one be retained in command! The general that hearkens not to my counsel nor acts upon it, will suffer defeat — let such a one be dismissed! While heading the profit of my counsel, avail yourself also of any helpful circumstances over and beyond the ordinary rules.*
 C>
 C> -- Sun Tzu "Art of War"
 
-In this section, we will explore the economic component of League of Legends. It is simpler than in real-time strategy games. Despite this, the economy is important and often decides the outcome of a game.
+In this section, we will examine the economic aspect of League of Legends. It is much simpler than in a typical real-time strategy game. Despite this, the economy plays a crucial role and can often determine the outcome of a match.
 
-A player must calculate the resources that each possible action will bring him. This allows him to distinguish between profitable and unprofitable actions. This way, a player will be more efficient in investing his time in resources. The team that converts time into resources better gains an advantage.
+A player must calculate the resources that each of his possible actions would provide. This allows him to distinguish between profitable and unprofitable actions. By doing so, the player can invest his time and resources more effectively. The team that converts time into resources better typically gains a significant advantage.
 
-Let us look at how to calculate resources when planning actions correctly.
+Let us look at how to calculate resources correctly when planning actions.
 
 ### 2.2.1 Gold and experience income
 
