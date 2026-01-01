@@ -89,13 +89,11 @@ It is important to note that the 30th minion wave spawns at 16 minutes, which is
 
 #### 2.2.1.2 Income in jungle
 
->>>R1
+Now, let us discuss champions who farm jungle monsters. Each jungle camp provides 4 creep score, which translates to an average of 100 gold. A jungler can take about three camps per minute during the laning phase. Therefore, his income is approximately 300 gold per minute. This is roughly equivalent to the income of a champion farming in a lane.
 
-Now, let us talk about champions who farm jungle monsters. Each jungle camp grants 4 creep score, which is an average of 100 gold. A jungler can take three camps per minute. Therefore, his income is approximately 300 gold per minute. Note that this is roughly equal to the income of a champion who farms on a lane.
+In addition to gold, killing a monster also grants experience. On average, a jungler receives between 165 and 240 experience for each camp. This value increases as the game progresses. For three camps, a jungler gets an average of 600 experience. Consequently, his income is approximately 600 experience per minute. This is also roughly equal to what a champion in a solo lane earns.
 
-Killing a monster not only grants gold, but also experience. On average, a jungler receives between 165 and 240 experience for one camp. This value increases as the game progresses. For three camps, a jungler receives an average of 600 experience. In other words, his income is approximately 600 experience per minute. This is roughly equal to what a champion in a solo lane receives.
-
-Table 2-5 shows how many monster camps a jungler needs to take to reach the first 7 levels.
+Table 2-5 shows how many monster camps a jungler needs to clear in order to reach the first 7 levels.
 
 {caption: "Table 2-5. Experience for gaining levels for a jungler", width: "85%"}
 | Level | Experience | Camps | Creep score |
@@ -109,19 +107,19 @@ Table 2-5 shows how many monster camps a jungler needs to take to reach the firs
 | 6 | +680 | 13 | 52 |
 | 7 | +780 | 17 | 68 |
 
-For killing the first camp, the champion receives an additional 150 experience thanks to a jungle item. This same item also provides an additional 80 experience for killing large monsters. Thus, the jungler always gains level 2 at 4 CS.
+For killing the first camp, the champion receives an additional 150 experience thanks to a jungle item. The item also provides an extra 80 experience for killing large monsters. Thus, the jungler always gains level 2 at 4 CS.
 
 We examined the income of champions in the lane and jungle. We can draw the following conclusions from this:
 
 1. The first four minion waves are extremely important. For the jungler, the first jungle clear is crucial. This is six monster camps in total.
 
-2. Depriving a champion of income in the first minutes of the game gives an advantage of two or more levels later.
+2. Preventing a champion from earning income in the first minutes of the game gives an advantage of two or more levels later on.
 
-3. When a champion is not farming his lane, he loses resources. For every minute the champion is away, he loses an average of 300 gold and 600 experience that he could have gained.
+3. When a champion is not farming his lane, he loses resources. For every minute the champion is absent, he misses out on approximately 300 gold and 600 experience.
 
-4. Sharing minion waves between two champions in a lane is only beneficial at the beginning of the game. The longer the game goes on, the less beneficial this becomes. The level gap between champions and solo laners will widen.
+4. Sharing minion waves between two champions is beneficial only in the early game. As the match progresses, this shared income becomes less advantageous. This increases the level gap with solo laners.
 
-Experienced players pay special attention to the first two waves of minions in the lane. At the very beginning of the game, every minion killed counts. It can determine who in lane gains an early advantage. A good player can convert this advantage into the first kill and the tower plate. Thus, correct decisions in the first minutes of the game can determine the outcome of the laning stage.
+Experienced players pay close attention to the first two waves of minions in the lane. In the early game, each minion kill is crucial. It can determine who gains an early advantage. A skilled player can convert this advantage into the first kill and tower plates. Therefore, making the right decisions in the first minutes of the game can heavily influence the outcome of the laning phase.
 
 ### 2.2.2 Action planning
 
