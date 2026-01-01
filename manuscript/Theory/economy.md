@@ -12,11 +12,9 @@ Let us look at how to calculate resources correctly when planning actions.
 
 ### 2.2.1 Gold and experience income
 
->>>R1
+Resource calculations assist in decision-making. The more precise these calculations are, the more comprehensive the information available to a player. This information can lead to better decisions, although it does not ensure flawless gameplay.
 
-Resource calculations help make decisions. The more accurate they are, the more complete the information a player has. This information can help make better decisions, but it does not guarantee error-free play.
-
-Let us calculate the resources that champions receive during the laning phase.
+Now, let us calculate the resources that champions receive during the laning phase.
 
 #### 2.2.1.1 Income on lane
 
