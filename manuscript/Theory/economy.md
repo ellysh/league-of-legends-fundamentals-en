@@ -18,16 +18,14 @@ Now, let us calculate the resources that champions receive during the laning pha
 
 #### 2.2.1.1 Income on lane
 
->>>R1
+Let us first examine the champions who farm minions in each lane. The first wave of minions for every lane spawns near the Nexus at 1:05 game time. Subsequent waves then spawn every 30 seconds: at 1:35, 2:05, and so on.
 
-Let us first look at champions who farm minions on some lane. The first wave of minions for each lane spawns near the Nexus at 1:05 game time. Subsequent waves then spawn every 30 seconds: at 1:35, 2:05, and so on.
+When a champion last hits all enemy minions in a single wave, he receives the maximum possible gold. This gold amount increases as the game progresses.
 
-If a champion finishes off all enemy minions in a single wave, he receives the maximum possible gold. This amount increases as the game progresses.
+Table 2-2 shows the average gold value of one minion wave based on game time.
 
-Table 2-2 shows the average cost of one minion wave depending on game time.
-
-{caption: "Table 2-2. Minion wave gold reward", width: "70%"}
-| Game time | Average wave cost | Average gold per 1 cs |
+{caption: "Table 2-2. Minion wave gold value", width: "70%"}
+| Game time | Average gold per wave | Average gold per 1 cs |
 |  | | |
 | --- | --- | --- |
 |  | | |
@@ -41,11 +39,11 @@ Table 2-2 shows the average cost of one minion wave depending on game time.
 
 I> **Creep score** (cs) is the number of enemy minions or jungle monsters that a champion has last hit.
 
-According to the table, one minion wave yields an average of 150 gold. Waves spawn at the Nexus every 30 seconds. Therefore, a lane champion farms two minion waves in one minute. This means his income is approximately 300 gold per minute.
+According to the table, one minion wave costs an average of 150 gold. Waves spawn at the Nexus every 30 seconds. Therefore, a champion in a lane can farm two minion waves in one minute. Consequently, this results in an estimated income of around 300 gold per minute.
 
-Killing a minion grants not only gold but also experience (EXP or XP). If the champion is within 1500 range when the minion dies, he receives experience. This does not even require attacking the minion.
+In addition to gold, killing a minion also rewards the champion with experience (EXP or XP). If the champion is within 1500 range when the minion dies, he receives experience. Getting this reward does not even require attacking the minion.
 
-Table 2-3 shows the experience reward for each minion type.
+Table 2-3 shows the experience rewards for each minion type.
 
 {caption: "Table 2-3. Minion experience rewards", width: "80%"}
 | Minion type | Experience reward | Reward increases every 3 minutes |
@@ -58,9 +56,9 @@ Table 2-3 shows the experience reward for each minion type.
 |  | | |
 | Siege minion | 93 | +7 |
 
-Each wave contains three warrior minions and three mage minions. The first siege minion appears in the fourth wave. After that, until the 15th minute, it appears in every third wave: 7, 10, 13, and so on. Then, from the 15th to the 25th minute, it appears in every second wave. After the 25th minute, each wave includes a siege minion.
+Each wave includes three warrior minions and three mage minions. The first siege minion appears in the fourth wave. From that point until the 15th minute, it appears in every third wave: 7, 10, 13, and so on. After the 15th minute and up to the 25th minute, siege minions appear in every second wave. After the 25th minute, each wave includes a siege minion.
 
-Let us calculate the experience income per minute in a lane. In one wave, a champion receives, on average, `60 * 3 + 30 * 3 ~ 300` experience until the 15th minute. This means he will receive 600 experience in two waves. In other words, his income is 600 experience per minute. We could evaluate whether this is a big or a small number. To do this, let us refer to Table 2-4. It shows the amount of experience and minion waves a champion needs to reach each level.
+Let us calculate the experience income per minute in a lane. In one wave, a champion receives `60 * 3 + 30 * 3 = 300` experience on average until the 15th minute. This means he receives 600 experience in two waves. Consequently, his income is 600 experience per minute. We could evaluate whether this is a big or a small number. To do this, let us refer to Table 2-4. It shows the amount of experience and the number of minion waves a champion needs to reach each level.
 
 {caption: "Table 2-4. Experience to reach certain champion levels", width: "80%"}
 | Level | Experience | Minion waves | Shared minion waves |
@@ -85,9 +83,9 @@ Let us calculate the experience income per minute in a lane. In one wave, a cham
 | 17 | +1780 | 54 | 76 |
 | 18 | +1880 | 60 | 84 |
 
-Shared minion waves mean that two champions are in a lane. In this case, killing each minion grants 130% of the experience gained. This experience is split evenly, with each champion receiving 65%. Because of this, they will be at a lower level than champions in solo lanes.
+Shared minion waves mean that two champions are present in the same lane. In this case, killing each minion grants a total of 130% of the experience normally gained. This experience is divided evenly between the two champions, with each receiving 65%. As a result, they will generally be at a lower level compared to champions in solo lanes.
 
-Note that the 30th minion wave spawns at 16 minutes, which is roughly when the laning phase ends.
+It is important to note that the 30th minion wave spawns at 16 minutes, which is approximately when the laning phase ends.
 
 #### 2.2.1.2 Income in jungle
 
