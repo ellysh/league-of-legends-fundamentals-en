@@ -133,58 +133,56 @@ Let us examine several gameplay situations from an economic perspective. They wi
 
 #### 2.2.2.1 Gank
 
->>>R1
-
-In the first example, the blue team's jungler is planning his actions. He has just returned to base after the first jungle clear. For simplicity, let us assume he is only considering two options:
+In the first example, the blue team's jungler is planning his next actions. He has just returned to base after the first jungle clear. For simplicity, let us assume he is considering only two options:
 
 1. Continue farming his jungle.
 2. Gank the enemy mid laner.
 
-We have already calculated that farming the jungle earns a champion about 300 gold and 600 experience per minute. If the enemy jungler does the same, then resource equilibrium remains unchanged between the teams.
+We have previously established that farming the jungle allows a champion to earn approximately 300 gold and 600 experience per minute. If the enemy jungler does the same, the resource equilibrium between the teams remains unchanged.
 
-Let us calculate the outcome of ganking the mid laner. First, we need to estimate the time it will take. The champion will spend about 30 seconds reaching the mid lane and positioning themselves to attack. This time may be shorter, depending on mobility items and runes.
+Now, let us calculate the potential outcome of ganking the mid laner. First, we need to estimate the time it will take. The champion will spend about 30 seconds reaching the mid lane and positioning themselves to attack. This time may vary based on mobility items and runes.
 
-Let us assume the blue jungler has reached the position to attack the enemy mid laner. He may not be able to attack right away. The jungler will spend some time in ambush, waiting for the right moment. For example, when the enemy moves far away from his tower. After this, the player attacks and pursues the target for a while. The entire gank, from the moment the decision is made at the base until its completion, takes about 40 seconds.
+Here is the next step. After reaching the mid lane, the blue jungler needs to wait in ambush for the right moment to attack. For example, when the red mid laner moves far away from his tower. At this moment, the player attacks and pursues the target for a while. The blue jungler spends about 40 seconds making this play in total.
 
-We found that the jungler spent about 40 seconds on the gank. If the player had returned to the jungle and started farming, he would have taken one monster camp. Converted to resources, this comes to approximately 100 gold and 200 experience. This is the jungler's fee for participating in the gank.
+We found that the jungler spent about 40 seconds on the gank. If the player chooses to farm instead of ganking, he would take one monster camp for this time. It provides approximately 100 gold and 200 experience. This is the jungler's fee for participating in the gank.
 
-Now, let us calculate the teams' gain from the possible gank outcomes. There are three participants in the gank: the red team's mid laner, the blue team's jungler, and the blue team's mid laner. The possible outcomes for each of them are:
+Next, let us calculate what every team gets from this gank. There are three participants in this play: the red team's mid laner, the blue team's jungler, and the blue team's mid laner. Each player has three possible outcomes:
 
 1. Killed
 2. Survived with minimal health
 3. Survived with medium or high health.
 
-**The first scenario** is when an enemy kills the champion. He is then absent from the map for a period of time. This time is made up of two parts:
+In **the first scenario**, the champion was killed by the enemy. He is then absent from the map for a certain period. This time is made up of two parts:
 
-1. The resurrection time, which depends on the champion's level. During the laning stage, this is on average 20 seconds.
+1. The resurrection time, which depends on the champion's level. During the laning phase, this is on average 20 seconds.
 
-2. The time to reach the middle of his lane or a jungle camp. This time depends on the champion's items and abilities. On average, this is around 30 seconds.
+2. The time to reach the middle of his lane or a jungle camp. This time is around 30 seconds and depends on the champion's items and abilities.
 
-In total, a killed champion is absent from his lane or jungle for almost one minute. During this time, he loses two minion waves or three jungle camps. In other words, he loses 300 gold and 600 experience.
+In total, a killed champion is absent from his lane or jungle for almost one minute. During this time, he loses two minion waves or three jungle camps. Consequently, he loses 300 gold and 600 experience.
 
-**The second scenario** is when the champion survives on minimal health. In this state, it is dangerous for him to remain in his lane or farm the jungle. The enemy jungler can easily finish him off.
+**The second scenario** is when the champion survives with minimal health. In this state, it is dangerous for him to remain in his lane or farm the jungle. The enemy jungler can easily finish him off.
 
-The champion returns to base. Then, he spends 8 seconds casting the [**recall**](https://leagueoflegends.fandom.com/ru/wiki/Воставение_(Закаление)) spell. Afterward, he restores health and mana at the fountain for over 10 seconds. The champion then returns to the lane for about 30 seconds. In total, he is off the map for about 50 seconds. This means he will miss almost two minion waves. In other words, he loses 300 gold and 600 experience. The jungler will have the same effect.
+The champion needs to return to base and recover. For doing that, he spends 8 seconds casting the **recall** spell. Afterward, he restores health and mana at the fountain for over 10 seconds. The champion then returns to the lane for about 30 seconds. In total, he is off the map for approximately 50 seconds. This means he will miss almost two minion waves. Consequently, he loses 300 gold and 600 experience. These calculations are valid for both the mid laner and jungler.
 
-**Third case**: the champion survives on medium or high health. In this state, he can continue farming lane minions or jungle monsters. If he has enough gold, he can return to base to buy an item. Recall will cost him about 40 seconds off the map. That is at least one missed wave, or 150 gold and 300 experience.
+**Third case**: the champion survives with medium or high health. In this state, he can continue farming lane minions or jungle monsters. If he has enough gold, he can return to the base and buy an item. Recall will cost him about 40 seconds off the map. That is at least one missed wave, or approximately 150 gold and 300 experience.
 
-Let us summarize the results for each of the three champions to estimate the team's income. For simplicity, we will consider only three gank outcomes:
+Let us summarize the results for all three champions and estimate the team's income. For simplicity, we will focus only on three outcomes of a gank:
 
-1. **Best** - the red team's mid laner is killed, and the blue team's champions remain at full health.
+1. **Best case**. The red team's mid laner is killed, while the blue team's champions remain at full health.
 
-2. **Mediocre** - the red team's mid laner survives at minimum health, and the blue team's champions remain at full health.
+2. **Mediocre case**. The red team's mid laner survives with minimum health, while the blue team's champions remain at full health.
 
-3. **Worst** - the red team's mid laner remains at full health, and both blue team champions are killed.
+3. **Worst case**. The red team's mid laner remains at full health, while both blue team champions are killed.
 
 In the **best case**, the blue team's income would be as follows:
 
-1. The blue jungler and mid laner receive gold and experience for the kill. The player who did a kill receives 300 gold, and the player who did assist receives 150 gold. It totals 450 gold. They both share approximately 300 experience.
+1. The blue jungler and mid laner receive gold and experience for the kill. The player who secured the kill receives 300 gold, while the player who assisted receives 150 gold. It totals 450 gold. They both share approximately 300 experience.
 
-2. The blue mid laner can stay in lane and farm. Then he will receive 300 gold and 600 experience in one minute. His opponent will be absent from the lane for the entire time.
+2. The blue mid laner can stay in lane and continue farming. Then he will earn 300 gold and 600 experience in one minute. His opponent will be absent from the lane for the entire time.
 
-I> **Assist** is helping to kill an enemy champion in any form.
+I> **Assist** is any action that helps in killing an enemy champion.
 
-The total advantage in favor of the blue team will be the kill reward and the mid laner's farm. Then we need to subtract the jungler's fee for participating in the gank.
+We can calculate the total advantage in favor of the blue team by combining the kill reward and the mid laner's farm. Then we need to subtract the jungler's fee for participating in the gank.
 
 Here is the gold advantage for the blue team:
 {line-numbers: false, format: text}
@@ -200,7 +198,7 @@ Here is the experience advantage for the blue team:
 
 A team advantage of 650 gold and 700 experience is significant in the first minutes of the game. Therefore, an early successful gank can significantly impact the laning phase.
 
-In a **mediocre** gank, the blue team's income is calculated similarly. However, we must exclude the bounty for killing the red team's mid laner from the formula.
+In a **mediocre gank case**, we calculate the blue team's income in the same way. However, we must exclude the bounty for killing the red team's mid laner from the formula.
 
 The red mid laner will return to base to regenerate health. This will cost him one minute of missed farm.
 
@@ -216,17 +214,17 @@ Here is the experience advantage for the blue team:
 600 - 200 = 400
 ```
 
-We got a decent result. But it is unlikely that this advantage decides the outcome of the laning phase.
+The blue team got a decent result. But it is unlikely that this advantage decides the outcome of the laning phase.
 
-In the **worst case**, the red team gets the advantage. It comes from the following:
+In the **worst gank case**, the red team gets the advantage. It comes from the following:
 
-1. The red mid laner will receive the bounty for the double kill. That is 300 gold and 300 experience for each blue champion.
+1. The red mid laner receives the bounty for the double kill. That is 300 gold and 300 experience for each blue champion.
 
 2. The red mid laner can stay in lane and farm. Then he will receive 300 gold and 600 experience. The blue mid laner would not receive these resources.
 
-3. The blue team's losses will be twice 300 gold and 600 experience. This is the farm per one minute of the blue mid laner and jungler, which they would not receive.
+3. The blue team's losses would amount to twice 300 gold and 600 experience. This is the missed farm per one minute of the blue mid laner and jungler.
 
-The red team's overall advantage will come from the mid laner's gain and both blue champions' losses. We will also take into account the jungler's fee for participating in the gank.
+The red team's overall advantage will come from the mid laner's gain and both blue champions' losses. We must also factor in the jungler's fee for making the play.
 
 Here is the gold advantage for the red team:
 {line-numbers: false, format: text}
@@ -240,11 +238,12 @@ Here is the experience advantage for the red team:
 300 + 300 + 600 + 600 + 200 = 2000
 ```
 
-This means that a failed gank gives the enemy team a huge advantage. After this play, the blue mid laner lost his laning phase for sure. It is tough for him to come back from such a significant gap.
+These numbers show that a failed gank gives the enemy team a significant advantage. After such a play, it becomes nearly impossible for the blue mid laner to recover from this substantial gap.
 
-Here is the summary from our calculations. The gank is beneficial for the blue jungler. But only if it leads to at least a mediocre result. To reduce the cost of participating in a gank, the blue jungler should come to the mid lane after clearing his camps. This will increase the income in case of success and slightly reduce the losses in case of failure.
+Here is the summary for our calculations. The gank is beneficial for the blue jungler only if it leads to at least a mediocre result. To reduce the cost of participating in the gank, the blue jungler should come to the mid lane after clearing his camps. This approach will increase the potential income in case of success and slightly reduce losses if the gank fails.
 
-Our example showed the cost of a single serious mistake in League of Legends. Either a poor plan or poor execution can cause the mistake. In other words, even a good plan does not guarantee an advantage if a player can not execute it well.
+Our example illustrates the consequences of a single serious mistake in League of Legends. Either a poor plan or poor execution can cause such a mistake. In other words, even a good plan does not guarantee an advantage if a player can not execute it well.
+
 
 #### 2.2.2.2 Taking the dragon
 
