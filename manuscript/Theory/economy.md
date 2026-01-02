@@ -123,15 +123,13 @@ Experienced players pay close attention to the first two waves of minions in the
 
 ### 2.2.2 Action planning
 
->>>R1
+Beginner players often fail to see the connection between their actions and their long-term consequences. As a result, they underestimate the impact of their mistakes and miscalculations.
 
-Beginner players rarely connect the dots between some action and its long-term results. Therefore, they underestimate the consequences of their mistakes and miscalculations.
+For example, when a jungler executes a poor gank, the enemy top laner may survive without taking any damage. The jungler may think there is nothing wrong with this play, and the resource equilibrium between the teams remains unchanged. In fact, this is not the case: the enemy team has actually gained an advantage. The reason is that the player wasted time that could have been spent farming monster camps, while the enemy jungler kept farming.
 
-Here is an example. Suppose a jungler performs a poor gank. As a result, the enemy top laner survives without even losing health. The player believes there is nothing wrong with this play, and the equilibrium between the teams remains unchanged. In fact, this is not the case: the enemy team gained an advantage. The reason is that the player wasted his time and did not farm the jungle while the enemy jungler did.
+I> A **gank** is an ambush on an enemy champion in the lane. This is a common tactic used by junglers.
 
-I> A **gank** is an ambush of an enemy champion in the lane. This is a typical jungler tactic.
-
-Let us look at several examples of gameplay situations from an economic perspective. They will demonstrate how resource calculations predict the outcome of a given play.
+Let us examine several gameplay situations from an economic perspective. They will illustrate how resource calculations can predict the outcome of a given play.
 
 #### 2.2.2.1 Gank
 
