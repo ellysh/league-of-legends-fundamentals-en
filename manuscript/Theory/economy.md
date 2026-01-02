@@ -244,61 +244,58 @@ Here is the summary for our calculations. The gank is beneficial for the blue ju
 
 Our example illustrates the consequences of a single serious mistake in League of Legends. Either a poor plan or poor execution can cause such a mistake. In other words, even a good plan does not guarantee an advantage if a player can not execute it well.
 
-
 #### 2.2.2.2 Taking the dragon
-
->>>R1
 
 In the second example, the blue team's jungler takes the [Infernal Drake](https://wiki.leagueoflegends.com/en-us/Infernal_Drake). First, he clears all his jungle camps for the second time. Then, he goes to the dragon pit. This way, the player uses his time as efficiently as possible.
 
-Let us say Xin Zhao is the blue team's jungler. He is level 5 when he approaches the dragon pit. His damage per second (DPS) is around 100 physical damage (AD). At this point, the dragon has 5730 health. This means the jungler will take the monster solo in about one minute.
+Let us say Xin Zhao is the blue team's jungler. He is level 5 when he approaches the dragon pit. His **damage per second** (DPS) is around 100 **physical damage** (AD). At this point, the dragon has 5730 health. This means the jungler will take down the monster in about one minute.
 
-For killing the dragon, the jungler will receive 125 gold and 150 experience. The jungler item will provide an additional 80 experience. The team will receive a permanent buff for the rest of the game: 3% attack damage (AD) and ability power (AP). We can convert this buff into gold.
+For killing the dragon, the jungler will receive 125 gold and 150 experience. His jungler item will provide an extra 80 experience. Additionally, the team will receive a permanent buff for the rest of the game, granting 3% attack damage (AD) and ability power (AP). We can convert this buff into gold.
 
-When a team takes an epic monster, the jungler should always finish it off. The jungler's item will grant him an additional 80 experience, increasing the team's total reward for the monster.
+I> When a team takes an epic monster, the jungler should always finish it off. His item grants him an extra 80 experience, increasing the team's total reward for taking the monster.
 
 [The following table](https://wiki.leagueoflegends.com/en-us/Gold_efficiency#Basic_reference_items) gives the cost of a champion's stats in gold. According to the table, we get the following values:
 
 * 1 AD = 35 gold
 * 1 AP = 20 gold
 
-Xin Zhao has 100 AD so that the dragon buff will give him `100 * 0.03 = 3` AD. This increase is equal to `3 * 35 = 105` gold. We can take this number as the average AD value for all champions on the team.
+Since Xin Zhao has 100 AD, taking the dragon will give him an additional `100 * 0.03 = 3` AD. This increase is equal to `3 * 35 = 105` gold. We can take this number as the average value for all AD champions on the team.
 
-At this point, an AP champion will have a maximum of two [Amplifying Tomes](https://wiki.leagueoflegends.com/en-us/Amplifying_Tome). Therefore, his total AP will be `20 + 20 = 40`. Taking the dragon will give the AP champion `40 * 0.03 = 1.2` AP. This equals `1.2 * 20 = 24` gold.
+At this point, an AP champion will have a maximum of two [Amplifying Tomes](https://wiki.leagueoflegends.com/en-us/Amplifying_Tome). Therefore, his total AP will be `20 + 20 = 40`. Taking the dragon will grant this AP champion `40 * 0.03 = 1.2` AP. This increase is equal to `1.2 * 20 = 24` gold.
 
-Let us calculate the average gain in gold for all AP and AD champions on the team:
+Now, we can calculate the average gold gain for all AD and AP champions on the team:
 {line-numbers: false, format: text}
 ```
 5 * (105 + 24) / 2 = 322.5
 ```
 
-This means that taking the red dragon will give the entire team approximately 300 gold at the beginning of the game. Therefore, when the jungler soloed the infernal dragon, the team earned 425 gold and 230 experience. Part of this reward went to the jungler, and the rest went to his allies. 
+This means that taking the red dragon will provide the entire team with approximately 300 gold at the beginning of the game. Consequently, when the jungler soloed the Infernal Drake, the team earned 425 gold and 230 experience. Part of this reward went to the jungler, and the rest went to his allies.
 
-Let us compare the jungler's reward with his typical monster farming per minute: 300 gold and 600 experience. These numbers are bigger. Thus, the jungler personally paid `300 - 125 - 105 = 70` gold and `600 - 150 - 80 = 370` experience for taking the dragon. His team received a total of 240 gold.
+Let us compare the jungler's reward from taking the dragon with his typical monster farming per minute, which provides 300 gold and 600 experience. These numbers are bigger than the reward for the dragon. Consequently, the jungler personally paid `300 - 125 - 105 = 70` gold and `600 - 150 - 80 = 370` experience for taking the dragon. His team received a total of `320 - 70 = 250` gold.
 
-We can conclude that the jungler lost approximately half a level for taking the dragon. The team's overall gain was modest. This suggests that taking the dragon is a long-term investment for the jungler and his team. It does not provide immediate benefits. However, the dragon's buff will become a significant advantage in the late game when converted into gold.
+We can conclude that the jungler lost approximately half a level by taking the dragon. The team's overall gain was modest. This means that taking the dragon is a long-term investment for both the jungler and his team. It does not provide any significant advantage immediately. However, the dragon's buff will give much more value in the late game when converted into gold.
 
-Let us consider the worst-case scenario for taking the dragon. In this case, the blue mid laner and ADC help their jungler to take the object. They take the dragon in about 20 seconds. Then, the mid laner and ADC will spend another 10 seconds returning to their lanes. Their total gold payment for participating in the team action will be:
+Let us consider the worst-case scenario for taking the dragon. In this scenario, the blue mid laner and ADC help their jungler to take the object. Together, they take the dragon in about 20 seconds. Afterward, the mid laner and ADC will spend another 10 seconds returning to their lanes. Their total gold fee for participating in this team play is as follows:
 {line-numbers: false, format: text}
 ```
 150 + 150 + 150 = 450
 ```
 
-The experience payment will be:
+The experience payment is:
 {line-numbers: false, format: text}
 ```
 300 + 300 + 300 = 900
 ```
 
-At the early stages of the game, this is a significant investment. We calculated that the team will receive 425 gold and 230 experience for the dragon. This means the reward will compensate for the gold, but not the experience.
+At the early stages of the game, these values represent a significant investment. We calculated that the team earns 425 gold and 230 experience from taking the dragon. The reward almost compensates for the gold fee for participating in the play, but not the experience.
 
-Now, let us say the red jungler waits in ambush while the blue champions take the dragon. When the monster has low health, the red jungler finishes him off with the smite spell and survives. In this case, the blue champions receive nothing for their participation fee in the team action.
+Now, imagine that the red jungler waits in ambush while the blue champions take the dragon. When the monster has low health, the red jungler finishes him off with Smite and escapes. In this case, the blue champions receive nothing for their participation fee in the play.
 
-The red team gets a significant advantage. It consists of the following:
+The red team gains a significant advantage from the dragon steal. It consists of the following:
 
-1. The blue champions' team action participation fee.
+1. The participation fee for team play from the blue champions.
 
-2. The dragon reward: gold plus the buff.
+2. The dragon reward: gold, experience and the buff.
 
 Here is the gold advantage for the red team:
 {line-numbers: false, format: text}
@@ -312,15 +309,15 @@ Here is the experience advantage for the red team:
 900 + 230 = 1130
 ```
 
-This means that stealing a dragon gives the enemy team a significant advantage. It is challenging to compensate for this advantage at the beginning of the game.
+This example shows that stealing a dragon grants the enemy team a significant advantage. It is challenging to compensate for this advantage in the early game.
 
-Our example leads to several conclusions:
+We can draw several conclusions:
 
-1. The more champions involved in a team action and the longer it lasts, the more expensive it is for the team.
+1. The more champions involved in a team play and the longer it lasts, the more expensive it is for the team.
 
-2. Taking epic monsters should be done as quickly as possible. This reduces the chance of the enemy team interfering.
+2. Epic monsters should be taken down as quickly as possible. This minimizes the chance of enemy interference.
 
-3. A failed team action gives the enemy a significant advantage. The higher the cost of participating in the play, the higher the cost of a mistake.
+3. A failed team play gives the enemy a significant advantage. The higher the cost of participating in the play, the greater the consequences of a mistake.
 
 #### 2.2.2.3 Destruction of the tower
 
