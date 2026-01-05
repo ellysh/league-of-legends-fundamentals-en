@@ -321,11 +321,11 @@ We can draw several conclusions:
 
 #### 2.2.2.3 Destruction of the tower
 
->>>R1
+>>>>R1
 
-The team destroys an enemy tower in the third example. The tower gives only a gold reward, not experience. First, let us look at how this reward works.
+In the third example, the team attacks an enemy tower. The tower gives only a gold reward, but no experience. First, let us examine how this reward counts.
 
-Figure 2-1 shows the different tower types: T1, T2, T3, and T4. The tower type determines the reward for destroying it. Table 2-6 provides the specific numbers.
+Figure 2-1 shows the various tower types: T1, T2, T3, and T4. The tower type determines the reward for destroying it. Table 2-6 provides the specific numbers.
 
 {caption: "Table 2-6. Tower rewards", width: "100%"}
 | Tower designation | Tower name | Global gold | Local gold |
@@ -341,23 +341,25 @@ Figure 2-1 shows the different tower types: T1, T2, T3, and T4. The tower type d
 |  | | | |
 | T4 | Nexus turret | 50 | 0 |
 
-Destroying a tower rewards a team with two types of gold: global and local gold. **Global gold** is awarded to all champions, including those currently killed. **Local gold** is split equally among champions within a 1200 radius of the destroyed tower. If a champion deals damage to the tower within 10 seconds before its destruction, he also receives local gold. In this case, the reward does not depend on the distance to the tower.
+When a team destroys an enemy tower, it receives two rewards: global gold and local gold.
 
-The outer turrets have a plating mechanic [**turret plating**](https://wiki.leagueoflegends.com/en-us/Turret#General). It works like this. The tower's total health is divided into five parts. Each part represents 1000 health, for a total of 5000 health. The champion receives 125 local gold for each plate destroyed. After this, the tower gains bonus armor and magic resistance for 20 seconds. At 14 minutes, the plates disappear, and players can no longer obtain the reward for them.
+**Global gold** is distributed to all champions on the team, including those who are currently dead. **Local gold** is divided equally among champions who are within a 1200 radius of the destroyed tower. If a champion deals damage to the tower within 10 seconds before its destruction, he also receives the local gold, regardless of his distance from the tower.
 
-Tower and plate rewards should be taken into account when calculating resources. They are an important source of income and can give a team a significant advantage.
+The outer turrets have a plating mechanic [**turret plating**](https://wiki.leagueoflegends.com/en-us/Turret#General). This mechanic divides the tower's total health into five parts. Each part represents 1000 health, for a total of 5000 health. A champion earns 125 local gold for each plate he destroys. After losing each plate, the tower gains bonus armor and magic resistance for 20 seconds. At the 14th minute, the plates disappear, and players can no longer obtain rewards for them.
 
-Let us return to our example. The blue team takes Baron Nashor. The red team tries to prevent this. This leads to a five-on-five teamfight. Three red champions and two blue champions are killed. The red team then retreats, and the blue team finishes off Baron Nashor.
+Considering tower and plate rewards is crucial when calculating resources. These are two significant sources of income that can provide a team with a substantial advantage.
 
-The three surviving blue team players choose an action before recalling. For simplicity, we assume that they have only two options:
+Let us return to our third example, where players destroy the tower. The blue team takes Baron Nashor. The red team tries to prevent this, leading to a five-on-five teamfight. Three red champions and two blue champions are killed. The red team then retreats, allowing the blue team to finish off Baron Nashor.
+
+The three surviving blue team players must decide on their next action before recalling. For simplicity, we assume that they have only two options:
 
 1. Pursue the two surviving red champions.
 
 2. Destroy the enemy T2 tower on the top lane.
 
-Let us calculate the blue team's reward for pursuing. For each red champion killed, players will receive 300 gold plus 150 gold for the assist. This gives a total of 450 gold. The experience reward is 300.
+Let us calculate the blue team's reward for pursuing. The reward for each red champion killed includes 300 gold plus an additional 150 gold for the assist. This gives a total of 450 gold. The experience reward for each champion killed is 300.
 
-The maximum gold reward for two champions will be as follows:
+The maximum gold reward for both red champions would then be:
 {line-numbers: false, format: text}
 ```
 450 + 450 = 900
@@ -375,21 +377,21 @@ The experience reward does not depend on assists and will be as follows:
 300 + 300 = 600
 ```
 
-Now, let us calculate the blue team's reward for destroying the T2 top lane tower. Each blue champion will receive 25 global gold. Those who destroyed the tower will split 675 local gold. In total, this will give the entire team:
+Now, let us calculate the blue team's reward for destroying the T2 top lane tower. Each blue champion will receive 25 global gold. Those champions who destroyed the tower will split 675 local gold. In total, this would give the entire team:
 {line-numbers: false, format: text}
 ```
 25 * 5 + 675 = 800
 ```
 
-Which of the two options is more beneficial for the blue team? If the pursuit ends with two kills and assists, it will yield more. However, this comes with a risk: both red champions might escape. Then the blue team will lose time and gain nothing. Most likely, the pursuit will end with only one kill. One red champion will stay behind to buy time for their ally to escape. In this case, the blue team will only receive 450 gold and 150 experience.
+Which action is more beneficial for the blue team? If the pursuit results in two kills with assists, it will yield a greater reward. However, this play comes with a risk: both red champions might escape. Then three blue champions will waste their time and gain nothing. It is likely that one red champion would remain behind to delay the blue team's pursuit. In this case, the blue champions kill only him and receive 450 gold and 150 experience.
 
-The reward for destroying the tower is more reliable. Two red champions with depleted resources will be unable to defend it. Therefore, the blue team is guaranteed to receive 800 gold for the tower. This reward is higher than the likely outcome of pursuing enemies for 450 gold and 150 experience. Therefore, the blue team should choose to attack the tower.
+The reward for destroying the tower is more reliable. Two red champions with depleted resources would be unable to defend the tower. Thus, the blue team can confidently secure 800 gold by attacking the tower. This reward exceeds the likely outcome of the pursuit, which could result in only 450 gold and 150 experience. Therefore, the blue team should choose to attack the tower.
 
-One might wonder: why can not the blue team first pursue the enemy and then destroy the tower? The problem is that pursuing causes the blue team to lose tempo. The three red champions killed on the Baron will respawn. They will quickly return to the map because the enemy is near their base. Then the three blue champions will find themselves outnumbered and depleted of resources. They could become surrounded near the red T2 tower and die.
+You might wonder why the blue team cannot pursue the enemy first and then destroy the tower. The issue is that pursuing would deplete the blue team’s tempo. The three red champions killed on the Baron will respawn. They will quickly return to the map because the enemy play happens near their base. Then the three blue champions with low resources will find themselves outnumbered in a teamfight. The red champions could surround them near their T2 tower and kill.
 
-When a team has tempo, it must decide how to capitalize on it. Typically, this involves choosing one action from several options. Once the team does the chosen play, the turn passes to the enemy.
+When a team has tempo, it needs to decide how to capitalize on it. This typically involves selecting one action from several options. Once the team executes their chosen play, the turn then passes to the enemy.
 
-I> Experienced players recommend making only one team play at a time. Multiple parallel plays spread the team's resources and often fail as a result.
+I> Experienced players recommend making only one team play at a time. Multiple parallel plays can spread the team's resources too thin, often resulting in failure.
 
 ### 2.2.3 Practice of resource calculation
 
