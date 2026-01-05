@@ -321,8 +321,6 @@ We can draw several conclusions:
 
 #### 2.2.2.3 Destruction of the tower
 
->>>>R1
-
 In the third example, the team attacks an enemy tower. The tower gives only a gold reward, but no experience. First, let us examine how this reward counts.
 
 Figure 2-1 shows the various tower types: T1, T2, T3, and T4. The tower type determines the reward for destroying it. Table 2-6 provides the specific numbers.
@@ -395,47 +393,45 @@ I> Experienced players recommend making only one team play at a time. Multiple p
 
 ### 2.2.3 Practice of resource calculation
 
->>>R1
+We have examined three examples of resource calculation. It might seem that only the jungler needs this skill. He is typically the one who initiates team plays around objectives during the laning phase. Therefore, the jungler must calculate the potential consequences of these plays.
 
-We have looked at three examples of resource calculation. It might seem that only the jungler needs this skill. He is usually the one who initiates team plays around objectives during the laning phase. Therefore, the jungler needs to calculate the potential consequences of these plays.
+In fact, players in every role need the resource calculation skill. Here are some examples when it is required:
 
-In fact, every role needs the resource calculation skill. Here are some examples:
+1. The top laner is planning to assist the jungler in taking a Herald. He should calculate how many resources he will pay for joining this play.
 
-1. The top laner is planning to help his jungler take a Herald. He should calculate how many resources he will pay for this play.
+2. The mid laner is planning to gank the bottom lane. He should evaluate the team's potential resource gain from a successful gank against the losses from an unsuccessful one.
 
-2. The mid laner is planning to gank the bottom lane. He should estimate the team's resource gain from a successful gank and the loss from an unsuccessful one.
+3. The ADC is planning to assist the jungler in taking a dragon. He should calculate how many resources he will pay for joining this play.
 
-3. The ADC is planning to help the jungler take a Dragon. He should calculate how many resources he will pay for this play.
+4. The support is planning to gank the mid lane. He should evaluate the team's potential resource gain from a successful gank against the losses from an unsuccessful one.
 
-4. The support is planning to gank the mid lane. He should estimate the team's resource gain from a successful gank and the loss from an unsuccessful one.
+In each of these scenarios, performing a resource calculation will help determine the profitability of the planned action. If the risk is high and the reward is low, a player should refrain from participating in the team play.
 
-In each of these cases, a resource calculation will show the profitability of the planned action. If the risk is high and the reward is low, the player should avoid participating in the team action.
+To effectively learn how to calculate resources, the player needs to focus on numbers. However, his attention is in short supply during a game. Therefore, it is better to practice resource calculation by reviewing replays or watching streams.
 
-The player needs to focus his attention on numbers if he wants to learn how to calculate resources. During a game, his attention is in short supply. Therefore, it is better to start practicing resource calculation by watching replays or streams.
+Beginner players often lack the knowledge for effective self-coaching sessions. On the other hand, resource calculation serves as a universal method for assessing the quality of decisions. It is an excellent starting point for new players. Let us look at an example of how to apply it.
 
-Beginner players lack the knowledge to make effective self-coaching sessions. On the other hand, resource calculation is a universal method for assessing the quality of decisions. It could be a good starting point for new players. Let us look at an example of how to apply it.
+I> [**Outplayed**](https://www.overwolf.com/app/overwolf-outplayed) is one of the best apps for recording replays. It saves video files in MP4 format. You do not need the game client to open these files. This allows you to view replays while waiting for your next match.
 
-I> [**Outplayed**](https://www.overwolf.com/app/overwolf-outplayed) is one of the best apps for recording replays. It saves video files to your disk in MP4 format. You do not need the game client to open these files. Therefore, you can watch replays while waiting in the queue for the next game.
+Imagine you are watching your replay to conduct a self-coaching session. During the game, there are clear moments when you make decisions. These usually involve participating in an upcoming team play. For example, your jungler pings for help on a dragon. You need to pause the replay at that moment. Then, calculate the resources your team stands to gain from successfully taking the dragon. Subtract your participation fee for joining this play. Also, evaluate what your team would lose if the opponents contest and secure the dragon.
 
-Suppose that you are watching your replay to make a self-coaching session. During the game, there are clear moments when you make decisions. These usually involve participating in an upcoming team play. For example, your jungler pings for help on a dragon. You need to stop the replay at this moment. Then, calculate how many resources your team will receive for successfully taking the dragon. Subtract your participation fee for joining this play. Also, calculate how much your team will lose if the opponent contests the dragon and takes it.
+After completing the resource calculations, consider whether your participation in this team play is justified. Is the risk worth the potential reward? Continue watching the replay and check whether your calculations align with the actual results. If they do not, identify any mistakes in your reasoning. This will provide you with immediate feedback.
 
-Once the resource calculation results are done, ask yourself whether your joining this team play is justified. Is the risk worth the potential benefit? Continue watching the replay and check whether your calculations match the actual results. This will provide you with immediate feedback. If your calculations diverge from the actual results, you need to find a mistake in your assumptions.
+Becoming accustomed to calculating resources will improve your time management. To participate in any team play, players pay by losing resources. Therefore, the duration of the play determines the team's overall benefit. For instance, capturing a dragon in 30 seconds will give your team an advantage. But the same play done for one minute might benefit your opponents instead. Keep this in mind during your games.
 
-Getting used to calculating resources will make you more mindful of time management. Players pay to participate in any team play by losing resources. Therefore, the duration of the play determines the team's benefit. For example, capturing a dragon in 30 seconds will give your team an advantage. But if you did the same for one minute, it would give your opponent an advantage. Take this into account in your games.
+While reviewing replays, note how much time you spend making decisions. This could be choosing an item in the shop or planning your next move on the map. Calculate how much time you spend standing still and thinking during the game. Then convert this time into lost resources. If it is a lot, you should focus on improving your decision-making skills.
 
-When watching replays, pay attention to how much time you spend making decisions. This could be choosing an item in the shop or planning your next move on the map. Calculate how much time you spent standing still and thinking during the game. Convert this time into lost resources. If it is a lot, you need to work on your decision-making skills.
+You can enhance your decision-making speed by recognizing more patterns in typical game situations. Calculating resources will help you identify the right actions. This enables you to remember both the characteristics of specific situations and the appropriate responses. The next time you encounter a similar situation, you will be able to make the correct decision quickly.
 
-You can learn to make decisions faster by accumulating more patterns of typical game situations. Calculating your resources will help you identify the right actions. This way, you will be able to remember both the situation's characteristics and the appropriate action. The next time you encounter a similar situation, you will make the right decision immediately.
+If you want to remember patterns of specific situations more effectively, you need to document them. Text notes may not be the best option. For instance, you might write down in a text file: "Do not take the dragon when the team has no tempo." This is helpful advice in general, but it lacks specificity about a game situation.
 
-If you want to remember patterns of situations more effectively, you need to document them. Text notes are not suitable for this purpose. For example, you might write down in a text file: "Do not take the dragon when the team has no tempo." This is good advice in general, but it requires characteristics of a specific game situation.
+Typical patterns in League of Legends are often visual. Therefore, the best way to document them is through visual formats. Take screenshots from replays that illustrate specific patterns. For example, it could be a mistake you want to avoid or good plays you or others make.
 
-Typical patterns in League of Legends are visual. Therefore, the best documentation for them is a visual format. Take screenshots from replays that demonstrate specific patterns. For example, it could be a mistake you want to remember and avoid repeating. A pattern could also be a good action that you or someone else made.
+I> [Greenshot](https://getgreenshot.org/) is a convenient tool for saving screenshots. It has a built-in graphics editor for adding labels and text.
 
-I> [Greenshot](https://getgreenshot.org/) is a convenient program for saving screenshots. It has a built-in graphics editor for adding labels and text.
+Give your screenshot files descriptive names, such as "do-not-take-dragon-without-tempo.png." Review your screenshots regularly to refresh your memory of familiar patterns. This way, you will gradually accumulate knowledge about the game. Over time, you will stop making the same mistakes, and your decision-making skills will improve.
 
-Give your screenshot files descriptive names, such as "do-not-take-dragon-without-tempo.png." Review your screenshots regularly to refresh your memory of familiar patterns. This way, you will gradually accumulate knowledge about the game. You will notice that you stop making the same mistakes, and your decision-making skills will develop.
-
-Taking screenshots is also useful when watching guides, streams, competitions, and coaching sessions (both your own and others'). Save and review any important patterns you recognize in any content.
+Taking screenshots is also beneficial when watching guides, streams, competitions, and any coaching sessions. Save and review any significant patterns that you observe in this content.
 
 I> Professional player Bwipo discusses the economic aspects of League of Legends in more detail in the [following video](https://www.youtube.com/watch?v=fJ-C4PEk-9Y).
 
