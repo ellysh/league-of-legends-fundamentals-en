@@ -10,4 +10,5 @@ mainmatter:
   Theory/basic-concepts.md
   Theory/economy.md
 
+  glossary.md
   version.md
