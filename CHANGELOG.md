@@ -1,3 +1,7 @@
-## Версия 10.03.2025 43f4dbae2e93f5ee9123dfd2a63a6cc0d2ed0dd0
+## Version 06.01.2026 c3818d5bd6c3f811d153afe789e38f6505dfe3aa
 
-* Переписана глава "1 Психология".
+* Translate the foreword.
+
+* Translate the 1st chapter "Psychology".
+
+* Translate the 2nd chapter "Basic concepts" partially.
