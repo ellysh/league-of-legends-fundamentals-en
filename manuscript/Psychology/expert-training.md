@@ -62,7 +62,7 @@ Deliberate practice is not feasible in certain fields. Three essential requireme
 
 League of Legends meets all these criteria.
 
-### 1.1.2 Recognition of templates
+### 1.1.2 Pattern recognition
 
 Anders Ericsson's research explains how experts in various fields acquire skills. However, a critical question arises: what exactly are they learning? Let us explore the essence of their skills.
 
@@ -72,7 +72,7 @@ Two mechanisms are essential to the model:
 
 1. [**Chunking**](https://en.wikipedia.org/wiki/Chunking_(psychology)) is the process of combining elements with low information content into larger units called **chunks**.
 
-2. **Recognition of templates**. A **template** is a cognitive structure that represents how a person perceives his environment. This structure consists of interconnected chunks of information.
+2. **Pattern recognition** is the process of identifying, classifying, and interpreting sensory information (visual, auditory, etc.) to understand it.
 
 Let us begin with **the first mechanism — chunking**. For example, consider the phone number 84956352167. Without breaking it down into chunks, you would have to remember each digit individually: 8, 4, 9, 5, 6, 3, 5, 2, 1, 6, 7. This task is quite tricky.
 
@@ -86,14 +86,16 @@ We have three blocks: 8, 495, and 6352167. They are much easier to remember than
 
 The subscriber number is typically divided into three parts: 635-21-67. Each segment individually has no specific meaning. However, this division follows the idea of grouping: breaking a number into blocks to enhance memorability.
 
-**The second mechanism is recognition of templates**. Let us use an example again. Refer to Figure 1-1.
+**The second mechanism is patterns recognition**. Let us use an example again. Refer to Figure 1-1.
 
-{caption: "Figure 1-1. Recognition of the template", height: "30%"}
-![Recognition of the template](images/Psychology/traffic-light-red.png)
+{caption: "Figure 1-1. Pattern recognition", height: "30%"}
+![Pattern recognition](images/Psychology/traffic-light-red.png)
 
 You can easily recognize the traffic light in the image. It is red. If you see it while walking, you will instinctively want to stop.
 
-The silhouette of a traffic light serves as a familiar template for every city resident. This familiarity indicates that our memory has a cognitive structure that aligns with the typical shape of a traffic light. This structure contains three variables or slots. They represent the state of one of the three lamps. The value of each slot is linked to a specific action: either to stand or to walk.
+The silhouette of a traffic light serves as a familiar pattern for every city resident. There is a template that matches this pattern. A **template** is a cognitive structure that represents how a person perceives his environment. This structure consists of interconnected chunks of information.
+
+Every city dweller is familiar with traffic lights. It indicates that human memory contains a cognitive structure corresponding to the typical silhouette of such objects. This structure contains three variables or slots. They represent the state of one of the three lamps. The value of each slot is linked to a specific action: either to stand or to walk.
 
 In general, templates shape human behavior by evoking memories, helping us predict events, and providing a general understanding of our surroundings. Complex templates include variables that can change. These variables enable people to absorb information that resembles their existing knowledge more quickly.
 
@@ -101,9 +103,9 @@ Here is the example. The child has seen only two-lamp traffic lights. Therefore,
 
 According to the CHREST model, human learning involves constructing a network of templates. This network has a hierarchical structure. It links new knowledge to familiar templates stored in long-term memory.
 
-The network of templates is formed from the perception of a broad range of stimuli. Essentially, it results from practice and feedback. These stimuli represent the specific subject field. When they affect the learner, the individual starts to recognize templates. He compares the regularities with existing templates stored in long-term memory. If there is a complete or partial match, new information is absorbed much more quickly. If there is no match, repeated exposure to the stimulus is necessary. This process helps to consolidate templates in memory, making them available for retrieval when needed.
+The network of templates is formed from the perception of a broad range of stimuli. Essentially, it results from practice and feedback. These stimuli represent the specific subject field. When they affect the learner, the individual starts to recognize patterns. He compares the regularities with existing templates stored in long-term memory. If there is a complete or partial match, new information is absorbed much more quickly. If there is no match, repeated exposure to the stimulus is necessary. This process helps to consolidate templates in memory, making them available for retrieval when needed.
 
-The CHREST model explains the problem-solving process in terms of template recognition. When an expert faces a problem, he draws on a network of templates stored in his long-term memory. He analyzes the problem's conditions and looks for typical features that can act as stimuli for their recognition system. These stimuli help the expert locate relevant information in long-term memory. Once the expert identifies an appropriate template, the associated knowledge is then activated and stored in short-term memory.
+The CHREST model explains the problem-solving process in terms of pattern recognition. When an expert faces a problem, he draws on a network of templates stored in his long-term memory. He analyzes the problem's conditions and looks for typical features that can act as stimuli for their recognition system. These stimuli help the expert locate relevant information in long-term memory. Once the expert identifies an appropriate template, the associated knowledge is then activated and stored in short-term memory.
 
 When the expert locates the appropriate template, the relevant knowledge can offer a ready-made solution to the problem at hand. If that does not occur, the expert can recall a previously successful strategy used in a similar situation. Additionally, this related knowledge can help predict the likely outcomes of different actions. Using these predictions, the expert can formulate a solution for a new problem.
 
@@ -111,9 +113,9 @@ When the expert locates the appropriate template, the relevant knowledge can off
 
 We have learned how experts acquire knowledge and the essence of their expertise. Now, let us examine the skills of a League of Legends player through the CHREST model.
 
-First, we need to understand what a typical template looks like in League of Legends. The game is based on the model of a battle between two armies. Each side has some active objects that operate simultaneously. Each object has a set of parameters, which together define its properties.
+First, we need to understand what a typical pattern looks like in League of Legends. The game is based on the model of a battle between two armies. Each side has some active objects that operate simultaneously. Each object has a set of parameters, which together define its properties.
 
-League of Legends operates as an information model rather than a material one. This means that the parameters of all objects within the game are represented by a set of numbers stored in the program's memory. The game interface presents these parameters in two ways: either as raw numbers or as graphical elements. Consequently, the typical cognitive template in League of Legends consists of either a set of numbers, graphical elements, or a combination of both.
+League of Legends operates as an information model rather than a material one. This means that the parameters of all objects within the game are represented by a set of numbers stored in the program's memory. The game interface presents these parameters in two ways: either as raw numbers or as graphical elements. Consequently, the typical pattern in League of Legends consists of either a set of numbers, graphical elements, or a combination of both.
 
 When an experienced player processes the flow of information about a model's current state, he performs chunking. This way, he combines elements with low information content into larger, more meaningful units. This creates a hierarchical structure with varying levels of abstraction.
 
@@ -123,11 +125,11 @@ If we apply the template concept discussed earlier, a League of Legends player s
 
 1. **The ability to group (chunking)** object parameters into blocks. The best players do this effectively, taking into account most of the model parameters they currently know.
 
-2. **Detecting templates** in the received blocks. A more advanced player knows more templates at various levels of abstraction. Therefore, he recognizes significantly more opportunities than a beginner.
+2. **Detecting patterns** in the received blocks. A more advanced player knows more templates at various levels of abstraction. Therefore, he recognizes significantly more opportunities than a beginner.
 
-3. **Decision Making** involves selecting the best action for a recognized template. A skilled player is not only familiar with more templates but also has a wider range of options for each one. In other words, when a proficient player identifies an opportunity, he knows exactly how to capitalize on it.
+3. **Decision Making** involves selecting the best action for a recognized pattern. A skilled player is not only familiar with more patterns but also has a wider range of options for each one. In other words, when a proficient player identifies an opportunity, he knows exactly how to capitalize on it.
 
-4. **Planning**. The template can point out the opponent's mistake. While it may not be possible to take advantage of this mistake immediately, there may be a specific sequence of actions that allows it. A skilled player can quickly and accurately devise such sequences. This ability is known as macromanagement.
+4. **Planning**. The pattern can point out the opponent's mistake. While it may not be possible to take advantage of this mistake immediately, there may be a specific sequence of actions that allows it. A skilled player can quickly and accurately devise such sequences. This ability is known as macromanagement.
 
 5. **Execution**. After choosing an appropriate action or making a plan, the player must carry it out. This skill is called micromanagement.
 
@@ -139,9 +141,9 @@ We have examined five player skills. No single one can be deemed the most import
 
 * Without effective grouping, the player will miss essential aspects of the model's state.
 
-* Without knowing the templates, the player will not understand the events occurring and will miss out on potential opportunities.
+* Without knowing the patterns, the player will not understand the events occurring and will miss out on potential opportunities.
 
-* Without knowledge of the appropriate actions for each template, the player will not be able to plan and respond correctly to events.
+* Without knowledge of the appropriate actions for each pattern, the player will not be able to plan and respond correctly to events.
 
 * Without good execution skills, the player will fail to capitalize on the opportunities that arise.
 

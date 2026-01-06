@@ -280,11 +280,11 @@ Here is the fourth question on our list:
 
 A player needs two key elements to identify an advantage:
 
-1. Learn templates for recognizing typical game situations.
+1. Learn patterns for recognizing typical game situations.
 
 2. Manage his attention during the game effectively.
 
-We will explore templates for various gameplay aspects and appropriate actions further in this book. Now, let us discuss attention management.
+We will explore patterns for various gameplay aspects and appropriate actions further in this book. Now, let us discuss attention management.
 
 There is a concept of a macro cycle in real-time strategy (RTS) games. A **macro cycle** is an approach to effectively managing the game's economy. The idea is to create a list of tasks and execute them sequentially.
 
