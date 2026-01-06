@@ -6,7 +6,7 @@ Thanks to Vlad Markov and Mikhail Lezhnin for reviewing drafts. They provided he
 
 Thanks to Illia Nebeskyi for reviewing drafts and coaching sessions. He taught me a lot and helped me better understand some mechanics of League of Legends.
 
-Thanks to streamer [AloisNl](https://www.twitch.tv/alois_nl) for the excellent [courses on the fundamentals of the game](https://aloisnl.com/the-fundamental-laning-course/). This book continues his idea of ​​fundamentals, which are the core concepts of the game that apply to every role.
+Thanks to streamer [AloisNl](https://www.twitch.tv/alois_nl) for the excellent courses on the fundamentals of the game. This book continues his idea of ​​fundamentals, which are the core concepts of the game that apply to every role.
 
 Thanks to esports player [Bwipo](https://lol.fandom.com/wiki/Bwipo) for making his [coaching sessions](https://www.youtube.com/watch?v=fJ-C4PEk-9Y&list=PLO-puISV1uJLhELuQ1ad3ayP5A53OMgkB) available. They inspired me to write this book.
 
