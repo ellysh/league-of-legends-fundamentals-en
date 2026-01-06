@@ -81,7 +81,7 @@ Enemy minions also serve as a source of income. Every 30 seconds, each Nexus spa
 
 Additionally, we can consider all buildings as resources. Destroying an enemy building rewards the attacking team. Due to the landscape's equilibrium, these resources are also balanced for both teams.
 
-**Teams' Power Equilibrium** refers to all their units: towers, inhibitors, the Nexus, minions, and champions. Towers, inhibitors, and the Nexus are immobile structures. They are subjects of the landscape equilibrium and are symmetrical about the map's center. This means teams have an equal number of each type of structure.
+**Teams' power equilibrium** refers to all their units: towers, inhibitors, the Nexus, minions, and champions. Towers, inhibitors, and the Nexus are immobile structures. They are subjects of the landscape equilibrium and are symmetrical about the map's center. This means teams have an equal number of each type of structure.
 
 Minions are mobile units that represent both team power and enemy resources. They move in groups called **waves**. Waves spawn near the Nexuses at regular intervals — the first wave spawns at 1:05 game time, and then every 30 seconds thereafter.
 
@@ -165,7 +165,7 @@ The **mid game** phase typically begins at the 14th minute and lasts until the 2
 1. Control the map.
 2. Capture objectives.
 
-I> An **objective** refers to an epic jungle monster or enemy structure. Destroying an objective increases the team's strength or provides significant rewards. Objectives include dragons, Herald, Baron Nashor, Voidgrubs, enemy towers, and inhibitors.
+I> An **objective** refers to an epic jungle monster or enemy structure. Destroying an objective increases the team's strength or provides a significant reward. Objectives include dragons, Herald, Baron Nashor, Voidgrubs, enemy towers, and inhibitors.
 
 When the mid game phase begins, players often swap their lanes. The standard lane swap occurs as follows:
 
