@@ -12,48 +12,48 @@ A teamfight, like a game, consists of a series of sequential phases. Each phase 
 
 ### 2.3.1 Teamfight scheme
 
->>>W
+>>>>W
 
-Дизайн игры диктует не только определённый сценарий партии, но и общую схему командного сражения. Эта схема отражает то, как разработчики видят типичное взаимодействие двух команд.
+Game design dictates not only a specific match scenario but also the overall scheme of a teamfight. This scheme reflects how the developers envision the typical interaction between two teams.
 
-Иллюстрация 2-4 демонстрирует общую схему командного сражения.
+Figure 2-4 shows the overall scheme of a teamfight.
 
-{caption: "Иллюстрация 2-4. Схема командного сражения", width: "100%"}
-![Схема командного сражения](images/Theory/teamfight-scheme.png)
+{caption: "Figure 2-4. Scheme of a teamfight", width: "100%"}
+![Scheme of a teamfight](images/Theory/teamfight-scheme.png)
 
-На иллюстрации изображена средняя линия. На ней собрались все чемпионы обеих команд. Каждый из них отмечен кругом. Его цвет совпадает с цветом команды.
+The illustration shows the middle lane. All champions from both teams have gathered there. Circles mark the champions, and their colors match their teams.
 
-Всех чемпионов в игре можно разделить на две основные категории. На иллюстрации 2-4 их обозначают иконки в центре каждого круга. Эти иконки следующие:
+We can divide all champions in the game into two main categories. Figure 2-4 shows these categories by icons in the center of each circle. These icons are as follows:
 
-1. **Щит** — это чемпион с большим запасом здоровья и умениями, которые повышают выживаемость. Обычно он собирает предметы на защиту.
+1. **Shield** is a champion with a large health pool and abilities that increase survivability. They typically build defensive items.
 
-2. **Лук** — это чемпион с высоким уроном и умениями, которые его усиливают. Обычно он собирает предметы на атаку.
+2. **Bow** is a champion with high damage and abilities that enhance it. They typically build offensive items.
 
-Чемпионы первого типа составляют **линию фронта** (frontline). Они занимают позицию ближе к противнику. Чемпионы второго типа находятся за своим frontline. Они составляют **заднюю линию** (backline).
+The first type of champions make up the **frontline**. They occupy a position closer to the enemy. Champions of the second type stay behind their frontline. They make up the **backline**.
 
-Рассмотрим, как будет протекать сражение на иллюстрации 2-4 с точки зрения синей команды. Предположим, что силы сторон примерно равны.
+Let us consider how the teamfight in Figure 2-4 would happen from the blue team's perspective. We assume the power of the commands is approximately equal.
 
-В начале сражения чемпионы frontline синих выходят вперёд и принимают на себя первый удар. Их одновременно атакует frontline и backline красной команды. Хорошая выживаемость позволяет им держаться какое-то время. В это время backline синих наносит основную часть урона по frontline красных. В самом простом случае сражение проигрывает та команда, чей frontline умирает первым.
+At the start of the fight, the blue frontline champions go ahead and absorb the initial attacks. Red team frontline and backline attack these champions simultaneously. Their high survivability allows them to hold out for a while. During this time, the blue backline deals the most of the damage to the red frontline. In the simplest case, the team whose frontline dies first loses the battle.
 
-Допустим, что синяя команда убивает вражеский frontline. После этого чемпионы backline красных должны отступить. Они остались против превосходящего по численности противника. Кроме этого у них низкая выживаемость: для их убийства достаточно даже небольшого урона. Поэтому у красного backline больше нет времени, чтобы реализовать свой урон. Если они останутся в сражении, то нанесут противнику минимальный урон и погибнут.
+Let us assume that the blue team kills the enemy frontline. After this, the red backline champions must retreat. Now they are standing against a numerically superior enemy. Furthermore, they have low survivability: even minor damage can kill them. Therefore, the red backline no longer has time to release their damage. If they remain in the battle, they will deal minimal damage to the enemy and die.
 
-Опытный игрок за чемпиона backline умеет выгодно использовать рельеф карты. Для этого он выбирает позицию так, чтобы между его чемпионом и противником были стены. В этом случае стены выполняют роль frontline: они не дают противнику подойти. Так даже без frontline игрок высокого уровня выигрывает время, чтобы нанести противнику урон.
+An experienced player of the backline role knows how to use the map's landscape to his advantage. To do this, the player positions himself so that there are walls between his champion and the enemy. In this case, the walls act as a frontline: they prevent the enemy from shortening the distance. Thus, a high-level player gains time to deal damage to the enemy even without a frontline.
 
-Мы рассмотрели схему сражения, в которой обе команды действуют по плану front-to-back. План определяет порядок выбора целей. Он может быть как общим для всей команды, так и индивидуальным у каждого чемпиона.
+We have looked at a teamfight scheme when both teams operate according to a front-to-back plan. Such a plan determines the order in which players select their targets. It can be either team-wide or individual for each champion.
 
-В игре есть три стандартных плана на сражение:
+There are three standard teamfight plans in the game:
 
-* **Front-to-back** (дословно "спереди-назад") означает порядок выбора цели, когда чемпион атакует сначала ближайшего противника. Обычно им оказывается кто-то из вражеского frontline. После его убийства чемпион нападает на открывшийся backline противника.
+* **Front-to-back** refers to a targeting order in which the champion attacks the closest enemy first. Typically, this is someone from the enemy frontline. After killing them, the champion attacks the exposed enemy backline.
 
-* **Back-to-front** (дословно "сзади-вперёд") — порядок выбора цели, при котором чемпион сначала атакует вражеский backline. Обычно у чемпиона есть мобильность, чтобы преодолеть frontline противника. Когда весь backline погибает, чемпион переключается на оставшийся frontline.
+* **Back-to-front** refers to a targeting order in which the champion first attacks the enemy backline. Typically, the champion has the mobility to overcome the enemy frontline. Once the entire backline is destroyed, the champion switches to the remaining frontline.
 
-* **Flanking** (атака с фланга) — план при котором чемпион не участвует в построении своей команды. Вместо этого он занимает позицию вне области видимости вражеской команды (за стенкой или в кустах). После начала сражения чемпион использует эффект неожиданности и атакует вражеский backline.
+* **Flanking** refers to a plan in which the champion does not participate in the formation of his team. Instead, he takes a position outside the enemy's vision (behind a wall or in the bushes). Once the fight begins, the champion takes advantage of the element of surprise and attacks the enemy backline.
 
-Независимо от порядка выбора целей, построение чемпионов должно быть типовым в сражении любого масштаба. Это означает, что чемпионы с высокой выживаемостью формируют frontline. За ними находится backline с высоким уроном. Чемпионы для flanking занимают позицию в засаде. Если у противника есть чемпионы для игры back-to-front или flanking, тогда frontline и backline команды должны стоять ближе друг к другу.
+Regardless of the target selection order, champions should take a **typical formation** in a teamfight of any size. This means that champions with high survivability create the frontline. Behind them is a backline that deals most of the damage. Flanking champions take up ambush positions. If the enemy has back-to-front or flanking champions, the team's frontline and backline should be positioned closer together.
 
-Когда команда не выполняет типовое построение, она даёт противнику преимущество. Рассмотрим пример. Допустим, что чемпионы синей команды не сформировали чёткий frontline и backline. В начале сражения они стоят вперемешку. С другой стороны, красная команда выполнила правильное построение. Когда начнётся сражение, красные сконцентрируют свой урон по синим чемпионам типа лук, которые оказались во frontline. Эти цели имеют низкую выживаемость и погибнут за секунды. После этого синяя команда окажется в меньшинстве и проиграет сражение.
+When a team does not follow a typical formation, it gives the enemy an advantage. Let us look at an example. The blue team's champions did not create a clear frontline and backline. They stand mixed up at the start of the fight. On the other hand, the red team has taken a typical formation. When the fight begins, the red team will concentrate their damage on the blue Bow champions who are in the frontline. These targets have low survivability and will die within seconds. After this, the blue team will be outnumbered and lose the fight.
 
-Обратите внимание, что тип чемпиона на иллюстрации 2-4 определяет только его роль в построении. **Чемпион дальнего боя** (range) может входить во frontline, благодаря высокой выживаемости. Примеры: Thresh, Urgot. С другой стороны, **чемпион ближнего боя** (melee) может находиться в backline в начале сражения. Там он ждёт подходящей возможности, чтобы сблизиться с противником и нанести ему урон. Примеры таких чемпионов: Kha'Zix, Master Yi.
+Note that the champion type in Figure 2-4 only determines their role in the formation. A ranged champion can stand in the frontline due to his high survivability. Examples include Thresh and Urgot. On the other hand, a melee champion can stand in the backline at the start of a fight, waiting for a good opportunity to reach the enemy and deal damage. Examples include Kha'Zix and Master Yi.
 
 ### 2.3.2 Time and damage
 
