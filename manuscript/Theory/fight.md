@@ -12,7 +12,7 @@ A teamfight, like a game, consists of a series of sequential phases. Each phase 
 
 ### 2.3.1 Teamfight scheme
 
->>>>W
+>>>R1
 
 Game design dictates not only a specific match scenario but also the overall scheme of a teamfight. This scheme reflects how the developers envision the typical interaction between two teams.
 
@@ -57,63 +57,67 @@ Note that the champion type in Figure 2-4 only determines their role in the form
 
 ### 2.3.2 Time and damage
 
-Мы рассмотрели общую схему командного сражения. Из неё можно сделать следующий вывод:
+>>>R1
 
-> В сражении любого масштаба есть два главных фактора: урон команды и время, чтобы его наносить.
+We have examined the overall scheme of a teamfight. We can draw the following conclusion from it:
 
-Аналогичный вывод справедлив и для отдельного чемпиона:
+> There are two main factors in a fight of any scale: team damage and the time to deal it.
 
-> В сражении у чемпиона есть время, через которое его убьют, и урон, который он успеет до этого нанести.
+A similar conclusion applies to individual champions:
 
-Другими словами, в сражении чемпиона характеризуют два основных параметра:
+> In a fight, a champion has a time limit before enemies kill him, and the damage he can deal before that happens.
 
-1. **Время**, которое он может выиграть для себя или команды.
+In other words, there are two main parameters of the champion in a fight:
 
-2. **Урон**, который он сможет нанести противнику до момента своей смерти.
+1. The **time** he can buy for himself or his team.
 
-Рассмотрим сражение с точки зрения этих двух параметров. Тогда перед чемпионами frontline и backline стоят следующие задачи:
+2. The **damage** he can deal to the enemy before he dies.
 
-* Чемпионы frontline выигрывают время для команды. Направленные на это действия называются **создавать пространство** или **спейсинг** (spacing).
+Let us consider the teamfight from the perspective of these two parameters. Then, frontline and backline champions face the following tasks:
 
-* Чемпионы backline наносят урон в течение дополнительного времени, которое для них выигрывает frontline.
+* Frontline champions buy time for their team. Actions aimed at this goal are called **creating space** or **spacing**.
 
-В League of Legends большинство чемпионов можно однозначно отнести к одной из категорий: выигрывает время или наносит урон. Также есть чемпионы с механиками для выполнения обеих задач. Обычно они справляются хуже, потому что менее специализированы.
+* Backline champions deal damage during the additional time that the frontline buys for them.
 
-Категорию чемпиона определяет набор его умений. Начнём с чемпионов, которые выигрывают время для союзников. У них есть следующие инструменты:
+In League of Legends, we can clearly categorize most champions into one of two categories: time-buying or damage-dealing. There are also champions with mechanics that perform both functions. They are usually less effective because they are less specialized.
 
-1. [**Эффект контроля**](https://leagueoflegends.fandom.com/ru/wiki/Эффект_контроля) (crowd control или CC) — выигрывает время для всей команды. Такие умения ненадолго выводят из боя одного или нескольких вражеских чемпионов.
+A champion's kit determines his category. Let us start with champions that buy time for their allies. They have the following tools:
 
-2. [**Исцеление**](https://leagueoflegends.fandom.com/ru/wiki/Исцеление) или лечение (heal) — выигрывает время для всей команды, если его можно применить к frontline чемпионам.
+1. [**Crowd Control**](https://wiki.leagueoflegends.com/en-us/Crowd_control) (CC) - buys time for the entire team. These abilities briefly disable one or more enemy champions.
 
-3. [**Усиление**](https://leagueoflegends.fandom.com/ru/wiki/Усиление) (buff) — то же самое, что и лечение. Оно выигрывает время для всей команды, только если его можно применить к frontline чемпионам.
+2. [**Healing**](https://wiki.leagueoflegends.com/en-us/Healing) - buys time for the entire team if it can be applied to frontline champions.
 
-4. [**Щит**](https://leagueoflegends.fandom.com/ru/wiki/Щит) (shield) — то же самое, что и лечение.
+3. [**Buff**](https://wiki.leagueoflegends.com/en-us/Buff) — same as healing. It buys time for the entire team only if it can be applied to frontline champions.
 
-5. **Мобильность** (mobility) — выигрывает время для команды, если комбинируется с контролем. Без этого мобильность выигрывает время только для владельца умения.
+4. [**Shield**](https://wiki.leagueoflegends.com/en-us/Shield) — same as healing.
 
-Если чемпион обладает несколькими умениями из списка, его задача в сражении — выигрывать время для союзников. Для этого чемпион не обязательно должен находиться во frontline. Он может стоять в backline и лечить стоящих впереди союзников.
+5. **Mobility** — buys time for the team if combined with crowd control. Without this, mobility only buys time for the ability's owner. We will talk about initiation in teamfight later.
 
-Вот примеры узкоспециализированных чемпионов для выигрывания времени:
+If a champion has several abilities from this list, his job in a fight is to buy time for his allies. This champion does not necessarily have to be in the frontline. He can stand in the backline and heal his allies in the frontline.
 
-* **Rammus** — чемпион для frontline. Имеет три умения на контроль и одно усиление на защиту. Они позволяют Rammus выиграть много времени, даже если он единственный чемпион во frontline. 
+Here are some examples of highly specialized champions for buying time:
 
-* **Soraka** — чемпион для backline. Имеет три умения на исцеление и один эффект контроля. С такими инструментами Soraka может долго поддерживать уровень здоровья союзного frontline.
+* **Rammus** is a frontline champion. He has three crowd control abilities and one defensive buff. These abilities allow Rammus to buy a significant amount of time, even if he is the only champion on the frontline.
 
-Такие чемпионы как Soraka неэффективны, если в команде нет frontline с высокой выживаемостью. В сражении исцеление продлевает на 8-10 секунд время жизни чемпиона с большим запасом здоровья и хорошей защитой. Но если применять исцеление к чемпиону backline с низкой выживаемостью, умение выиграет максимум 1-2 секунды. Это не даст команде существенного преимущества.
+* **Soraka** is a backline champion. She has three healing abilities and one crowd control buff. With these tools, Soraka can support her allied frontline for a long time.
 
-Теперь поговорим о чемпионах, которые наносят урон. Атакующие умения масштабируются либо от [**силы атаки**](https://leagueoflegends.fandom.com/ru/wiki/Сила_атаки) (attack damage или AD), либо от [**силы умений**](https://leagueoflegends.fandom.com/ru/wiki/Сила_умений) (ability power или AP).  Характер масштабирования бывает разным: лучше или хуже. Поэтому один и тот же предмет даст разные power spike чемпионам с разным характером масштабирования умений.
+Champions like Soraka are ineffective without a high-survivability frontline. In a teamfight, healing a champion with high health and high survivability extends his lifespan by 8-10 seconds. However, if you use healing on a low survivability backline champion, the ability will only buy 1-2 seconds at most. This would not give the team a significant advantage.
 
-Если большинство умений чемпиона хорошо масштабируется, его задача в сражении — наносить урон. Для этого он покупает в основном атакующие предметы. На чемпионе с низкой масштабируемость умений эти предметы будут неэффективными. Его урон будет посредственным на любой стадии партии.
+Now, let us talk about champions who deal damage. Offensive abilities scale either with [**attack damage**](https://wiki.leagueoflegends.com/en-us/Attack_damage) (AD) or [**ability power**](https://wiki.leagueoflegends.com/en-us/Ability_power) (AP). Scaling can vary: it could be better or worse. Therefore, the same item will provide different power spikes to champions with different ability scaling.
 
-В начале сражения чемпионы, которые наносят урон, могут находиться как во frontline так и в backline. Это зависит от их дальности атаки, мобильности и инструментов для выживаемости.
+If most abilities of a champion scale well, his job in a fight is to deal damage. To achieve this, he buys primarily offensive items. These items will be ineffective on a champion with low ability scaling. His damage output will be mediocre at any stage of the game.
 
-Вот примеры узкоспециализированных чемпионов для нанесения урона:
+At the start of a fight, champions who deal damage can be in either the frontline or backline. This depends on their attack range, mobility, and survivability.
 
-* **Master Yi** — чемпион с четырьмя атакующими умениями. В начале сражения он находится в backline или засаде. Когда противники сфокусировали свой урон по союзнику с высокой выживаемостью, Master Yi вступает в бой.
+Here are some examples of highly specialized damage-dealing champions:
 
-* **Aphelios** — чемпион для backline, все умения которого рассчитаны на нанесение урона. Его единственный инструмент контроля доступен только в определённые циклы переключения оружия. Поэтому Aphelios не может реализовать свой высокий урон без поддержки команды.
+* **Master Yi** is a champion with four offensive abilities. At the start of a teamfight, he stands in the backline or in ambush. When enemies focus their damage on a highly survivable ally, Master Yi enters the fight.
+
+* **Aphelios** is a backline champion whose entire skill set focuses on damage. His crowd control ability is only available during specific weapon cycles. Therefore, Aphelios cannot realize his high damage output without team support.
 
 ### 2.3.3 Team composition
+
+>>>W
 
 Для команды есть несколько типичных способов вступить сражение. Комбинация её чемпионов определяет, какой из этих способов будет наиболее эффективным.
 
