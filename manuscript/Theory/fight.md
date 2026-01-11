@@ -117,42 +117,42 @@ Here are some examples of highly specialized damage-dealing champions:
 
 ### 2.3.3 Team composition
 
->>>W
+>>>R1
 
-Для команды есть несколько типичных способов вступить сражение. Комбинация её чемпионов определяет, какой из этих способов будет наиболее эффективным.
+A team has several typical ways to initiate a teamfight. The composition of its champions determines which of these ways is most effective.
 
-В текущем балансе игры различают три композиции команды. Их иллюстрирует таблица 2-7.
-
-{caption: "Таблица 2-7. Композиция команды", width: "80%"}
-| Название композиции | Нейтрализует композицию |
+{caption: "Table 2-7. Team composition", width: "80%"}
+| Composition name | Counters composition |
 |  | |
 | --- | --- |
 |  | |
-| Engage (инициация) | Poke |
+| Engage | Poke |
 |  | |
-| Disengage (контринициация) | Engage |
+| Disengage | Engage |
 |  | |
-| Poke (урон с дистанции) | Disengage |
+| Poke | Disengage |
 
-В композиции **engage** есть от одного до трёх чемпионов с мобильностью и контролем. Как только противник оказывается вне позиции или с истощёнными ресурсами, engage чемпионы атакуют и завязывают сражение.
+There are three team compositions in the current game balance. Table 2-7 illustrates them.
 
-В композиции **disengage** есть одного до двух чемпионов с хорошей выживаемостью и контролем. Эти инструменты позволяют останавливать врыв мобильных чемпионов противника.
+The **engage** composition has one to three champions with mobility and control. These champions rush and attack suddenly as soon as the enemy is out of position or depleted of resources, 
 
-В композиции **poke** есть от одного до трёх чемпионов с большой дальностью атаки или умений. Они наносят урон противнику с безопасного расстояния и истощают его динамические ресурсы.
+The **disengage** composition has one to two champions with good survivability and control. These tools allow them to stop the enemy champions from rushing into teamfight.
 
-Каждая композиция команды хорошо работает против одной композиции и совсем не работает против другой. Рассмотрим, эти соотношения.
+The **poke** composition has one to three champions with long attack or ability range. They deal damage to the enemies from a safe distance and deplete their dynamic resources.
 
-**Engage чемпионы** эффективны против poke композиции. Они ускоряют сражение и тем самым не дают противнику время, чтобы реализовать урон с большой дальности. Engage композиция работает посредственно, если у противника тоже есть engage инструменты. В этом случае побеждает та команда, которая атакует первой. Disengage композиция полностью нейтрализует engage чемпионов. При такой комбинации они не могут реализовать свои умения.
+Each team composition works well against one composition and not at all against another. Let us consider these relationships.
 
-**Disengage чемпионы** хорошо работают только против engage композиции. Их инструменты рассчитаны на то, чтобы принять и нейтрализовать удар. Также они останавливают мобильных противников. Disengage композиция работает посредственно против аналогичной. У обеих команд не будет средств для нападения и им придётся играть от обороны. Poke композиция полностью нейтрализует disengage чемпионов. У них нет средств, чтобы добраться до противника с высокой дальностью умений.
+**Engage champions** are effective against poke composition. They speed up the fight, preventing the enemy from realizing long-range damage. Engage compositions perform poorly if the enemy also has engage tools. In this case, the team that attacks first wins. Disengage compositions completely neutralize engage champions. With this combination, these champions cannot use their abilities to rush into a teamfight.
 
-**Poke чемпионы** эффективны против disengage композиции. Они полностью контролируют сражение и решают, когда начнётся полноценный обмен уроном. Poke композиция работает посредственно против аналогичной. В такой комбинации побеждает команда, в которой урон на дистанции больше. Engage композиция полностью нейтрализует poke чемпионов. Противник резко сокращает дистанцию и сразу начинает обмен уроном. При таком сценарии дальность умений не играет никакой роли.
+**Disengage champions** only work well against engage composition. Their tools are designed to absorb and neutralize sudden attacks. They can also stop mobile opponents. Disengage compositions perform poorly against similar compositions. Both teams lack offensive tools and are forced to play defensively. Poke compositions completely neutralize disengage champions. These champions have no tools to reach an enemy with long-range abilities.
 
-В соревновательных партиях игроки составляют сбалансированные композиции команд. В них есть чемпионы сразу двух или трёх типов. Так игроки уменьшают риск, что противник полностью нейтрализует их инструменты.
+Poke champions are effective against disengage composition. They completely control the fight and decide when the full damage exchange begins. A poke composition performs poorly against a similar one. In this combination, the team with the higher damage at range wins. An engage composition completely neutralizes poke champions. The enemy quickly closes the distance and immediately begins trading damage. The attack and ability range play no role in this scenario.
 
-Таблица 2-8 демонстрирует типичные комбинации чемпионов в сбалансированных командах.
+Players create balanced team compositions in competitive matches. They combine champions of two or three types in one team. This approach reduces the risk that the opponent will completely neutralize their tools.
 
-{caption: "Таблица 2-8. Типичные комбинации чемпионов", width: "60%"}
+Table 2-8 shows typical champion combinations in balanced teams.
+
+{caption: "Table 2-8. Typical champion combinations", width: "60%"}
 | Engage | Poke | Disengage |
 |  | | |
 | :---: | :---: | :---: |
@@ -169,9 +169,9 @@ Here are some examples of highly specialized damage-dealing champions:
 |  | | |
 | 1 | 3 | 1 |
 
-Некоторые чемпионы могут выполнять сразу две роли. Они особенно популярны на высоком уровне игры. Пример такого чемпиона — Rell. Она имеет инструменты как для engage, так и для disengage.
+Some champions can fulfill two roles at once. They are especially popular at high levels of play. An example of such a champion is Rell. She has tools for both engage and disengage.
 
-I> Подробнее композицию команд разбирает профессиональный игрок Oleg [в следующем видео](https://www.youtube.com/watch?v=NGTLmjucD9U&list=PLh0d8CWSTSsAFkX0Jfnmu6xUo1un3FK7V).
+I> Professional player Oleg analyzes the team composition in more detail [in the following video](https://www.youtube.com/watch?v=NGTLmjucD9U&list=PLh0d8CWSTSsAFkX0Jfnmu6xUo1un3FK7V).
 
 ### 2.3.4 Champion classes
 
