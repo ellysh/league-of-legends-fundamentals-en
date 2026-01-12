@@ -175,34 +175,36 @@ I> Professional player Oleg analyzes the team composition in more detail [in the
 
 ### 2.3.4 Champion classes
 
-Мы рассмотрели параметры чемпионов с точки зрения их роли в командном сражении. Эти параметры следующие:
+>>>R1
 
-1. Построение: frontline, backline, flanking.
+We have looked at the parameters of champions based on their role in teamfights. These parameters are as follows:
 
-2. План на сражение: front-to-back, back-to-front.
+1. Formation: frontline, backline, flanking.
 
-3. Композиция команды: engage, disengage, poke.
+2. Fight plan: front-to-back, back-to-front.
 
-4. Задача в сражении: выигрывать время или наносить урон.
+3. Team composition: engage, disengage, poke.
 
-Сопоставим классы чемпионов с этими параметрами.
+4. Fight objective: buy time or deal damage.
 
-В League of Legends есть [официальная классификация чемпионов](https://wiki.leagueoflegends.com/en-us/Champion_classes). Ей пользуются разработчики игры, когда добавляют новых чемпионов или меняют баланс уже существующих. Классификация учитывает все характеристики каждого чемпиона. Это важно для разработчиков, когда они исправляют игровой баланс. Если упустить из виду какую-то характеристику, можно получить несбалансированного чемпиона, который окажется сильнее остальных.
+Let us find out how champion classes relate to these parameters.
 
-Игроки редко пользуются официальной классификацией. Она не соответствует их задачам. Игроку не нужна информация по всем характеристикам каждого чемпиона. Ему достаточно знать всё только о своём пуле. Про остальных чемпионов ему достаточно общей информации: роль в команде и сражении, билд (руны и предметы), ключевые умения. Поэтому игроки обычно пользуются своей собственной классификацией.
+League of Legends has an [official champion classification](https://wiki.leagueoflegends.com/en-us/Champion_classes). The game developers use it when adding new champions or making balance changes to existing ones. The classification takes into account all the stats of each champion. This is important for developers when adjusting game balance. Overlooking a stat can result in an unbalanced champion that is stronger than the others.
 
-I> **Champion pool** (пул чемпионов) — это набор чемпионов для одной роли. Игрок выбирает чемпиона только из этого набора в каждой рейтинговой партии.
+Players rarely use the official classification system. It does not suit their purposes. The player does not need information on every single champion's stats. He only needs to know everything about their own pool. Then the player needs general information about other champions: their role on the team and in teamfight, build (runes and items), and key abilities. Therefore, players typically use their own classification.
 
-Классификация игроков нигде не документирована. В разных сообществах она немного различается. Кроме того в ней встречаются исключения. Например, какой-то чемпион собирает нетипичные для своего класса предметы. Тем не менее эта классификация удобнее на практике.
+I> A **champion pool** is a set of champions for a single role. A player selects a champion only from this pool in each ranked game.
 
-Таблица 2-9 приводит соответствие классификаций разработчиков и игроков. Также она указывает роль каждого класса в командном сражении и его основные характеристики.
+There is no documentation for the classification that players made. It varies slightly across communities. Furthermore, there are exceptions. For example, a champion may build items that are atypical for his class. Nevertheless, this classification is more useful in practice.
 
-{caption: "Таблица 2-9. Классификация чемпионов", width: "120%"}
-![Классификация чемпионов от разработчиков](images/Theory/champion-classes.png)
+Table 2-9 shows the correspondence between the developer and player classifications. It also indicates the role of each class in teamfights and its main characteristics.
 
-I> [**Hook**](https://wiki.leagueoflegends.com/en-us/Hook) (хук) — это умение чемпиона, которое захватывает и подтягивает к нему цель.
+{caption: "Table 2-9. Champion classification", width: "120%"}
+![Champion classification](images/Theory/champion-classes.png)
 
-Далее в этом разделе мы будем использовать классификацию игроков. Её проще запомнить и она лучше отражает роль каждого класса в сражении.
+I> [**Hook**](https://wiki.leagueoflegends.com/en-us/Hook) is a champion's ability that grabs and pulls a target towards him.
+
+We will use player classification further in this section. It is easier to remember and better reflects the role of each class in teamfight.
 
 ### 2.3.5 Stages of teamfight
 
