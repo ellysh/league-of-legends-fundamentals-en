@@ -208,24 +208,24 @@ We will use player classification further in this section. It is easier to remem
 
 ### 2.3.5 Stages of teamfight
 
->>>W
+>>>R1
 
-Мы рассмотрели общую схему командного сражения. Она шла по сценарию front-to-back и была очень упрощённой. В реальной партии сражения могут проходить совершенно иначе. Конкретный сценарий зависит от композиций обеих команд.
+We have looked at the overall scheme of a teamfight. It followed a front-to-back scenario and was significantly simplified. In a real game, fights can unfold completely differently. The specific scenario depends on the team compositions of both sides.
 
-Рассмотрим все возможные события, которые могут происходить в командном сражении. Для этого разделим его на последовательные стадии. Они следующие:
+Let us consider all the possible events that can occur in a teamfight. To do this, we divide the teamfight into sequential stages. They are as follows:
 
-1. Подготовка
-2. Инициация
-3. Столкновение
-4. Преследование
+1. Preparation
+2. Initiation
+3. Clash
+4. Pursuit
 
-Каждую стадию сражения можно рассматривать, как отдельный ход в пошаговой игре. В этот ход команды преследуют конкретную цель. Чтобы её достигнуть, они решают ряд задач. Для этого у некоторых чемпионов есть подходящие средства.
+You can consider each stage of the teamfight as a separate turn in a turn-based game. During this turn, teams try to achieve a specific goal. To do that, they resolve a series of tasks. Some champions have the appropriate tools for this.
 
-Если у команды нет инструментов, чтобы действовать в текущую стадию сражения, она пропускает свой ход. Если такие средства есть у противника, он действует. Успешное действие даёт ему инициативу и преимущество.
+If a team lacks the tools to act in the current stage of the teamfight, players skip their turn. If the opponents have such tools, they act. A successful action gives them initiative and an advantage.
 
-Сбалансированная по составу команда имеет инструменты, чтобы отыгрывать каждую стадию командного сражения. Тогда противник не сможет получить преимущество просто из-за наличия каких-то инструментов. Именно к такому балансу стремятся опытные игроки в своих драфтах.
+A balanced team has the tools to play out each stage of a teamfight. Then the opponent would not be able to gain an advantage simply because of having specific tools. Experienced players strive to reach such a balance in their drafts.
 
-I> **Драфт** (draft) — это предварительная стадия партии на которой игроки выбирают себе чемпиона, его руны и заклинания призывателя.
+I> The **draft** is the preliminary stage of the game. Players choose their champions, their runes, and their summoner spells during this stage.
 
 #### 2.3.5.1 Preparation
 
