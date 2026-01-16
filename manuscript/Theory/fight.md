@@ -229,40 +229,44 @@ I> The **draft** is the preliminary stage of the game. Players choose their cham
 
 #### 2.3.5.1 Preparation
 
-Первая стадия сражения — это **подготовка**. Цель команды на этой стадии — получить преимущество любого типа до начала предстоящего сражения. Эта цель достигается решением следующих задач:
+>>>R1
 
-1. Разведка
-2. Позиционирование
-3. Построение
-4. Нанесение урона.
+The first stage of a teamfight is **preparation**. The team's goal at this stage is to gain any advantage before the upcoming fight begins. A team achieves this goal by completing the following tasks:
 
-**Разведка** является самым первым шагом подготовки. Она открывает возможности для успешной атаки. Обычно место предстоящего сражения известно: это логово очередного эпического монстра или уязвимое вражеское строение. В этой области обе команды пытаются разметить варды. Они дают обзор и позволяют следить за перемещением противника. Некоторые чемпионы могут ставить ловушки. Они играют ту же роль, что и варды.
+1. Scouting
+2. Positioning
+3. Formation
+4. Dealing Damage
 
-Если команда находится далеко от места сражения, она может использовать средства для разведки на расстоянии. Самый распространённый инструмент — [синий вард](https://wiki.leagueoflegends.com/en-us/Farsight_Alteration). Его можно установить на расстояние 4000 от владельца. Также некоторые умения чемпионов дают обзор на дистанции.
+**Scouting** is the very first step of preparation. It opens up opportunities for a successful attack. Typically, the location of the upcoming teamfight is known: the pit of the next epic monster or a vulnerable enemy structure. Both teams attempt to place wards in this area. The wards provide vision and allow tracking of enemy movement. Some champions can place traps, which serve the same function as wards.
 
-Задачу разведки прежде всего решает чемпион роли саппорт со специальным предметом для размещения вардов. Обычно он действует в связке со своим лесником. Это снижает риск, что относительно слабый саппорт попадёт в засаду и погибнет до начала сражения. Также чемпионы с ловушками могут разместить их около объекта заранее. Примеры: Teemo, Shaco, Jhin.
+If a team is far from the battle, they can use long-range scouting tools. The most common tool is the [blue ward](https://wiki.leagueoflegends.com/en-us/Farsight_Alteration). A champion can place it in 4000 range. Some champion abilities also provide long-range vision.
 
-Разведку на расстоянии проводят чемпионы с подходящими умениями. **Во-первых**, это могут быть снаряды, которые дают обзор вдоль траектории полёта. Примеры: Ashe E, Kai'Sa W, Jinx R, Ezreal R. **Во-вторых**, это может быть просветка области вокруг чемпиона. Например, Quinn W. **В-третьих**, это может быть умение, которое показывает местоположение вражеских чемпионов на карте. Примеры: Warwick W, Rengar R, Twisted Fate R.
+In most cases, a support champion performs scouting with a special item for placing wards. He usually works in tandem with his jungler. This collaboration reduces the risk that enemies ambush and kill a relatively weak support before the teamfight begins. Champions with traps can also place them near the objective in advance. Examples: Teemo, Shaco, Jhin.
 
-**Позиционирование** — это второй шаг подготовки. Прежде всего к месту сражения должны подойти все чемпионы, которые находятся в зоне доступности. Они занимают выгодную позицию, если оказались на объекте первыми. Это может быть позиция около узкого прохода или около кустов. В первом случае противник лишается пространства для маневра. Во втором — ему сложнее атаковать backline чемпионов, которые скрываются в кустах. Выгодное позиционирование даёт существенное преимущество во время сражения.
+Scouting from a distance could be done by champions with suitable abilities. **First**, it could be projectiles that provide vision along their flight path. Examples: Ashe E, Kai'Sa W, Jinx R, Ezreal R. **Second**, it could be an area-of-effect illuminator, for example, Quinn W. **Third**, it could be an ability that reveals the location of enemy champions on the map. Examples: Warwick W, Rengar R, Twisted Fate R.
 
-Третий шаг подготовки — **построение**. Чемпионы с высокой выживаемостью формируют frontline. Атакующие чемпионы становятся за ними и формируют backline. Если в команде есть чемпионы для flanking, они занимают позицию, подходящую для атаки из засады. Правильное построение позволяет максимально эффективно реализовать ресурсы команды в сражении.
+**Positioning** is the second step of the preparation tasks. First, all champions within range should reach the objective. They will be in a favorable position if they are the first to reach it. This position could be near a choke point or in bushes. The choke point deprives the enemies of room to maneuver. The bushes make it harder for enemies to attack backline champions who hide there. Favorable positioning provides a significant advantage during combat.
 
-**Нанесение урона** — последний шаг подготовки. Он даёт преимущество команде по динамическим ресурсам. Есть несколько способов выполнить эту задачу. **Во-первых**, чемпионы для poke композиции наносят урон своими дальнобойными умениями. **Во-вторых**, мобильные чемпионы с взрывным (burst) уроном могут перехватить противника, который только подходит к месту сражения и оказался вне позиции.
+The third step of preparation is **formation**. Champions with high survivability create the frontline. Attacking champions stand behind them, forming the backline. If the team includes flanking champions, they take up a position suitable for ambush attacks. Proper formation allows the team to maximize its resources in battle.
 
-Для нанесения урона во время подготовки эффективны чемпионы следующих классов:
+**Dealing damage** is the final step of preparation. It gives the team an advantage in dynamic resources. There are several ways to accomplish this. **First**, champions in the poke composition deal damage with their ranged abilities. **Second**, mobile champions with burst damage can intercept enemies who are just approaching the battlefield and are out of position.
 
-1. Poke Support (Lux, Xerath, Vel'Koz) с дальнобойными умениями.
+The following champions are effective for dealing damage during preparation:
 
-2. AP Carry (Zoe, Ziggs) с дальнобойными умениями.
+1. Poke Support (Lux, Xerath, Vel'Koz) with long-range abilities.
 
-3. AD Carry (Ezreal, Varus, Corki) с дальнобойными умениями.
+2. AP Carry (Zoe, Ziggs) with long-range abilities.
 
-4. Assassin (Kayn, Zed, Talon) с высокой мобильностью.
+3. AD Carry (Ezreal, Varus, Corki) with long-range abilities.
 
-5. Light Bruiser (Jax, Riven) с высокой мобильностью и взрывным уроном.
+4. Assassin (Kayn, Zed, Talon) with high mobility.
+
+5. Light Bruiser (Jax, Riven) with high mobility and burst damage.
 
 #### 2.3.5.2 Initiation
+
+>>>W
 
 Вторая стадия сражения — это **инициация**. Цель команды на этой стадии — вывести из боя одного или нескольких противников и выиграть размен по урону. Следующие задачи позволяют достигнуть эту цель:
 
