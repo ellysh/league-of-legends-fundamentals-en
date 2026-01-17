@@ -231,7 +231,7 @@ I> The **draft** is the preliminary stage of the game. Players choose their cham
 
 >>>R1
 
-The first stage of a teamfight is **preparation**. The team's goal at this stage is to gain any advantage before the upcoming fight begins. A team achieves this goal by completing the following tasks:
+The first stage of a teamfight is **preparation**. The team's goal at this stage is to gain any advantage before the upcoming fight begins. A team achieves this goal by completing the following steps:
 
 1. Scouting
 2. Positioning
@@ -266,25 +266,25 @@ The following champions are effective for dealing damage during preparation:
 
 #### 2.3.5.2 Initiation
 
->>>W
+>>>R1
 
-Вторая стадия сражения — это **инициация**. Цель команды на этой стадии — вывести из боя одного или нескольких противников и выиграть размен по урону. Следующие задачи позволяют достигнуть эту цель:
+The second stage of teamfight is **initiation**. The team's goals at this stage are to take one or more opponents out of combat and win the damage trade. To achieve these goals, the team takes the following steps:
 
-1. Инициация (engage).
-2. Развитие (follow up).
-3. Контринициация (disengage).
+1. Engage.
+2. Follow-up.
+3. Disengage.
 
-**Инициация** начинается в тот момент, когда чемпионы применяют свои умения на engage. Обычно за ними следуют умения на контроль. Есть два эффективных способа инициировать сражение:
+The first step, **engage**, begins when champions use their engage abilities. Crowd control abilities usually follow these. There are two effective ways to initiate combat:
 
-1. Ворваться в строй противников с помощью умения на мобильность.
+1. Dive into the enemy line with a mobility ability.
 
-2. Захватить и подтянуть противника с помощью умения типа hook.
+2. Grab and pull the enemy with a hook ability.
 
-Первый способ временно выводит цель из боя. Второй — нарушает построение противника. В обоих случаях команда выигрывает время, чтобы реализовать свой урон.
+The first method temporarily removes the target from combat. The second disrupts the enemy's formation. In both cases, the team buys time to deal damage.
 
-Умения некоторых чемпионов позволяют нарушить построение противника. Например, Jarvan IV R создаёт стены и раздвигает противников по разные стороны от них. Другой пример — Fiddlesticks Q-R комбо. Все противники в радиусе R получаю эффект страха и двигаются от Fiddlesticks. Когда построение нарушено, frontline чемпионы больше не могут защищать свой backline. Это даёт атакующим большое преимущество.
+Besides hook-type abilities, there are other tools to disrupt enemy formations. For example, Jarvan IV R creates walls and pushes enemies to either side of them. Another example is the Fiddlesticks Q-R combo. All enemies within the R radius are feared and move away from Fiddlesticks. When the formation is broken, frontline champions can no longer defend their backline. This gives attackers a significant advantage.
 
-Для инициации эффективны чемпионы следующих классов:
+The following champion classes are effective for initiation:
 
 1. Engage Bruiser (Vi, Jarvan IV, Lee Sin).
 
@@ -292,9 +292,9 @@ The following champions are effective for dealing damage during preparation:
 
 3. Hook Support (Blitzcrank, Thresh, Nautilus).
 
-Сразу после успешной инициации следует **follow up** (развитие). Так называется последующая атака цели, в которую попал engage чемпион. Обычно цель находится в контроле какое-то время и не может защищаться. Это делает её уязвимой и позволяет выиграть размен по урону.
+The second **follow-up** step occurs immediately after a successful engagement. The idea is to continue attacking the target that was hit by the champion's engage ability. Typically, this target gets crowd control effect for a period of time and cannot defend himself. Because of that, the team could focus on this champion easily and win the damage trade.
 
-Для задачи follow up подходят все классы чемпионов с высоким уроном:
+All high-damage champion classes are suitable for the follow-up step:
 
 1. Assassin (Katarina, Kha'Zix)
 
@@ -310,17 +310,19 @@ The following champions are effective for dealing damage during preparation:
 
 7. AD Carry (Jinx, Ashe).
 
-**Контринициация** — это ответное действие на инициацию. Его выполняют чемпионы, которые могу остановить врыв противника. Для этого они используют умения на выживаемость и контроль. После этого команда фокусирует свой урон на ворвавшемся противник и быстро его убивает. Успешная контринициация оставляет противников в меньшинстве.
+The **disengage** step combines actions to respond to the enemy engagement. Champions who can stop the enemy's rush perform these actions. To do this, they use survivability and crowd control abilities. After halting the enemy engagement, the team could focus on the initiators and quickly kill them. A successful disengagement leaves the enemy team outnumbered.
 
-Для контринициации подходят чемпионы следующих классов:
+Champions of the following classes are suitable for counter-initiation:
 
 1. Disengage Support (Morgana, Neeko).
 
 2. Disengage Tank (Braum, Poppy).
 
-Неудачная инициация может привести к ситуации под названием **конвейер**. Это несогласованное вступление игроков в сражение. Они атакуют численно превосходящих противников по одному или по двое. В результате их убивают одного за другим. Конвейер надо прекращать немедленно, независимо от потерь, и сразу отступать.
+A failed engagement can lead to a situation called **conveyor belt**. It happens when players try to attack the enemy team without good coordination. This way, they engage superior numbers of enemies alone or in pairs. As a result, the enemy team easily kills all players one after another. When the conveyor belt happens, the team should stop it immediately and retreat regardless of losses.
 
 #### 2.3.5.3 Clash
+
+>>>W
 
 Третья стадия сражения — это **столкновение**. Цель команды на этой стадии — реализовать свой урон и выиграть размен по убийствам. Эта цель достигается решением следующих задач:
 
