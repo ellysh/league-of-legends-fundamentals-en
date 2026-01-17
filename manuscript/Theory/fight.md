@@ -322,19 +322,19 @@ A failed engagement can lead to a situation called **conveyor belt**. It happens
 
 #### 2.3.5.3 Clash
 
->>>W
+>>>R1
 
-Третья стадия сражения — это **столкновение**. Цель команды на этой стадии — реализовать свой урон и выиграть размен по убийствам. Эта цель достигается решением следующих задач:
+The third stage of the fight is the **clash**. The team's goal in this stage is to maximize damage and win the kill trade. To achieve these goals, the team performs the following steps:
 
-1. Выигрыш времени для команды.
-2. Нанесение урона.
-3. Атака с фланга (flanking)
+1. Buying time for the team.
+2. Dealing damage.
+3. Flanking
 
-Стадия начинается, когда сталкиваются frontline обеих команд. С этого момента каждая сторона стремится реализовать преимущество, которое получила при подготовке и инициации. Если на предыдущих стадиях противник уже выиграл значительное преимущество, команде выгоднее уклониться от сражения и отступить.
+This stage begins when the frontlines of both teams clash. From this point on, each side seeks to capitalize on the advantage gained during the preparation and initiation stages. If the enemy has already gained a significant advantage in the previous stages, it is favorable for the team to avoid the fight and retreat.
 
-Во время столкновения команде важно **выигрывать время**, чтобы её carry чемпионы могли наносить урон. Эту задачу решают все чемпионы frontline и некоторые из backline. Главные инструменты для этого: умения контроля, лечение, усиление и щиты.
+During the clash, it is important for the team to **buy time** so that its carry champions can deal damage. All frontline champions and some backline champions perform this task. The main tools for this are crowd control, healing, buffs, and shields.
 
-Чемпионы следующих классов могут выигрывать время для команды:
+Champions of the following classes can buy time for the team:
 
 1. Heavy Bruiser (Darius, Sett).
 
@@ -348,9 +348,9 @@ A failed engagement can lead to a situation called **conveyor belt**. It happens
 
 6. Engage Tank (Leona, Amumu).
 
-Пока эти чемпионы выигрывают время, carry команды должны **наносить урон** по противнику. Лучше всего с этим справляются чемпионы с сильной автоатакой или атакующими умениями. Обычно они немобильны, находятся в backline и играют по плану front-to-back.
+While these classes are buying time, carry champions should **deal damage** to the enemy. Most of them have powerful auto attacks or offensive abilities. Carry champions are usually immobile. Therefore, they stay in the backline and play a front-to-back strategy.
 
-Следующие классы лучше всего наносят урон на стадии столкновения:
+The following classes are best at dealing damage during the engagement phase:
 
 1. AP Carry (Sindra, Aurelion Sol, Rumble).
 
@@ -358,9 +358,9 @@ A failed engagement can lead to a situation called **conveyor belt**. It happens
 
 3. AD Carry (Jinx, Ashe, Aphelios)
 
-**Атака с фланга** становится особенной эффективной после того, как frontline команд столкнулись. Теперь чемпионы с контролем блокируют друг друга на линии фронта. Это сильно ограничивает их перемещения в сражении. С другой стороны, прятавшиеся в засаде мобильные flanking чемпионы могут атаковать вражеский backline. Скорее всего, backline чемпионам придётся отражать эту атаку самостоятельно.
+**Flanking** becomes especially effective after the teams' frontlines have clashed. Champions with crowd control now lock each other down on the frontline. This greatly limits their movement in combat. On the other hand, mobile flanking champions hiding in ambush can attack the enemy backline. Backline champions will likely have to defend this attack themselves.
 
-Для атаки с фланга подходят чемпионы следующих классов:
+The following classes are suitable for flanking:
 
 1. Assassin (Talon, Kayn, Kha'Zix).
 
