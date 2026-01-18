@@ -372,23 +372,25 @@ The following classes are suitable for flanking:
 
 #### 2.3.5.4 Pursuit
 
-Заключительная стадия сражения — **преследование**. Цель команды на этой стадии — сделать как можно большей убийств. Эта цель достигается решением следующих задач:
+>>>R1
 
-1. Разведка.
-2. Добивание.
+The final stage of the battle is the pursuit. The team's goal in this stage is to secure as many kills as possible. A team achieves this goal by completing the following steps:
 
-Стадия начинается, когда frontline одной из команд уничтожен и она остаётся в меньшинстве. Тогда чемпионы этой команды отступают, чтобы выжить. Перед победителями встаёт выбор:
+1. Scouting.
+2. Finishing Off.
 
-1. Преследовать и добивать выживших.
-2. Взять объект на карте.
+The stage begins when one of the teams loses its frontline, leaving its champions outnumbered. Then they retreat to survive. At that moment, the winning team should make a choice:
 
-Команда должна подсчитать, какое из этих действий более выгодно в текущей ситуации. Пример такого расчёта мы рассмотрели в разделе "2.2.2.3 Разрушение башни".
+1. Pursue and finish off the survivors.
+2. Capture the objective on the map.
 
-Если команда выбирает преследование, сначала она решает задачу **разведки**. Отступающие покидают место сражения, поэтому они оказываются вне видимости вардов на объекте. Преследователи должны проводить разведку на расстоянии. Средства для этого мы рассмотрели в разделе "2.3.5.1 Подготовка".
+The team must calculate which of these actions is more advantageous in the current situation. We discussed an example of such a calculation in section "2.2.2.3 Tower Destruction."
 
-Когда цель обнаружена, преследователи атакуют её и **добивают**. С этой задачей эффективно справляются мобильные чемпионы. Также хороший инструмент для добивания — дальнобойные и глобальные умения. Они наносят урон противнику на большом расстоянии, даже когда он вне зоны видимости.
+If a team chooses to pursue, they first solve the scouting task. The retreating champions leave the battlefield, so they are out of the sight of the wards. Pursuers must perform scouting from a distance. We discussed tools for that in section "2.3.5.1 Preparation."
 
-Для добивания отступающих противников эффективны чемпионы следующих классов:
+Once the target is detected, the pursuers attack and finish him off. Mobile champions are effective at this task. Ranged and global abilities are also good tools for finishing. They deal damage to enemies at a long distance, even when they are out of sight.
+
+The following champion classes are effective for finishing off retreating enemies:
 
 1. Engage Bruiser (Vi, Jarvan IV, Lee Sin).
 
@@ -396,15 +398,17 @@ The following classes are suitable for flanking:
 
 3. Light Bruiser (Jax, Riven).
 
-4. AP Carry (Zoe, Karthus, Twisted Fate) с дальнобойными и глобальными умениями.
+4. AP Carry (Zoe, Karthus, Twisted Fate) with long-ranged and global abilities.
 
 5. Poke Support (Lux, Xerath).
 
 6. Hook Support (Blitzcrank, Thresh, Pyke).
 
-7. AD Carry (Jhin, Caitlyn, Jinx, Ezreal) с дальнобойными и глобальными умениями.
+7. AD Carry (Jhin, Caitlyn, Jinx, Ezreal) with ranged and global abilities.
 
 ### 2.3.6 Game speed in teamfight
+
+>>>W
 
 Мы рассмотрели возможные стадии сражения. На каждой из них команда будет выполнять все действия только тогда, когда ей выгодно играть медленно. В противном случае, события будут развиваться стремительно. Тогда некоторые невыгодные для команды стадии просто пропускаются.
 
