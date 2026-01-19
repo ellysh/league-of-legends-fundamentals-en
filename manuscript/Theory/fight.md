@@ -113,7 +113,7 @@ Here are some examples of highly specialized damage-dealing champions:
 
 * **Master Yi** is a champion with four offensive abilities. At the start of a teamfight, he stands in the backline or in ambush. When enemies focus their damage on a highly survivable ally, Master Yi enters the fight.
 
-* **Aphelios** is a backline champion whose entire skill set focuses on damage. His crowd control ability is only available during specific weapon cycles. Therefore, Aphelios cannot realize his high damage output without team support.
+* **Aphelios** is a backline champion whose entire skill set focuses on damage. His crowd control ability is only available during specific weapon cycles. Therefore, Aphelios cannot release his high damage output without team support.
 
 ### 2.3.3 Team composition
 
@@ -406,44 +406,44 @@ The following champion classes are effective for finishing off retreating enemie
 
 7. AD Carry (Jhin, Caitlyn, Jinx, Ezreal) with ranged and global abilities.
 
-### 2.3.6 Game speed in teamfight
+### 2.3.6 Pace of teamfight
 
->>>W
+>>>R1
 
-Мы рассмотрели возможные стадии сражения. На каждой из них команда будет выполнять все действия только тогда, когда ей выгодно играть медленно. В противном случае, события будут развиваться стремительно. Тогда некоторые невыгодные для команды стадии просто пропускаются.
+We have considered all possible stages of the teamfight. At each stage, a team will only perform all steps when it is advantageous to play slowly. Otherwise, events will unfold rapidly. In this case, the team skips some steps or stages that are disadvantageous to them.
 
-Скорость развития событий в сражении зависит от решений и возможностей обеих команд. Принято различать медленную и быструю игру. **Играть медленно** — означает не торопить события и выжидать удачный момент для следующего хода. Тогда преимущество получает та команда, которая успешнее реализует свои инструменты.
+The pace of a teamfight depends on both teams' decisions and capabilities. Players distinguish between two options: slow and fast pace. **Play slow** means taking your time and waiting for the right moment to make the next move. In this scenario, the advantage goes to the team that implements its tools more successfully.
 
-Рассмотрим пример медленной игры в сражении. Допустим, что в синей команде сбалансированная композиция: два чемпиона на engage и три на poke. Чемпионы на poke предпочитают разыгрывать сражения медленно. Им нужно время, чтобы реализовать свой урон на стадии подготовки. Поэтому синей команде выгоднее затягивать эту стадию и избегать преждевременной инициации и столкновения. Её чемпионам на engage выгодно атаковать только тогда, когда ресурсы красной команды будут истощены.
+Let us look at an example of slow play in a teamfight. We assume that the blue team has a balanced composition: two champions on engage and three units on poke. Poke champions prefer to play fights slowly. They need time to release their damage during the preparation stage. Therefore, it is advantageous for the blue team to prolong this stage and avoid premature initiation and clash stages. Blue champions on engage only benefit from attacking when the red team's resources are depleted.
 
-**Играть быстро** означает сразу переходить к той стадии сражения, которая выгодна для композиции команды. Обычно это стадия инициации или столкновения. В быстрой игре преимущество получает та сторона, которая первой применит свои атакующие инструменты.
+**Play fast** means immediately moving to the stage of the fight that is advantageous for the team composition. Typically, this is the initiation or clash stage. In this scenario, the advantage goes to the team that applies its offensive tools first.
 
-Вернёмся к нашему примеру с синей командой. Допустим, что красная команда имеет композицию на engage: четыре чемпиона на engage и один на poke. Чемпионам на engage выгодно разыгрывать сражение быстро. Они хотят сразу перейти к стадии инициации, чтобы не дать противнику реализовать свой дальнобойный урон. Как только один из синих poke чемпионов окажется вне позиции, красные на него нападут. Другими словами, они ищут удобную возможность, чтобы инициировать как можно раньше. Когда в команде много мобильных чемпионов, стадия столкновения начинается спустя секунды после инициации. Таким образом красная команда максимально сокращает стадии подготовки и инициации. Она быстро переходит к столкновению. Именно на этой стадии её чемпионы имеют преимущество.
+Let us return to our example with the blue team. We assume that the red team has an engage composition: four engage champions and one poke champion. The engage champions benefit from playing the fight fast. They want to immediately move to the initiation phase to prevent the opponent from abusing their long-ranged damage. As soon as one of the blue poke champions is out of position, the red team should attack him. In other words, they look for an opportunity to initiate as early as possible. When a team has many mobile champions, the clash stage begins within a few seconds of initiation. This way, the red team minimizes the preparation and initiation stages. They move to the clash stage as quickly as possible because red champions have an advantage in melee range.
 
-Рассмотрим зависимость между параметрами команды и выгодной ей скоростью сражения. Эту зависимость демонстрирует таблица 2-10
+Let us consider how team composition and tools define the advantageous pace of a teamfight. Table 2-10 demonstrates this relationship.
 
-{caption: "Таблица 2-10. Параметры команды и выгодная её скорость сражения", width: "100%"}
-| Параметр команды | Выгодна быстрая игра | Выгодна медленная игра |
+{caption: "Table 2-10. Team stats and the teamfight advantageous pace.", width: "100%"}
+| Team stat | Fast play is advantageous | Slow play is advantageous |
 |  | | |
 | --- | --- | --- |
 |  | | |
-| Количество poke чемпионов | мало | много |
+| Number of poke champions | Few | Many |
 |  | | |
-| Количество engage чемпионов | много | мало |
+| Number of engage champions | Many | Few |
 |  | | |
-| Количество flanking чемпионов | много | мало |
+| Number of flanking champions | Many | Few |
 |  | | |
-| Количество burst урона | много | мало |
+| Amount of burst damage | Many | Few |
 |  | | |
-| Количество DoT урона | мало | много |
+| Amount of DoT damage | Few | Many |
 |  | | |
-| Чемпионы backline | слабые | сильные |
+| Backline champions | Weak | Strong |
 |  | | |
-| Чемпионы frontline | слабые | сильные |
+| Frontline Champions | Weak | Strong |
 |  | | |
-| План на сражение | back-to-front | front-to-back |
+| Fight plan | back-to-front | front-to-back |
 
-Таблица демонстрирует общие закономерности. В конкретных композициях команд они могут отличаться.
+The table demonstrates general patterns. They may vary depending on the specific team composition.
 
 ### 2.3.7 Player skills
 
