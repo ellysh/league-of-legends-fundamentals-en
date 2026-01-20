@@ -447,18 +447,20 @@ The table demonstrates general patterns. They may vary depending on the specific
 
 ### 2.3.7 Player skills
 
-Большинство командных сражений в игре проходят быстро. Начинающим игрокам сложно за ним успевать. Им кажется, что события развиваются хаотично, в них нет какой-либо структуры и всё решает удача. На самом деле это не так.
+>>>R1
 
-Мы рассмотрели все стадии сражения — это и есть его структура. Игрок должен научиться их различать. Тогда ему станет понятнее происходящее. Кроме этого знание стадий помогает выбрать правильное действие и подходящий момент для него.
+Most teamfights in the game are fast-paced. A beginner player has a hard time keeping up. He feels like the action is chaotic, lacking any structure, and is all down to luck. This is not actually the case.
 
-Следующие навыки игрока определяют, насколько эффективно он проводит сражения:
+We have covered all the stages of a teamfight — that is its structure. The player must learn to distinguish them. This will give him a clearer understanding of what is happening. Furthermore, knowing the stages helps the player choose the right action and the right moment for it.
 
-1. Знание своей роли
-2. Знание композиций команд
-3. Быстрое принятие решений
-4. Управление вниманием.
+The following player skills determine how effectively he operates in teamfights:
 
-Рассмотрим эти навыки подробнее.
+1. Knowing his role
+2. Understanding team compositions
+3. Making quick decisions
+4. Managing attention.
+
+Let us take a closer look at these skills.
 
 #### 2.3.7.1 Knowledge of your role
 
