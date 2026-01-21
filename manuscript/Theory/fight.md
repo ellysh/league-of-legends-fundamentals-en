@@ -464,56 +464,58 @@ Let us take a closer look at these skills.
 
 #### 2.3.7.1 Knowledge of your role
 
-Первое и самое важное — игрок должен **знать роль своего чемпиона в сражении**. Её определяют следующие параметры:
+>>>R1
 
-1. Построение
-2. План на сражение
-3. Композиция
-4. Задача.
+First and foremost, a player must **know his champion's role in the teamfight**. The following parameters determine this:
 
-Таблица 2-9 приводит эти параметры для каждого класса чемпионов.
+1. Formation
+2. Plan
+3. Team composition
+4. Task
 
-Действие любого чемпиона будет наиболее эффективным только в определённой стадии сражения. Эта стадия зависит от роли чемпиона. Каждая роль диктует определённый план действий по умолчанию. Она даёт максимальную выгоду в большинстве случаев. Поэтому игроку следует исполнять план по умолчанию почти всегда. Об исключениях, когда от него стоит отклониться, мы поговорим далее.
+Table 2-9 lists these parameters for each champion class.
 
-Рассмотрим несколько примеров действий по умолчанию:
+Any champion will be most effective only at a certain stage of the fight. This stage depends on the champion's role. Each role dictates a specific standard plan of action, which provides the greatest benefit in most cases. Therefore, a player should almost always follow this plan. We will discuss exceptions below, where it is worth deviating from it.
 
-* **Чемпион на poke** не должен терять время на стадии подготовки. Его задача — постоянно наносить урон противнику с безопасной дистанции. Если чемпион этого не делает, он не реализует свои инструменты.
+Let гs look at several standard plans of action:
 
-* **Чемпион на flanking** должен заранее занять позицию вне области видимости противника. Ему незачем участвовать в построении frontline. Там он не сможет эффективно реализовать свои инструменты.
+* A poke champion should nщt waste time during the preparation phase. His task is to deal damage to the opponent from a safe distance constantly. If the champion does not do this, he will not be able to utilize his tools.
 
-* **Чемпион на engage** должен начинать сражение. Если он не сделает это в соответствующую стадию, его запоздалый врыв не даст команде значительного преимущества.
+* A flanking champion should position himself out of the opponent's line of sight early. He does not need to participate in the frontline formation. There, he will not be able to utilize his abilities effectively.
 
-Если игрок не делает ход в подходящую стадию сражения, он упускает возможность реализовать своего чемпиона. **Запоздалое действие** не будет таким эффективным, как сделанное вовремя. Упущенная возможность часто означает, что противник получит инициативу и преимущество. Поэтому в некоторых случаях после упущенного хода команде лучше сразу отступить.
+* The **engage** champion must initiate the fight. If he does not do so at the appropriate stage and is late, his engage will not give the team a significant advantage.
 
-Другая частая ошибка — это **преждевременное действие**. Она заключается в том, что игрок использует ключевые умения чемпиона сразу в начале командного сражения. Часто это оказывается неэффективным.
+If a player does not make a move at the appropriate stage of the fight, he misses the opportunity to utilize his champion. **A delayed action** will not be as effective as one made at the right time. A missed opportunity often means the enemy gains the initiative and advantage. Therefore, in some cases, the team should retreat immediately after a missed move.
 
-Концепция **holding spells** (придерживать умения) говорит о том, что медленное разыгрывание сражений обычно выгоднее. Причина в том, что игрок получает больше информации о происходящем с течением времени. Эта информацию позволяет эффективнее применить умения чемпиона.
+Another common mistake is **premature action**. This occurs when a player uses their champion's key abilities immediately at the start of a teamfight. This is often ineffective.
 
-Вот примеры информации, которая становится доступна со временем:
+The concept of **holding spells** suggests that slowing down fights is usually more beneficial. It happens because the player gains more information about what is happening over time. This information allows him to use the champion's abilities more effectively.
 
-1. Кто из противников присоединится к сражению?
+Here are examples of information that becomes available over time:
 
-2. Кто из союзников присоединится к сражению?
+1. Which enemies will join the fight?
 
-3. Какие ресурсы есть у противников?
+2. Which allies will join the fight?
 
-До тех пор пока игрок не применил ключевое умение, он создаёт угрозу для противников. Они вынуждены реагировать на такое давление. Типичная реакция — выбор безопасной позиции подальше от чемпиона игрока. Давление даёт преимущество, потому что мешает противникам реализовать свои инструменты.
+3. What resources do the enemies have?
 
-I> **Ключевое умение** — это главный инструмент чемпиона. Им может быть как отдельное умение, так и комбо. Примеры: Malphite R, Amumu Q-R, Jax Q-E, Camille E-R.
+Until a player holds his key ability, he creates a threat to the opponents. They should respect this threat. In this scenario, a typical enemy response is to take a safe position away from the player's champion. Such pressure provides an advantage because it prevents opponents from utilizing their tools.
 
-Лучший момент для применения ключевых умений наступает тогда, когда противник ошибается. Вот несколько примеров таких ошибок:
+I> A **key ability** is a champion's main tool. It can be a single ability or a combo. Examples: Malphite R, Amumu Q-R, Jax Q-E, Camille E-R.
 
-1. Несколько противников оказались близко друг к другу. В этом случае сильное умение с уроном по области (AoE) может перевернуть ход сражения.
+The best time to use key abilities is when the enemy makes a mistake. Here are some examples of such mistakes:
 
-2. Противники разделились и оказались далеко друг от друга. В этом случае исход сражения может решить engage или flanking вражеского backline, который остался без защиты.
+1. Several opponents are close together. In this case, a strong area-of-effect (AoE) ability can turn the tide of a teamfight.
 
-3. Противники применили свои умения на контроль. После этого они временно не могут остановить engage игрока и защитить свой backline.
+2. The opponents are separated and far from each other. In this case, engage or flanking the enemy backline, which is left unprotected, can decide the outcome of the fight.
 
-4. Бэйт противников на невыгодное применение ключевых умений. Например, на engage во frontline чемпиона с хорошей выживаемостью.
+3. The opponents have used their crowd control abilities. After this, they are temporarily unable to stop the player's engage and protect their backline.
 
-I> **Бэйт** или приманка (bait) — приём, при котором игрок провоцирует противника на какое-то действие мнимой выгодой. Это действие невыгодно противнику, но обычно он этого не знает из-за недостатка информации.
+4. Bait opponents into using their key abilities with a minimal outcome. For example, engaging in an ally champion with good survivability in the frontline.
 
-Ошибки противников открывают окно возможностей. Действуя в этот момент, игрок реализует свои инструменты наиболее эффективно. Поэтому ему выгоднее ждать с применением умений. Это можно делать до тех пор, пока идёт стадия сражения, на которой он должен действовать. Если эта стадия уже подходит к концу, игроку лучше применить свои инструменты.
+I> **Bait** is a technique in which a player entices the opponent to take some action with a false advantage. This action is disadvantageous to the opponent, but they are usually unaware of this due to a lack of information.
+
+Opponent mistakes open a window of opportunity. By acting at this moment, the player uses his abilities most effectively. Therefore, it is more advantageous for him to wait before using his abilities. The player could wait as long as the stage of the fight in which he should act is ongoing. If this stage is already approaching its end, the player should use his tools.
 
 #### 2.3.7.2 Knowledge of command compositions
 
@@ -541,7 +543,7 @@ I> **Бэйт** или приманка (bait) — приём, при котор
 
 Все они могут решить исход сражения. Поэтому игрок должен подстраиваться под их план. Другими словами, он должен делать то, что выгодно ключевому союзнику. Рассмотрим пример.
 
-Допустим, что чемпион игрока — это Aatrox. По умолчанию его план на сражение — flanking. Но в команде есть сильный Aurelion Sol, который достиг power spike. В этом случае игроку стоит отказаться от своего плана. Для него выгоднее будет построиться во frontline и защищать ключевого союзника. Это даст Aurelion Sol время, чтобы нанести максимальный урон в сражении.
+Допустим, что чемпион игрока — это Aatrox. Его стандартный план на сражение — flanking. Но в его команде есть сильный Aurelion Sol, который достиг power spike. В этом случае игроку стоит отказаться от стандартного плана. Для него выгоднее будет построиться во frontline и защищать ключевого союзника. Это даст Aurelion Sol время, чтобы нанести максимальный урон в сражении.
 
 Другая ситуация: в команде есть очень сильный чемпиона на engage (например, Vi). В этом случае игроку на Aatrox выгоднее отказаться от flanking и отыгрывать роль follow up. Врыв за сильным союзником и игра вокруг него будет эффективнее, чем самостоятельная атака вражеского backline из засады.
 
