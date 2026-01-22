@@ -519,49 +519,51 @@ Opponent mistakes open a window of opportunity. By acting at this moment, the pl
 
 #### 2.3.7.2 Knowledge of command compositions
 
-Второй важный навык — **понимать композицию своей и вражеской команды**. Для этого нужно уметь определять следующее:
+>>>R1
 
-1. Тип композиции, к которому относятся чемпионы союзников.
+The second important skill is **understanding the composition of your and your enemy teams**. To do this, you need to be able to determine the following:
 
-2. Ключевые чемпионы своей команды.
+1. The composition type of your allies' champions.
 
-3. Ключевые чемпионы вражеской команды.
+2. Your team's key champions.
 
-Начнём с первого пункта — **композиция своей команды**. Она определяет план команды на сражение. Игрок должен его понимать. Тогда он сможет подстроиться под скорость игры, которая выгодна большинству союзников. Тем самым действия команды в целом станут эффективнее. Рассмотрим пример.
+3. The enemy team's key champions.
 
-Допустим, что чемпион игрока рассчитан на engage. При это все остальные чемпионы в команде ориентированы на poke. Игроку выгодна высокая скорость сражения, а его союзникам — медленная. В этом случае игрок должен подстраиваться. Он не может врываться в первого попавшегося противника. Ему нужно дождаться пока союзники реализуют свой урон на дистанции. Если игрок атакует слишком рано, он погибнет и его команда останется в меньшинстве.
+Let us start with the first point — your team's composition. The composition defines the team's plan for the fight. A player must understand and follow it. Then, he can adapt to the pace of a teamfight that benefits most of his allies. This will improve the team's overall performance.
 
-Второй пункт — **знать ключевых чемпионов своей команды**. Это те чемпионы, которые создают решающее преимущество. Вот несколько примеров:
+Here is an example. Suppose a player picks a champion for engage. All other champions on the team have long-range abilities and want to poke. The player benefits from a fast play, while their allies benefit from a slow one. In this case, the player must adapt. He should not rush into the first enemy he encounters. He needs to wait for his allies to release their damage at range. If the player attacks too early, he will die, and his team will be outnumbered.
 
-1. Гиперкерри, который достиг своего power spike (например, Kayle).
+The second point is to **know your team's key champions**. These are the champions who create a decisive advantage. Here are a few examples:
 
-2. Чемпион, который выиграл свою линию с большим отрывом.
+1. A hypercarry who has reached his power spike (e.g., Kayle).
 
-3. Чемпион с сильным engage умением (Malphite R, Leona R).
+2. A champion who has won his lane with a large advantage.
 
-4. Чемпион с сильным уроном по области (Miss Fortune R, Aurelion Sol R).
+3. A champion with a strong engage ability (Malphite R, Leona R).
 
-Все они могут решить исход сражения. Поэтому игрок должен подстраиваться под их план. Другими словами, он должен делать то, что выгодно ключевому союзнику. Рассмотрим пример.
+4. A champion with significant area-of-effect damage (Miss Fortune R, Aurelion Sol R).
 
-Допустим, что чемпион игрока — это Aatrox. Его стандартный план на сражение — flanking. Но в его команде есть сильный Aurelion Sol, который достиг power spike. В этом случае игроку стоит отказаться от стандартного плана. Для него выгоднее будет построиться во frontline и защищать ключевого союзника. Это даст Aurelion Sol время, чтобы нанести максимальный урон в сражении.
+All of these champions can decide the outcome of a teamfight. Therefore, the player must adapt to their plan. In other words, he must do what benefits his key ally.
 
-Другая ситуация: в команде есть очень сильный чемпиона на engage (например, Vi). В этом случае игроку на Aatrox выгоднее отказаться от flanking и отыгрывать роль follow up. Врыв за сильным союзником и игра вокруг него будет эффективнее, чем самостоятельная атака вражеского backline из засады.
+Here is an example. The player's champion is Aatrox. His standard game plan is flanking. But his team includes a strong Aurelion Sol who has reached a power spike. In this case, the player should abandon his standard plan. It would be more advantageous to line up in the frontline and protect his key ally. This will give Aurelion Sol time to deal maximum damage in the fight.
 
-Третий пункт — **знать ключевых чемпионов вражеской команды**. Они создают решающее преимущество на стороне противника. Игрок должен мешать им реализовать свои инструменты. Этого можно добиться несколькими способами:
+Another situation: the team has a very strong engage champion (for example, Vi). In this case, it is more advantageous for the Aatrox player to abandon flanking and play a follow-up role. Diving in behind a strong ally and playing around him will be more effective than independently attacking the enemy backline from an ambush.
 
-1. **Угрожать разменом**. Игрок может вложить все свои ресурсы (flash, ультимативное умение и т.д.) во внезапную атаку на ключевого противника.
+The third point is to **know the enemy team's key champions**. They create a decisive advantage for the enemy team. The player must prevent them from releasing their potential. He can achieve this in several ways:
 
-2. **Блокировать врыв в союзников**. Это может сделать любой disengage чемпион.
+1. **Threaten to trade**. The player can devote all his resources (flash, ultimate, etc.) to a surprise attack on a key enemy.
 
-3. **Вытеснять противника из выгодной позиции**. С этой задачей хорошо справляются чемпионы с умениями на контроль и poke.
+2. **Block the allied dive**. Any disengagement champion can do this.
 
-Нейтрализация ключевых противников значительно повышает шансы команды на победу в сражении.
+3. **Displace the enemy from an advantageous position**. Champions with crowd control and poke abilities are good at this task.
 
-Есть общее правило, которое помогает понять композиции команд. Оно звучит так:
+Neutralizing key opponents significantly increases a team's chances of winning the battle.
 
-> Если backline команды сильнее чем у противников, надо играть вокруг него. Если backline противников сильнее, на него надо оказывать давление.
+There's a general rule that helps understand team compositions. It goes like this:
 
-Это означает, следующее. Если backline команды сильнее, игрок отказывается от своего плана на сражение. Он строится во frontline и выигрывает время для своего backline. Если backline противника сильнее, игрок должен использовать свои инструменты в первую очередь против него.
+> If a team has a stronger backline than the opponents, you should play around it. If the opponent's backline is stronger, you should put pressure on it.
+
+This rule means the following. If a team's backline is stronger, a player abandons his game plan. Instead, he lines up in the frontline and buys time for his backline. If the opponent's backline is stronger, a player should use his attacking tools primarily against them.
 
 #### 2.3.7.3 Quick decision making
 
