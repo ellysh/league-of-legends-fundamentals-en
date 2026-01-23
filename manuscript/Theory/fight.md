@@ -567,29 +567,31 @@ This rule means the following. If a team's backline is stronger, a player abando
 
 #### 2.3.7.3 Quick decision making
 
-**Принятие решений** — один из пяти навыков игрока, как эксперта. Мы говорили о нём в разделе "1.2.5 Навыки игрока".
+>>>R1
 
-Когда идёт сражение, важно принимать решения быстро. Запоздалое или преждевременное действие может привести к поражению. Когда наступает стадия столкновения, каждая секунда стоит дорого. Чемпионы frontline разменивают свои динамические ресурсы на время. Пустая трата этих ресурсов на раздумье или бездействие даёт противнику преимущество.
+**Decision Making** is one of the five expert skills that a player should have. We discussed it in section "1.1.3 Player Skills."
 
-Навык принятия решений напрямую связан с умением группировать информацию и обнаруживать в ней шаблоны. Игроки учатся этому из опыта. Его можно получить несколькими способами:
+When a teamfight is underway, it is important to make decisions quickly. A delayed or premature action can lead to defeat. When the clash stage arrives, every second is precious. Frontline champions trade their dynamic resources for time. Wasting these resources on deliberation or inaction gives the enemy an advantage.
 
-1. Метод проб и ошибок
-2. Коучинг
-3. Самокоучинг.
+Decision making skill is directly related to the ability to group information (chunking) and detect patterns in it. Players learn this through experience. The following ways allow one to acquire it:
 
-**Метод проб и ошибок** — самый распространённый подход. Он заключается в том, что игрок пробует разные действия в сражении на своём основном чемпионе. Когда действие сработало хорошо, игрок запоминает текущие условия партии в качестве шаблона. Он повторит это действие в следующий раз, когда встретятся похожие условия. При этом игрок не будет долго раздумывать. Ситуация будет ему знакома и он быстро отреагирует на неё.
+1. Trial and Error
+2. Coaching
+3. Self-Coaching.
 
-**Коучинг** позволяет выучить шаблоны типичных игровых ситуаций быстрее. Коуч указывает игроку на ошибки и говорит, какое действие в текущей ситуации будет правильным. Таким образом игрок получает уже готовый шаблон и правильную реакцию на него. Его задача — запомнить информацию и отработать её в своих партиях. Тогда в похожих ситуациях игрок будет принимать решения быстро.
+**Trial and Error** is the most common approach. It involves a player trying different actions in a teamfight with his main champion. When an action works well, the player memorizes the current game conditions as a template. He will repeat this action the next time similar conditions happen. This way, the player will not have to think long. The situation will be familiar to him, and he will react quickly.
 
-**Самокоучинг** — нечто среднее между первыми двумя способами. При просмотре реплея у игрока есть время, чтобы подумать над конкретной ситуацией в партии. Он может оценить все важные факторы, которые влияют на исход сражения: роль своего чемпиона, композиции обеих команд, их ключевые чемпионы и умения. Из этого игрок может сделать выводы: какое действие было бы правильным, почему оно отличается от того, что было сделано, и т.д. Дальше игрок пробует правильное действие в похожей ситуации. Если оно не работает, начинается метод проб и ошибок.
+**Coaching** helps the player learn patterns of typical game situations more quickly. The coach points out mistakes and explains the correct action in the current situation. This way, the player receives a ready-made pattern and the correct response to it. His task is to remember this information and practice it in his own games. Then the player will make quick decisions in similar situations.
 
-Когда идёт сражение у игрока нет времени, чтобы раздумывать. Если он обнаружит знакомый шаблон в текущей ситуации, он быстро выполнит правильное действие. Если не обнаружит, то будет вынужден действовать интуитивно. Часто это приводит к ошибкам. Коучинг и самокоучинг позволяют их корректировать и заучивать типичные ситуации в качестве шаблонов.
+**Self-coaching** is a cross between the first two methods. When watching a replay, the player has time to reflect on a specific situation in the game. He can evaluate all the important factors that influence the outcome of the battle: the role of his champion, the compositions, and the key champions of both teams. From this, the player can conclude what the correct action would be, why it differs from his choice, etc. The player then tries to correct his behavior in a similar situation. If it does not work, trial and error begins.
 
-Принимая решения в сражении, всегда следует помнить следующее правило:
+When a teamfight is going on, a player has no time to think. If he recognizes a familiar pattern in the current situation, he will quickly execute the correct action. If the situation looks unfamiliar, the player will have no choice but act intuitively. This often leads to mistakes. Coaching and self-coaching allow him to correct these mistakes and memorize typical situations as templates.
 
-> Игрок должен быть настолько полезным, насколько возможно, не умирая при этом.
+When making decisions in teamfight, always remember the following rule:
 
-Оно означает, что игрок должен фокусироваться не только на убийстве противников. Давление на них не менее важно, чем очевидные количественные результаты: нанесённый и полученный урон. Другими словами, размен игрока на одного противника редко оказывается лучшим выбором. Лучше оставаться живым как можно дольше и иметь возможность повлиять на события.
+> The player should be as useful as possible without dying.
+
+This means that the player should focus on more than just killing opponents. Putting pressure on them is no less important than the obvious quantitative results: damage dealt and received. In other words, trading a player for one opponent is rarely the best choice. It is better to stay alive as long as possible and have the opportunity to influence events.
 
 #### 2.3.7.4 Attention management
 
