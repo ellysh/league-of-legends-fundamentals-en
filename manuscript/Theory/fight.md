@@ -595,44 +595,46 @@ This means that the player should focus on more than just killing opponents. Put
 
 #### 2.3.7.4 Attention management
 
-Четвёртый важный навык — это **управление вниманием**. Во время сражения на небольшой области карты одновременно оказывается много объектов: союзные и вражеские чемпионы. Игрок должен эффективно переключать внимание между ними. В противном случае очень легко допустить ошибку.
+>>>R1
 
-Одна из частых ошибок в сражении называется **туннельное зрение** (tunnel vision). Её суть в том, что игрок концентрирует своё внимание только на одном вражеском чемпионе. Обычно это цель, с которой он сражается или на которую собирается напасть. В результате все остальные участники сражения выпадают из поля зрения. Игрок их просто не видит. Это приводит к плохим решениям и ошибкам позиционирования.
+The fourth important skill is **attention management**. During a teamfight, many objects — allied and enemy champions — are simultaneously present in a small area of ​​the map. The player must effectively switch attention between them. Otherwise, it is easy to make a mistake.
 
-Эффект туннельного зрения часто используют для бэйта. Чтобы исполнить этот приём, игрок должен заманить противника мнимой выгодой. Например, имея низкий уровень здоровья, надо попасть в поле зрения врага. Тогда есть шанс, что оппонент сконцентрирует своё внимание на заманчивой цели и не заметит засаду. Опытные игроки часто используют такой приём.
+**Tunnel vision** is one of the most common mistakes in a teamfight. It occurs when a player focuses his attention on only one enemy champion. Usually, this is the target he is fighting or about to attack. As a result, the player lost sight of all other participants in the fight. He simply does not see them and their actions. This leads to poor decisions and positioning mistakes.
 
-Как эффективно управлять вниманием и бороться с эффектом туннельного зрения? **Во-первых**, игрок должен концентрироваться на своей роли в командном сражении. В первую очередь он должен обращать внимание на те цели, с которыми связан его план. Рассмотрим пример.
+Experienced players often use the tunnel vision effect for baiting. To perform this technique, a player must lure the enemy into believing they have a false advantage. For example, he goes to the enemy vision with low health. Opponents could focus on the tempting target and not notice the ambush.
 
-Допустим, что чемпион игрока — это Disengage Tank для frontline. Его первоочередная задача состоит в том, чтобы защищать свой backline. Поэтому игрок должен обращать больше внимания не на вражеских чемпионов, а на своих керри. Если для них возникает угроза с любого направления, её надо немедленно нейтрализовать.
+How can you effectively manage your attention and avoid tunnel vision? **First**, a player must focus on his role in a teamfight. He should look at the targets that are part of his plan.
 
-**Во-вторых**, надо научиться распознавать бэйт и не следовать за приманкой. Если вражеский чемпион с низким уровнем здоровья попал в поле зрения, это вовсе не означает его гарантированное убийство. Прежде всего игрок должен оценить свои динамические ресурсы и обстановку на карте. Если ресурсов мало или противников нигде не видно, стоит отказаться от преследования.
+Here is an example. Let us say a player's champion is a Disengage Tank for the frontline. His primary task is to protect his backline. Therefore, the player should focus more on his carries rather than on enemy champions. If an opponent threatens them, he must neutralize this target immediately.
 
-**В-третьих**, мы уже говорили о концепции макроцикла. Его можно применять и во время сражения. Во время фазы лейнинга события развиваются достаточно предсказуемо. Поэтому игрок может повторять макроцикл с задержками в несколько секунд. Во время сражения за короткий промежуток времени происходит много событий. Чтобы успевать за ними, игрок должен переключать своё внимание чаще.
+**Second**, it is important to learn how to recognize bait and not to follow it. If an enemy champion with low health is in the team's vision, that does not guarantee a kill. Above all, a player should assess his dynamic resources and the map situation. If resources are low or enemies are nowhere to be seen, it is better to abandon pursuit.
 
-Простейший макроцикл во время сражения выглядит так:
+**Third**, we have already discussed the concept of the  cycle. A player could apply it during a teamfight too. Events unfold fairly predictably in the laning phase. Therefore, a player can repeat the macro cycle with delays of a few seconds. During a fight, many events occur in a short period of time. To keep up with them, a player must shift his attention more frequently.
 
-1. Состояние чемпиона игрока:
+A simple macro cycle during a teamfight looks like this:
 
-   * позиция
-   * количество здоровья
-   * количество маны
-   * готовность умений
+1. Player's champion state:
 
-2. Цель для атаки или защиты. Обычно это ключевые чемпионы обеих команд:
+   * Position
+   * Health
+   * Mana
+   * Ready-to-use abilities.
 
-   * количество здоровья
-   * позиция
+2. Target for attack or defense. Typically, these are key champions of both teams:
 
-3. Окружающая обстановка:
+   * Health
+   * Position.
 
-   * вражеские чемпионы
-   * союзные чемпионы
-   * башни
-   * миньоны
-   * лесные монстры
+3. Environment:
 
-Когда игрок застревает только на втором пункте, это и есть эффект туннельного зрения. Невнимательность к окружающей обстановке приводит к плохой позиции и упущенным возможностям.
+   * Enemy champions
+   * Allied champions
+   * Towers
+   * Minions
+   * Jungle monsters.
 
-I> Больше практических советов по командным сражениям вы найдёте в [видео от Chippys](https://www.youtube.com/watch?v=9fPNuziDEAI).
+When a player gets stuck on only the second item of this list, this is the tunnel vision effect. Inattention to the environment leads to poor positioning and missed opportunities.
+
+I> Check out [Chippys' video](https://www.youtube.com/watch?v=9fPNuziDEAI) for more practical tips on teamfights.
 
 {pagebreak}
