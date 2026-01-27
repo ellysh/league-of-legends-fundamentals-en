@@ -4,11 +4,9 @@ C> *You may advance and be absolutely irresistible, if you make for the enemy’
 C>
 C> -- Sun Tzu "Art of War"
 
->>>R1
+In this section, we will discuss the fundamentals of teamfighting in League of Legends. A typical fight follows a standard pattern. Knowing and utilizing this pattern can give your team a significant advantage.
 
-In this section, we will cover the basics of teamfighting. A typical League of Legends match follows a standard pattern. Knowing and utilizing this pattern gives a team an advantage.
-
-A teamfight, like a game, consists of a series of sequential phases. Each phase presents different challenges for champions. We will explore these challenges and the champion classes that can address them.
+A teamfight, much like a game, consists of a series of sequential phases. Champions solve specific tasks during each of these phases. We will examine these tasks and the champion classes that are best suited to address them.
 
 ### 2.3.1 Teamfight scheme
 
