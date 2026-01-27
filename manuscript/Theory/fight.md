@@ -10,48 +10,46 @@ A teamfight, much like a game, consists of a series of sequential phases. Champi
 
 ### 2.3.1 Teamfight scheme
 
->>>R1
-
 Game design dictates not only a specific match scenario but also the overall scheme of a teamfight. This scheme reflects how the developers envision the typical interaction between two teams.
 
-Figure 2-4 shows the overall scheme of a teamfight.
+Figure 2-4 illustrates the overall scheme of a teamfight.
 
-{caption: "Figure 2-4. Scheme of a teamfight", width: "100%"}
+{caption: "Figure 2-4. The scheme of a teamfight", width: "100%"}
 ![Scheme of a teamfight](images/Theory/teamfight-scheme.png)
 
-The illustration shows the middle lane. All champions from both teams have gathered there. Circles mark the champions, and their colors match their teams.
+The illustration shows the middle lane. All champions from both teams have gathered there. Circles represent the champions, with colors corresponding to their respective teams.
 
 We can divide all champions in the game into two main categories. Figure 2-4 shows these categories by icons in the center of each circle. These icons are as follows:
 
-1. **Shield** is a champion with a large health pool and abilities that increase survivability. They typically build defensive items.
+1. **Shield** is a champion with a large health pool and abilities that enhance survivability. They typically build defensive items.
 
-2. **Bow** is a champion with high damage and abilities that enhance it. They typically build offensive items.
+2. **Bow** is a champion with high damage and abilities that further enhance it. They typically build offensive items.
 
 The first type of champions make up the **frontline**. They occupy a position closer to the enemy. Champions of the second type stay behind their frontline. They make up the **backline**.
 
-Let us consider how the teamfight in Figure 2-4 would happen from the blue team's perspective. We assume the power of the commands is approximately equal.
+Let us consider how the teamfight in Figure 2-4 would unfold from the blue team's perspective. We assume that the power of both teams is approximately equal.
 
-At the start of the fight, the blue frontline champions go ahead and absorb the initial attacks. Red team frontline and backline attack these champions simultaneously. Their high survivability allows them to hold out for a while. During this time, the blue backline deals the most of the damage to the red frontline. In the simplest case, the team whose frontline dies first loses the battle.
+At the start of the fight, the blue frontline champions go ahead and absorb the initial attacks. The red team's frontline and backline target these champions simultaneously. High survivability of the blue frontline allows it to withstand initial assaults for a while. During this time, the blue backline deals most of the damage to the red frontline. In the simplest case, the team whose frontline is defeated first loses the battle.
 
-Let us assume that the blue team kills the enemy frontline. After this, the red backline champions must retreat. Now they are standing against a numerically superior enemy. Furthermore, they have low survivability: even minor damage can kill them. Therefore, the red backline no longer has time to release their damage. If they remain in the battle, they will deal minimal damage to the enemy and die.
+Let us assume that the blue team successfully eliminates the enemy frontline. After this, the red backline champions must retreat. Now they are standing against a numerically superior enemy. Furthermore, they have low survivability: even minor damage can be lethal. Therefore, the red backline no longer has time to release their damage. If they remain in the fight, their damage output will be minimal, and they risk being eliminated.
 
-An experienced player of the backline role knows how to use the map's landscape to his advantage. To do this, the player positions himself so that there are walls between his champion and the enemy. In this case, the walls act as a frontline: they prevent the enemy from shortening the distance. Thus, a high-level player gains time to deal damage to the enemy even without a frontline.
+An experienced backline player knows how to use the map's landscape to his advantage. To do this, the player positions himself so that there are walls between his champion and the enemy. In this case, the walls act as a frontline: they prevent the enemy from closing the distance. This tactic allows a high-level player to gain time for dealing damage even without a protective frontline.
 
-We have looked at a teamfight scheme when both teams operate according to a front-to-back plan. Such a plan determines the order in which players select their targets. It can be either team-wide or individual for each champion.
+We have examined a teamfight scheme where both teams operate according to a front-to-back plan. The plan determines the order in which players select their targets. It can be either team-wide or an individual plan for each champion.
 
 There are three standard teamfight plans in the game:
 
-* **Front-to-back** refers to a targeting order in which the champion attacks the closest enemy first. Typically, this is someone from the enemy frontline. After killing them, the champion attacks the exposed enemy backline.
+* **Front-to-back** means targeting the closest enemy first. Typically, this is someone from the enemy frontline. Once that champion is eliminated, the player or team then attacks the exposed enemy backline.
 
-* **Back-to-front** refers to a targeting order in which the champion first attacks the enemy backline. Typically, the champion has the mobility to overcome the enemy frontline. Once the entire backline is destroyed, the champion switches to the remaining frontline.
+* **Back-to-front** means targeting the enemy backline first. Typically, this is done by a champion with enough mobility to bypass the enemy frontline. After eliminating the backline, the champion attacks the remaining frontline.
 
-* **Flanking** refers to a plan in which the champion does not participate in the formation of his team. Instead, he takes a position outside the enemy's vision (behind a wall or in the bushes). Once the fight begins, the champion takes advantage of the element of surprise and attacks the enemy backline.
+* **Flanking** refers to a plan in which the champion avoids formation with his team. Instead, he takes a position outside the enemy's vision (behind a wall or in the bushes). Once the fight starts, the champion capitalizes on the element of surprise to ambush the enemy backline.
 
-Regardless of the target selection order, champions should take a **typical formation** in a teamfight of any size. This means that champions with high survivability create the frontline. Behind them is a backline that deals most of the damage. Flanking champions take up ambush positions. If the enemy has back-to-front or flanking champions, the team's frontline and backline should be positioned closer together.
+Regardless of the target selection order, champions should take a **typical formation** in any size teamfight. This means that champions with high survivability create the frontline. Behind them is a backline that deals most of the damage. Flanking champions occupy ambush positions. If the enemy possesses back-to-front or flanking champions, the team's frontline and backline should position themselves closer together.
 
-When a team does not follow a typical formation, it gives the enemy an advantage. Let us look at an example. The blue team's champions did not create a clear frontline and backline. They stand mixed up at the start of the fight. On the other hand, the red team has taken a typical formation. When the fight begins, the red team will concentrate their damage on the blue Bow champions who are in the frontline. These targets have low survivability and will die within seconds. After this, the blue team will be outnumbered and lose the fight.
+When a team deviates from a typical formation, it gives the enemy an advantage. Let us look at the example. The blue team does not establish a clear frontline and backline. Their champions stand mixed up when the fight starts. On the other hand, the red team maintains a typical formation. When the fight begins, the red team can concentrate their damage on the blue Bow champions in the frontline. These targets have low survivability and will be eliminated quickly. After this, the blue team will find themselves outnumbered and lose the fight.
 
-Note that the champion type in Figure 2-4 only determines their role in the formation. A ranged champion can stand in the frontline due to his high survivability. Examples include Thresh and Urgot. On the other hand, a melee champion can stand in the backline at the start of a fight, waiting for a good opportunity to reach the enemy and deal damage. Examples include Kha'Zix and Master Yi.
+It is important to note that the champion type in Figure 2-4 only determines their role in the formation. A ranged champion can still serve in the frontline if he possesses high survivability. Examples include Thresh and Urgot. On the other hand, a melee champion may begin in the backline, waiting for a suitable opportunity to engage the enemy and deal damage. Examples include Kha'Zix and Master Yi.
 
 ### 2.3.2 Time and damage
 
