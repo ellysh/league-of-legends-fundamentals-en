@@ -53,17 +53,15 @@ It is important to note that the champion type in Figure 2-4 only determines the
 
 ### 2.3.2 Time and damage
 
->>>R1
+We have examined the overall scheme of a teamfight. It allows us to draw the following conclusion:
 
-We have examined the overall scheme of a teamfight. We can draw the following conclusion from it:
-
-> There are two main factors in a fight of any scale: team damage and the time to deal it.
+> There are two main factors in a fight of any scale: team damage and the available time to deal it.
 
 A similar conclusion applies to individual champions:
 
 > In a fight, a champion has a time limit before enemies kill him, and the damage he can deal before that happens.
 
-In other words, there are two main parameters of the champion in a fight:
+In other words, the champion has two key parameters in a fight:
 
 1. The **time** he can buy for himself or his team.
 
@@ -75,41 +73,41 @@ Let us consider the teamfight from the perspective of these two parameters. Then
 
 * Backline champions deal damage during the additional time that the frontline buys for them.
 
-In League of Legends, we can clearly categorize most champions into one of two categories: time-buying or damage-dealing. There are also champions with mechanics that perform both functions. They are usually less effective because they are less specialized.
+In League of Legends, we can easily split most champions into one of two roles: time-buying or damage-dealing. There are also champions with mechanics that serve both functions. However, they are generally less effective because they are less specialized.
 
-A champion's kit determines his category. Let us start with champions that buy time for their allies. They have the following tools:
+A champion's kit determines his role. Let us start with champions that buy time for their allies. They have some of the following tools:
 
-1. [**Crowd Control**](https://wiki.leagueoflegends.com/en-us/Crowd_control) (CC) - buys time for the entire team. These abilities briefly disable one or more enemy champions.
+1. [**Crowd Control**](https://wiki.leagueoflegends.com/en-us/Crowd_control) (CC) — this ability briefly disables one or more enemy champions and buys time for the entire team.
 
-2. [**Healing**](https://wiki.leagueoflegends.com/en-us/Healing) - buys time for the entire team if it can be applied to frontline champions.
+2. [**Healing**](https://wiki.leagueoflegends.com/en-us/Healing) — this ability recovers the health of the champion or his ally. It buys time for the entire team if a player applies it to frontline champions.
 
-3. [**Buff**](https://wiki.leagueoflegends.com/en-us/Buff) — same as healing. It buys time for the entire team only if it can be applied to frontline champions.
+3. [**Buff**](https://wiki.leagueoflegends.com/en-us/Buff) — this ability briefly enhances the champion or his ally's stats. It buys time for the entire team if a player applies it to frontline champions.
 
 4. [**Shield**](https://wiki.leagueoflegends.com/en-us/Shield) — same as healing.
 
-5. **Mobility** — buys time for the team if combined with crowd control. Without this, mobility only buys time for the ability's owner. We will talk about initiation in teamfight later.
+5. **Mobility** — this ability provides dashes or speed-up. It buys time for the team if combined with crowd control. Without CC, mobility only buys time for the ability's owner. We will talk about initiation in a teamfight later.
 
-If a champion has several abilities from this list, his job in a fight is to buy time for his allies. This champion does not necessarily have to be in the frontline. He can stand in the backline and heal his allies in the frontline.
+If a champion has several abilities from this list, his task in a fight is to buy time for his allies. This champion does not necessarily need to be in the frontline. For example, he can also stand in the backline and heal frontline allies.
 
-Here are some examples of highly specialized champions for buying time:
+Here are some examples of highly specialized champions focused on buying time:
 
-* **Rammus** is a frontline champion. He has three crowd control abilities and one defensive buff. These abilities allow Rammus to buy a significant amount of time, even if he is the only champion on the frontline.
+* **Rammus** is a frontline champion. He has three crowd control abilities and one defensive buff. These tools allow Rammus to buy a significant amount of time for his team, even if he is the only champion on the frontline.
 
-* **Soraka** is a backline champion. She has three healing abilities and one crowd control buff. With these tools, Soraka can support her allied frontline for a long time.
+* **Soraka** is a backline champion. She has three healing abilities and one crowd control. With these tools, Soraka can support her allied frontline for a considerable duration.
 
-Champions like Soraka are ineffective without a high-survivability frontline. In a teamfight, healing a champion with high health and high survivability extends his lifespan by 8-10 seconds. However, if you use healing on a low survivability backline champion, the ability will only buy 1-2 seconds at most. This would not give the team a significant advantage.
+Champions like Soraka are less effective without a robust frontline. In a teamfight, healing a champion with high health and durability extends his lifespan by 8-10 seconds. However, healing a low-durability backline champion may only provide an extension of 1-2 seconds at most. This would not give the team a significant advantage.
 
-Now, let us talk about champions who deal damage. Offensive abilities scale either with [**attack damage**](https://wiki.leagueoflegends.com/en-us/Attack_damage) (AD) or [**ability power**](https://wiki.leagueoflegends.com/en-us/Ability_power) (AP). Scaling can vary: it could be better or worse. Therefore, the same item will provide different power spikes to champions with different ability scaling.
+Now, let us discuss champions who focused on dealing damage. Offensive abilities scale either with [**attack damage**](https://wiki.leagueoflegends.com/en-us/Attack_damage) (AD) or [**ability power**](https://wiki.leagueoflegends.com/en-us/Ability_power) (AP). The scaling rate can vary: it could be better or worse. Therefore, the same item will provide different power spikes for two champions. It depends on the scaling rates of their abilities.
 
-If most abilities of a champion scale well, his job in a fight is to deal damage. To achieve this, he buys primarily offensive items. These items will be ineffective on a champion with low ability scaling. His damage output will be mediocre at any stage of the game.
+If most abilities of a champion scale well, his role in a fight is to deal damage. To maximize this damage output, he should primarily build offensive items. These items will be ineffective for a champion with a low ability scaling rate. His damage output will be mediocre at any stage of the game.
 
 At the start of a fight, champions who deal damage can be in either the frontline or backline. This depends on their attack range, mobility, and survivability.
 
 Here are some examples of highly specialized damage-dealing champions:
 
-* **Master Yi** is a champion with four offensive abilities. At the start of a teamfight, he stands in the backline or in ambush. When enemies focus their damage on a highly survivable ally, Master Yi enters the fight.
+* **Master Yi** is a champion with four offensive abilities. At the start of a teamfight, he remains in the backline or in ambush. When enemies focus their damage on a highly survivable ally, Master Yi engages the fight.
 
-* **Aphelios** is a backline champion whose entire skill set focuses on damage. His crowd control ability is only available during specific weapon cycles. Therefore, Aphelios cannot release his high damage output without team support.
+* **Aphelios** is a backline champion whose entire kit is focused on dealing damage. His crowd control ability is only available during specific weapon cycles. Therefore, Aphelios cannot release his high damage output without team support.
 
 ### 2.3.3 Team composition
 
