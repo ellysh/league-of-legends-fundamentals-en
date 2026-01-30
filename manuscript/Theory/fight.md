@@ -111,8 +111,6 @@ Here are some examples of highly specialized damage-dealing champions:
 
 ### 2.3.3 Team composition
 
->>>R1
-
 A team has several typical ways to initiate a teamfight. The composition of its champions determines which of these ways is most effective.
 
 {caption: "Table 2-7. Team composition", width: "80%"}
@@ -128,21 +126,21 @@ A team has several typical ways to initiate a teamfight. The composition of its 
 
 There are three team compositions in the current game balance. Table 2-7 illustrates them.
 
-The **engage** composition has one to three champions with mobility and control. These champions rush and attack suddenly as soon as the enemy is out of position or depleted of resources, 
+The **engage** composition has one to three champions with mobility and crowd control. These champions initiate sudden attacks when the enemy is out of position or has low resources.
 
-The **disengage** composition has one to two champions with good survivability and control. These tools allow them to stop the enemy champions from rushing into teamfight.
+The **disengage** composition has one to two champions with good survivability and crowd control. These tools allow them to stop enemy initiation in a teamfight.
 
-The **poke** composition has one to three champions with long attack or ability range. They deal damage to the enemies from a safe distance and deplete their dynamic resources.
+The **poke** composition has one to three champions with long-range attacks or abilities. They deal damage to the enemies from a safe distance and gradually deplete their dynamic resources.
 
-Each team composition works well against one composition and not at all against another. Let us consider these relationships.
+Each team composition works well against one composition and struggles against another. Let us consider these relationships.
 
-**Engage champions** are effective against poke composition. They speed up the fight, preventing the enemy from realizing long-range damage. Engage compositions perform poorly if the enemy also has engage tools. In this case, the team that attacks first wins. Disengage compositions completely neutralize engage champions. With this combination, these champions cannot use their abilities to rush into a teamfight.
+**Engage champions** are effective against poke composition. They speed up the fight, preventing the enemy from dealing long-range damage. However, engage composition performs poorly if the enemies also have engage tools. In this case, the team that attacks first wins. Disengage composition completely neutralizes engage champions. With this combination, these champions cannot effectively initiate a teamfight.
 
-**Disengage champions** only work well against engage composition. Their tools are designed to absorb and neutralize sudden attacks. They can also stop mobile opponents. Disengage compositions perform poorly against similar compositions. Both teams lack offensive tools and are forced to play defensively. Poke compositions completely neutralize disengage champions. These champions have no tools to reach an enemy with long-range abilities.
+**Disengage champions** work well against engage composition. Their tools are designed to absorb and neutralize sudden attacks. They can also stop mobile opponents. Disengage compositions perform poorly against similar compositions. Both teams lack offensive tools and are forced to play defensively. Poke compositions completely neutralize disengage champions. These champions have no tools to reach an enemy with long-range abilities.
 
-Poke champions are effective against disengage composition. They completely control the fight and decide when the full damage exchange begins. A poke composition performs poorly against a similar one. In this combination, the team with the higher damage at range wins. An engage composition completely neutralizes poke champions. The enemy quickly closes the distance and immediately begins trading damage. The attack and ability range play no role in this scenario.
+**Poke champions** are effective against disengage composition. They often control the pace of a teamfight and dictate when the full damage exchange begins. A poke composition performs poorly against a similar one. In this combination, the team with the superior long-range damage typically wins. An engage composition completely neutralizes poke champions. The enemies quickly close the distance and initiate damage trades. The long-range attacks and abilities become irrelevant in this scenario.
 
-Players create balanced team compositions in competitive matches. They combine champions of two or three types in one team. This approach reduces the risk that the opponent will completely neutralize their tools.
+Players strive to create balanced team compositions in competitive matches. They combine champions of two or three types in one team. This approach decreases the risk that the opponent will completely neutralize their tools.
 
 Table 2-8 shows typical champion combinations in balanced teams.
 
@@ -165,7 +163,7 @@ Table 2-8 shows typical champion combinations in balanced teams.
 
 Some champions can fulfill two roles at once. They are especially popular at high levels of play. An example of such a champion is Rell. She has tools for both engage and disengage.
 
-I> Professional player Oleg analyzes the team composition in more detail [in the following video](https://www.youtube.com/watch?v=NGTLmjucD9U&list=PLh0d8CWSTSsAFkX0Jfnmu6xUo1un3FK7V).
+I> Professional player Oleg analyzes the team composition in more detail [in this video](https://www.youtube.com/watch?v=NGTLmjucD9U&list=PLh0d8CWSTSsAFkX0Jfnmu6xUo1un3FK7V).
 
 ### 2.3.4 Champion classes
 
