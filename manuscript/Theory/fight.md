@@ -167,7 +167,7 @@ I> Professional player Oleg analyzes the team composition in more detail [in thi
 
 ### 2.3.4 Champion classes
 
->>>R1
+>>>>R1
 
 We have looked at the parameters of champions based on their role in teamfights. These parameters are as follows:
 
@@ -200,24 +200,22 @@ We will use player classification further in this section. It is easier to remem
 
 ### 2.3.5 Stages of teamfight
 
->>>R1
+We have examined the overall scheme of a teamfight, which follows a front-to-back scenario. This scheme was significantly simplified. In a real game, fights can unfold quite differently depending on the team compositions of both sides.
 
-We have looked at the overall scheme of a teamfight. It followed a front-to-back scenario and was significantly simplified. In a real game, fights can unfold completely differently. The specific scenario depends on the team compositions of both sides.
-
-Let us consider all the possible events that can occur in a teamfight. To do this, we divide the teamfight into sequential stages. They are as follows:
+Let us consider all the possible events that can occur in a teamfight. To do this, we break the teamfight down into sequential stages. These stages are as follows:
 
 1. Preparation
 2. Initiation
 3. Clash
 4. Pursuit
 
-You can consider each stage of the teamfight as a separate turn in a turn-based game. During this turn, teams try to achieve a specific goal. To do that, they resolve a series of tasks. Some champions have the appropriate tools for this.
+You can consider each stage of the teamfight as a separate turn in a turn-based game. During each turn, teams aim to achieve a specific goal. To do that, they resolve a series of tasks. Certain champions possess the tools to execute these tasks effectively.
 
-If a team lacks the tools to act in the current stage of the teamfight, players skip their turn. If the opponents have such tools, they act. A successful action gives them initiative and an advantage.
+If a team lacks the tools to act during a particular stage of the teamfight, players will miss their turn. Conversely, if their opponents have the right tools, they can take action. A successful action provides them with initiative and an advantage.
 
-A balanced team has the tools to play out each stage of a teamfight. Then the opponent would not be able to gain an advantage simply because of having specific tools. Experienced players strive to reach such a balance in their drafts.
+A well-balanced team has the tools to execute each stage of a teamfight. This ensures that opponents cannot gain an advantage by simply possessing specific tools. Experienced players aim to achieve such a balance in their drafts.
 
-I> The **draft** is the preliminary stage of the game. Players choose their champions, their runes, and their summoner spells during this stage.
+I> The **draft** is the preliminary stage of the game where players choose their champions, runes, and summoner spells.
 
 #### 2.3.5.1 Preparation
 
