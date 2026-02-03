@@ -219,28 +219,26 @@ I> The **draft** is the preliminary stage of the game where players choose their
 
 #### 2.3.5.1 Preparation
 
->>>R1
-
-The first stage of a teamfight is **preparation**. The team's goal at this stage is to gain any advantage before the upcoming fight begins. A team achieves this goal by completing the following steps:
+The first stage of a teamfight is **preparation**. The team's goal during this stage is to gain any advantage before the upcoming fight begins. A team can achieve this goal by completing the following steps:
 
 1. Scouting
 2. Positioning
 3. Formation
-4. Dealing Damage
+4. Dealing damage
 
-**Scouting** is the very first step of preparation. It opens up opportunities for a successful attack. Typically, the location of the upcoming teamfight is known: the pit of the next epic monster or a vulnerable enemy structure. Both teams attempt to place wards in this area. The wards provide vision and allow tracking of enemy movement. Some champions can place traps, which serve the same function as wards.
+**Scouting** is the very first step of preparation. It opens up opportunities for a successful attack. Typically, the location of the upcoming teamfight is known: the pit of the next epic monster or a vulnerable enemy structure. Both teams attempt to place wards in this area. These wards provide vision and allow tracking of enemy movement. Some champions can also place traps that serve the same purpose as wards.
 
-If a team is far from the battle, they can use long-range scouting tools. The most common tool is the [blue ward](https://wiki.leagueoflegends.com/en-us/Farsight_Alteration). A champion can place it in 4000 range. Some champion abilities also provide long-range vision.
+If a team is far from the location of the upcoming fight, they can use long-range scouting tools. The most common tool is the [blue ward](https://wiki.leagueoflegends.com/en-us/Farsight_Alteration), which can be placed up to 4000 units away. Some champion abilities also provide long-range vision.
 
-In most cases, a support champion performs scouting with a special item for placing wards. He usually works in tandem with his jungler. This collaboration reduces the risk that enemies ambush and kill a relatively weak support before the teamfight begins. Champions with traps can also place them near the objective in advance. Examples: Teemo, Shaco, Jhin.
+In most cases, a support champion performs scouting using a special item for placing wards. He usually works in tandem with his jungler. This collaboration reduces the risk that enemies ambush and kill a relatively weak support before the teamfight begins. Champions that can place traps, like Teemo, Shaco, or Jhin, can also set them near the objective in advance.
 
-Scouting from a distance could be done by champions with suitable abilities. **First**, it could be projectiles that provide vision along their flight path. Examples: Ashe E, Kai'Sa W, Jinx R, Ezreal R. **Second**, it could be an area-of-effect illuminator, for example, Quinn W. **Third**, it could be an ability that reveals the location of enemy champions on the map. Examples: Warwick W, Rengar R, Twisted Fate R.
+Scouting from a distance can be done by champions with suitable abilities. **First**, it could be projectiles that provide vision along their flight path. Examples: Ashe E, Kai'Sa W, Jinx R, and Ezreal R. **Second**, it could be an area-of-effect illuminator, for example, Quinn W. **Third**, it could be an ability that reveals the location of enemy champions on the map. Examples: Warwick W, Rengar R, Twisted Fate R.
 
-**Positioning** is the second step of the preparation tasks. First, all champions within range should reach the objective. They will be in a favorable position if they are the first to reach it. This position could be near a choke point or in bushes. The choke point deprives the enemies of room to maneuver. The bushes make it harder for enemies to attack backline champions who hide there. Favorable positioning provides a significant advantage during combat.
+**Positioning** is the second step of the preparation tasks. First, all champions within range should reach the objective as quickly as possible. Being the first to arrive allows them to secure a favorable position. This position could be near a choke point or in bushes. The choke point limits the enemies' ability to maneuver. The bushes provide cover for backline champions, making it more challenging for enemies to attack them. Favorable positioning can provide a significant advantage during teamfight.
 
-The third step of preparation is **formation**. Champions with high survivability create the frontline. Attacking champions stand behind them, forming the backline. If the team includes flanking champions, they take up a position suitable for ambush attacks. Proper formation allows the team to maximize its resources in battle.
+The third step of preparation is **formation**. Champions with high survivability make up the frontline. Damage dealers position themselves behind, forming the backline. If the team includes flanking champions, they should take positions suitable for ambush attacks. Proper formation allows the team to maximize its resources during the fight.
 
-**Dealing damage** is the final step of preparation. It gives the team an advantage in dynamic resources. There are several ways to accomplish this. **First**, champions in the poke composition deal damage with their ranged abilities. **Second**, mobile champions with burst damage can intercept enemies who are just approaching the battlefield and are out of position.
+**Dealing damage** is the final step of preparation. It gives the team an advantage in dynamic resources. There are several ways to achieve this. **First**, champions in a poke composition can deal damage with their long-ranged abilities. **Second**, mobile champions with burst damage can intercept enemies who are just approaching the battlefield and may be out of position.
 
 The following champions are effective for dealing damage during preparation:
 
