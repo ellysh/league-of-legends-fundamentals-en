@@ -254,21 +254,19 @@ The following champions are effective for dealing damage during preparation:
 
 #### 2.3.5.2 Initiation
 
->>>R1
-
-The second stage of teamfight is **initiation**. The team's goals at this stage are to take one or more opponents out of combat and win the damage trade. To achieve these goals, the team takes the following steps:
+The second stage of a teamfight is **initiation**. The team's goals during this stage are to remove one or more opponents from combat and to win the damage trade. To achieve these goals, the team takes the following steps:
 
 1. Engage.
 2. Follow-up.
 3. Disengage.
 
-The first step, **engage**, begins when champions use their engage abilities. Crowd control abilities usually follow these. There are two effective ways to initiate combat:
+The first **engage** step begins when champions use their engage abilities, often followed by crowd control abilities. There are two effective ways to initiate combat:
 
-1. Dive into the enemy line with a mobility ability.
+1. Dive into the enemy line using a mobility ability.
 
-2. Grab and pull the enemy with a hook ability.
+2. Grab and pull an enemy using a hook ability.
 
-The first method temporarily removes the target from combat. The second disrupts the enemy's formation. In both cases, the team buys time to deal damage.
+The first method temporarily removes the target from combat. The second method disrupts the enemies' formation. In both cases, the team buys time to deal damage.
 
 Besides hook-type abilities, there are other tools to disrupt enemy formations. For example, Jarvan IV R creates walls and pushes enemies to either side of them. Another example is the Fiddlesticks Q-R combo. All enemies within the R radius are feared and move away from Fiddlesticks. When the formation is broken, frontline champions can no longer defend their backline. This gives attackers a significant advantage.
 
@@ -280,7 +278,7 @@ The following champion classes are effective for initiation:
 
 3. Hook Support (Blitzcrank, Thresh, Nautilus).
 
-The second **follow-up** step occurs immediately after a successful engagement. The idea is to continue attacking the target that was hit by the champion's engage ability. Typically, this target gets crowd control effect for a period of time and cannot defend himself. Because of that, the team could focus on this champion easily and win the damage trade.
+The second **follow-up** step occurs immediately after a successful engagement. The idea is to continue attacking the target that was hit by the champion's engage ability. Typically, this target is affected by crowd control for a period of time and cannot defend himself. As a result, the team can easily focus on this champion to win the damage trade.
 
 All high-damage champion classes are suitable for the follow-up step:
 
@@ -298,7 +296,7 @@ All high-damage champion classes are suitable for the follow-up step:
 
 7. AD Carry (Jinx, Ashe).
 
-The **disengage** step combines actions to respond to the enemy engagement. Champions who can stop the enemy's rush perform these actions. To do this, they use survivability and crowd control abilities. After halting the enemy engagement, the team could focus on the initiators and quickly kill them. A successful disengagement leaves the enemy team outnumbered.
+The **disengage** step involves actions to respond to the enemy's engagement. Champions with survivability and crowd control abilities can stop the enemy's rush. After halting the engagement, the team can focus on the enemy initiators and eliminate them quickly. A successful disengage leaves the enemy team outnumbered.
 
 Champions of the following classes are suitable for counter-initiation:
 
@@ -306,7 +304,7 @@ Champions of the following classes are suitable for counter-initiation:
 
 2. Disengage Tank (Braum, Poppy).
 
-A failed engagement can lead to a situation called **conveyor belt**. It happens when players try to attack the enemy team without good coordination. This way, they engage superior numbers of enemies alone or in pairs. As a result, the enemy team easily kills all players one after another. When the conveyor belt happens, the team should stop it immediately and retreat regardless of losses.
+A failed engagement can result in a situation called a **conveyor belt**. It happens when players try to attack the enemy team without proper coordination. This way, they engage superior numbers of enemies alone or in pairs. As a result, the enemy team easily eliminates players one after another. When the conveyor belt occurs, the team should immediately stop the attack and retreat, regardless of losses.
 
 #### 2.3.5.3 Clash
 
