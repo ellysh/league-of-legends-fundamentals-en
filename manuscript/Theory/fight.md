@@ -308,19 +308,17 @@ A failed engagement can result in a situation called a **conveyor belt**. It hap
 
 #### 2.3.5.3 Clash
 
->>>R1
+The third stage of the fight is the **clash**. The team's goal during this stage is to maximize damage and win the kill trade. To achieve these goals, the team follows these steps:
 
-The third stage of the fight is the **clash**. The team's goal in this stage is to maximize damage and win the kill trade. To achieve these goals, the team performs the following steps:
+1. Buy time for the team.
+2. Deal damage.
+3. Flank the enemy backline.
 
-1. Buying time for the team.
-2. Dealing damage.
-3. Flanking
+This stage begins when the frontlines of both teams clash. From this point on, each side aims to capitalize on any advantage gained during the preparation and initiation stages. If the enemy has established a significant advantage in the previous stages, it is favorable for the team to avoid the fight and retreat.
 
-This stage begins when the frontlines of both teams clash. From this point on, each side seeks to capitalize on the advantage gained during the preparation and initiation stages. If the enemy has already gained a significant advantage in the previous stages, it is favorable for the team to avoid the fight and retreat.
+During the clash, it is important for the team to **buy time** so that its carry champions can deal damage. All frontline champions and some backline champions perform this task. Their main tools for this include crowd control, healing, buffs, and shields.
 
-During the clash, it is important for the team to **buy time** so that its carry champions can deal damage. All frontline champions and some backline champions perform this task. The main tools for this are crowd control, healing, buffs, and shields.
-
-Champions of the following classes can buy time for the team:
+The following champion classes can effectively buy time for the team:
 
 1. Heavy Bruiser (Darius, Sett).
 
@@ -334,9 +332,9 @@ Champions of the following classes can buy time for the team:
 
 6. Engage Tank (Leona, Amumu).
 
-While these classes are buying time, carry champions should **deal damage** to the enemy. Most of them have powerful auto attacks or offensive abilities. Carry champions are usually immobile. Therefore, they stay in the backline and play a front-to-back strategy.
+While champions of these classes buy time, carry champions should **deal damage** to the enemy. Most of them have powerful auto-attacks or offensive abilities. Carry champions are usually immobile. Therefore, they remain in the backline and adopt a front-to-back strategy.
 
-The following classes are best at dealing damage during the engagement phase:
+The following classes are best at dealing damage during the clash stage:
 
 1. AP Carry (Sindra, Aurelion Sol, Rumble).
 
@@ -344,9 +342,9 @@ The following classes are best at dealing damage during the engagement phase:
 
 3. AD Carry (Jinx, Ashe, Aphelios)
 
-**Flanking** becomes especially effective after the teams' frontlines have clashed. Champions with crowd control now lock each other down on the frontline. This greatly limits their movement in combat. On the other hand, mobile flanking champions hiding in ambush can attack the enemy backline. Backline champions will likely have to defend this attack themselves.
+**Flanking** becomes especially effective after the teams' frontlines have clashed. Now, champions with crowd control abilities lock each other down in the frontline. This greatly restricts their mobility in combat. Meanwhile, mobile flanking champions hiding in ambush can target the enemy backline. Then, the backline champions will likely have to defend this attack themselves.
 
-The following classes are suitable for flanking:
+The following champion classes are well-suited for flanking:
 
 1. Assassin (Talon, Kayn, Kha'Zix).
 
@@ -360,7 +358,7 @@ The following classes are suitable for flanking:
 
 >>>R1
 
-The final stage of the battle is the pursuit. The team's goal in this stage is to secure as many kills as possible. A team achieves this goal by completing the following steps:
+The final stage of the battle is the **pursuit**. The team's goal in this stage is to secure as many kills as possible. A team achieves this goal by completing the following steps:
 
 1. Scouting.
 2. Finishing Off.
