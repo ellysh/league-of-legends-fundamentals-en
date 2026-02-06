@@ -356,23 +356,21 @@ The following champion classes are well-suited for flanking:
 
 #### 2.3.5.4 Pursuit
 
->>>R1
-
-The final stage of the battle is the **pursuit**. The team's goal in this stage is to secure as many kills as possible. A team achieves this goal by completing the following steps:
+The final stage of the fight is the **pursuit**. The team's goal during this stage is to secure as many kills as possible. A team can achieve this goal by completing the following steps:
 
 1. Scouting.
 2. Finishing Off.
 
-The stage begins when one of the teams loses its frontline, leaving its champions outnumbered. Then they retreat to survive. At that moment, the winning team should make a choice:
+The stage begins when one of the teams loses its frontline, leaving its champions outnumbered. The losing team must then retreat to survive. At that moment, the winning team faces a decision:
 
 1. Pursue and finish off the survivors.
 2. Capture the objective on the map.
 
-The team must calculate which of these actions is more advantageous in the current situation. We discussed an example of such a calculation in section "2.2.2.3 Tower Destruction."
+The team must calculate which option is more beneficial given the current situation. We discussed an example of such a calculation in section "2.2.2.3 Tower Destruction."
 
-If a team chooses to pursue, they first solve the scouting task. The retreating champions leave the battlefield, so they are out of the sight of the wards. Pursuers must perform scouting from a distance. We discussed tools for that in section "2.3.5.1 Preparation."
+If a team chooses to pursue, it first solves the **scouting** task. Since the retreating champions leave the battlefield, they are out of the sight of the wards. Therefore, pursuers must scout from a distance. We discussed tools for that in section "2.3.5.1 Preparation."
 
-Once the target is detected, the pursuers attack and finish him off. Mobile champions are effective at this task. Ranged and global abilities are also good tools for finishing. They deal damage to enemies at a long distance, even when they are out of sight.
+Once the target is located, the pursuers attack and **finish him off**. Mobile champions are effective at this task. Ranged and global abilities are also good tools for finishing off. They deal damage to enemies at a long distance, even when they are out of sight.
 
 The following champion classes are effective for finishing off retreating enemies:
 
