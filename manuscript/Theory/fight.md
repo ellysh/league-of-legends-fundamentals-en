@@ -31,7 +31,7 @@ Let us consider how the teamfight in Figure 2-4 would unfold from the blue team'
 
 At the start of the fight, the blue frontline champions go ahead and absorb the initial attacks. The red team's frontline and backline target these champions simultaneously. High survivability of the blue frontline allows it to withstand initial assaults for a while. During this time, the blue backline deals most of the damage to the red frontline. In the simplest case, the team whose frontline is defeated first loses the battle.
 
-Let us assume that the blue team successfully eliminates the enemy frontline. After this, the red backline champions must retreat. Now they are standing against a numerically superior enemy. Furthermore, they have low survivability: even minor damage can be lethal. Therefore, the red backline no longer has time to release their damage. If they remain in the fight, their damage output will be minimal, and they risk being eliminated.
+Let us assume that the blue team successfully eliminates the enemy frontline. After this, the red backline champions must retreat. Now they are standing against a numerically superior enemy. Furthermore, they have low survivability: even minor damage can be lethal. Therefore, the red backline no longer has time to apply their damage. If they remain in the fight, their damage output will be minimal, and they risk being eliminated.
 
 An experienced backline player knows how to use the map's landscape to his advantage. To do this, the player positions himself so that there are walls between his champion and the enemy. In this case, the walls act as a frontline: they prevent the enemy from closing the distance. This tactic allows a high-level player to gain time for dealing damage even without a protective frontline.
 
@@ -107,7 +107,7 @@ Here are some examples of highly specialized damage-dealing champions:
 
 * **Master Yi** is a champion with four offensive abilities. At the start of a teamfight, he remains in the backline or in ambush. When enemies focus their damage on a highly survivable ally, Master Yi engages the fight.
 
-* **Aphelios** is a backline champion whose entire kit is focused on dealing damage. His crowd control ability is only available during specific weapon cycles. Therefore, Aphelios cannot release his high damage output without team support.
+* **Aphelios** is a backline champion whose entire kit is focused on dealing damage. His crowd control ability is only available during specific weapon cycles. Therefore, Aphelios cannot apply his high damage without team support.
 
 ### 2.3.3 Team composition
 
@@ -166,8 +166,6 @@ Some champions can fulfill two roles at once. They are especially popular at hig
 I> Professional player Oleg analyzes the team composition in more detail [in this video](https://www.youtube.com/watch?v=NGTLmjucD9U&list=PLh0d8CWSTSsAFkX0Jfnmu6xUo1un3FK7V).
 
 ### 2.3.4 Champion classes
-
->>>>R1
 
 We have looked at the parameters of champions based on their role in teamfights. These parameters are as follows:
 
@@ -390,21 +388,19 @@ The following champion classes are effective for finishing off retreating enemie
 
 ### 2.3.6 Pace of teamfight
 
->>>R1
+We have considered all possible stages of a teamfight. At each stage, a team will only perform all steps when it is advantageous to play slowly. Otherwise, events will unfold rapidly. In this case, the team skips some steps or stages that are disadvantageous to them.
 
-We have considered all possible stages of the teamfight. At each stage, a team will only perform all steps when it is advantageous to play slowly. Otherwise, events will unfold rapidly. In this case, the team skips some steps or stages that are disadvantageous to them.
+The pace of a teamfight depends on the decisions and capabilities of both teams. Players distinguish between two options: a slow pace and a fast pace. **Play slow** means taking your time and waiting for the right moment to make the next move. In this scenario, the advantage goes to the team that implements its tools more effectively.
 
-The pace of a teamfight depends on both teams' decisions and capabilities. Players distinguish between two options: slow and fast pace. **Play slow** means taking your time and waiting for the right moment to make the next move. In this scenario, the advantage goes to the team that implements its tools more successfully.
+Let us look at an example of slow play in a teamfight. We assume that the blue team has a balanced composition: two champions on engage and three units on poke. Poke champions prefer to play fights slowly. They need time to apply their damage during the preparation stage. Therefore, it is advantageous for the blue team to extend this stage and avoid premature initiation and clash stages. The blue champions on engage only benefit from attacking when the red team's resources are depleted.
 
-Let us look at an example of slow play in a teamfight. We assume that the blue team has a balanced composition: two champions on engage and three units on poke. Poke champions prefer to play fights slowly. They need time to release their damage during the preparation stage. Therefore, it is advantageous for the blue team to prolong this stage and avoid premature initiation and clash stages. Blue champions on engage only benefit from attacking when the red team's resources are depleted.
+**Play fast** means moving immediately to the stage of the fight that favors for the team composition. Typically, this is the initiation or clash stage. In this scenario, the advantage goes to the team that uses its offensive tools first.
 
-**Play fast** means immediately moving to the stage of the fight that is advantageous for the team composition. Typically, this is the initiation or clash stage. In this scenario, the advantage goes to the team that applies its offensive tools first.
-
-Let us return to our example with the blue team. We assume that the red team has an engage composition: four engage champions and one poke champion. The engage champions benefit from playing the fight fast. They want to immediately move to the initiation phase to prevent the opponent from abusing their long-ranged damage. As soon as one of the blue poke champions is out of position, the red team should attack him. In other words, they look for an opportunity to initiate as early as possible. When a team has many mobile champions, the clash stage begins within a few seconds of initiation. This way, the red team minimizes the preparation and initiation stages. They move to the clash stage as quickly as possible because red champions have an advantage in melee range.
+Let us return to our example with the blue team. We assume that the red team has an engage composition: four engage champions and one poke champion. The engage champions benefit from playing the fight fast. They want to immediately move to the initiation phase to prevent the opponent from applying their long-ranged damage. When any of the blue poke champions is out of position, the red team should exploit this opportunity to attack. In other words, they look for an opportunity to initiate as early as possible. When a team has many mobile champions, the clash stage begins within a few seconds of initiation. This way, the red team minimizes the preparation and initiation stages. They move to the clash stage as quickly as possible because red champions have an advantage at melee range.
 
 Let us consider how team composition and tools define the advantageous pace of a teamfight. Table 2-10 demonstrates this relationship.
 
-{caption: "Table 2-10. Team stats and the teamfight advantageous pace.", width: "100%"}
+{caption: "Table 2-10. Team stats and the advantageous pace of a teamfight", width: "100%"}
 | Team stat | Fast play is advantageous | Slow play is advantageous |
 |  | | |
 | --- | --- | --- |
@@ -425,7 +421,7 @@ Let us consider how team composition and tools define the advantageous pace of a
 |  | | |
 | Fight plan | back-to-front | front-to-back |
 
-The table demonstrates general patterns. They may vary depending on the specific team composition.
+The table demonstrates general patterns. They may vary depending on the specific team compositions.
 
 ### 2.3.7 Player skills
 
@@ -513,7 +509,7 @@ The second important skill is **understanding the composition of your and your e
 
 Let us start with the first point — your team's composition. The composition defines the team's plan for the fight. A player must understand and follow it. Then, he can adapt to the pace of a teamfight that benefits most of his allies. This will improve the team's overall performance.
 
-Here is an example. Suppose a player picks a champion for engage. All other champions on the team have long-range abilities and want to poke. The player benefits from a fast play, while their allies benefit from a slow one. In this case, the player must adapt. He should not rush into the first enemy he encounters. He needs to wait for his allies to release their damage at range. If the player attacks too early, he will die, and his team will be outnumbered.
+Here is an example. Suppose a player picks a champion for engage. All other champions on the team have long-range abilities and want to poke. The player benefits from a fast play, while their allies benefit from a slow one. In this case, the player must adapt. He should not rush into the first enemy he encounters. He needs to wait for his allies to apply their damage at range. If the player attacks too early, he will die, and his team will be outnumbered.
 
 The second point is to **know your team's key champions**. These are the champions who create a decisive advantage. Here are a few examples:
 
