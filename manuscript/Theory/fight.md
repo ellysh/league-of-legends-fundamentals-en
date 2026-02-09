@@ -425,20 +425,18 @@ The table demonstrates general patterns. They may vary depending on the specific
 
 ### 2.3.7 Player skills
 
->>>R1
+Most teamfights in the game are fast-paced. A beginner player has a hard time keeping it up. He feels like all actions are chaotic, lacking any structure, and are all down to luck. This is not actually the case.
 
-Most teamfights in the game are fast-paced. A beginner player has a hard time keeping up. He feels like the action is chaotic, lacking any structure, and is all down to luck. This is not actually the case.
+We have covered all the stages of a teamfight — that is its structure. The player must learn to distinguish them. This gives him a clearer understanding of what is happening during the fight. Furthermore, knowing the stages allows the player choose the right actions and the appropriate moment to execute them.
 
-We have covered all the stages of a teamfight — that is its structure. The player must learn to distinguish them. This will give him a clearer understanding of what is happening. Furthermore, knowing the stages helps the player choose the right action and the right moment for it.
+The following skills are crucial for effective performance in teamfights:
 
-The following player skills determine how effectively he operates in teamfights:
-
-1. Knowing his role
+1. Knowing your role
 2. Understanding team compositions
 3. Making quick decisions
 4. Managing attention.
 
-Let us take a closer look at these skills.
+Let us take a closer look at each of these skills.
 
 #### 2.3.7.1 Knowledge of your role
 
