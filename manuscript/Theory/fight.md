@@ -438,9 +438,7 @@ The following skills are crucial for effective performance in teamfights:
 
 Let us take a closer look at each of these skills.
 
-#### 2.3.7.1 Knowledge of your role
-
->>>R1
+#### 2.3.7.1 Knowing your role
 
 First and foremost, a player must **know his champion's role in the teamfight**. The following parameters determine this:
 
@@ -451,21 +449,21 @@ First and foremost, a player must **know his champion's role in the teamfight**.
 
 Table 2-9 lists these parameters for each champion class.
 
-Any champion will be most effective only at a certain stage of the fight. This stage depends on the champion's role. Each role dictates a specific standard plan of action, which provides the greatest benefit in most cases. Therefore, a player should almost always follow this plan. We will discuss exceptions below, where it is worth deviating from it.
+Every champion is most effective only at a certain stage of the fight. This stage depends on the champion's role. Each role dictates a specific standard plan of action that provides the greatest benefit in most situations. Therefore, a player should almost always follow this plan. We will discuss exceptions below, where it is worth deviating from it.
 
-Let гs look at several standard plans of action:
+Here are several standard plans of action:
 
-* A poke champion should nщt waste time during the preparation phase. His task is to deal damage to the opponent from a safe distance constantly. If the champion does not do this, he will not be able to utilize his tools.
+* A **poke champion** should not waste time during the preparation stage. His task is to deal damage to opponents from a safe distance consistently. If the champion does not do this, he will not be able to utilize his tools effectively.
 
-* A flanking champion should position himself out of the opponent's line of sight early. He does not need to participate in the frontline formation. There, he will not be able to utilize his abilities effectively.
+* A **flanking champion** should position himself out of the opponent's line of sight early on. He does not need to participate in the frontline formation. There, he will not be able to utilize his abilities effectively.
 
-* The **engage** champion must initiate the fight. If he does not do so at the appropriate stage and is late, his engage will not give the team a significant advantage.
+* The **engage champion** must initiate the fight. If he does not do this at the appropriate time, his engage will not provide a significant advantage for the team.
 
-If a player does not make a move at the appropriate stage of the fight, he misses the opportunity to utilize his champion. **A delayed action** will not be as effective as one made at the right time. A missed opportunity often means the enemy gains the initiative and advantage. Therefore, in some cases, the team should retreat immediately after a missed move.
+If a player does not act at the right stage of the fight, he misses the opportunity to utilize his champion effectively. A **delayed action** will not be as powerful as one made at the correct time. A missed opportunity often allows the enemy to gain the initiative and advantage. Therefore, in some cases, the team should retreat immediately after a missed move.
 
-Another common mistake is **premature action**. This occurs when a player uses their champion's key abilities immediately at the start of a teamfight. This is often ineffective.
+Another common mistake is **premature action**. This occurs when a player uses his champion's key abilities immediately at the start of a teamfight. This is often ineffective.
 
-The concept of **holding spells** suggests that slowing down fights is usually more beneficial. It happens because the player gains more information about what is happening over time. This information allows him to use the champion's abilities more effectively.
+The concept of **holding spells** suggests that slowing down fights is usually more beneficial. It happens because the player gathers more information about the evolving situation. This allows him to use the champion's abilities more effectively.
 
 Here are examples of information that becomes available over time:
 
@@ -475,25 +473,25 @@ Here are examples of information that becomes available over time:
 
 3. What resources do the enemies have?
 
-Until a player holds his key ability, he creates a threat to the opponents. They should respect this threat. In this scenario, a typical enemy response is to take a safe position away from the player's champion. Such pressure provides an advantage because it prevents opponents from utilizing their tools.
+Until a player holds his key abilities, he creates a threat to the opponents. They should respect this threat. In response, enemies may retreat to safer positions away from the player's champion. This pressure provides an advantage by preventing opponents from utilizing their abilities.
 
-I> A **key ability** is a champion's main tool. It can be a single ability or a combo. Examples: Malphite R, Amumu Q-R, Jax Q-E, Camille E-R.
+I> A **key ability** is a champion's primary tool. It can be a single ability or a combo. Examples: Malphite R, Amumu Q-R, Jax Q-E, Camille E-R.
 
-The best time to use key abilities is when the enemy makes a mistake. Here are some examples of such mistakes:
+The best moment to use key abilities is when the enemy makes a mistake. Here are some examples of such mistakes:
 
-1. Several opponents are close together. In this case, a strong area-of-effect (AoE) ability can turn the tide of a teamfight.
+1. Several opponents gather closely together. In this case, a strong area-of-effect (AoE) ability can turn the tide of a teamfight.
 
 2. The opponents are separated and far from each other. In this case, engage or flanking the enemy backline, which is left unprotected, can decide the outcome of the fight.
 
-3. The opponents have used their crowd control abilities. After this, they are temporarily unable to stop the player's engage and protect their backline.
+3. The opponents have used their crowd control abilities. After doing so, they are temporarily unable to stop the player's engage and protect their backline.
 
 4. Bait opponents into using their key abilities with a minimal outcome. For example, engaging in an ally champion with good survivability in the frontline.
 
-I> **Bait** is a technique in which a player entices the opponent to take some action with a false advantage. This action is disadvantageous to the opponent, but they are usually unaware of this due to a lack of information.
+I> **Bait** is a technique where a player entices the opponent to take an action under the impression of a false advantage. This action is disadvantageous for the opponent, though he remains unaware of this due to a lack of information.
 
-Opponent mistakes open a window of opportunity. By acting at this moment, the player uses his abilities most effectively. Therefore, it is more advantageous for him to wait before using his abilities. The player could wait as long as the stage of the fight in which he should act is ongoing. If this stage is already approaching its end, the player should use his tools.
+Opponent mistakes open a window of opportunity. Acting during this moment allows the player to use his abilities most effectively. Therefore, it is generally more advantageous to wait before using abilities. The player should wait as long as the stage of the fight in which he should act is ongoing. If this stage is nearing its end, the player should use his tools.
 
-#### 2.3.7.2 Knowledge of command compositions
+#### 2.3.7.2 Understanding team compositions
 
 >>>R1
 
