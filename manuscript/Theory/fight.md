@@ -493,9 +493,7 @@ Opponent mistakes open a window of opportunity. Acting during this moment allows
 
 #### 2.3.7.2 Understanding team compositions
 
->>>R1
-
-The second important skill is **understanding the composition of your and your enemy teams**. To do this, you need to be able to determine the following:
+The second important skill is **understanding the composition of both your team and the enemy team**. To do this, you need to determine the following:
 
 1. The composition type of your allies' champions.
 
@@ -503,41 +501,41 @@ The second important skill is **understanding the composition of your and your e
 
 3. The enemy team's key champions.
 
-Let us start with the first point — your team's composition. The composition defines the team's plan for the fight. A player must understand and follow it. Then, he can adapt to the pace of a teamfight that benefits most of his allies. This will improve the team's overall performance.
+Let us start with the first point — **your team's composition**. The composition defines the team's plan for the fight. A player must understand and follow it. Then, he can adapt to the pace of a teamfight that benefits most of his allies. This will improve the team's overall performance.
 
-Here is an example. Suppose a player picks a champion for engage. All other champions on the team have long-range abilities and want to poke. The player benefits from a fast play, while their allies benefit from a slow one. In this case, the player must adapt. He should not rush into the first enemy he encounters. He needs to wait for his allies to apply their damage at range. If the player attacks too early, he will die, and his team will be outnumbered.
+Here is an example. Suppose a player picks a champion to engage. All other champions in his team have long-range abilities and prefer to poke from a distance. The player benefits from fast plays, while his allies benefit from a slow-paced fight. In this case, the player must adapt. He should not rush into the first enemy he encounters. He needs to wait for his allies to deal their damage from range. Engaging too early could lead to the player's death and leave his team outnumbered.
 
-The second point is to **know your team's key champions**. These are the champions who create a decisive advantage. Here are a few examples:
+The second point is to **know your team's key champions**. These are the champions who can create a decisive advantage. Here are a few examples:
 
 1. A hypercarry who has reached his power spike (e.g., Kayle).
 
-2. A champion who has won his lane with a large advantage.
+2. A champion who has won his lane with a significant advantage.
 
 3. A champion with a strong engage ability (Malphite R, Leona R).
 
 4. A champion with significant area-of-effect damage (Miss Fortune R, Aurelion Sol R).
 
-All of these champions can decide the outcome of a teamfight. Therefore, the player must adapt to their plan. In other words, he must do what benefits his key ally.
+All of these champions can determine the outcome of a teamfight. Therefore, the player must adapt to their plan. In other words, he should focus on actions that benefit his key allies.
 
-Here is an example. The player's champion is Aatrox. His standard game plan is flanking. But his team includes a strong Aurelion Sol who has reached a power spike. In this case, the player should abandon his standard plan. It would be more advantageous to line up in the frontline and protect his key ally. This will give Aurelion Sol time to deal maximum damage in the fight.
+Here is an example. The player's champion is Aatrox. His standard plan for a teamfight is flanking. But he has a strong ally, Aurelion Sol, who has reached a power spike. In this case, the player should abandon his standard flanking plan. It would be more advantageous to position himself on the frontline to protect his key ally. This will give Aurelion Sol time to deal maximum damage in the fight.
 
-Another situation: the team has a very strong engage champion (for example, Vi). In this case, it is more advantageous for the Aatrox player to abandon flanking and play a follow-up role. Diving in behind a strong ally and playing around him will be more effective than independently attacking the enemy backline from an ambush.
+Here is another situation. The team has a very strong engage champion (for example, Vi). Then it would be more beneficial for the Aatrox player to play a follow-up role rather than flanking. Engaging behind a strong ally and playing around him will be more effective than independently attacking the enemy backline from an ambush.
 
-The third point is to **know the enemy team's key champions**. They create a decisive advantage for the enemy team. The player must prevent them from releasing their potential. He can achieve this in several ways:
+The third point is to **know the enemy team's key champions**. These champions can create a decisive advantage for the enemy team. The player must prevent them from maximizing their potential. He can achieve this in several ways:
 
-1. **Threaten to trade**. The player can devote all his resources (flash, ultimate, etc.) to a surprise attack on a key enemy.
+1. **Threat to make a trade**. The player can use all his resources (flash, ultimate, etc.) to execute a surprise attack on a key enemy champion.
 
-2. **Block the allied dive**. Any disengagement champion can do this.
+2. **Block the enemy engage**. Any disengagement champion can perform this task.
 
-3. **Displace the enemy from an advantageous position**. Champions with crowd control and poke abilities are good at this task.
+3. **Displace the enemy from an advantageous position**. Champions with crowd control and poke abilities excel at this task.
 
-Neutralizing key opponents significantly increases a team's chances of winning the battle.
+Neutralizing key opponents significantly increases a team's chances of winning the fight.
 
-There's a general rule that helps understand team compositions. It goes like this:
+A general rule for understanding team compositions is as follows:
 
 > If a team has a stronger backline than the opponents, you should play around it. If the opponent's backline is stronger, you should put pressure on it.
 
-This rule means the following. If a team's backline is stronger, a player abandons his game plan. Instead, he lines up in the frontline and buys time for his backline. If the opponent's backline is stronger, a player should use his attacking tools primarily against them.
+This rule means the following. If a team's backline is stronger, a player should abandon his plan for a fight. Instead, he should position himself on the frontline and buy time for his backline. Conversely, if the opponent's backline is stronger, a player should primarily focus his attacking resources against that backline.
 
 #### 2.3.7.3 Quick decision making
 
