@@ -539,31 +539,29 @@ This rule means the following. If a team's backline is stronger, a player should
 
 #### 2.3.7.3 Quick decision making
 
->>>R1
+**Decision making** is one of the five expert skills that every good player should possess. We discussed it in section "1.1.3 Player skills."
 
-**Decision Making** is one of the five expert skills that a player should have. We discussed it in section "1.1.3 Player Skills."
+During a teamfight, making quick decisions is crucial. A delayed or premature action can lead to defeat. When the clash stage of the fight arrives, every second counts. Frontline champions expend their dynamic resources to buy time. Wasting these resources on deliberation or inaction gives the enemy an advantage.
 
-When a teamfight is underway, it is important to make decisions quickly. A delayed or premature action can lead to defeat. When the clash stage arrives, every second is precious. Frontline champions trade their dynamic resources for time. Wasting these resources on deliberation or inaction gives the enemy an advantage.
-
-Decision making skill is directly related to the ability to group information (chunking) and detect patterns in it. Players learn this through experience. The following ways allow one to acquire it:
+Decision-making skill is directly related to the ability to group information (chunking) and to recognize patterns within it. Players develop this skill through experience. Here are three possible ways to acquire it:
 
 1. Trial and Error
 2. Coaching
 3. Self-Coaching.
 
-**Trial and Error** is the most common approach. It involves a player trying different actions in a teamfight with his main champion. When an action works well, the player memorizes the current game conditions as a template. He will repeat this action the next time similar conditions happen. This way, the player will not have to think long. The situation will be familiar to him, and he will react quickly.
+**Trial and Error** is the most common approach. It involves a player experimenting with different actions during a teamfight using his main champion. When an action yields positive results, the player memorizes the specific game conditions as a template. Then he can repeat the same action next time when similar conditions happen. This way, familiarity with the situation enables quicker reactions.
 
-**Coaching** helps the player learn patterns of typical game situations more quickly. The coach points out mistakes and explains the correct action in the current situation. This way, the player receives a ready-made pattern and the correct response to it. His task is to remember this information and practice it in his own games. Then the player will make quick decisions in similar situations.
+**Coaching** helps the player to learn patterns of typical game situations more quickly. A coach highlights mistakes and explains the correct actions for each scenario. This provides the player with a ready-made pattern and the appropriate response to it. His task is to remember this information and practice it in his own games. Then the player will make quick decisions in similar circumstances.
 
-**Self-coaching** is a cross between the first two methods. When watching a replay, the player has time to reflect on a specific situation in the game. He can evaluate all the important factors that influence the outcome of the battle: the role of his champion, the compositions, and the key champions of both teams. From this, the player can conclude what the correct action would be, why it differs from his choice, etc. The player then tries to correct his behavior in a similar situation. If it does not work, trial and error begins.
+**Self-coaching** combines elements of the first two. While watching a replay, the player has time to reflect on a specific situation in the game. He can assess all critical factors that influence the outcome of the fight: the role of his champion, the compositions, and the key champions of both teams. From this analysis, the player can deduce the correct action, understand how it differs from his choice, etc. The player then tries to correct his behavior in similar situations in the future. If the adjustment does not work well, he may revert to a trial-and-error approach.
 
-When a teamfight is going on, a player has no time to think. If he recognizes a familiar pattern in the current situation, he will quickly execute the correct action. If the situation looks unfamiliar, the player will have no choice but act intuitively. This often leads to mistakes. Coaching and self-coaching allow him to correct these mistakes and memorize typical situations as templates.
+When a teamfight is going on, a player has no time to think. If he recognizes a familiar pattern in the current situation, he can quickly execute the appropriate action. If the situation seems unfamiliar, the player has no choice but to act intuitively. This often leads to mistakes. Coaching and self-coaching help the player to correct these mistakes and memorize typical situations as templates.
 
-When making decisions in teamfight, always remember the following rule:
+When making decisions during a teamfight, always remember this key principle:
 
 > The player should be as useful as possible without dying.
 
-This means that the player should focus on more than just killing opponents. Putting pressure on them is no less important than the obvious quantitative results: damage dealt and received. In other words, trading a player for one opponent is rarely the best choice. It is better to stay alive as long as possible and have the opportunity to influence events.
+This means that the player should focus on more than just eliminating opponents. Putting pressure on them is just as crucial as the measurable outcomes: damage dealt and received. In other words, trading a player for one opponent is not the best option. It is generally more advantageous to remain alive as long as possible and retain the ability to influence the fight's outcome.
 
 #### 2.3.7.4 Attention management
 
