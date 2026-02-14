@@ -565,23 +565,21 @@ This means that the player should focus on more than just eliminating opponents.
 
 #### 2.3.7.4 Attention management
 
->>>R1
+The fourth important player skill is **attention management**. During a teamfight, many objects — both allied and enemy champions — are present simultaneously in a small area of ​​the map. The player must effectively switch his attention between these objects. If he misses some important action done by one of the champions, he could make a critical mistake and lose the teamfight.
 
-The fourth important skill is **attention management**. During a teamfight, many objects — allied and enemy champions — are simultaneously present in a small area of ​​the map. The player must effectively switch attention between them. Otherwise, it is easy to make a mistake.
+**Tunnel vision** is one of the most common mistakes in a teamfight. It occurs when a player focuses his attention on one enemy champion. Typically, this is the target he is fighting or about to attack. As a result, the player lost sight of other participants in the fight. He simply does not see them and their actions. This leads to poor decision-making and positioning mistakes.
 
-**Tunnel vision** is one of the most common mistakes in a teamfight. It occurs when a player focuses his attention on only one enemy champion. Usually, this is the target he is fighting or about to attack. As a result, the player lost sight of all other participants in the fight. He simply does not see them and their actions. This leads to poor decisions and positioning mistakes.
+Experienced players often exploit the tunnel vision effect to bait opponents. To use this technique, a player must lure the enemies into believing that they have a false advantage. For example, the player approaches the enemy vision while at low health. Opponents could focus on this seemingly easy target and not notice the ambush.
 
-Experienced players often use the tunnel vision effect for baiting. To perform this technique, a player must lure the enemy into believing they have a false advantage. For example, he goes to the enemy vision with low health. Opponents could focus on the tempting target and not notice the ambush.
+How can a player effectively manage his attention and avoid tunnel vision? **First**, he should concentrate on his role in the teamfight. This means focusing on the targets that are relevant to his plan for the fight.
 
-How can you effectively manage your attention and avoid tunnel vision? **First**, a player must focus on his role in a teamfight. He should look at the targets that are part of his plan.
+Here is an example. The player picks a Disengage Tank for the frontline. The primary task of such a champion is to protect his backline. Therefore, the player should focus his attention on ally carries rather than on enemy champions during the teamfight. If an opponent threatens them, the player should neutralize this target immediately.
 
-Here is an example. Let us say a player's champion is a Disengage Tank for the frontline. His primary task is to protect his backline. Therefore, the player should focus more on his carries rather than on enemy champions. If an opponent threatens them, he must neutralize this target immediately.
+**Second**, the player must learn to recognize bait and not to follow it. If an enemy champion with low health appears within the team's vision, it does not guarantee an easy kill. First of all, the player should assess his dynamic resources and the overall map situation. If his resources are low or enemy champions are nowhere to be seen, it is better to abandon pursuit.
 
-**Second**, it is important to learn how to recognize bait and not to follow it. If an enemy champion with low health is in the team's vision, that does not guarantee a kill. Above all, a player should assess his dynamic resources and the map situation. If resources are low or enemies are nowhere to be seen, it is better to abandon pursuit.
+**Third**, we have already discussed the concept of the macro cycle. A player could apply it during a teamfight too. Events tend to unfold predictably during the laning phase. Therefore, the player can repeat his macro cycle with delays of a few seconds. During a fight, many events occur in a short period of time. To keep up with them, the player must shift his attention more frequently.
 
-**Third**, we have already discussed the concept of the  cycle. A player could apply it during a teamfight too. Events unfold fairly predictably in the laning phase. Therefore, a player can repeat the macro cycle with delays of a few seconds. During a fight, many events occur in a short period of time. To keep up with them, a player must shift his attention more frequently.
-
-A simple macro cycle during a teamfight looks like this:
+A simple macro cycle for a teamfight looks like this:
 
 1. Player's champion state:
 
@@ -603,7 +601,7 @@ A simple macro cycle during a teamfight looks like this:
    * Minions
    * Jungle monsters.
 
-When a player gets stuck on only the second item of this list, this is the tunnel vision effect. Inattention to the environment leads to poor positioning and missed opportunities.
+Focusing solely on the second item in this list leads to the tunnel vision effect. Ignoring the environment can result in poor positioning and missed opportunities.
 
 I> Check out [Chippys' video](https://www.youtube.com/watch?v=9fPNuziDEAI) for more practical tips on teamfights.
 
