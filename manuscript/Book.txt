@@ -11,5 +11,8 @@ mainmatter:
   Theory/economy.md
   Theory/fight.md
 
+  Micromanagement/README.md
+  Micromanagement/attack-animation.md
+
   glossary.md
   version.md
