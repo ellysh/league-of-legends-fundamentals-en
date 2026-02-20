@@ -22,53 +22,55 @@ Let us start with the simplest animation — a champion's basic attack.
 
 ### 3.1.1 Attack speed
 
-[**Базовая атака**](https://wiki.leagueoflegends.com/en-us/Basic_attack) или автоатака (basic attack, auto attack или AA) — это стандартный способ нанести противнику урон. Он доступен каждому чемпиону. Чтобы выполнить автоатаку, достаточно нажать правой кнопкой мыши по противнику.
+>>>R1
 
-Анимация автоатаки зависит от характеристики чемпиона, которая называется **общая скорость атаки** (total attack speed или total AS). Она складывается из следующих компонентов:
+A [**basic attack**](https://wiki.leagueoflegends.com/en-us/Basic_attack), also known as an auto-attack or AA, is the standard way to deal damage to an enemy. Every champion can perform a basic attack. If you want to give such a command, you need to simply right-click an enemy.
 
-1. **Базовая скорость атаки** (base attack speed или base AS) чемпиона.
+The basic attack animation depends on a champion's stat called **total attack speed** (or total AS). It is made up of the following components:
 
-2. **Дополнительная скорость атаки** (bonus AS) за уровень чемпиона.
+1. The champion's **base attack speed** (or base AS).
 
-3. Bonus AS за предметы.
+2. **Bonus attack speed** (or bonus AS) per champion level.
 
-4. Bonus AS за руны.
+3. Bonus AS from items.
 
-5. Bonus AS за умения.
+4. Bonus AS from runes.
 
-6. Bonus AS за усиления.
+5. Bonus AS from abilities.
 
-7. Штраф скорости атаки за ослабления.
+6. Bonus AS from buffs.
 
-Рассчитаем на примере общую скорость атаки (total AS). Возьмём чемпиона Ashe с base AS равной 0.66. На первом уровне без предметов, умений, рун на скорость атаки и усилений total AS чемпиона будет равна base AS. Это означает, что total AS равна 0.66.
+7. **Attack speed penalty** from debuffs.
 
-Допустим, что Ashe покупает предмет [Berserker's Greaves](https://wiki.leagueoflegends.com/en-us/Berserker's_Greaves). Он даёт bonus AS 35%. Тогда total AS рассчитывается по следующей формуле:
+We will calculate total attack speed (AS) using an example. Let us take the champion Ashe, with a base AS of 0.66. The champion's total AS equals the base AS at level 1 when she does not have any items, skills, attack speed runes, or buffs. This means that Ashe's total AS is currently 0.66.
+
+Let us assume that Ashe purchases the item [Berserker's Greaves](https://wiki.leagueoflegends.com/en-us/Berserker's_Greaves). It provides a 35% bonus to AS. Then, the total AS is calculated using the following formula:
 {line-numbers: false, format: text}
 ```
 total_AS = base_AS * (1 + bonus_AS / 100)
 ```
 
-Подставим числа и получим:
+When we substitute the numbers here, we get the following:
 {line-numbers: false, format: text}
 ```
 total_AS = 0.66 * (1 + 35 / 100) = 0.89
 ```
 
-I> У каждого чемпиона есть характеристика **коэффициент скорости атаки** (AS ratio). Это множитель для bonus AS. AS ratio у большинства чемпионов равен 1. Им предмет Berserker's Greaves даёт 35% AS. У некоторых чемпионов AS ratio меньше единицы (например, у Senna и Twisted Fate). Для них бонус от Berserker's Greaves окажется меньше 35%.
+I> Each champion has an **attack speed ratio** (or AS ratio). This is a multiplier for bonus AS. Most champions have an AS ratio of 1. The Berserker's Greaves item gives them 35% AS. Some champions have an AS ratio less than 1 (for example, Senna and Twisted Fate). The Berserker's Greaves item gives them less than 35% AS.
 
-Мы рассчитали общую скорость атаки (total AS). Она определяет, сколько времени чемпион будет проигрывать анимацию одной автоатаки. Этот параметр называется **время перезарядки автоатаки** (attack cooldown). Он рассчитывается так:
+We have calculated the total attack speed (total AS). It determines how long a champion will play the animation for a single basic attack. This parameter is called the **attack cooldown**. Here is the formula to calculate it:
 {line-numbers: false, format: text}
 ```
 attack_cooldown = 1 / total_AS
 ```
 
-Подставим числа для Ashe с Berserker's Greaves и получим:
+We can substitute here the numbers that we got for Ashe with the Berserker's Greaves item:
 {line-numbers: false, format: text}
 ```
 attack_cooldown = 1 / 0.89 = 1.12
 ```
 
-Это означает, что между двумя автоатаками чемпиона должно пройти минимум 1.12 секунды. Другими словами, чемпион не выполнит вторую автоатаку, пока не пройдёт время перезарядки.
+This means that a minimum of 1.12 seconds must pass between a champion's two basic attacks. In other words, the champion would not perform the second basic attack until the cooldown has passed.
 
 ### 3.1.2 Phases of basic attack
 
