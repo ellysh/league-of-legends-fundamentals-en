@@ -74,94 +74,96 @@ This means that a minimum of 1.12 seconds must pass between a champion's two bas
 
 ### 3.1.2 Phases of basic attack
 
-Мы научились рассчитывать время перезарядки автоатаки. Пока оно идёт, чемпион проигрывает полный цикл анимации атаки. Цикл состоит из трёх фаз:
+>>>R1
 
-1. **Windup** — замах.
+We have learned how to calculate the cooldown of a basic attack. Since the basic attack is running, the champion plays a full cycle of his attack animation. This cycle consists of three phases:
 
-2. **Firing** — удар или выстрел.
+1. **Windup** — the swing.
 
-3. **Recovery** — возврат в исходное положение.
+2. **Firing** — the strike or shot.
 
-Рассмотрим эти фазы на примере Ashe первого уровня без предметов. Её время перезарядки автоатаки равно 1.52 секунды:
+3. **Recovery** — the return to the starting position.
+
+Let us consider how Ashe at level 1, without items, plays through these three phases. Her basic attack cooldown is 1.52 seconds:
 {line-numbers: false, format: text}
 ```
 attack_cooldown = 1 / 0.66 = 1.52
 ```
 
-Иллюстрация 3-1 демонстрирует временную диаграмму одной автоатаки Ashe.
+Figure 3-1 shows the timeline diagram for a single Ashe's basic attacks.
 
-{caption: "Иллюстрация 3-1. Временная диаграмма автоатаки Ashe", width: "100%"}
-![Временная диаграмма автоатаки](images/Micromanagement/ashe-attack-animation.png)
+{caption: "Figure 3-1. The timeline diagram for Ashe's basic attacks", width: "100%"}
+![Basic Attack Timeline](images/Micromanagement/ashe-attack-animation.png)
 
-На иллюстрации изображена ось времени s. На ней отложены три отрезка. Каждый соответствует одной из трёх фаз анимации. Над отрезками приведены скриншоты из игры. Они демонстрируют кадры из соответствующей анимации.
+The Figure shows the time axis labeled s (seconds). There are three segments on the s-axis. Each segment corresponds to one of the three animation phases. There is a screenshot above each segment. It shows some frame from the corresponding champion animation.
 
-Рассмотрим диаграмму по шагам:
+Let us look at what is happening in the timeline diagram step by step:
 
-1. В точке A игрок нажимает правой кнопкой мыши на цель. С этого момента чемпион проигрывает фазу анимации windup: натягивает тетиву лука. Она длится 21.93% от всего времени перезарядки автоатаки. Это равно 0.33 секунды, согласно следующему расчёту:
+1. At point A, the player right-clicks the target. From this moment, the champion plays the windup animation phase: drawing the bow. This phase lasts 21.93% of the basic attack total cooldown. This equals 0.33 seconds, according to the following calculation:
 {line-numbers: false, format: text}
 ```
 windup = 1.52 * 21.93 / 100 = 0.33
 ```
 
-2. В точке B чемпион начинает фазу firing: выпускает стрелу в цель. Она длится всего 3.37% от времени перезарядки автоатаки. Это равно 0.05 секунд:
+2. At point B, the champion begins the firing phase: fires an arrow at the target. This phase lasts only 3.37% of the basic attack cooldown. This equals 0.05 seconds:
 {line-numbers: false, format: text}
 ```
 firing = 1.52 * 3.37 / 100 = 0.05
 ```
 
-3. В точке C чемпион начинает фазу recovery: достаёт из колчана следующую стрелу. Эта фаза длится 74.22% времени перезарядки автоатаки. Она составляет 1.13 секунды:
+3. At point C, the champion begins the recovery phase: draws the next arrow from the quiver. This phase lasts 74.22% of the basic attack cooldown. This equals 1.13 seconds:
 {line-numbers: false, format: text}
 ```
 windup = 1.52 * 74.22 / 100 = 1.13
 ```
 
-4. В точке D чемпион заканчивает полный цикл анимации. Прошло 1.52 секунды с момента, когда игрок дал команду в точке A. Если чемпион не получит новой команды, то в точке D он начнёт следующий цикл анимации атаки по той же цели.
+4. At point D, the champion completes a full animation cycle. In total, 1.52 seconds have passed since the player issued the command at point A. If the champion does not receive a new command, he begins the next attack animation cycle at point D on the same target.
 
-В любой момент на отрезка A-D игрок может дать чемпиону команду на движение. Её результат зависит от фазы анимации, которую сейчас проигрывает чемпион. Возможны [три случая](https://wiki.leagueoflegends.com/en-us/Stutter-stepping):
+At any point during the A-D segment, a player can issue a movement command to the champion. The outcome of this command depends on the animation phase the champion is currently playing. There are [three possible cases](https://wiki.leagueoflegends.com/en-us/Stutter-stepping):
 
-1. Отрезок A-B — команда попала на фазу windup:
+1. Segment A-B — the command was issued during the windup phase:
 
-   * Чемпион отменит автоатаку.
+* The champion will cancel his basic attack.
 
-   * Цель атаки не получит урон.
+* The attack target will not take damage.
 
-   * Таймер перезарядки автоатаки сбросится в ноль.
+* The basic attack cooldown timer will reset to zero.
 
-   * Игрок может запустить следующую автоатаку в любой момент. Её анимация начнётся с фазы windup (точка A).
+* The player can launch his next auto-attack at any time. Its animation will begin with the windup phase (point A).
 
-2. Отрезок B-C — команда попала на фазу firing:
+2. Segment B-C — the command was issued during the firing phase:
 
-   * Команда на движение попадёт в очередь.
+* The move command will be queued.
 
-   * Чемпион выполнит автоатаку.
+* The champion will perform an auto-attack.
 
-   * Цель атаки получит урон, если атака в ближнем бою. В случае дальнего боя цель получит урон, когда в неё попадёт снаряд.
+* The attack target will take damage if the attack is melee. If the attack is ranged, the target will take damage when the projectile hits it.
 
-   * Таймер перезарядки автоатаки продолжит идти.
+* The auto-attack cooldown timer will continue to run.
 
-   * После окончания анимации firing (точка C) команда на движение извлекается из очереди. Чемпион её выполнит, вместо анимации recovery. Он идёт в указанную точку.
+* After the firing animation (point C) ends, the move command is removed from the queue. The champion will perform it instead of the recovery animation. He moves to the designated point.
 
-   * Игрок не может запустить следующую автоатаку. Сначала должен закончиться таймер перезарядки автоатаки в точке D.
+* The player cannot launch his next auto-attack until its cooldown timer finishes at point D.
 
-3. Отрезок C-D — команда попала на фазу recovery:
+3. Segment C-D — the command was issued during the recovery phase:
 
-   * Чемпион уже выполнил автоатаку.
+* The champion has already performed an auto-attack.
 
-   * Цель атаки уже получила урон.
+* The attack target has already taken damage.
 
-   * Таймер перезарядки автоатаки продолжает идти.
+* The basic attack cooldown timer continues to run.
 
-   * Чемпион прекращает анимацию recovery и идёт в указанную точку.
+* The champion ends the recovery animation early and moves to the target location.
 
-   * Игрок не может запустить следующую автоатаку. Сначала должен закончиться таймер перезарядки автоатаки в точке D.
+* The player cannot launch his next auto-attack until its cooldown timer finishes at point D.
 
-Из правил сочетания двух команд можно сделать следующие выводы:
+We can draw the following conclusion from the rules for combining the two commands:
 
-1. Отмена фазы windup — это почти всегда ошибка. Она уменьшает урон чемпиона в секунду (DPS). Единственный случай, когда отмена оправдана, — игрок обнаружил опасность и вынужден немедленно отступать.
+1. Canceling the windup phase is almost always a mistake. It reduces the champion's damage per second (DPS). The only time canceling is justified is when the player has detected danger and needs to retreat immediately.
 
-2. Фаза recovery всегда занимает большую часть времени перезарядки автоатаки. Позволять чемпиону её проигрывать — значит впустую тратить время. Вместо этого следует двигаться или использовать умение.
+2. The recovery phase always takes up the majority of the basic attack cooldown. Allowing the champion to play it is a waste of time. Instead, he should move or use an ability.
 
-3. Самый эффективный способ отменить фазу recovery — дать команду во время firing. Тогда сразу после firing чемпион исполнит новую команду.
+3. The most effective way to cancel the recovery phase is to issue a command while in the firing phase. Then, the champion will execute a new command immediately after firing is done.
 
 ### 3.1.3 Basic attack and move
 
