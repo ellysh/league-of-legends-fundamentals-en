@@ -167,48 +167,50 @@ We can draw the following conclusion from the rules for combining the two comman
 
 ### 3.1.3 Basic attack and move
 
-Отмена фазы автоатаки recovery часто применяется на практике. Приём **attack move** (атака и движение) — это отмена анимации с помощью команды на движение.
+>>>R1
 
-I> Следующее [видео на канале Skill Capped](https://www.youtube.com/watch?app=desktop&v=-oyxOgtT33U) подробно объясняет приём attack move.
+Canceling the auto-attack recovery phase is often used in practice. It has several variants. The **attack move** technique cancels the recovery animation with a move command.
 
-Рассмотрим временную диаграмму приёма attack move. Её демонстрирует иллюстрация 3-2.
+I> The following [video on the Skill Capped channel](https://www.youtube.com/watch?app=desktop&v=-oyxOgtT33U) explains the attack move in detail.
 
-{caption: "Иллюстрация 3-2. Временная диаграмма attack move", width: "100%"}
-![Временная диаграмма attack move](images/Micromanagement/ashe-attack-move.png)
+Figure 3-2 shows the timeline diagram for the attack move technique.
 
-Шаги этого приёма следующие:
+{caption: "Figure 3-2. The timeline diagram for the attack move technique", width: "100%"}
+![Attack move timeline](images/Micromanagement/ashe-attack-move.png)
 
-1. В точке A игрок даёт команду на атаку. Чемпион проигрывает фазу анимации windup.
+The steps of this technique are as follows:
 
-2. В точке B чемпион начинает фазу firing.
+1. At point A, the player issues an attack command. The champion plays the windup animation phase.
 
-3. На отрезке B-C или в точке C игрок даёт команду на движение. Чемпион начинает двигаться сразу после завершения анимации firing. Это происходит на отрезке C-D, который длится 1.13 секунды.
+2. At point B, the champion begins the firing phase.
 
-4. В точке D заканчивается таймер перезарядки автоатаки. Начиная с этого момента игрок может дать команду на следующую атаку.
+3. On segment B-C or at point C, the player issues a move command. The champion begins moving immediately after the firing animation completes. This occurs on segment C-D, which lasts 1.13 seconds.
 
-Технику attack move применяют в двух случаях:
+4. At point D, the basic attack cooldown timer ends. From this point on, the player can issue the next attack command.
 
-1. Чтобы преследовать противника и наносить ему урон.
+The attack move technique is used in two situations:
 
-2. Чтобы отступать и наносить противнику урон.
+1. To pursue and damage an enemy.
 
-В **первом случае** приём увеличивает урон по отступающему противнику. Рассмотрим разницу между командой на атаку и приёмом attack move:
+2. To retreat and damage an enemy.
 
-* Если дать чемпиону команду на атаку, он будет стоять на месте и проигрывать все три фазы анимации. Когда противник выйдет из радиуса атаки Ashe, она отреагирует на это только в точке D. Другими словами, она начнёт двигаться только после окончания фазы recovery.
+In the **first case**, the technique increases damage to a retreating enemy. Let us look at the difference between the attack command and the attack move:
 
-* Если применить **attack move**, чемпион будет двигаться к противнику вместо проигрывания анимации фазы firing. Это означает, что Ashe будет реагировать на его перемещение намного быстрее.
+* If you issue an **attack command** to a champion, he will stand still and play through all three animation phases. When an enemy moves out of Ashe's attack range, she will only react to this at point D. In other words, she will begin moving after the recovery phase ends.
 
-Во **втором случае** приём уменьшает урон по отступающему чемпиону. Рассмотрим разницу между attack move и отдельными командами:
+* If you use **attack move**, the champion will move toward the enemy instead of playing the recovery animation. This means that Ashe will react to his movement much faster.
 
-* Если игрок даёт команду на атаку, чемпион стоит на месте и проигрывает все три фазы анимации. В этом случае он просто разменивается с противником уроном. Такой размен называется [**stat check**](https://www.reddit.com/r/leagueoflegends/comments/10q7lmk/comment/j6ob8tk/). Его выигрывает тот чемпион, у которого характеристики больше.
+In the **second case**, the technique reduces damage to the retreating player's champion. Let's consider the difference between the attack move and individual commands:
 
-* Игрок может дать команду на движение и только отступать. В этом случае он будет получать урон до тех пор, пока не выйдет из радиуса атаки противника. Противник при это не получит никакого урона.
+* If a player issues an **attack command**, the champion stands still and plays all three animation phases. In this case, he simply trades damage with the enemy. This exchange is called a [**stat check**](https://www.reddit.com/r/leagueoflegends/comments/10q7lmk/comment/j6ob8tk/). The champion with the higher stats wins it.
 
-* Если применить **attack move**, чемпион будет размениваться уроном с противником и при этом сохранять с ним дистанцию. Это открывает две возможности. Игрок может либо перейти только к отступлению, если проиграл трейд, либо перейти в all-in, если выиграл трейд. Ни одно из отдельных действий таких возможностей не даёт.
+* A player can issue a **move command** and only retreat. In this case, he will take damage until he moves out of the enemy's attack range. The enemy will not take any damage during this time.
 
-I> **All-in** (аллын) — активный бой до победы, в котором используются все доступные умения и средства атаки. Обычно all-in заканчивается смертью одного из участников, если это дуэль.
+* If you use **attack move**, the champion will trade damage with the enemy while maintaining distance from him. This opens up two possibilities. A player can either retreat if he loses the trade or go all-in if he wins it.
 
-Когда attack move применяет чемпион дальнего боя против оппонента ближнего боя, это называется **kiting** (кайтинг). Если скорость движения чемпиона больше, противник не сможет его атаковать.
+I> **All-in** term means an active fight to victory, using all available champion's abilities and attack methods. An all-in typically ends with the death of one of the participants if it is a duel.
+
+When a ranged champion uses an attack move against a melee opponent, it is called **kiting**. If the champion's movement speed is greater, the opponent will be unable to attack him.
 
 ### 3.1.4 Execution of the attack move
 
