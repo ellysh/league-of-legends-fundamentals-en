@@ -169,7 +169,7 @@ We can draw the following conclusion from the rules for combining the two comman
 
 >>>R1
 
-Canceling the auto-attack recovery phase is often used in practice. It has several variants. The **attack move** technique cancels the recovery animation with a move command.
+Canceling the auto-attack recovery phase is often used in practice. It has several variants. The **attack move** (attack and move) technique cancels the recovery animation with a move command.
 
 I> The following [video on the Skill Capped channel](https://www.youtube.com/watch?app=desktop&v=-oyxOgtT33U) explains the attack move in detail.
 
@@ -285,31 +285,33 @@ Note the relationship between attack speed and the champion's movement pattern. 
 
 ### 3.1.5 Basic attack and using an ability
 
-Мы рассмотрели отмену анимации атаки командой на движение. Это только один из четырёх способов. Вот полный список действий, которые отменяют анимацию атаки:
+>>>R1
 
-1. Движение
-2. Умение чемпиона
-3. Заклинание призывателя
-4. Активный эффект предмета.
+We have looked at canceling an attack animation with a move command. This is only one of four methods. Here is a full list of actions that cancel the attack animation:
 
-Рассмотрим второй вариант: отмена анимации атаки умением чемпиона. Назовём этот приём аналогично первому варианту — **attack ability** (атака и умение). Третий и четвёртый варианты работают аналогично ему.
+1. Movement
+2. Champion ability
+3. Summoner spell
+4. Active item ability.
 
-Иллюстрация 3-6 показывает временную диаграмму, когда умение чемпиона отменяет анимацию атаки.
+Let us look at the second option: canceling an attack animation with a champion ability. We can call this technique similar to the first option — **attack ability** (attack and ability). The third and fourth options work in the same way.
 
-{caption: "Иллюстрация 3-6. Временная диаграмма отмены анимации атаки умением", width: "100%"}
-![Временная диаграмма отмены анимации атаки умением](images/Micromanagement/ashe-attack-ability.png)
+Figure 3-6 shows the timeline diagram for the technique when a champion ability cancels an attack animation.
 
-Шаги этого приёма следующие:
+{caption: "Figure 3-6. The timeline diagram for the attack ability technique", width: "100%"}
+![Attack ability timeline](images/Micromanagement/ashe-attack-ability.png)
 
-1. В точке A игрок даёт команду на атаку. Чемпион проигрывает фазу анимации AA windup.
+The steps of this technique are as follows:
 
-2. В точке B чемпион начинает фазу AA firing.
+1. At point A, the player issues an attack command. The champion plays the AA windup animation phase.
 
-3. На отрезке B-C или в точке C игрок даёт команду применить умение W. Чемпион начинает выполнять его анимацию сразу после завершения фазы AA firing. Это происходит на отрезке C-D и далее.
+2. At point B, the champion begins the AA firing phase.
 
-4. В точке D заканчивается таймер перезарядки автоатаки. Начиная с этого момента игрок может дать команду на следующую атаку.
+3. On the B-C segment or at point C, the player issues the W command. The champion begins its animation immediately after the AA firing phase ends. This occurs on the C-D segment and beyond.
 
-Приём attack ability применяют, когда нужно выдать максимальный урон в единицу времени (DPS). При этом цель находится в радиусе атаки и умений. Это особенно хорошо работает по обездвиженной цели. Если цель двигается и разрывает дистанцию, игроку придётся чередовать приёмы attack move и attack ability.
+4. At point D, the auto-attack cooldown timer ends. From this point on, the player can issue the next attack command.
+
+The attack ability is used when maximum damage per second (DPS) is needed. The target should be within attack and ability range. This works especially well against a rooted target. If the target moves out of range, the player will have to alternate between attack moves and attack ability techniques.
 
 ### 3.1.6 Execution of the attack ability
 
