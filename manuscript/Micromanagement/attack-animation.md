@@ -214,72 +214,74 @@ When a ranged champion uses an attack move against a melee opponent, it is calle
 
 ### 3.1.4 Execution of the attack move
 
-Рассмотрим, как исполнять приём attack move. Для этого надо изменить две настройки игры и  настройку мыши.
+>>>R1
 
-**Первая настройка** находится во вкладке "HOTKEYS". Она называется "Player Attack Move Click". Её демонстрирует иллюстрация 3-3.
+Let us look at how to perform an attack move in practice. To do this, you need to change two game settings and a mouse setting.
 
-{caption: "Иллюстрация 3-3. Настройка 'Player Attack Move Click'", height: "50%"}
-![Настройка Player Attack Move Click](images/Micromanagement/options-player-attack-move-click.png)
+The **first game setting** is located in the "HOTKEYS" tab and is called "Player Attack Move Click" hotkey. Figure 3-3 shows it.
 
-Эта горячая клавиша даёт команду на движение в указанную точку. Как только в радиусе атаки окажется противник, чемпион начнёт его атаковать. Назначьте для этого действия клавишу A. Тогда при её нажатии чемпион будет атаковать ближайшую к нему цель, если она находится в радиусе атаки.
+{caption: "Figure 3-3. 'Player Attack Move Click' hotkey", height: "50%"}
+![Player Attack Move Click hotkey](images/Micromanagement/options-player-attack-move-click.png)
 
-**Вторая настройка** находится во вкладке "GAME" и называется "Attack move on cursor". Её демонстрирует иллюстрация 3-4.
+This hotkey issues a movement command to a specified point. As soon as an enemy is within attack range, the champion will begin attacking him. You need to assign the A key to this action. Then, when you press it, the champion will attack the closest target within attack range.
 
-{caption: "Иллюстрация 3-4. Настройка 'Attack move on cursor'", width: "100%"}
-![Настройка Attack move on cursor](images/Micromanagement/options-attack-move-on-cursor.png)
+The **second game setting** is located in the "GAME" tab and is called "Attack move on cursor". Figure 3-4 shows it.
 
-Эта настройка делает следующее:
+{caption: "Figure 3-4. 'Attack move on cursor' setting", width: "100%"}
+![Attack move on cursor setting](images/Micromanagement/options-attack-move-on-cursor.png)
 
-* Включить — команда attack move (клавиша A) выбирает цель, ближайшую к курсору мыши.
+Changing this setting provides the following effect:
 
-* Выключить — команда attack move (клавиша A) выбирает цель, ближайшую к чемпиону.
+* Enable — the attack move command (A key) selects the target closest to the mouse cursor.
 
-Включите эту настройку. Тогда вы сможете выбирать цель для атаки с помощью положения курсора мыши.
+* Disable — the attack move command (A key) selects the target closest to the champion.
 
-**Третья настройка** — выключить ускорение мыши в настройках ОС. Для пользователей Windows 11 шаги выглядят так:
+You need to enable this setting. Then you can select an attack target using the mouse cursor position.
 
-1. Нажмите "Пуск" (Start) -> "Параметры" (Settings). Откроется окно "Параметры" (Settings).
+**The third setting** is to turn off mouse acceleration in the OS settings. Here are the steps for Windows 11 users:
 
-2. В левом меню выберите пункт "Bluetooth и устройства" (Bluetooth & devices).
+1. Click "Start" -> "Settings". The "Settings" window will open.
 
-3. В правой части окна выберите пункт "Мышь" (Mouse). Откроется меню настройки мыши.
+2. Select the "Bluetooth & devices" option in the left-side menu.
 
-4. Выключите опцию "Включить повышенную точность установки указателя" (Enhance pointer precision).
+3. Select the "Mouse" item in the right part of the window. The mouse settings menu will open.
 
-Иллюстрация 3-5 демонстрирует выключение ускорения мыши.
+4. Disable the "Enhance pointer precision" option.
 
-{caption: "Иллюстрация 3-5. Настройка 'Включить повышенную точность установки указателя'", width: "100%"}
-![Настройка Enhance pointer precision](images/Micromanagement/mouse-acceleration-disable.png)
+Figure 3-5 shows turning off mouse acceleration.
 
-Эта настройка управляет ускорением мыши. Если оно включено, то положение указателя зависит от двух факторов:
+{caption: "Figure 3-5. 'Enhance pointer precision' setting", width: "100%"}
+![Enhance pointer precision setting](images/Micromanagement/mouse-acceleration-disable.png)
 
-1. Расстояние на которое вы переместили мышь.
+This setting controls mouse acceleration. When it is enabled, the position of the pointer depends on two factors:
 
-2. Скорость с которой вы двигали мышь.
+1. The distance you move the mouse.
 
-Это удобно при работе на больших мониторах. Но ускорение сильно мешает развивать мышечную память во всех компьютерных играх. Поэтому опцию надо выключить. Тогда положение указателя будет зависеть только от расстояния на которое вы переместили мышь.
+2. The speed at which you move the mouse.
 
-Теперь рассмотрим, как исполнить приём attack move с новыми настройками. Для этого выполните следующие шаги:
+Mouse acceleration is useful when working on large monitors. But it greatly hinders the development of muscle memory in all computer games. Therefore, you should turn off this option. Then, the pointer position will depend only on the distance you move the mouse, but not on the speed.
 
-1. Приблизьте курсор мыши к цели. Его необязательно наводить точно на цель.
+Now, let us look at how to perform an attack move technique with the new settings. Perform the following steps to execute it:
 
-2. Нажмите горячую клавишу A. Чемпион начнёт выполнять фазу windup анимации атаки.
+1. Move the mouse cursor close to the target. It does not have to be exactly on the target.
 
-3. Переместите курсор мыши в точку, куда должен двигаться чемпион. Это должно быть направление на противника или от него.
+2. Press the A hotkey. The champion will begin the windup phase of the attack animation.
 
-4. Когда чемпион начнёт фазу firing или recovery, нажмите правую кнопку мыши. Чемпион будет двигаться в указанную точку.
+3. Move the mouse cursor to the point where you want the champion to move. This should be either toward or away from the enemy.
 
-5. Считайте в уме таймер перезарядки автоатаки. Когда он закончится, начните следующую атаку с шага 1.
+4. When the champion begins the firing or recovery phase, right-click. The champion will move to the specified point.
 
-При исполнении attack move игроки совершают следующие типичные ошибки:
+5. Calculate the auto attack cooldown timer. When it ends, begin your next attack from step 1.
 
-* Дают команду на движение слишком рано. Если она попадёт на фазу windup, то отменит атаку чемпиона. Это сильно уменьшает его DPS.
+When performing the attack move technique, players make the following common mistakes:
 
-* Дают чемпиону двигаться дольше, чем идёт таймер перезарядки атаки. Это мешает реализовать высокую скорость атаки чемпиона.
+* Issuing the move command too early. If it happens during the windup phase, it cancels the champion's attack. This significantly reduces the champion's DPS.
 
-Тренируйте приём attack move в режиме "Practice tool". Почувствуйте ритм атаки своего чемпиона на разных уровнях и с разными предметами. Тогда вы научитесь атаковать точно в момент окончания таймера перезарядки.
+* Allows the champion to move longer than his attack cooldown timer. This prevents the champion from utilizing his high attack speed.
 
-Обратите внимание на связь между скоростью атаки и характером передвижения чемпиона. При низкой скорости атаки, чемпион двигается длинными отрезками. При высокой скорости атаки эти отрезки укорачиваются.
+Practice the attack move technique in the "Practice Tool" mode. Get a feel for your champion's attack rhythm at different levels and with different items. Then you will learn to attack precisely when the cooldown timer ends.
+
+Note the relationship between attack speed and the champion's movement pattern. With low attack speed, the champion moves with long segments. With high attack speed, these segments are shortened.
 
 ### 3.1.5 Basic attack and using an ability
 
