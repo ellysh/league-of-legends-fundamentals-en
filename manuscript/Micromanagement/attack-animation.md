@@ -315,31 +315,34 @@ The attack ability is used when maximum damage per second (DPS) is needed. The t
 
 ### 3.1.6 Execution of the attack ability
 
-Чтобы эффективно исполнять приём attack ability, надо переключить все умения чемпиона на "Quick Cast". Эта настройка находится на вкладке "HOTKEYS". Её демонстрирует иллюстрация 3-7.
+>>>R1
 
-{caption: "Иллюстрация 3-7. Настройка 'Quick Cast All'", width: "100%"}
-![Настройка Quick Cast All](images/Micromanagement/quick-cast.png)
+You need to set all champion's abilities to "Quick Cast to perform the attack ability technique effectively. This setting is located in the "HOTKEYS" tab. Figure 3-7 shows it.
 
-На вкладке "HOTKEYS" нажмите кнопку "Quick Cast All". Тогда чемпион применит умение, как только вы отпустите соответствующую кнопку (например, W). Вам больше не нужно нажимать её дважды. Это значительно ускоряет действия в игре, но к этой настройке надо привыкнуть.
+{caption: "Figure 3-7. 'Quick Cast All' setting", width: "100%"}
+![Quick Cast All setting](images/Micromanagement/quick-cast.png)
 
-Обратите внимание, что некоторые умения с [**зарядкой**](https://leagueoflegends.fandom.com/ru/wiki/Подготовка) (charging) не стоит настраивать на Quick Cast. Если чемпион может двигаться во время зарядки, его позицию можно сменить заклинанием призывателя [скачок](https://leagueoflegends.fandom.com/ru/wiki/Скачок_(заклинание_призывателя)) (flash). Зажимать клавишу Quick Cast умения и одновременно использовать скачок неудобно. Легче когда умение настроено на Normal Cast (по-умолчанию). Вот примеры умений, которым не нужен Quick Cast: Vi Q, Viego W.
+You need to press the "Quick Cast All" button in the "HOTKEYS" tab. This will cause the champion to cast the ability as soon as you release the corresponding key (e.g., W). You no longer need to press the key twice. This significantly speeds up in-game actions, but it takes some getting used to.
 
-Теперь рассмотрим, как исполнить приём attack ability с настройкой умений на Quick Cast. Для этого выполните следующие шаги:
 
-1. Приблизьте курсор мыши к цели. Его необязательно наводить точно на цель.
+Please note that some abilities with [**charge**](https://wiki.leagueoflegends.com/en-us/Channel#Charged_Abilities) should not be set to Quick Cast. If a champion can move while charging, he can change his position with a summoner spell [**Flash**](https://wiki.leagueoflegends.com/en-us/Flash). Holding down the Quick Cast key while flashing is inconvenient. It is easier to execute when the ability is set to Normal Cast (the default). Here are some examples of abilities that do not require Quick Cast: Vi Q, Viego W.
 
-2. Нажмите горячую клавишу A. Чемпион начнёт выполнять фазу windup анимации атаки.
+Now, let us look at how to perform the attack ability technique with abilities that are set to Quick Cast. Perform the following steps to execute it:
 
-3. Наведите курсор мыши так, чтобы умение попало в цель.
+1. Move the mouse cursor close to the target. It does not have to be exactly on the target.
 
-4. Когда чемпион начнёт фазу firing или recovery, нажмите кнопку умения. Чемпион применит его вместо того, чтобы проигрывать анимацию recovery.
+2. Press the A hotkey. The champion will begin the windup phase of the attack animation.
 
-Типичная ошибка при исполнении этого приёма: применить умение на фазе windup анимации атаки. Тогда чемпион отменит атаку и использует умение. Это сильно уменьшает его DPS и может сломать комбо.
+3. Position the mouse cursor so the ability hits the target.
 
-Тренируйте приём attack ability в "Practice tool". Постарайтесь запомнить две вещи на вашем основном чемпионе:
+4. When the champion begins the firing or recovery phase, press the ability hotkey. The champion will use it instead of playing the recovery animation.
 
-1. Как выглядит анимация firing вашего чемпиона, а также её примерное время на разных уровнях и предметах. Тогда вы не будете отменять её умением.
+A common mistake when performing this technique is to use the ability during the windup phase of the attack animation. In this case, the champion cancels the auto-attack and uses the ability. This greatly reduces the champion's DPS and can break the combo.
 
-2. Область действия всех умений. Тогда вам не придётся зажимать кнопки, чтобы проверить радиус умений. Это может сэкономить секунды, которые решат исход сражения.
+You can practice the attack ability technique in the "Practice Tool." Try to remember two things about your main champion:
+
+1. What your champion's firing animation looks like, as well as its approximate timing at different levels and items. Then you would not cancel it with an ability.
+
+2. The area of ​​effect of all abilities. This way, you would not have to hold down buttons to check the radius of abilities. This can save seconds that can decide the outcome of the fight.
 
 {pagebreak}
