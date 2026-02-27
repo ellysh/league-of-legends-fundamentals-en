@@ -1,12 +1,10 @@
 ## 3.1 Basic attack animation
 
->>>R1
+Every champion in League of Legends has a unique **combo**, which is a sequence of actions that enhances his effectiveness. For instance, an attacking combo increases a champion's damage per second (DPS).
 
-Every champion in League of Legends has a unique **combo**. This is a sequence of actions that increases their effect. For example, an attacking combo increases a champion's damage per second (DPS).
+To execute any combo, it is essential to understand how to work with animations. When a player issues an action command, the champion performs specific movements to act. These movements are called **action animation**. Typically, each action has its own distinct animation.
 
-To perform any combo, you need to understand how to work with animation. When a player issues an action command, the champion performs specific movements to execute it. These movements are called **action animation**. Typically, each action has its unique animation.
-
-Working with animation is a complex but important topic. Mastering it requires time and regular practice. If a player does not know how to work with animation, he cannot perform the following tasks effectively:
+Manipulating animation is a complex but crucial aspect of gameplay. Mastering it requires time and regular practice. Without a solid understanding of how to work with animation, a player may struggle to perform the following tasks effectively:
 
 1. Farm jungle monsters.
 2. Farm minions in the lane.
@@ -14,11 +12,11 @@ Working with animation is a complex but important topic. Mastering it requires t
 4. Win trades in lane.
 5. Win duels in lane or jungle.
 
-I> A **trade** is an exchange of damage between opponents in a lane. Each side aims to inflict more damage on the opponent than it receives in return. Such a trade is considered successful and gives the winner an advantage in dynamic resources.
+I> A **trade** is an exchange of damage between opponents in a lane. Each side aims to inflict more damage on the opponent than it receives in return. A trade is considered successful when one champion gains an advantage in dynamic resources.
 
-In other words, working with animation enables you to acquire and utilize resources effectively. Neither is possible without this skill.
+In summary, understanding animation is vital for acquiring and utilizing resources effectively in the game. Neither is achievable without this skill.
 
-Let us start with the simplest animation — a champion's basic attack.
+Let us begin with the simplest animation: a champion's basic attack.
 
 ### 3.1.1 Attack speed
 
