@@ -20,11 +20,9 @@ Let us begin with the simplest animation: a champion's basic attack.
 
 ### 3.1.1 Attack speed
 
->>>R1
+A [**basic attack**](https://wiki.leagueoflegends.com/en-us/Basic_attack), also known as an auto-attack or AA, is the standard method for dealing damage to an enemy. Every champion can perform a basic attack. To issue this command, simply right-click on an enemy.
 
-A [**basic attack**](https://wiki.leagueoflegends.com/en-us/Basic_attack), also known as an auto-attack or AA, is the standard way to deal damage to an enemy. Every champion can perform a basic attack. If you want to give such a command, you need to simply right-click an enemy.
-
-The basic attack animation depends on a champion's stat called **total attack speed** (or total AS). It is made up of the following components:
+The basic attack animation depends on a champion's stat called **total attack speed** (or total AS). It is calculated based on several components:
 
 1. The champion's **base attack speed** (or base AS).
 
@@ -40,9 +38,9 @@ The basic attack animation depends on a champion's stat called **total attack sp
 
 7. **Attack speed penalty** from debuffs.
 
-We will calculate total attack speed (AS) using an example. Let us take the champion Ashe, with a base AS of 0.66. The champion's total AS equals the base AS at level 1 when she does not have any items, skills, attack speed runes, or buffs. This means that Ashe's total AS is currently 0.66.
+We will calculate total attack speed (AS) using an example. Let us take the champion Ashe, with a base AS of 0.66. The champion's total AS equals the base AS at level 1 when she does not have any items, abilities, attack speed runes, or buffs. This means that Ashe's total AS is currently 0.66.
 
-Let us assume that Ashe purchases the item [Berserker's Greaves](https://wiki.leagueoflegends.com/en-us/Berserker's_Greaves). It provides a 35% bonus to AS. Then, the total AS is calculated using the following formula:
+Let us assume that Ashe purchases the item [Berserker's Greaves](https://wiki.leagueoflegends.com/en-us/Berserker's_Greaves). It provides a 35% bonus to AS. We calculate the total AS using the following formula:
 {line-numbers: false, format: text}
 ```
 total_AS = base_AS * (1 + bonus_AS / 100)
@@ -54,9 +52,9 @@ When we substitute the numbers here, we get the following:
 total_AS = 0.66 * (1 + 35 / 100) = 0.89
 ```
 
-I> Each champion has an **attack speed ratio** (or AS ratio). This is a multiplier for bonus AS. Most champions have an AS ratio of 1. The Berserker's Greaves item gives them 35% AS. Some champions have an AS ratio less than 1 (for example, Senna and Twisted Fate). The Berserker's Greaves item gives them less than 35% AS.
+I> Each champion has an **attack speed ratio** (or AS ratio). This is a multiplier for bonus AS. Most champions have an AS ratio of 1. The Berserker's Greaves item gives them 35% bonus AS. Some champions have an AS ratio less than 1 (for example, Senna and Twisted Fate). The Berserker's Greaves item gives them less than 35% bonus AS.
 
-We have calculated the total attack speed (total AS). It determines how long a champion will play the animation for a single basic attack. This parameter is called the **attack cooldown**. Here is the formula to calculate it:
+We have calculated the total attack speed (total AS). It determines the duration of the animation for a single basic attack. This duration is called the **attack cooldown**. Here is the formula to calculate it:
 {line-numbers: false, format: text}
 ```
 attack_cooldown = 1 / total_AS
@@ -68,7 +66,7 @@ We can substitute here the numbers that we got for Ashe with the Berserker's Gre
 attack_cooldown = 1 / 0.89 = 1.12
 ```
 
-This means that a minimum of 1.12 seconds must pass between a champion's two basic attacks. In other words, the champion would not perform the second basic attack until the cooldown has passed.
+This means that at least 1.12 seconds must pass between two basic attacks. In other words, the champion will not perform the second basic attack until the cooldown has expired.
 
 ### 3.1.2 Phases of basic attack
 
