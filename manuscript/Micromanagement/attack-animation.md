@@ -70,32 +70,30 @@ This means that at least 1.12 seconds must pass between two basic attacks. In ot
 
 ### 3.1.2 Phases of basic attack
 
->>>R1
+We have learned how to calculate the cooldown of a basic attack. When a champion executes a basic attack, he goes through a full cycle of his attack animation. This cycle consists of three phases:
 
-We have learned how to calculate the cooldown of a basic attack. Since the basic attack is running, the champion plays a full cycle of his attack animation. This cycle consists of three phases:
+1. **Windup** — the preparation for the attack (for example, swing for a strike).
 
-1. **Windup** — the swing.
-
-2. **Firing** — the strike or shot.
+2. **Firing** — the execution of the strike or shot.
 
 3. **Recovery** — the return to the starting position.
 
-Let us consider how Ashe at level 1, without items, plays through these three phases. Her basic attack cooldown is 1.52 seconds:
+Let us examine Ashe at level 1, without items. Her basic attack cooldown is 1.52 seconds, calculated as follows:
 {line-numbers: false, format: text}
 ```
 attack_cooldown = 1 / 0.66 = 1.52
 ```
 
-Figure 3-1 shows the timeline diagram for a single Ashe's basic attacks.
+Figure 3-1 shows the timeline diagram for a single Ashe's basic attack.
 
-{caption: "Figure 3-1. The timeline diagram for Ashe's basic attacks", width: "100%"}
+{caption: "Figure 3-1. The timeline diagram for Ashe's basic attack", width: "100%"}
 ![Basic Attack Timeline](images/Micromanagement/ashe-attack-animation.png)
 
-The Figure shows the time axis labeled s (seconds). There are three segments on the s-axis. Each segment corresponds to one of the three animation phases. There is a screenshot above each segment. It shows some frame from the corresponding champion animation.
+The Figure shows the time axis labeled "s" (seconds). There are three segments on the s-axis. Each segment corresponds to one of the three animation phases. There is a screenshot above each segment. It shows a frame from the corresponding champion animation.
 
-Let us look at what is happening in the timeline diagram step by step:
+Let us go through the timeline diagram step by step:
 
-1. At point A, the player right-clicks the target. From this moment, the champion plays the windup animation phase: drawing the bow. This phase lasts 21.93% of the basic attack total cooldown. This equals 0.33 seconds, according to the following calculation:
+1. At point A, the player right-clicks the target. From this moment, the champion begins the windup animation phase: drawing the bow. This phase lasts 21.93% of the basic attack cooldown. This equals 0.33 seconds, according to the following calculation:
 {line-numbers: false, format: text}
 ```
 windup = 1.52 * 21.93 / 100 = 0.33
@@ -115,35 +113,35 @@ windup = 1.52 * 74.22 / 100 = 1.13
 
 4. At point D, the champion completes a full animation cycle. In total, 1.52 seconds have passed since the player issued the command at point A. If the champion does not receive a new command, he begins the next attack animation cycle at point D on the same target.
 
-At any point during the A-D segment, a player can issue a movement command to the champion. The outcome of this command depends on the animation phase the champion is currently playing. There are [three possible cases](https://wiki.leagueoflegends.com/en-us/Stutter-stepping):
+At any point during the A-D segment, a player can issue a movement command to the champion. The outcome of this command will depend on the animation phase the champion is currently in. There are [three possible scenarios](https://wiki.leagueoflegends.com/en-us/Stutter-stepping):
 
-1. Segment A-B — the command was issued during the windup phase:
+1. **Segment A-B**. If the command is issued during the windup phase:
 
-* The champion will cancel his basic attack.
+* The champion cancels the basic attack.
 
-* The attack target will not take damage.
+* The attack target does not take damage.
 
-* The basic attack cooldown timer will reset to zero.
+* The basic attack cooldown timer resets to zero.
 
-* The player can launch his next auto-attack at any time. Its animation will begin with the windup phase (point A).
+* The player can launch the next auto-attack at any time. Its animation starts with the windup phase (point A).
 
-2. Segment B-C — the command was issued during the firing phase:
+2. **Segment B-C**. If the command is issued during the firing phase:
 
-* The move command will be queued.
+* The move command is queued.
 
-* The champion will perform an auto-attack.
+* The champion performs an auto-attack.
 
-* The attack target will take damage if the attack is melee. If the attack is ranged, the target will take damage when the projectile hits it.
+* The attack target takes damage if the attack is melee. If the attack is ranged, the target takes damage when the projectile hits it.
 
-* The auto-attack cooldown timer will continue to run.
+* The auto-attack cooldown timer continues to run.
 
-* After the firing animation (point C) ends, the move command is removed from the queue. The champion will perform it instead of the recovery animation. He moves to the designated point.
+* After the firing animation (point C) ends, the move command is removed from the queue. The champion performs it instead of the recovery animation. He moves to the designated point.
 
-* The player cannot launch his next auto-attack until its cooldown timer finishes at point D.
+* The player cannot launch his next auto-attack until the cooldown timer finishes at point D.
 
-3. Segment C-D — the command was issued during the recovery phase:
+3. **Segment C-D**. If the command is issued during the recovery phase:
 
-* The champion has already performed an auto-attack.
+* The champion has already executed the auto-attack.
 
 * The attack target has already taken damage.
 
@@ -151,15 +149,15 @@ At any point during the A-D segment, a player can issue a movement command to th
 
 * The champion ends the recovery animation early and moves to the target location.
 
-* The player cannot launch his next auto-attack until its cooldown timer finishes at point D.
+* The player cannot launch the next auto-attack until the cooldown timer finishes at point D.
 
-We can draw the following conclusion from the rules for combining the two commands:
+From the rules concerning these interactions, we can draw the following conclusions:
 
-1. Canceling the windup phase is almost always a mistake. It reduces the champion's damage per second (DPS). The only time canceling is justified is when the player has detected danger and needs to retreat immediately.
+1. Canceling the windup phase is almost always a mistake. It reduces the champion's damage per second (DPS). The only justification for canceling is when the player detects danger and needs to retreat immediately.
 
-2. The recovery phase always takes up the majority of the basic attack cooldown. Allowing the champion to play it is a waste of time. Instead, he should move or use an ability.
+2. The recovery phase always takes up the majority of the basic attack cooldown. Allowing the champion to complete it is a waste of time. He should move or use an ability instead.
 
-3. The most effective way to cancel the recovery phase is to issue a command while in the firing phase. Then, the champion will execute a new command immediately after firing is done.
+3. The most effective way to cancel the recovery phase is to issue a command while the champion is in the firing phase. This way, he will execute the new command immediately after the firing is complete.
 
 ### 3.1.3 Basic attack and move
 
