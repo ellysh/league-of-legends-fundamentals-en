@@ -161,9 +161,7 @@ From the rules concerning these interactions, we can draw the following conclusi
 
 ### 3.1.3 Basic attack and move
 
->>>R1
-
-Canceling the auto-attack recovery phase is often used in practice. It has several variants. The **attack move** (attack and move) technique cancels the recovery animation with a move command.
+Canceling the auto-attack recovery phase is a common gameplay practice. There are several variations of this technique. The **attack move** technique, which combines attacking and moving, cancels the recovery animation by issuing a move command.
 
 I> The following [video on the Skill Capped channel](https://www.youtube.com/watch?app=desktop&v=-oyxOgtT33U) explains the attack move in detail.
 
@@ -172,39 +170,39 @@ Figure 3-2 shows the timeline diagram for the attack move technique.
 {caption: "Figure 3-2. The timeline diagram for the attack move technique", width: "100%"}
 ![Attack move timeline](images/Micromanagement/ashe-attack-move.png)
 
-The steps of this technique are as follows:
+Here are the steps to perform this technique:
 
 1. At point A, the player issues an attack command. The champion plays the windup animation phase.
 
 2. At point B, the champion begins the firing phase.
 
-3. On segment B-C or at point C, the player issues a move command. The champion begins moving immediately after the firing animation completes. This occurs on segment C-D, which lasts 1.13 seconds.
+3. At segment B-C or at point C, the player issues a move command. The champion begins moving immediately after the firing animation completes. This occurs on segment C-D, which lasts 1.13 seconds.
 
-4. At point D, the basic attack cooldown timer ends. From this point on, the player can issue the next attack command.
+4. At point D, the basic attack cooldown timer finishes. From this point on, the player can issue the next attack command.
 
-The attack move technique is used in two situations:
+The attack move technique is useful in two scenarios:
 
 1. To pursue and damage an enemy.
 
 2. To retreat and damage an enemy.
 
-In the **first case**, the technique increases damage to a retreating enemy. Let us look at the difference between the attack command and the attack move:
+In the **first scenario**, the technique increases damage to a retreating enemy. Let us compare the attack command and the attack move:
 
-* If you issue an **attack command** to a champion, he will stand still and play through all three animation phases. When an enemy moves out of Ashe's attack range, she will only react to this at point D. In other words, she will begin moving after the recovery phase ends.
+* If you issue an **attack command** to a champion, he stands and performs all three animation phases. When an enemy moves out of the champion's attack range, he will only react at point D. In other words, he will begin moving after the recovery phase ends.
 
-* If you use **attack move**, the champion will move toward the enemy instead of playing the recovery animation. This means that Ashe will react to his movement much faster.
+* If you utilize the **attack move**, the champion moves toward the enemy instead of playing the recovery animation. This means that the champion will react to the enemy's movement much more quickly.
 
-In the **second case**, the technique reduces damage to the retreating player's champion. Let's consider the difference between the attack move and individual commands:
+In the **second scenario**, the technique reduces damage to the retreating champion. Let us compare the attack move and separate commands:
 
-* If a player issues an **attack command**, the champion stands still and plays all three animation phases. In this case, he simply trades damage with the enemy. This exchange is called a [**stat check**](https://www.reddit.com/r/leagueoflegends/comments/10q7lmk/comment/j6ob8tk/). The champion with the higher stats wins it.
+* If you issue an **attack command**, the champion stands and performs all three animation phases. In this case, he simply trades damage with the enemy. This exchange is called a [**stat check**](https://www.reddit.com/r/leagueoflegends/comments/10q7lmk/comment/j6ob8tk/). The champion with the higher stats wins it.
 
-* A player can issue a **move command** and only retreat. In this case, he will take damage until he moves out of the enemy's attack range. The enemy will not take any damage during this time.
+* If you issue a **move command**, the champion only retreats. In this case, he will take damage until he moves out of the enemy's attack range. The enemy will not take any damage during this time.
 
-* If you use **attack move**, the champion will trade damage with the enemy while maintaining distance from him. This opens up two possibilities. A player can either retreat if he loses the trade or go all-in if he wins it.
+* If you utilize the **attack move**, the champion trades damage with the enemy while maintaining distance from him. This opens up two possibilities. You can either retreat when losing the trade or go all-in when winning the trade.
 
-I> **All-in** term means an active fight to victory, using all available champion's abilities and attack methods. An all-in typically ends with the death of one of the participants if it is a duel.
+I> The **All-in** term refers to an active fight, using all available champion's abilities and attack methods. An all-in typically culminates in the death of one of the combatants if it is a duel.
 
-When a ranged champion uses an attack move against a melee opponent, it is called **kiting**. If the champion's movement speed is greater, the opponent will be unable to attack him.
+When a ranged champion uses the attack move technique against a melee opponent, it is called **kiting**. If the champion's movement speed exceeds that of the opponent, the latter will be unable to land attacks. This is the idea of the kiting.
 
 ### 3.1.4 Execution of the attack move
 
