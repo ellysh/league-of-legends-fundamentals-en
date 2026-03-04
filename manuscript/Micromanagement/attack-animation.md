@@ -206,16 +206,14 @@ When a ranged champion uses the attack move technique against a melee opponent, 
 
 ### 3.1.4 Execution of the attack move
 
->>>R1
-
-Let us look at how to perform an attack move in practice. To do this, you need to change two game settings and a mouse setting.
+Let us explore how to perform an attack move in practice. To do this, you need to adjust two game settings and one system setting.
 
 The **first game setting** is located in the "HOTKEYS" tab and is called "Player Attack Move Click" hotkey. Figure 3-3 shows it.
 
 {caption: "Figure 3-3. 'Player Attack Move Click' hotkey", height: "50%"}
 ![Player Attack Move Click hotkey](images/Micromanagement/options-player-attack-move-click.png)
 
-This hotkey issues a movement command to a specified point. As soon as an enemy is within attack range, the champion will begin attacking him. You need to assign the A key to this action. Then, when you press it, the champion will attack the closest target within attack range.
+This hotkey issues a movement command to a designated point. Once an enemy comes within attack range, the champion will automatically start attacking him. You need to assign the A key to this action. When you press it, the champion will target the closest enemy within attack range.
 
 The **second game setting** is located in the "GAME" tab and is called "Attack move on cursor". Figure 3-4 shows it.
 
@@ -232,15 +230,15 @@ You need to enable this setting. Then you can select an attack target using the 
 
 **The third setting** is to turn off mouse acceleration in the OS settings. Here are the steps for Windows 11 users:
 
-1. Click "Start" -> "Settings". The "Settings" window will open.
+1. Click "Start" and then select "Settings". The "Settings" window will open.
 
 2. Select the "Bluetooth & devices" option in the left-side menu.
 
-3. Select the "Mouse" item in the right part of the window. The mouse settings menu will open.
+3. Select the "Mouse" item in the right section of the window. The mouse settings menu will open.
 
 4. Disable the "Enhance pointer precision" option.
 
-Figure 3-5 shows turning off mouse acceleration.
+Figure 3-5 shows how to turn off mouse acceleration.
 
 {caption: "Figure 3-5. 'Enhance pointer precision' setting", width: "100%"}
 ![Enhance pointer precision setting](images/Micromanagement/mouse-acceleration-disable.png)
@@ -251,27 +249,27 @@ This setting controls mouse acceleration. When it is enabled, the position of th
 
 2. The speed at which you move the mouse.
 
-Mouse acceleration is useful when working on large monitors. But it greatly hinders the development of muscle memory in all computer games. Therefore, you should turn off this option. Then, the pointer position will depend only on the distance you move the mouse, but not on the speed.
+Mouse acceleration is useful when working on large monitors. But it significantly impedes the development of muscle memory in computer games. Therefore, you should disable this option. When turned off, the pointer position depends only on the distance you move the mouse, but not on the speed.
 
-Now, let us look at how to perform an attack move technique with the new settings. Perform the following steps to execute it:
+Now, let us look at how to perform the attack move technique with the new settings. Follow these steps to execute it:
 
-1. Move the mouse cursor close to the target. It does not have to be exactly on the target.
+1. Move the mouse cursor close to the target. It does not have to be precisely on the target.
 
 2. Press the A hotkey. The champion will begin the windup phase of the attack animation.
 
 3. Move the mouse cursor to the point where you want the champion to move. This should be either toward or away from the enemy.
 
-4. When the champion begins the firing or recovery phase, right-click. The champion will move to the specified point.
+4. Once the champion begins the firing or recovery phase, right-click. The champion will move to the designated point.
 
-5. Calculate the auto attack cooldown timer. When it ends, begin your next attack from step 1.
+5. Track the auto-attack cooldown timer. When it expires, start the next auto-attack from step 1.
 
-When performing the attack move technique, players make the following common mistakes:
+While performing the attack move technique, players commonly make the following mistakes:
 
-* Issuing the move command too early. If it happens during the windup phase, it cancels the champion's attack. This significantly reduces the champion's DPS.
+* Issuing the move command too early. If it is done during the windup phase, it cancels the champion's auto-attack. This significantly reduces his DPS.
 
-* Allows the champion to move longer than his attack cooldown timer. This prevents the champion from utilizing his high attack speed.
+* Allowing the champion to move longer than the attack cooldown timer. This prevents the champion from utilizing his high attack speed effectively.
 
-Practice the attack move technique in the "Practice Tool" mode. Get a feel for your champion's attack rhythm at different levels and with different items. Then you will learn to attack precisely when the cooldown timer ends.
+You can practice the attack move technique in the "Practice Tool" mode. Get a feel for your champion's attack rhythm at different levels and with various items. This will help you learn to attack precisely when the cooldown timer ends.
 
 Note the relationship between attack speed and the champion's movement pattern. With low attack speed, the champion moves with long segments. With high attack speed, these segments are shortened.
 
