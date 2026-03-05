@@ -275,33 +275,31 @@ Note the relationship between attack speed and the champion's movement pattern. 
 
 ### 3.1.5 Basic attack and using an ability
 
->>>R1
-
-We have looked at canceling an attack animation with a move command. This is only one of four methods. Here is a full list of actions that cancel the attack animation:
+We have explored the technique of canceling an attack animation using a movement command. This is just one of four available options. Below is a complete list of actions that can cancel the attack animation:
 
 1. Movement
 2. Champion ability
 3. Summoner spell
 4. Active item ability.
 
-Let us look at the second option: canceling an attack animation with a champion ability. We can call this technique similar to the first option — **attack ability** (attack and ability). The third and fourth options work in the same way.
+Let us focus on the second option: canceling an attack animation using a champion ability. We can name this technique similar to the first option — **attack ability** (attack and ability). The third and fourth options work in the same way.
 
-Figure 3-6 shows the timeline diagram for the technique when a champion ability cancels an attack animation.
+Figure 3-6 shows the timeline diagram for the attack ability technique.
 
 {caption: "Figure 3-6. The timeline diagram for the attack ability technique", width: "100%"}
 ![Attack ability timeline](images/Micromanagement/ashe-attack-ability.png)
 
-The steps of this technique are as follows:
+The steps for this technique are as follows:
 
-1. At point A, the player issues an attack command. The champion plays the AA windup animation phase.
+1. At point A, the player issues an attack command. The champion initiates the AA windup animation phase.
 
 2. At point B, the champion begins the AA firing phase.
 
-3. On the B-C segment or at point C, the player issues the W command. The champion begins its animation immediately after the AA firing phase ends. This occurs on the C-D segment and beyond.
+3. At the B-C segment or at point C, the player issues the W command. The champion begins the W ability animation immediately after the AA firing phase ends. This occurs in the C-D segment and beyond.
 
-4. At point D, the auto-attack cooldown timer ends. From this point on, the player can issue the next attack command.
+4. At point D, the auto-attack cooldown timer finishes. From this point on, the player can issue the next attack command.
 
-The attack ability is used when maximum damage per second (DPS) is needed. The target should be within attack and ability range. This works especially well against a rooted target. If the target moves out of range, the player will have to alternate between attack moves and attack ability techniques.
+The attack ability technique is particularly useful when you need to maximize a champion's damage per second (DPS). The target should be within both attack and ability range. This technique is especially effective against a rooted target. If the target moves out of range, you need to alternate between attack move and attack ability techniques.
 
 ### 3.1.6 Execution of the attack ability
 
