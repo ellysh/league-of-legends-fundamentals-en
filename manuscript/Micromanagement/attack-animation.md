@@ -303,34 +303,31 @@ The attack ability technique is particularly useful when you need to maximize a 
 
 ### 3.1.6 Execution of the attack ability
 
->>>R1
-
-You need to set all champion's abilities to "Quick Cast to perform the attack ability technique effectively. This setting is located in the "HOTKEYS" tab. Figure 3-7 shows it.
+You need to set all champions' abilities to "Quick Cast to perform the attack ability technique effectively. This setting is located in the "HOTKEYS" tab. Figure 3-7 shows it.
 
 {caption: "Figure 3-7. 'Quick Cast All' setting", width: "100%"}
 ![Quick Cast All setting](images/Micromanagement/quick-cast.png)
 
-You need to press the "Quick Cast All" button in the "HOTKEYS" tab. This will cause the champion to cast the ability as soon as you release the corresponding key (e.g., W). You no longer need to press the key twice. This significantly speeds up in-game actions, but it takes some getting used to.
+The "Quick Cast All" button in the "HOTKEYS" tab enables the corresponding setting. This causes the champion to cast the ability as soon as you release the related key (e.g., W). You no longer need to press the key twice. This significantly speeds up in-game actions, but it takes some time to get used to.
 
+Please note that some abilities with [**charge**](https://wiki.leagueoflegends.com/en-us/Channel#Charged_Abilities) should not be set to Quick Cast. If a champion can move while charging, he can change his position with a summoner spell [**Flash**](https://wiki.leagueoflegends.com/en-us/Flash). Holding down the Quick Cast key while using FFlash is inconvenient. It is easier to execute these actions when the ability is set to Normal Cast (the default). Here are some examples of abilities that do not require Quick Cast: Vi Q, Viego W.
 
-Please note that some abilities with [**charge**](https://wiki.leagueoflegends.com/en-us/Channel#Charged_Abilities) should not be set to Quick Cast. If a champion can move while charging, he can change his position with a summoner spell [**Flash**](https://wiki.leagueoflegends.com/en-us/Flash). Holding down the Quick Cast key while flashing is inconvenient. It is easier to execute when the ability is set to Normal Cast (the default). Here are some examples of abilities that do not require Quick Cast: Vi Q, Viego W.
-
-Now, let us look at how to perform the attack ability technique with abilities that are set to Quick Cast. Perform the following steps to execute it:
+Now, let us go over how to execute the attack ability technique with abilities that are set to Quick Cast. Follow these steps:
 
 1. Move the mouse cursor close to the target. It does not have to be exactly on the target.
 
 2. Press the A hotkey. The champion will begin the windup phase of the attack animation.
 
-3. Position the mouse cursor so the ability hits the target.
+3. Adjust the mouse cursor so that the ability will hit the target.
 
-4. When the champion begins the firing or recovery phase, press the ability hotkey. The champion will use it instead of playing the recovery animation.
+4. When the champion begins the firing or recovery phase of the attack animation, press the ability hotkey. The champion will use it instead of playing the recovery phase of the animation.
 
-A common mistake when performing this technique is to use the ability during the windup phase of the attack animation. In this case, the champion cancels the auto-attack and uses the ability. This greatly reduces the champion's DPS and can break the combo.
+A common mistake when performing this technique is issuing the ability during the windup phase of the attack animation. In this case, the champion cancels the auto-attack and uses the ability. This greatly reduces the champion's DPS and can disrupt his combo.
 
-You can practice the attack ability technique in the "Practice Tool." Try to remember two things about your main champion:
+You can practice the attack ability technique in the "Practice Tool." Try to remember two things regarding your main champion:
 
-1. What your champion's firing animation looks like, as well as its approximate timing at different levels and items. Then you would not cancel it with an ability.
+1. Frames and timings of the firing phase of the attack animation at different champions' levels and items. Then you would not accidentally cancel it with an ability.
 
-2. The area of ​​effect of all abilities. This way, you would not have to hold down buttons to check the radius of abilities. This can save seconds that can decide the outcome of the fight.
+2. The area of ​​effect of all abilities. This knowledge will prevent you from needing to hold down buttons to check the radius of abilities. This can save seconds that can decide the outcome of the fight.
 
 {pagebreak}
