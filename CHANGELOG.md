@@ -1,3 +1,8 @@
+## Version 09.03.2026 b36b7c0dca98ebcd6e9d96e8b8be42594a0472c2
+
+* Translate the "3.1 Basic attack animation" section
+
+
 ## Version 15.02.2026 9fe8c88a7b3cb070aa75e74d6ebc15298ba711c5
 
 * Translate the "2.3 Teamfight" section
