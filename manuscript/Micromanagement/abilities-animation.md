@@ -8,48 +8,50 @@ Working with ability animations is much more complex. Abilities are executed acc
 
 ### 3.2.1 Phases of ability animation
 
->>>W
+>>>R1
 
-Когда игрок даёт команду применить умение, чемпион проигрывает полный цикл его анимации. Для большинства умений фазы анимации такие же, как у базовой атаки:
+When a player issues an ability command, the champion performs its full animation cycle. It has the same phases as auto-attack for most abilities:
 
-1. **Windup** — подготовка.
+1. **Windup** — the preparation for action.
 
-2. **Firing** — удар, выстрел или применение эффекта.
+2. **Firing** — the execution of the strike, shot, or application of an effect.
 
-3. **Recovery** — возврат в исходное положение.
+3. **Recovery** — the return to the starting position.
 
-Пусть умения с этими темя фазами будут нашей **базовой схемой**. Некоторые умения от неё отличаются. Будем рассматривать отличия в их схемах как отклонения от базовой.
+Let us consider abilities with these three phases as a **basic scheme**. Some abilities deviate from it. We will consider these differences as deviations from the basic scheme.
 
-Начнём с простых умений, которые укладываются в базовую схему. Иллюстрация 3-8 демонстрирует временную диаграмму такого умения — Ashe W.
+We start with simple abilities that fit within the basic scheme, for example, Ashe W.  Figure 3-8 shows its timeline diagram.
 
-{caption: "Иллюстрация 3-8. Временная диаграмма умения W Ashe", width: "100%"}
-![Временная диаграмма умения W Ashe](images/Micromanagement/ashe-w-ability-animation.png)
+{caption: "Figure 3-8. The timeline diagram for Ashe's W ability", width: "100%"}
+![Ashe W ability animation timeline](images/Micromanagement/ashe-w-ability-animation.png)
 
-Рассмотрим диаграмму по шагам:
+Let us look at the diagram step by step:
 
-1. В точке A игрок даёт команду применить умение. С этого момента чемпион проигрывает фазу анимации windup: натягивает тетиву лука. Она всегда длится 0.25 секунды для умения W.
+1. At point A, the player issues the ability command. The champion plays the windup animation phase: drawing the bowstring. This always lasts 0.25 seconds for the W ability.
 
-2. В точке B чемпион начинает фазу firing: выпускает залп стрел. Она длится примерно 0.1 секунду.
+2. At point B, the champion begins the firing phase: firing a volley of arrows. This lasts approximately 0.1 seconds.
 
-3. В точке C чемпион начинает фазу recovery: достаёт из колчана следующую стрелу. Она длится примерно 1.65 секунды.
+3. At point C, the champion begins the recovery phase: drawing the next arrow from the quiver. This lasts approximately 1.65 seconds.
 
-4. В точке D чемпион заканчивает полный цикл анимации. Прошло 2 секунды с момента, когда игрок дал команду в точке A.
+4. At point D, the champion completes the full animation cycle. Two seconds have passed since the player issued the command at point A.
 
-Обратите внимание, что длительность всех фаз анимации умения W постоянна. Она не зависит ни от скорости атаки, ни от уровня чемпиона, ни от уровня умения. Но для некоторых умений такие зависимости есть.
+Note that the duration of all phases of the W ability animation is constant. It does not depend on attack speed, champion level, or ability level. However, the animation of some abilities does depend on this.
 
-Мы рассмотрели базовую схему анимации умений. От неё есть два основных отклонения:
+We have considered the basic scheme of an ability animation. There are two main deviations from it:
 
-1. Фаза windup или firing заменяется на **channel** (зарядка).
+1. **Charging** replaces the windup phase.
 
-2. Фазы windup нет. Анимация умения начинается сразу с firing.
+2. **Channeling** replaces the firing phase.
 
-Если channel заменяет фазу windup или firing, то её смысл остаётся тем же. Отличие в том, что фаза длится по времени дольше. Правила замены такие:
+3. There is no windup phase. The ability animation begins with firing.
 
-* Если channel заменяет windup, на этой фазе чемпион готовится применить умение. После этого он выполняет анимацию firing.
+If a charging replaces windup or channeling replaces the firing phase, its meaning remains the same. The difference is that the corresponding phase lasts longer. The replacement rules are as follows:
 
-* Если channel заменяет firing, эта фаза начинается после windup. В течение channel чемпион наносит урон или применяет какой-то эффект.
+* If a charging replaces a windup, the champion prepares to cast the ability during this phase. After this, he performs the firing animation.
 
-Для умений можно отменять или изменять анимацию одной из фаз: windup, firing или recovery. Общего правила здесь нет. Всё зависит от конкретного умения и чемпиона.
+* If a channeling replaces a firing animation, this phase begins after the windup. During the channeling, the champion deals damage or applies some effect.
+
+You can cancel or change the animation of one of the phases of abilities: windup, firing, or recovery. There is no general rule here. It all depends on the specific ability and the champion.
 
 ### 3.2.2 Ability classification
 

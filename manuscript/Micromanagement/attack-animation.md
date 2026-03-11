@@ -87,7 +87,7 @@ attack_cooldown = 1 / 0.66 = 1.52
 Figure 3-1 shows the timeline diagram for a single Ashe's basic attack.
 
 {caption: "Figure 3-1. The timeline diagram for Ashe's basic attack", width: "100%"}
-![Basic Attack Timeline](images/Micromanagement/ashe-attack-animation.png)
+![Basic attack timeline](images/Micromanagement/ashe-attack-animation.png)
 
 The Figure shows the time axis labeled "s" (seconds). There are three segments on the s-axis. Each segment corresponds to one of the three animation phases. There is a screenshot above each segment. It shows a frame from the corresponding champion animation.
 
@@ -172,7 +172,7 @@ Figure 3-2 shows the timeline diagram for the attack move technique.
 
 Here are the steps to perform this technique:
 
-1. At point A, the player issues an attack command. The champion plays the windup animation phase.
+1. At point A, the player issues the attack command. The champion plays the windup animation phase.
 
 2. At point B, the champion begins the firing phase.
 
@@ -206,7 +206,7 @@ When a ranged champion uses the attack move technique against a melee opponent, 
 
 ### 3.1.4 Execution of the attack move
 
-Let us explore how to perform an attack move in practice. To do this, you need to adjust two game settings and one system setting.
+Let us explore how to perform the attack move in practice. To do this, you need to adjust two game settings and one system setting.
 
 The **first game setting** is located in the "HOTKEYS" tab and is called "Player Attack Move Click" hotkey. Figure 3-3 shows it.
 
@@ -291,7 +291,7 @@ Figure 3-6 shows the timeline diagram for the attack ability technique.
 
 The steps for this technique are as follows:
 
-1. At point A, the player issues an attack command. The champion initiates the AA windup animation phase.
+1. At point A, the player issues the attack command. The champion initiates the AA windup animation phase.
 
 2. At point B, the champion begins the AA firing phase.
 
@@ -310,7 +310,7 @@ You need to set all champions' abilities to "Quick Cast to perform the attack ab
 
 The "Quick Cast All" button in the "HOTKEYS" tab enables the corresponding setting. This causes the champion to cast the ability as soon as you release the related key (e.g., W). You no longer need to press the key twice. This significantly speeds up in-game actions, but it takes some time to get used to.
 
-Please note that some abilities with [**charge**](https://wiki.leagueoflegends.com/en-us/Channel#Charged_Abilities) should not be set to Quick Cast. If a champion can move while charging, he can change his position with a summoner spell [**Flash**](https://wiki.leagueoflegends.com/en-us/Flash). Holding down the Quick Cast key while using FFlash is inconvenient. It is easier to execute these actions when the ability is set to Normal Cast (the default). Here are some examples of abilities that do not require Quick Cast: Vi Q, Viego W.
+Please note that some abilities with [**charge**](https://wiki.leagueoflegends.com/en-us/Channel#Charged_Abilities) or channel should not be set to Quick Cast. If a champion can move while charging, he can change his position with a summoner spell [**Flash**](https://wiki.leagueoflegends.com/en-us/Flash). Holding down the Quick Cast key while using FFlash is inconvenient. It is easier to execute these actions when the ability is set to Normal Cast (the default). Here are some examples of abilities that do not require Quick Cast: Vi Q, Viego W.
 
 Now, let us go over how to execute the attack ability technique with abilities that are set to Quick Cast. Follow these steps:
 
