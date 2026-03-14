@@ -68,7 +68,7 @@ Table 3-1 lists all possible ability types by animation pattern.
 |  | | | |
 | --- | :---: | --- | --- |
 |  | | | |
-| Basic attack modifier | No | Windup, firing, recovery | Vi - E, Volibear - Q, Jax - W |
+| Auto-attack modifier | No | Windup, firing, recovery | Vi - E, Volibear - Q, Jax - W |
 |  | | | |
 | Static slow ability | No | Windup, firing, recovery | Ashe - W, Ezreal - Q, Lucian - Q, Darius - Q, Kennen - R |
 |  | | | |
@@ -109,27 +109,27 @@ Let us go through all ability types and consider which actions change their anim
 
 ### 3.2.3 Auto-attack modifiers
 
->>>W
+>>>>W
 
-Умения типа **модификатор автоатаки** накладывают эффект на следующую базовую атаку. Когда игрок даёт команду применить такое умение, чемпион проигрывает краткую анимацию. Её нельзя отменить и она не блокирует какие-либо действия чемпиона. Поэтому будем считать, что анимация модификатора атаки — это анимация усиленной автоатаки, во время которой применяется эффект умения.
+The ability of the **auto-attack modifier** type empowers the next champion's basic attack. When a player issues the ability command, the champion plays a special windup animation. You cannot cancel this animation, and it allows the champion to perform some actions in parallel. Auto-attack modifier animation is the animation of an empowered auto-attack that applies the ability effect.
 
-Большинство умений типа модификатор автоатаки имеют два свойства:
+Most auto-attack modifier abilities have two properties:
 
-1. **Сброс таймера автоатаки** ([basic attack reset](https://wiki.leagueoflegends.com/en-us/Basic_attack#Resets))
+1. [**Basic attack reset**](https://wiki.leagueoflegends.com/en-us/Basic_attack#Resets)
 
-2. **Неотменяемый windup** ([uncancellable windup](https://wiki.leagueoflegends.com/en-us/Basic_attack#Uncancellable_Windup)).
+2. [**Uncancellable windup**](https://wiki.leagueoflegends.com/en-us/Basic_attack#Uncancellable_Windup).
 
-На этих свойствах строится работа с анимацией умения. Первое позволяет увеличить DPS чемпиона. Второе — сменить позицию перед фазой firing усиленной автоатаки.
+The work with auto-attack modifier animation is based on these properties. The first one allows you to increase the DPS of the champion. The second one allows you to change the champion's position before the firing phase of the empowered auto attack.
 
-Итак, цели работы с анимацией модификатора атаки следующие:
+So, here are the goals of working with the auto-attack modifier animation:
 
-1. Увеличить урон в секунду (DPS) чемпиона
+1. Increase the champion's damage per second (DPS)
 
-2. Сменить позицию чемпиона перед фазой firing умения.
+2. Change the champion's position before the firing phase of the ability.
 
 #### 3.2.3.1 Auto-attack reset
 
->>>W
+>>>R1
 
 Комбо со сбросом таймера автоатаки позволяет чемпиону нанести burst урон. Это полезно во время ганка, дайва под башню, трейдинга на линии, инициации в сражении и атаке с фланга.
 
