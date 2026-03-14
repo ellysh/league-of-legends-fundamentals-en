@@ -55,57 +55,57 @@ You can cancel or change the animation of one of the phases of abilities: windup
 
 ### 3.2.2 Ability classification
 
->>>W
+>>>R1
 
-Сконцентрируемся только на анимации умений. Сейчас их эффекты не так важны. Тогда все умения можно разделить на пять типов. У каждого из них своя характерная схема анимации.
+Let us focus only on the abilities animation. Their effects are not so important right now. We can divide all abilities into five types. Each has its own specific animation pattern.
 
-Если анимация двух умений проходит по одной схеме, тогда с ней можно работать одними и теми же приёмами. Поэтому классификация важна. Не нужно запоминать правила работы с каждым умением в игре. Достаточно помнить правила только для пяти типов умений.
+If two abilities have the same animation pattern, then you can work with them using the same techniques. Therefore, classification is important. Using it, you do not need to memorize the rules for every ability in the game. Instead, it is enough to remember how animation works for each ability type.
 
-Таблица 3-1 демонстрирует пять типов умений в игре.
+Table 3-1 lists all possible ability types by animation pattern.
 
-{caption: "Таблица 3-1. Классификация умений чемпионов по схеме их анимации", width: "100%"}
-| Тип умения | Перемещает чемпиона | Фазы анимации | Примеры |
+{caption: "Таблица 3-1. Champion abilities classification by animation pattern", width: "100%"}
+| Ability type | Moves Champion | Animation Phases | Examples |
 |  | | | |
 | --- | :---: | --- | --- |
 |  | | | |
-| Модификатор автоатаки | Нет | Windup, firing, recovery | Vi - E, Volibear - Q, Jax - W |
+| Basic attack modifier | No | Windup, firing, recovery | Vi - E, Volibear - Q, Jax - W |
 |  | | | |
-| Статическое медленное | Нет | Windup, firing, recovery | Ashe - W, Ezreal - Q, Lucian - Q, Darius - Q, Kennen - R |
+| Static slow ability | No | Windup, firing, recovery | Ashe - W, Ezreal - Q, Lucian - Q, Darius - Q, Kennen - R |
 |  | | | |
-| Статическое быстрое | Нет | Firing, recovery | Garen - W, Katarina - R, Master Yi - W |
+| Static fast ability | No | Firing, recovery | Garen - W, Katarina - R, Master Yi - W |
 |  | | | |
-| Динамическое медленное | Да | Windup, firing, recovery | Vi - Q, Viego - W, Fiddlestick - R, Caitlyn - E |
+| Dynamic slow ability | Yes | Windup, firing, recovery | Vi - Q, Viego - W, Fiddlestick - R, Caitlyn - E |
 |  | | | |
-| Динамическое быстрое | Да | Firing, recovery | Kayn - Q, Vayne - Q, Riven - E |
+| Dynamic fast ability | Yes | Firing, recovery | Kayn - Q, Vayne - Q, Riven - E |
 
-В этой классификации есть два признака.
+This classification is based on two features.
 
-**Первый признак** — это отклонение от базовой схемы анимации. Для простоты мы рассматриваем только одно возможное отклонение: отсутствие фазы windup. Второе возможное отклонение: замена какой-то фазы на channel. Оно не существенно для приёмов работы с анимацией.
+The **first feature** is a deviation from the basic animation scheme. For simplicity, we consider only one possible deviation: the absence of a windup phase. The second possible deviation is the replacement of some phase with charging or channeling. This replacement is not significant for now.
 
-В базовую схему анимации укладываются три типа умений:
+Three types of abilities fit into the basic animation scheme:
 
-1. Модификатор атаки
-2. Статическое медленное
-3. Динамическое медленное.
+1. Basic attack modifier
+2. Static slow ability
+3. Dynamic slow ability.
 
-Это означает, что для таких умений чемпион проигрывает все три фазы анимации. Такие умения называются **медленными**, потому что их фаза firing наступает с задержкой. Эта задержка — подготовка на фазе windup.
+The champion plays all three phases of the animation for these abilities. We call them **slow** because their firing phase begins with a delay. This delay occurs due to preparations during the windup phase.
 
-Оставшиеся два типа умений отклоняются от базовой схемы — у них нет фазы windup. Поэтому такие умения называются **быстрыми**. Их фаза firing начинается сразу же.
+The remaining two types of abilities deviate from the basic scheme. They do not have the windup phase. Therefore, we call them **fast**. Their firing phase begins immediately after issuing the command.
 
-**Второй признак** классификации — это перемещение. Если анимация firing перемещает чемпиона, умение называется **динамическим**. В противном случае — это **статическое** умение.
+The second classification feature is champion movement. If the firing phase of animation moves the champion, the ability is called **dynamic**. Otherwise, it is a **static** ability.
 
-Обратите внимание, что чемпион может двигаться во время анимации firing некоторых статических умений. Пример: Darius Q. В этом случае причина движения — команда move игрока, а не анимация firing умения. Если игрок не будет давать команду двигаться, чемпион проиграет всю анимацию умения на одном месте.
+Note that the champion can move during the firing animation of some static abilities. Example: Darius Q. In this case, the movement happens because the player issues the move command. The firing animation of the ability does not cause it. If the player does not issue the move command, the champion performs the entire animation of the ability, staying in one place.
 
-Следующие действия могут изменить одну из фаз анимации умения:
+The following player's commands can change one of the ability animation phases:
 
-1. Автоатака
-2. Использование другого умения
-3. Передвижение
-4. Использование заклинания призывателя
-5. Направить динамическое умение в стену
-6. Использование активного эффекта предмета.
+1. Auto-attack
+2. Using another ability
+3. Moving
+4. Using a summoner spell
+5. Casting a dynamic ability towards the wall
+6. Using an item's active effect.
 
-Пройдём по всем типам умений и рассмотрим, какие действия меняют их анимацию.
+Let us go through all ability types and consider which actions change their animations.
 
 ### 3.2.3 Auto-attack modifiers
 
