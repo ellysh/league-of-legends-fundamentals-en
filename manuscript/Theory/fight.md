@@ -17,7 +17,7 @@ Figure 2-4 illustrates the overall scheme of a teamfight.
 {caption: "Figure 2-4. The scheme of a teamfight", width: "100%"}
 ![Scheme of a teamfight](images/Theory/teamfight-scheme.png)
 
-The illustration shows the middle lane. All champions from both teams have gathered there. Circles represent the champions, with colors corresponding to their respective teams.
+The figure shows the middle lane. All champions from both teams have gathered there. Circles represent the champions, with colors corresponding to their respective teams.
 
 We can divide all champions in the game into two main categories. Figure 2-4 shows these categories by icons in the center of each circle. These icons are as follows:
 

@@ -109,7 +109,7 @@ Let us go through all ability types and consider which actions change their anim
 
 ### 3.2.3 Auto-attack modifiers
 
->>>>W
+>>>R1
 
 The ability of the **auto-attack modifier** type empowers the next champion's basic attack. When a player issues the ability command, the champion plays a special windup animation. You cannot cancel this animation, and it allows the champion to perform some actions in parallel. Auto-attack modifier animation is the animation of an empowered auto-attack that applies the ability effect.
 
@@ -131,47 +131,47 @@ So, here are the goals of working with the auto-attack modifier animation:
 
 >>>R1
 
-Комбо со сбросом таймера автоатаки позволяет чемпиону нанести burst урон. Это полезно во время ганка, дайва под башню, трейдинга на линии, инициации в сражении и атаке с фланга.
+A combo that resets the auto-attack cooldown timer allows a champion to deal burst damage. This technique is useful during ganks, tower dives, lane trading, teamfight initiation, and flanking.
 
-I> **Дайв** (dive) — атака противника, находящегося в опасной области: под вражеской башней или за вражеским frontline.
+I> **Dive** is an attack on the enemy champion who is located in a dangerous area for the player. Examples of such areas are under an enemy tower or behind the enemy frontline.
 
-Механика сброса таймера автоатаки заключается в следующем. Когда игрок применяет умение, текущий таймер АА сбрасывается. Это означает, что чемпион может выполнить следующую атаку. Если в момент применения умения таймер АА не запущен, свойство не даст никакого эффекта. Поэтому чтобы его реализовать, надо выполнять АА и запускать таймер перед применением умения.
+The mechanics of resetting the auto-attack cooldown timer are as follows. When a player issues the ability command, the current AA timer is reset. This means the champion can perform his next attack. If the AA timer is not running when the ability is issued, the timer reset effect is ineffective. Therefore, you need to perform an AA and start the reset timer every time before issuing the ability.
 
-Рассмотрим, как построить комбо на сбросе таймера автоатаки. Для примера возьмём **комбо Vi AA-E**. Её умение E имеет оба свойства: attack reset и uncancellable windup.
+Let us look at how to build a combo around resetting the auto-attack cooldown timer. For example, we take the Vi's AA-E combo. Her E ability has both an attack reset and an uncancellable windup effect.
 
-I> Во всех дальнейших примерах Vi имеет первый уровень, у неё нет никаких предметов и рун на скорость атаки.
+I> In all further examples, Vi has level is 1 and no attack speed items or runes.
 
-Иллюстрация 3-9 демонстрирует временную диаграмму комбо Vi AA-E.
+Figure 3-9 shows the timeline diagram of Vi's AA-E combo.
 
-{caption: "Иллюстрация 3-9. Временная диаграмма комбо Vi AA-E", width: "100%"}
-![Vi комбо AA-E](images/Micromanagement/vi-aa-e-combo.png)
+{caption: "Figure 3-9. The timeline diagram for Vi's AA-E combo", width: "100%"}
+![Vi's AA-E combo](images/Micromanagement/vi-aa-e-combo.png)
 
-Шаги этого комбо следующие:
+The steps of this combo are as follows:
 
-1. В точке A игрок нажимает правой кнопкой мыши на цель. С этого момента чемпион проигрывает фазу анимации windup: замахивается кулаком для удара. Она длится 22.5% от 1.55 секунды — времени перезарядки АА. Это равно примерно 0.35 секунды, согласно следующему расчёту:
+1. At point A, the player right-clicks the target. From this point on, the champion plays the windup animation phase: swinging his fist back to strike. This phase lasts 22.5% of the auto-attack 1.55 second cooldown. This is approximately 0.35 seconds, according to the following calculation:
 {line-numbers: false, format: text}
 ```
 windup = 1.55 * 22.5 / 100 ~ 0.35
 ```
 
-2. В точке B начинается анимация AA firing: чемпион бьёт кулаком по цели. Она длится примерно 0.25 секунды.
+2. At point B, the AA firing animation begins: the champion punches the target. It lasts approximately 0.25 seconds.
 
-3. В точке C игрок нажимает кнопку E и даёт команду на атаку цели. Тогда умение E отменяет анимацию AA recovery и сбрасывает таймер перезарядки атаки. После этого чемпион выполняет следующую атаку. Её фаза windup длится 0.35 секунды.
+3. At point C, the player presses the E button and issues the next attack on the target. Then, the E ability cancels the AA recovery animation and resets the attack cooldown. The champion performs the next attack. Its windup phase lasts 0.35 seconds as usual.
 
-4. В точке D начинается анимация E firing.  Она длится 0.25 секунды — столько же, сколько для обычной автоатаки.
+4. At point D, the E firing animation begins. It lasts 0.25 seconds, the same as a regular auto-attack.
 
-5. В точке E чемпион начинает фазу E recovery. Она длится 0.95 секунды, как для автоатаки.
+5. At point E, the champion begins his E recovery phase. It lasts 0.95 seconds, the same as a regular auto-attack.
 
-Анимацию E recovery на отрезке E-G можно отменить следующими действиями:
+You can cancel the E recovery animation on the E-G segment by the following actions:
 
-1. Использование другого умения
-2. Передвижение
-3. Использование заклинания призывателя
-4. Использование активного эффекта предмета.
+1. Using another ability
+2. Moving
+3. Using a summoner spell
+4. Using an active item effect.
 
-Автоатака для этого не подходит. Её таймер перезарядки начинается в точке C, когда игрок применяет умение E. Время перезарядки равно 1.55 секунды. Отрезок C-E равен всего 0.6 секунды. Поэтому чемпион сможет выполнить следующую атаку только в точке G.
+The auto-attack cannot cancel the E recovery animation. Its cooldown timer begins at point C when the player issues the E ability. The AA cooldown is 1.55 seconds. The C-E segment is only 0.6 seconds. Therefore, the champion can only perform his next auto-attack at point G.
 
-Чтобы нанести максимальный burst урон, после комбо с модификатором атаки применяют другое атакующее умение. Тогда после него можно нанести следующую автоатаку. Вот несколько примеров полных комбо, которые строятся на свойстве attack reset:
+You can issue an attacking ability after a combo with an attack modifier. This way, the champion deals a maximum burst damage. After the attacking ability, you can issue another AA. Here are examples of burst combos that rely on the attack reset property:
 
 1. **Jax A-W-Q-A**
 
