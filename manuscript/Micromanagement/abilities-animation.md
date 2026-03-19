@@ -137,14 +137,14 @@ I> **Dive** is an attack on the enemy champion who is located in a dangerous are
 
 The mechanics of resetting the auto-attack cooldown timer are as follows. When a player issues the ability command, the current AA timer is reset. This means the champion can perform his next attack. If the AA timer is not running when the ability is issued, the timer reset effect is ineffective. Therefore, you need to perform an AA and start the reset timer every time before issuing the ability.
 
-Let us look at how to build a combo around resetting the auto-attack cooldown timer. For example, we take the Vi's AA-E combo. Her E ability has both an attack reset and an uncancellable windup effect.
+Let us look at how to build a combo around resetting the auto-attack cooldown timer. For example, we take the **Vi AA-E combo**. Her E ability has both an attack reset and an uncancellable windup effect.
 
 I> In all further examples, Vi has level is 1 and no attack speed items or runes.
 
-Figure 3-9 shows the timeline diagram of Vi's AA-E combo.
+Figure 3-9 shows the timeline diagram of Vi AA-E combo.
 
-{caption: "Figure 3-9. The timeline diagram for Vi's AA-E combo", width: "100%"}
-![Vi's AA-E combo](images/Micromanagement/vi-aa-e-combo.png)
+{caption: "Figure 3-9. The timeline diagram for Vi AA-E combo", width: "100%"}
+![Vi AA-E combo](images/Micromanagement/vi-aa-e-combo.png)
 
 The steps of this combo are as follows:
 
@@ -181,36 +181,36 @@ You can issue an attacking ability after a combo with an attack modifier. This w
 
 #### 3.2.3.2 Position change and auto-attack
 
->>>W
+>>>R1
 
-Свойство модификатора атаки uncancellable windup позволяет сменить позицию перед фазой firing умения. Этот приём используется только для отступления. Он позволяет разорвать дистанцию с противниками после дайва, инициации в сражении и атаки с фланга.
+The uncancellable windup property of the attack modifier ability allows the champion to change position before the firing phase. This technique is useful only for retreating. It allows you to break distance with opponents after diving, initiating a teamfight, or flanking.
 
-Комбо со сменой позиции для отступления будем называть **защитными**. Комбо со сменой позиции для нападения назовём **атакующими**.
+Let us introduce names for combos with changing position. **Defensive combo** changes the champion's position for retreating. **Offensive combo** changes champion's position for attacking.
 
-Смена позиции перед фазой firing работает не только с модификаторами атаки, но и с базовой атакой. Для начала познакомимся со случаем АА, потому что он проще.
+Changing the champion's position before the firing phase works not only with attack modifiers but also with the basic attack. We start with the second case with AA because it is simpler.
 
-Рассмотрим **защитное комбо Vi AA-F**. Его временную диаграмму демонстрирует иллюстрация 3-10.
+We will consider the **defensive combo Vi AA-F**. Figure 3-10 shows its timeline diagram.
 
-{caption: "Иллюстрация 3-10. Временная диаграмма комбо Vi AA-F", width: "100%"}
-![Vi комбо AA-F](images/Micromanagement/vi-aa-f-combo.png)
+{caption: "Figure 3-10. Timeline diagram of the defensive combo Vi AA-F", width: "100%"}
+![Vi combo AA-F](images/Micromanagement/vi-aa-f-combo.png)
 
-Шаги этого комбо следующие:
+The steps of this combo are as follows:
 
-1. В точке A игрок нажимает правой кнопкой мыши на цель. Чемпион начинает проигрывать анимацию AA windup. Она длится 0.35 секунды и заканчивается в точке C.
+1. At point A, the player right-clicks the target. The champion begins the AA windup animation. It lasts 0.35 seconds and ends at point C.
 
-2. В точке B сразу после начала анимации AA windup игрок нажимает flash. Чемпион разрывает дистанцию с целью. В новой позиции он проигрывает оставшуюся часть анимации AA windup. Это отрезок B-C на диаграмме.
+2. At point B, immediately after the AA windup animation begins, the player presses Flash. The champion breaks the distance with the target. At the new position, he plays the remainder of the AA windup animation. This is segment B-C in the diagram.
 
-3. В точке C начинается анимация фазы AA firing. В этот момент цель получает урон. Урон пройдёт, даже если дистанция до цели окажется больше дальности атаки Vi.
+3. At point C, the AA firing animation begins. At this point, the target takes damage. The damage will occur even if the distance to the target is greater than Vi's attack range.
 
-4. В точке D чемпион начинает фазу AA recovery. Её можно отменить передвижением, заклинанием призывателя, активным эффектом предмета или другим умением чемпиона.
+4. At point D, the champion begins the AA recovery phase. It can be canceled by movement, a summoner spell, an active item effect, or another champion's ability.
 
-При исполнении этого комбо игроки допускают две типичные ошибки:
+Players make two typical mistakes when performing this combo:
 
-1. Начинают комбо, когда цель находится вне дальности атаки чемпиона. Тогда получив команду на атаку, он будет двигаться к цели. Дальше игрок на автомате нажимает flash до начала анимации AA windup. В результате чемпион не выполнит автоатаку.
+1. They start the combo when the target is out of the champion's attack range. Then, upon receiving the attack command, the champion will move toward the target. In this case, the player could press Flash before the AA windup animation begins. As a result, the champion will not perform an auto-attack.
 
-2. Отменяют анимацию AA windup после flash. Например, это можно сделать случайно командой на движение. Тогда чемпион прекратит фазу windup и не выполнит автоатаку.
+2. They cancel the AA windup animation after the Flash. For example, a player can accidentally issue the move command. Then, the champion will interrupt the windup phase and not perform an auto-attack.
 
-Вторая проблема решается свойством модификатора атаки uncancellable windup. Оно не даёт игроку отменить фазу windup командой на движение.
+The uncancellable windup property of the attack modifier ability solves the second problem. It prevents the player from canceling the windup phase with a move command.
 
 #### 3.2.3.3 Position change and auto-attack modifier
 
