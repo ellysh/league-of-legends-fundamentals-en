@@ -192,13 +192,13 @@ Changing the champion's position before the firing phase works not only with att
 We will consider the **defensive combo Vi AA-F**. Figure 3-10 shows its timeline diagram.
 
 {caption: "Figure 3-10. Timeline diagram of the defensive combo Vi AA-F", width: "100%"}
-![Vi combo AA-F](images/Micromanagement/vi-aa-f-combo.png)
+![Vi AA-F combo](images/Micromanagement/vi-aa-f-combo.png)
 
 The steps of this combo are as follows:
 
 1. At point A, the player right-clicks the target. The champion begins the AA windup animation. It lasts 0.35 seconds and ends at point C.
 
-2. At point B, immediately after the AA windup animation begins, the player presses Flash. The champion breaks the distance with the target. At the new position, he plays the remainder of the AA windup animation. This is segment B-C in the diagram.
+2. At point B, immediately after the AA windup animation begins, the player presses Flash. The champion increases the distance to the target. At the new position, he completes the remaining windup animation. This is segment B-C in the diagram.
 
 3. At point C, the AA firing animation begins. At this point, the target takes damage. The damage will occur even if the distance to the target is greater than Vi's attack range.
 
@@ -214,32 +214,32 @@ The uncancellable windup property of the attack modifier ability solves the seco
 
 #### 3.2.3.3 Position change and auto-attack modifier
 
->>>W
+>>>R1
 
-Теперь рассмотрим комбо с flash и модификатором атаки. Для примера возьмём **защитное комбо Vi E-F**. Его временную диаграмму демонстрирует иллюстрация 3-11.
+Now we will consider combos with Flash and the attack modifier ability. Our example is the **defensive combo Vi E-F**. Figure 3-11 shows its timeline diagram.
 
-{caption: "Иллюстрация 3-11. Временная диаграмма комбо Vi E-F", width: "100%"}
-![Vi комбо E-F](images/Micromanagement/vi-e-f-combo.png)
+{caption: "Figure 3-11. Timeline diagram of the defensive combo Vi E-F", width: "100%"}
+![Vi E-F combo](images/Micromanagement/vi-e-f-combo.png)
 
-Шаги этого комбо следующие:
+The steps of this combo are as follows:
 
-1. В точке A игрок нажимает кнопку E и даёт команду на атаку цели. Чемпион применяет умение и начинает проигрывать фазу E windup.
+1. At point A, the player presses the E button and right-clicks the target. The champion uses the ability and begins the E windup phase.
 
-2. В точке B сразу после начала анимации E windup игрок нажимает flash. Чемпион разрывает дистанцию с целью. В новой позиции он проигрывает оставшуюся часть анимации E windup. Это отрезок B-C на диаграмме.
+2. At point B, immediately after the E windup animation begins, the player presses Flash. The champion increases the distance to the target. At the new position, he completes the remaining E windup animation. This is segment B-C in the diagram.
 
-3. В точке C начинается анимация фазы E firing. В этот момент цель получает урон. 
+3. At point C, the E firing animation begins. At this point, the target takes damage.
 
-4. В точке D чемпион начинает фазу E recovery. Её можно отменить передвижением, заклинанием призывателя, активным эффектом предмета или другим умением чемпиона.
+4. At point D, the champion begins the E recovery phase. It can be canceled by movement, a summoner spell, an active item effect, or another champion's ability.
 
-При исполнении этого комбо возможна только одна ошибка. Игрок может его начать, когда цель находится вне дальности атаки чемпиона. Тогда можно нажать flash до начала анимации E windup.
+A player could make only one mistake when executing this combo. He can start it when the target is out of the champion's attack range. In this case, the player could press Flash before the E windup animation begins.
 
-Есть несколько аналогичных защитных комбо с модификатором атаки и flash. Вот примеры:
+There are several similar defensive combos with an attack modifier and Flash. Here are some examples:
 
-* **Darius W-F** — замедляет противника и разрывает с ним дистанцию.
+* **Darius W-F** — it slows the enemy and increases the distance to him.
 
-* **Garen Q-F** — накладывает на противника эффект молчания и разрывает с ним дистанцию.
+* **Garen Q-F** — it silences the enemy and increases the distance to him.
 
-I> **Эффект молчания** (silence) запрещает противнику использовать умения, активные эффекты предметов и некоторые заклинания призывателя.
+I> The **silence** effect prevents the enemy from using abilities, active item effects, and some summoner spells.
 
 ### 3.2.4 Static abilities
 
