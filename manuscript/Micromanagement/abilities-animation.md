@@ -92,7 +92,7 @@ The champion plays all three phases of the animation for these abilities. We cal
 
 The remaining two types of abilities deviate from the basic scheme. They do not have the windup phase. Therefore, we call them **fast**. Their firing phase begins immediately after issuing the command.
 
-The second classification feature is champion movement. If the firing phase of animation moves the champion, the ability is called **dynamic**. Otherwise, it is a **static** ability.
+The **second classification feature** is champion movement. If the firing phase of animation moves the champion, the ability is called **dynamic**. Otherwise, it is a **static** ability.
 
 Note that the champion can move during the firing animation of some static abilities. Example: Darius Q. In this case, the movement happens because the player issues the move command. The firing animation of the ability does not cause it. If the player does not issue the move command, the champion performs the entire animation of the ability, staying in one place.
 
@@ -243,21 +243,25 @@ I> The **silence** effect prevents the enemy from using abilities, active item e
 
 ### 3.2.4 Static abilities
 
->>>W
+>>>R1
 
-Теперь поговорим о **статических умениях**. Это самый распространённый тип умений в игре. Среди них есть атакующие, эффекты контроля, исцеление, усиление и щиты.
+Now let us consider the **static abilities**. These are the most common types of abilities in the game. They could have various effects: extra damage, crowd control, healing, buff, and shield.
 
-Большинство статических умений проходят по базовой схеме анимации. Её демонстрирует иллюстрация 3-8. Также среди них встречаются оба отклонения от базовой схемы: замена одной из фаз на channel и отсутствие фазы windup.
+Most static abilities follow the basic animation scheme shown in Figure 3-8. Some static abilities deviate from it. The deviation could be one of the following or both:
 
-Работа с анимацией статического умения преследует следующие цели:
+1. Replacing one of the animation phases with charging or channeling
 
-1. Сменить позицию чемпиона перед фазой firing умения.
+2. Omitting the windup phase.
 
-2. Маскировать анимацию одного умения анимацией другого умения.
+Working with the animation of a static ability serves the following purposes:
 
-3. Отменить recovery анимацию автоатаки или умения.
+1. To change the champion's position before the firing phase of an ability.
 
-Первая цель актуальна только для медленных статических умений с фазой windup. Быстрые статические умения её не имеют. Они начинаются сразу с фазы firing.
+2. To mask the animation of one ability with the animation of another ability.
+
+3. To cancel the recovery animation of an auto-attack or ability.
+
+The first purpose is relevant only to slow, static abilities with a windup phase. Fast static abilities do not have it. Their animation begins with the firing phase.
 
 #### 3.2.4.1 Position Change in attacking Darius combo
 
