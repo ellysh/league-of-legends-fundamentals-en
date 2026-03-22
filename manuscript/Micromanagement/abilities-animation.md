@@ -143,7 +143,7 @@ I> In all further examples, Vi has level is 1 and no attack speed items or runes
 
 Figure 3-9 shows the timeline diagram of Vi AA-E combo.
 
-{caption: "Figure 3-9. The timeline diagram for Vi AA-E combo", width: "100%"}
+{caption: "Figure 3-9. The timeline diagram of Vi AA-E combo", width: "100%"}
 ![Vi AA-E combo](images/Micromanagement/vi-aa-e-combo.png)
 
 The steps of this combo are as follows:
@@ -265,48 +265,48 @@ The first purpose is relevant only to slow, static abilities with a windup phase
 
 #### 3.2.4.1 Position Change in attacking Darius combo
 
->>>W
+>>>R1
 
-Менять позицию при использовании статических умений можно как для нападения, так и для отступления. Атакующие комбо эффективны в двух случаях:
+You can change the champion's position when using static abilities, both for attack and retreat. Offensive combos are effective in two cases:
 
-1. Умение имеет долгую фазу windup.
+1. The ability has a long windup phase.
 
-2. Умение имеет большой радиус действия.
+2. The ability has a long range.
 
-Идея атакующего комбо состоит в том, чтобы проиграть фазу windup умения в одном месте, а фазу firing — в другом. Тогда противнику сложнее предугадать его область действия и уклониться.
+The idea behind an offensive combo is to perform the ability's windup phase in one location and its firing phase in another. This makes it harder for the enemy to dodge the ability.
 
-В игре есть два способа, чтобы сменить позицию во время анимации windup умения:
+There are two ways to change a champion's position during the windup phase of some static ability:
 
-1. **Flash**. Примеры комбо: Darius Q-F, Ezreal Q-F, Ezreal R-F.
+1. **Flash**. Examples of combos: Darius Q-F, Ezreal Q-F, Ezreal R-F.
 
-2. **Динамическое умение чемпиона**. Примеры комбо: Caitlyn E-Q, Caitlyn E-W.
+2. **Dynamic champion ability**. Examples of combos: Caitlyn E-Q, Caitlyn E-W.
 
-Рассмотрим смену позиции с помощью flash на примере **атакующего комбо Darius Q-F**. Его демонстрирует [следующее видео](https://www.youtube.com/watch?v=bkvlyU1csIQ&t=124s).
+We will consider the changing champion's position using Flash. Let us take the **offensive Darius Q-F combo** as an example. The following [video](https://www.youtube.com/watch?v=bkvlyU1csIQ&t=124s) demonstrates it.
 
-Главный недостаток умения Darius Q — это долгая анимация фазы windup. Область удара подсвечивается и у противников есть достаточно времени, чтобы выйти из неё. Если Darius применяет умение на короткой дистанции, противник заходит во внутреннюю область удара и получает меньше урона. Атакующее комбо Q-F решает эту проблему.
+The main drawback of Darius Q ability is its long windup phase. The strike area is highlighted, giving opponents enough time to dodge it. If Darius uses the ability at a short distance, the opponent enters the internal area of the strike and takes less damage. The offensive Q-F combo solves this problem.
 
-Иллюстрация 3-12 демонстрирует временную диаграмму комбо Darius Q-F.
+Figure 3-12 shows the timeline diagram of the Darius Q-F combo.
 
-{caption: "Иллюстрация 3-12. Временная диаграмма комбо Darius Q-F", width: "100%"}
-![Darius комбо Q-F](images/Micromanagement/darius-q-f-combo.png)
+{caption: "Figure 3-12. The timeline diagram of Darius Q-F combo", width: "100%"}
+![Darius Q-F combo](images/Micromanagement/darius-q-f-combo.png)
 
-Шаги этого комбо следующие:
+The steps of this combo are as follows:
 
-1. В точке A игрок нажимает кнопку Q. С этого момента чемпион проигрывает фазу анимации Q windup: замахивается топором. Она всегда длится 0.75 секунды.
+1. At point A, the player presses the Q button. From this point on, the champion performs the Q windup animation phase: swinging the axe. This always lasts 0.75 seconds.
 
-2. В точке B ближе к концу анимации Q windup игрок нажимает flash. Чемпион должен оказаться в такой позиции, чтобы цель попала во внешнюю область удара. После этого он проигрывает оставшуюся часть анимации Q windup. Это отрезок B-C на диаграмме.
+2. At point B, when the Q windup animation comes to an end, the player presses Flash. The champion should reach the position where the enemy is within the outer area of the strike. After this, the champion performs the remainder of the Q windup animation. This is segment B-C in the diagram.
 
-3. В точке C начинается анимация фазы Q firing. В этот момент все противники в области поражения получают урон. Эта фаза длится примерно 0.4 секунды.
+3. At point C, the Q firing animation begins. At this point, all enemies within the strike area take damage. This phase lasts approximately 0.4 seconds.
 
-4. В точке D чемпион начинает фазу Q recovery. Она длится примерно 0.33 секунды. Её можно отменить атакой, передвижением, заклинанием призывателя, активным эффектом предмета или другим умением чемпиона.
+4. At point D, the champion begins the Q recovery phase. It lasts approximately 0.33 seconds. It can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
-При исполнении комбо Q-F противник видит анимацию умения заранее. Но у него всё равно мало времени, чтобы отреагировать. Если он нажмёт flash слишком рано на отрезке A-B, то Darius не сделает flash. Тогда он получит преимущество по ресурсам. Противник может уклониться от удара, только если применит flash на отрезке B-C. Поэтому чем короче этот отрезок, тем качественнее исполнено комбо.
+When a player executes the Darius Q-F combo, the opponent sees the animation of the ability in advance. However, he still has little time to react. If he flashes too early in the A-B segment, a Darius player will not flash. This will give him a resource advantage. The opponent can only dodge the Q strike if he flashes in the B-C segment. Therefore, the shorter this segment, the better the combo execution.
 
-Вот общие правила, когда надо нажимать flash в комбо со сменой позиции:
+Here are the general rules for using Flash in all combos with changing the champion's position:
 
-> В атакующих комбо flash надо нажимать как можно позже. Это не даст противнику времени на реакцию.
+> In offensive combos, use Flash as late as possible. This will not give the opponent time to react.
 
-> В защитных комбо flash надо нажимать как можно раньше. Тогда чемпион раньше окажется на безопасной дистанции.
+> In defensive combos, use Flash as early as possible. This allows the champion to reach a safe distance sooner.
 
 #### 3.2.4.2 Position Change in attacking Ezreal combo
 
