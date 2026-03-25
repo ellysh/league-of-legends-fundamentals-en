@@ -273,7 +273,7 @@ You can change the champion's position when using static abilities, both for att
 
 2. The ability has a long range.
 
-The idea behind an offensive combo is to perform the ability's windup phase in one location and its firing phase in another. This makes it harder for the enemy to dodge the ability.
+The idea behind an offensive combo is to perform the ability's windup phase in one location and shift its firing phase into another. This makes it harder for the enemy to dodge the ability.
 
 There are two ways to change a champion's position during the windup phase of some static ability:
 
@@ -281,7 +281,7 @@ There are two ways to change a champion's position during the windup phase of so
 
 2. **Dynamic champion ability**. Examples of combos: Caitlyn E-Q, Caitlyn E-W.
 
-We will consider the changing champion's position using Flash. Let us take the **offensive Darius Q-F combo** as an example. The following [video](https://www.youtube.com/watch?v=bkvlyU1csIQ&t=124s) demonstrates it.
+We will consider the changing champion's position using Flash. Let us take the **offensive combo Darius Q-F** as an example. The [following video](https://www.youtube.com/watch?v=bkvlyU1csIQ&t=124s) demonstrates it.
 
 The main drawback of Darius Q ability is its long windup phase. The strike area is highlighted, giving opponents enough time to dodge it. If Darius uses the ability at a short distance, the opponent enters the internal area of the strike and takes less damage. The offensive Q-F combo solves this problem.
 
@@ -310,39 +310,39 @@ Here are the general rules for using Flash in all combos with changing the champ
 
 #### 3.2.4.2 Position Change in attacking Ezreal combo
 
->>>W
+>>>R1
 
-Второй пример смены позиции с помощью flash — **атакующее комбо Ezreal Q-F**. Оно также известно как "Ghost Q" (призрак Q). Его демонстрирует [следующее видео](https://www.youtube.com/shorts/QG7wX79RXAg).
+The second example of position change using Flash is offensive combo Ezreal Q-F. It is also known as the "Ghost Q" combo. The [following video](https://www.youtube.com/shorts/QG7wX79RXAg) demonstrates it.
 
-Умение Q имеет большой радиус действия и хорошо различимую анимацию windup. На высоком ранге игроки следят за анимацией и уклоняются от умения. Атакующее комбо Q-F решает эту проблему. Оно увеличивает радиус умения и маскирует анимацию. Из-за этого противнику сложнее оценить направление снаряда и безопасную дистанцию.
+Ezreal's Q ability has a long range and a clearly visible windup animation. At high ranks, players watch the animation and dodge the projectile. The Q-F combo solves this problem. It increases the range of the ability and masks its animation. This makes it difficult for the opponent to predict the projectile trajectory.
 
-I> **Маскировка анимации** — это наложение анимации одного действия поверх другого. Чемпион исполняет оба действия, но для второго анимация искажается, не проигрывается или проигрывается частично.
+I> **Animation masking** is the overlay of the animation of one action on top of another. The champion performs both actions, but the animation of the second one is distorted or hidden.
 
-Иллюстрация 3-13 демонстрирует временную диаграмму комбо Ezreal Q-F.
+Figure 3-13 shows the timeline diagram for Ezreal Q-F combo.
 
-{caption: "Иллюстрация 3-13. Временная диаграмма комбо Ezreal Q-F", width: "100%"}
-![Ezreal комбо Q-F](images/Micromanagement/ezreal-q-f-combo.png)
+{caption: "Figure 3-13. The timeline diagram of Ezreal Q-F combo", width: "100%"}
+![Ezreal Q-F combo](images/Micromanagement/ezreal-q-f-combo.png)
 
-Шаги этого комбо следующие:
+The steps of this combo are as follows:
 
-1. В точке A игрок нажимает кнопку Q. Чемпион проигрывает фазу анимации Q windup: выставляет вперёд перчатку. Она всегда длится 0.25 секунды.
+1. At point A, the player presses the Q button. The champion plays the Q windup animation phase: he extends his gauntlet forward. It always lasts 0.25 seconds.
 
-2. В точке B игрок нажимает flash. Чемпион сокращает дистанцию с целью. Нажимать flash надо так, чтобы его firing анимация закончилась одновременно с анимацией Q windup в точке C. В этом случае произойдёт не только увеличение радиуса умения, но и маскировка анимации windup на отрезке B-C.
+2. At point B, the player presses Flash. The champion closes the distance with the target. Flash should be pressed so that its firing animation ends simultaneously with the Q windup animation at point C. This will not only increase the ability's range but also mask the windup animation on the B-C segment.
 
-3. В точке C чемпион проигрывает фазу Q firing. Она маскируется аналогично Q windup: анимация снаряда начинается в первоначальной позиции Ezreal. При этом его реальная траектория начинается в новой позиции чемпиона. Фаза firing длится примерно 0.02 секунды.
+3. At point C, the champion performs the Q firing animation. This is masked similarly to the Q windup phase: the projectile animation begins at Ezreal's initial position. Its actual trajectory begins at the champion's new position. The firing phase lasts approximately 0.02 seconds.
 
-4. В точке D чемпион начинает фазу Q recovery. Она длится примерно 0.9 секунды. Её можно отменить атакой, передвижением, заклинанием призывателя, активным эффектом предмета или другим умением чемпиона.
+4. At point D, the champion begins the Q recovery phase. This phase lasts approximately 0.9 seconds. It can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
-Иллюстрация 3-14 демонстрирует анимацию полёта снаряда при правильном исполнении комбо Ezreal Q-F.
+Figure 3-14 shows the projectile flight animation when the Ezreal Q-F combo is executed correctly.
 
-{caption: "Иллюстрация 3-14. Анимация полёта снаряда Ezreal Q-F комбо", width: "100%"}
-![Снаряд Ezreal комбо Q-F](images/Micromanagement/ezreal-q-animation-masking.png)
+{caption: "Figure 3-14. The projectile flight animation in Ezreal Q-F combo", width: "100%"}
+![Projectile in Ezreal Q-F combo](images/Micromanagement/ezreal-q-animation-masking.png)
 
-Снаряд пролетает только половину пути и поражает цель. Это происходит потому, что анимация снаряда отличается от его реальной траектории.
+The projectile only travels halfway before hitting the target. This occurs because the projectile's animation differs from its actual trajectory.
 
-Во время комбо Q-F чемпион может сделать flash в сторону от направления снаряда. Этот вариант исполнения демонстрирует [следующее видео](https://www.youtube.com/watch?v=Ze-nz6w21EE). Такой приём позволяет поразить цель, когда её прикрывают миньоны или другой чемпион.
+During the Ezreal Q-F combo, the champion can flash away from the projectile's direction. The [following video](https://www.youtube.com/watch?v=Ze-nz6w21EE) demonstrates this variation of the combo. It allows you to hit a target while minions or another champion are covering it.
 
-Многие статические медленные умения комбинируются с flash точно так же, как Ezreal Q. Например, Ashe W. Если нажать flash в фазу W windup, то чемпион выполнит flash и выпустит залп стрел из новой позиции. Такое комбо увеличит дальность умения.
+Many static slow abilities are combined with Flash in the same way as Ezreal's Q. For example, Ashe's W. If you press Flash during the Ashe W windup phase, the champion flashes and fires a volley of arrows from a new position. This combo increases the range of the ability.
 
 #### 3.2.4.3 Position Change in defensive Ezreal combo
 
