@@ -27,7 +27,7 @@ We start with simple abilities that fit within the basic scheme, for example, As
 
 Let us look at the diagram step by step:
 
-1. At point A, the player issues the ability command. The champion plays the windup animation phase: drawing the bowstring. This always lasts 0.25 seconds for the W ability.
+1. At point A, the player issues the ability command. The champion performs the windup animation phase: drawing the bowstring. This always lasts 0.25 seconds for the W ability.
 
 2. At point B, the champion begins the firing phase: firing a volley of arrows. This lasts approximately 0.1 seconds.
 
@@ -88,7 +88,7 @@ Three types of abilities fit into the basic animation scheme:
 2. Static slow ability
 3. Dynamic slow ability.
 
-The champion plays all three phases of the animation for these abilities. We call them **slow** because their firing phase begins with a delay. This delay occurs due to preparations during the windup phase.
+The champion performs all three phases of the animation for these abilities. We call them **slow** because their firing phase begins with a delay. This delay occurs due to preparations during the windup phase.
 
 The remaining two types of abilities deviate from the basic scheme. They do not have the windup phase. Therefore, we call them **fast**. Their firing phase begins immediately after issuing the command.
 
@@ -111,7 +111,7 @@ Let us go through all ability types and consider which actions change their anim
 
 >>>R1
 
-The ability of the **auto-attack modifier** type empowers the next champion's basic attack. When a player issues the ability command, the champion plays a special windup animation. You cannot cancel this animation, and it allows the champion to perform some actions in parallel. Auto-attack modifier animation is the animation of an empowered auto-attack that applies the ability effect.
+The ability of the **auto-attack modifier** type empowers the next champion's basic attack. When a player issues the ability command, the champion performs a special windup animation. You cannot cancel this animation, and it allows the champion to perform some actions in parallel. Auto-attack modifier animation is the animation of an empowered auto-attack that applies the ability effect.
 
 Most auto-attack modifier abilities have two properties:
 
@@ -148,7 +148,7 @@ Figure 3-9 shows the timeline diagram of Vi AA-E combo.
 
 The steps of this combo are as follows:
 
-1. At point A, the player right-clicks the target. From this point on, the champion plays the windup animation phase: swinging his fist back to strike. This phase lasts 22.5% of the auto-attack 1.55 second cooldown. This is approximately 0.35 seconds, according to the following calculation:
+1. At point A, the player right-clicks the target. From this point on, the champion performs the windup animation phase: swinging his fist back to strike. This phase lasts 22.5% of the auto-attack 1.55 second cooldown. This is approximately 0.35 seconds, according to the following calculation:
 {line-numbers: false, format: text}
 ```
 windup = 1.55 * 22.5 / 100 ~ 0.35
@@ -198,7 +198,7 @@ The steps of this combo are as follows:
 
 1. At point A, the player right-clicks the target. The champion begins the AA windup animation. It lasts 0.35 seconds and ends at point C.
 
-2. At point B, immediately after the AA windup animation begins, the player presses Flash. The champion increases the distance to the target. At the new position, he completes the remaining windup animation. This is segment B-C in the diagram.
+2. At point B, the player presses Flash immediately after the AA windup animation begins. The champion increases the distance to the target. At the new position, he completes the remaining windup animation. This is segment B-C in the diagram.
 
 3. At point C, the AA firing animation begins. At this point, the target takes damage. The damage will occur even if the distance to the target is greater than Vi's attack range.
 
@@ -325,7 +325,7 @@ Figure 3-13 shows the timeline diagram for Ezreal Q-F combo.
 
 The steps of this combo are as follows:
 
-1. At point A, the player presses the Q button. The champion plays the Q windup animation phase: he extends his gauntlet forward. It always lasts 0.25 seconds.
+1. At point A, the player presses the Q button. The champion performs the Q windup animation phase: he extends his gauntlet forward. It always lasts 0.25 seconds.
 
 2. At point B, the player presses Flash. The champion closes the distance with the target. Flash should be pressed so that its firing animation ends simultaneously with the Q windup animation at point C. This will not only increase the ability's range but also mask the windup animation on the B-C segment.
 
@@ -346,36 +346,36 @@ Many static slow abilities are combined with Flash in the same way as Ezreal's Q
 
 #### 3.2.4.3 Position Change in defensive Ezreal combo
 
->>>W
+>>>R1
 
-Третий пример смены позиции с flash — **защитное комбо Ezreal R-F**. Его демонстрирует [следующее видео](https://www.youtube.com/watch?v=huqdC11CJmU).
+The third example of position change using Flash is defensive combo Ezreal R-F. The [following video](https://www.youtube.com/watch?v=huqdC11CJmU) demonstrates it.
 
-У умения Ezreal R есть две проблемы. **Во-первых**, фаза windup длится целую секунду. В течение этого времени чемпион не может двигаться и становится лёгкой целью в сражении. **Во-вторых**, предсказуемая траектории снаряда. Анимация windup явно указывает, куда полетит снаряд.
+Ezreal's R ability has two problems. **First**, the windup phase lasts one second. During this time, the champion is unable to move, making it an easy target in a teamfight. **Second**, the projectile's trajectory is predictable. The windup animation clearly indicates where the projectile will hit.
 
-Защитное комбо R-F решает обе проблемы. Его идея состоит в том, чтобы маскировать анимацию windup с помощью flash и одновременно разорвать дистанцию с противником. Это позволяет выиграть время и скрыть направление снаряда.
+The R-F defensive combo solves both problems. Its idea is to mask the windup R animation with the Flash while simultaneously breaking distance from the opponent. This buys time and hides the projectile's direction.
 
-Иллюстрация 3-15 демонстрирует временную диаграмму комбо Ezreal R-F.
+Figure 3-15 shows the timeline diagram for Ezreal R-F combo.
 
-{caption: "Иллюстрация 3-15. Временная диаграмма комбо Ezreal R-F", width: "100%"}
-![Ezreal комбо R-F](images/Micromanagement/ezreal-r-f-combo.png)
+{caption: "Figure 3-15. The timeline diagram of Ezreal R-F combo", width: "100%"}
+![Ezreal R-F combo](images/Micromanagement/ezreal-r-f-combo.png)
 
-Шаги этого комбо следующие:
+The steps of this combo are as follows:
 
-1. В точке A игрок нажимает кнопку R. Чемпион проигрывает фазу анимации R windup: подлетает и выставляет вперёд перчатку. Она всегда длится 1 секунду.
+1. At point A, the player presses the R button. The champion performs the R windup animation phase: he flies up and extends his gauntlet forward. This always lasts 1 second.
 
-2. В точке B сразу после начала анимации R windup игрок нажимает flash. Чемпион разрывает дистанцию с целью. В новой позиции он проигрывает оставшуюся часть анимации R windup. Это отрезок B-C на диаграмме.
+2. At point B, the player presses Flash immediately after the R windup animation begins. The champion increases the distance to the target. At the new position, he completes the remaining windup animation. This is segment B-C in the diagram.
 
-3. В точке C чемпион проигрывает фазу R firing. Она длится примерно 0.02 секунды.
+3. At point C, the champion performs the R firing phase animation. This lasts approximately 0.02 seconds.
 
-4. В точке D чемпион начинает фазу R recovery. Она длится примерно 0.65 секунды. Её можно отменить атакой, передвижением, заклинанием призывателя, активным эффектом предмета или другим умением чемпиона.
+4. At point D, the champion begins the R recovery phase. This lasts approximately 0.65 seconds. It can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
-При исполнении R-F комбо важно нажать flash как можно раньше. В противном случае произойдёт маскировка анимации R windup. Одна часть будет проигрываться в начальной позиции чемпиона, а другая в конечной. Это плохо, потому что противник увидит направление снаряда.
+When performing the R-F combo, it is important to press Flash as early as possible. Otherwise, the R windup animation will be incompletely masked. The champion will perform one part of the animation in the starting position and the other in the final position. This is bad because the opponent will see the projectile's direction.
 
-Обратите внимание, что после flash чемпион будет целиться в другую сторону. Это искажение анимации. Снаряд всё равно полетит в направлении, которое игрок указал в момент применения умения.
+Note that after the Flash, the champion will aim in the wrong direction. This distorts the animation. The projectile will still fly in the direction that the player intended when casting the R ability.
 
-Во время сражения лучше использовать flash через стену или в кусты. Тогда чемпион окажется в безопасной позиции и успеет закончить анимацию R windup.
+During a teamfight, it is better to Flash through a wall or into bushes. This puts the champion in a safe position and gives him time to complete the R windup animation.
 
-I> Есть более сложный вариант комбо Ezreal R-F. Его демонстрирует [следующее видео](https://www.youtube.com/watch?v=nxw-9TFjkF0).
+I> There is a more complex version of the Ezreal R-F combo. The [following video](https://www.youtube.com/watch?v=nxw-9TFjkF0) demonstrates it.
 
 #### 3.2.4.4 Hiding animation in Jinx combo
 
