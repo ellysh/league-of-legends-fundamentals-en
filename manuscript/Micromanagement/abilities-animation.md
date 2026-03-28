@@ -375,56 +375,56 @@ Note that after the Flash, the champion will aim in the wrong direction. This di
 
 During a teamfight, it is better to Flash through a wall or into bushes. This puts the champion in a safe position and gives him time to complete the R windup animation.
 
-I> There is a more complex version of the Ezreal R-F combo. The [following video](https://www.youtube.com/watch?v=nxw-9TFjkF0) demonstrates it.
+I> There is a more complex E-R-F combo with Flash and Ezreal's ultimate ability. The [following video](https://www.youtube.com/watch?v=nxw-9TFjkF0) demonstrates it.
 
 #### 3.2.4.4 Hiding animation in Jinx combo
 
->>>W
+>>>R1
 
-Маскировать анимацию можно не только с помощью flash. Для этого также подходят некоторые статические умения чемпиона.
+Using Flash is not the only option to mask the ability animation. Some static abilities of a champion are also suitable for this purpose.
 
-Наложение анимации двух статических умений даёт следующие преимущества:
+When you overlay animations of two static abilities, you get the following benefits:
 
-1. Увеличивает DPS чемпиона в сражении.
+1. Increase the champion's DPS in teamfight.
 
-2. Скрывает направление снаряда или удар.
+2. Hide the projectile's direction or strike.
 
-Рассмотрим **комбо Jinx E-R**. Его демонстрирует [следующее видео](https://www.instagram.com/p/DAgwmuDMVq-). Сначала разберём умения, из которых оно состоит.
+Let us look at the **Jinx E-R combo**. The [following video](https://www.instagram.com/p/DAgwmuDMVq-) demonstrates it. First, we will consider animation of the E and R abilities.
 
-**Статическое медленное умение Jinx R** очень похоже на Ezreal R. У него те же два недостатка: долгая фаза windup и предсказуемая траектория снаряда. Временную диаграмму умения демонстрирует иллюстрация 3-16.
+The **Jinx R static slow ability** is very similar to Ezreal R. It has the same two drawbacks: a long windup phase and a predictable projectile trajectory. Figure 3-16 shows the timeline diagram of this ability.
 
-{caption: "Иллюстрация 3-16. Временная диаграмма умения R Jinx", width: "100%"}
-![Умение R Jinx](images/Micromanagement/jinx-r-ability-animation.png)
+{caption: "Figure 3-16. Timeline diagram of the Jinx R ability", width: "100%"}
+![Jinx R ability](images/Micromanagement/jinx-r-ability-animation.png)
 
-Фаза R windup длится 0.6 секунды, что достаточно долго.
+The R windup animation phase lasts 0.6 seconds, which is quite long.
 
-**Статическое быстрое умение Jinx E** не имеет фазы windup. Как только игрок нажимает клавишу E, чемпион сразу проигрывает фазу firing: бросает перед собой ловушки. Временную диаграмму умения демонстрирует иллюстрация 3-17.
+The **Jinx E static fast ability** does not have a windup phase. When the player presses the E key, the champion immediately begins the firing animation phase: Jinx throws traps in front of her. Figure 3-17 shows the timeline diagram of this ability.
 
-{caption: "Иллюстрация 3-17. Временная диаграмма умения E Jinx", width: "100%"}
-![Умение E Jinx](images/Micromanagement/jinx-e-ability-animation.png)
+{caption: ""Figure 3-17. Timeline diagram of the Jinx E ability", width: "100%"}
+![Jinx E ability](images/Micromanagement/jinx-e-ability-animation.png)
 
-**Комбо Jinx E-R** решает обе проблемы умения R. Его фазу R windup маскирует анимация умения E. Из-за неё противник не видит, что чемпион не может двигаться и стал уязвим. Также не видно и направление снаряда.
+The **Jinx E-R combo** solves both problems of the R ability. The E ability animation hides the R windup phase. Because of this, the enemy does not see that the champion is immobilized and vulnerable. The projectile's direction is also hidden.
 
-Иллюстрация 3-18 демонстрирует временную диаграмму комбо Jinx E-R.
+Figure 3-18 shows the timeline diagram of the Jinx E-R combo.
 
-{caption: "Иллюстрация 3-18. Временная диаграмма комбо Jinx E-R", width: "100%"}
-![Jinx комбо E-R](images/Micromanagement/jinx-e-r-combo.png)
+{caption: "Figure 3-18. Timeline diagram of the Jinx E-R combo", width: "100%"}
+![Jinx E-R combo](images/Micromanagement/jinx-e-r-combo.png)
 
-Шаги этого комбо следующие:
+The steps of this combo are as follows:
 
-1. В точке A игрок нажимает кнопку E. Чемпион проигрывает фазу анимации E firing. Она длится 0.08 секунды.
+1. At point A, the player presses the E button. The champion performs the E firing animation phase. It lasts 0.08 seconds.
 
-2. В точке B начинается фаза анимации E recovery. Игрок нажимает кнопку R. Тогда начинается фаза R windup, но её анимация частично скрыта.
+2. At point B, the E recovery animation phase begins. The player presses the R button. The R windup phase then begins, but its animation is partially hidden.
 
-3. В точке C начинается фаза анимации R firing. Она длится 0.07 секунды. Её так же маскирует анимация E recovery.
+3. At point C, the R firing animation phase begins. It lasts 0.07 seconds. It is also masked by the E recovery animation.
 
-4. В точке D заканчивается фаза R firing. С этого момента чемпион проигрывает только оставшуюся часть анимации E recovery. Она скрывает фазу R recovery.
+4. At point D, the R firing phase ends. Starting from this point, the champion performs only the remainder of the E recovery animation. It hides the R recovery phase.
 
-5. В точке E заканчивается фаза E recovery. Дальше чемпион проигрывает оставшуюся часть анимации R recovery.
+5. At point E, the E recovery phase ends. The champion then plays the remainder of the R recovery animation.
 
-Обе анимации E recovery и R recovery можно отменить, начиная с точки D. Для этого подходит атака, передвижение, заклинание призывателя, активный эффект предмета или другое умение чемпиона.
+You can cancel both E and R recovery animations at point D. This can be done by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
-Мы рассмотрели пример, когда анимация recovery одного статического умения маскирует фазу windup другого. По этому же принципу работают следующие комбо:
+In our example, the recovery animation phase of one static ability masks the windup phase of another. The following combos work on the same manner:
 
 * [**Riven R-W**](https://youtu.be/bXO-5CpNqJc?si=as1A5boOdGEIUlLg&t=240)
 
