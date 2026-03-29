@@ -312,7 +312,7 @@ Here are the general rules for using Flash in all combos with changing the champ
 
 >>>R1
 
-The second example of position change using Flash is offensive combo Ezreal Q-F. It is also known as the "Ghost Q" combo. The [following video](https://www.youtube.com/shorts/QG7wX79RXAg) demonstrates it.
+The second example of position change using Flash is **offensive combo Ezreal Q-F**. It is also known as the "Ghost Q" combo. The [following video](https://www.youtube.com/shorts/QG7wX79RXAg) demonstrates it.
 
 Ezreal's Q ability has a long range and a clearly visible windup animation. At high ranks, players watch the animation and dodge the projectile. The Q-F combo solves this problem. It increases the range of the ability and masks its animation. This makes it difficult for the opponent to predict the projectile trajectory.
 
@@ -348,7 +348,7 @@ Many static slow abilities are combined with Flash in the same way as Ezreal's Q
 
 >>>R1
 
-The third example of position change using Flash is defensive combo Ezreal R-F. The [following video](https://www.youtube.com/watch?v=huqdC11CJmU) demonstrates it.
+The third example of position change using Flash is **defensive combo Ezreal R-F**. The [following video](https://www.youtube.com/watch?v=huqdC11CJmU) demonstrates it.
 
 Ezreal's R ability has two problems. **First**, the windup phase lasts one second. During this time, the champion is unable to move, making it an easy target in a teamfight. **Second**, the projectile's trajectory is predictable. The windup animation clearly indicates where the projectile will hit.
 
@@ -432,32 +432,32 @@ In our example, the recovery animation phase of one static ability masks the win
 
 #### 3.2.4.5 Hiding animation in Darius combo
 
->>>W
+>>>R1
 
-Второй пример маскировки анимации — **комбо Darius W-Q**. Его демонстрирует [следующее видео](https://www.youtube.com/watch?v=83n-RIxQ25k&t=86s).
+The second example of animation masking is **Darius W-Q combo**. The [following video](https://www.youtube.com/watch?v=83n-RIxQ25k&t=86s) demonstrates it
 
-Идея комбо заключается в том, чтобы выполнить умения W и Q одновременно. Модификатор атаки W имеет свойство uncancellable windup. Это позволяет запустить фазу W windup и сразу начать умение Q. Его анимация будет проигрываться поверх анимации умения W.
+The idea behind the combo is to perform both the W and Q abilities simultaneously. The W attack modifier has an uncancellable windup property. This allows you to start the W windup phase and immediately begin the Q ability. Then the Q animation will overlay on the W animation.
 
-Иллюстрация 3-19 демонстрирует временную диаграмму комбо W-Q Darius.
+Figure 3-19 shows the timeline diagram of the Darius W-Q combo.
 
-{caption: "Иллюстрация 3-19. Временная диаграмма комбо Darius W-Q", width: "100%"}
-![Darius комбо W-Q](images/Micromanagement/darius-w-q-combo.png)
+{caption: "Figure 3-19. Timeline diagram of the Darius W-Q combo", width: "100%"}
+![Darius W-Q combo](images/Micromanagement/darius-w-q-combo.png)
 
-Шаги этого комбо следующие:
+The steps of this combo are as follows:
 
-1. В точке A игрок нажимает W и даёт команду атаковать цель. Чемпион начинает проигрывать фазу анимации W windup: замахивается топором снизу.
+1. At point A, the player presses W and issues an auto-attack. The champion begins the W windup animation phase, swinging the axe from below.
 
-2. В точке B сразу после начала анимации W windup игрок нажимает Q. Чемпион начинает проигрывать анимацию Q windup: замахивается топором сверху. Она скрывает анимацию W windup, которая идёт параллельно.
+2. At point B, the player presses Q immediately after the W windup animation begins. The champion begins the Q windup animation, swinging the axe from above. This animation hides the W windup animation, which happens in parallel.
 
-3. В точке C начинается фаза W firing. Чемпион наносит противнику урон модификатором атаки. Фаза Q windup скрывает анимацию удара.
+3. At point C, the W firing phase begins. The champion deals damage to the enemy with his attack modifier. The Q windup phase hides the strike animation.
 
-4. В точке D начинается фаза Q firing. Все противники в области поражения умения Q получают урон.
+4. At point D, the Q firing phase begins. All enemies within the strike area take damage.
 
-5. В точке E чемпион начинает фазу Q recovery. Её можно отменить атакой, передвижением, заклинанием призывателя, активным эффектом предмета или другим умением чемпиона.
+5. At point E, the champion begins the Q recovery phase. This can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
-Есть несколько аналогичных комбо с модификатором атаки и статическим умением. Вот примеры:
+There are several similar combos with an attack modifier and a static ability. Here are some examples:
 
-* **Dr.Mundo E-W**
+* **Dr. Mundo E-W**
 
 * **Garen Q-E**
 
