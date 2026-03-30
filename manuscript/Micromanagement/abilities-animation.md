@@ -463,21 +463,21 @@ There are several similar combos with an attack modifier and a static ability. H
 
 ### 3.2.5 Dynamic abilities
 
->>>W
+>>>R1
 
-**Динамических умений** в игре намного меньше чем статических. Среди них есть атакующие, которые увеличивают урон, и защитные, которые дают какой-то эффект на выживаемость. Оба типа так или иначе перемещают чемпиона.
+Now we consider **dynamic abilities**. They can be offensive, which increases damage, or defensive, which provides some survivability. Both types of abilities move the champion in some way.
 
-Работа с анимацией динамического умения преследует следующие цели:
+Working with the animation of a dynamic ability serves the following purposes:
 
-1. Сменить позицию чемпиона до или во время фазы firing умения.
+1. Change the champion's position before or during the firing phase of an ability.
 
-2. Преждевременно завершить фазу анимации firing.
+2. End the firing animation phase prematurely.
 
-3. Маскировать анимацию одного умения анимацией другого умения.
+3. Mask the animation of one ability with the animation of another ability.
 
-4. Отменить recovery анимацию автоатаки или умения.
+4. Cancel the recovery animation of an auto-attack or ability.
 
-Рассмотрим примеры комбо для каждой из этих целей.
+Let us look at an example combo for each of these purposes.
 
 #### 3.2.5.1 Position Change in attacking Vi combo
 
