@@ -148,7 +148,7 @@ Figure 3-9 shows the timeline diagram of Vi AA-E combo.
 
 The steps of this combo are as follows:
 
-1. At point A, the player right-clicks the target. From this point on, the champion performs the windup animation phase: swinging his fist back to strike. This phase lasts 22.5% of the auto-attack 1.55 second cooldown. This is approximately 0.35 seconds, according to the following calculation:
+1. At point A, the player right-clicks the target. From this point on, the champion performs the windup animation phase: swinging her fist back to strike. This phase lasts 22.5% of the auto-attack 1.55 second cooldown. This is approximately 0.35 seconds, according to the following calculation:
 {line-numbers: false, format: text}
 ```
 windup = 1.55 * 22.5 / 100 ~ 0.35
@@ -160,7 +160,7 @@ windup = 1.55 * 22.5 / 100 ~ 0.35
 
 4. At point D, the E firing animation begins. It lasts 0.25 seconds, the same as a regular auto-attack.
 
-5. At point E, the champion begins his E recovery phase. It lasts 0.95 seconds, the same as a regular auto-attack.
+5. At point E, the champion begins her E recovery phase. It lasts 0.95 seconds, the same as a regular auto-attack.
 
 You can cancel the E recovery animation on the E-G segment by the following actions:
 
@@ -198,7 +198,7 @@ The steps of this combo are as follows:
 
 1. At point A, the player right-clicks the target. The champion begins the AA windup animation. It lasts 0.35 seconds and ends at point C.
 
-2. At point B, the player presses Flash immediately after the AA windup animation begins. The champion increases the distance to the target. At the new position, he completes the remaining windup animation. This is segment B-C in the diagram.
+2. At point B, the player presses Flash immediately after the AA windup animation begins. The champion increases the distance to the target. At the new position, she completes the remaining windup animation. This is segment B-C in the diagram.
 
 3. At point C, the AA firing animation begins. At this point, the target takes damage. The damage will occur even if the distance to the target is greater than Vi's attack range.
 
@@ -225,7 +225,7 @@ The steps of this combo are as follows:
 
 1. At point A, the player presses the E button and right-clicks the target. The champion uses the ability and begins the E windup phase.
 
-2. At point B, immediately after the E windup animation begins, the player presses Flash. The champion increases the distance to the target. At the new position, he completes the remaining E windup animation. This is segment B-C in the diagram.
+2. At point B, immediately after the E windup animation begins, the player presses Flash. The champion increases the distance to the target. At the new position, she completes the remaining E windup animation. This is segment B-C in the diagram.
 
 3. At point C, the E firing animation begins. At this point, the target takes damage.
 
@@ -481,47 +481,47 @@ Let us look at an example combo for each of these purposes.
 
 #### 3.2.5.1 Position Change in attacking Vi combo
 
->>>W
+>>>R1
 
-Менять позицию при использовании динамических умений можно как для нападения, так и для отступления. Такой приём хорошо работает для медленных и быстрых умений.
+The player can change the champion's position for attack and defense when using dynamic abilities. This technique works well for both slow and fast abilities.
 
-Когда чемпион выполняет статическое умение, он может сменить позицию только в фазу windup. В отличие от этого большинство динамических умений позволяет менять позицию также и в фазу firing. Это можно сделать только с помощью flash.
+When a champion performs a static ability, he can only change position during the windup animation phase. In contrast, most dynamic abilities allow changing position during the firing phase. Only Flash summoner spell allows you to do it.
 
-Рассмотрим смену позиции чемпиона на примере **комбо Vi Q-F**. Оно имеет два варианта: атакующий и защитный. Для начала рассмотрим анимацию самого умения Vi Q. Её демонстрирует иллюстрация 3-20.
+Let us look at changing a champion's position using the **Vi Q-F combo** as an example. It has two variants: offensive and defensive. First, we will consider the animation of the Vi Q ability itself. Figure 3-20 shows its timeline diagram.
 
-{caption: "Иллюстрация 3-20. Временная диаграмма умения Vi Q", width: "100%"}
-![Временная диаграмма умения Vi Q](images/Micromanagement/vi-q-ability-animation.png)
+{caption: "Figure 3-20. The timeline diagram of Vi Q ability", width: "100%"}
+![Vi Q ability](images/Micromanagement/vi-q-ability-animation.png)
 
-В этом умении фаза windup заменяется на channel (зарядка). Всего фаз анимации четыре: windup (channel), charged, firing и recovery. Вторая фаза charged наступает, когда чемпион полностью зарядит умение. Её можно пропустить, если начать firing до окончания зарядки.
+In this ability, the windup phase is replaced with charging. It has four animation phases in total: windup (charging), charged, firing, and recovery. The second phase occurs when the champion fully charges the ability. You can skip it if you issue a firing before the ability is fully charged.
 
-Умение Vi Q не имеет свойства lockout move (блокировка передвижения). Свойство [**lockout**](https://wiki.leagueoflegends.com/en-us/Terminology#Lockout) (блокировка) запрещает чемпиону выполнять определённые действия на фазе windup умения. **Lockout move** запрещает чемпиону перемещаться.
+Vi Q ability does not have a lockout move property. [**Lockout**]((https://wiki.leagueoflegends.com/en-us/Terminology#Lockout)) prevents the champion from performing certain actions during the ability's windup phase. **Lockout move** prevents the champion from moving.
 
-Теперь рассмотрим **атакующее комбо Vi Q-F**. Иллюстрация 3-21 демонстрирует его временную диаграмму.
+Now let us consider **offensive combo Vi Q-F**. Figure 3-21 shows its timeline diagram.
 
-{caption: "Иллюстрация 3-21. Временная диаграмма атакующего комбо Vi Q-F", width: "100%"}
-![Атакующее комбо Vi Q-F](images/Micromanagement/vi-q-f-attacking-combo.png)
+{caption: "Figure 3-21. The timeline diagram of offensive combo Vi Q-F", width: "100%"}
+![Offensive combo Vi Q-F](images/Micromanagement/vi-q-f-attacking-combo.png)
 
-I> Мы рассмотрим исполнение комбо, когда умение Vi Q настроено на Normal Cast.
+I> We consider the execution of the combo when Vi Q ability is set to Normal Cast.
 
-Шаги этого комбо следующие:
+The steps of this combo are as follows:
 
-1. В точке A игрок нажимает кнопку Q. Чемпион начинает проигрывать фазу анимации Q windup: заряжает кулак. Она длится максимум 1.25 секунды. Чемпион может двигаться в эту фазу.
+1. At point A, the player presses the Q button. The champion begins the Q windup animation phase: charging her fist. This lasts a maximum of 1.25 seconds. The champion can move during this phase.
 
-2. В точке B чемпион заканчивает фазу Q windup. После этого он находится в состоянии Q charged и сохраняет заряд. Это длится максимум 2.75 секунды. Чемпион может двигаться в эту фазу.
+2. At point B, the champion completes the Q windup phase. After this, she is in a Q-charged state and retains her charge. This lasts up to 2.75 seconds. The champion can move during this phase.
 
-3. В точке C игрок нажимает кнопку Q. Чемпион выполняет фазу Q firing: [**рывок**](https://leagueoflegends.fandom.com/ru/wiki/Рывок) (dash) в указанном направлении. При максимальном заряде и без столкновения с целью, фаза Q firing длится примерно 0.52 секунды.
+3. At point C, the player presses the Q button. The champion performs the Q firing phase: a dash in the designated direction. At full charge and without impact, the Q firing phase lasts approximately 0.52 seconds.
 
-4. В точке D ближе к концу анимации Q firing игрок нажимает flash в точку, где находится цель. Чемпион выполнит flash и закончит анимацию Q firing в новой позиции. При этом он гарантированно попадёт по цели, нанесёт ей урон и отбросит назад.
+4. At point D, which is near the end of the Q firing animation, the player presses Flash at the target's location. The champion will flash and end the Q firing animation at a new position. This is guaranteed to hit the target, dealing damage and knocking him back.
 
-5. В точке E закончится фаза firing. Сразу после этого чемпион выполнит базовую атаку по цели. Это действие можно отменить командой на передвижение.
+5. At point E, the firing phase ends. Immediately after, the champion will perform a basic attack on the target. This action can be canceled with a movement command.
 
-Атакующие комбо динамического умения и flash решают следующие задачи:
+The offensive combo with a dynamic ability and Flash serves the following purposes:
 
-1. Увеличивают дальность действия умения.
+1. Increase the ability's range.
 
-2. Не дают противнику времени, чтобы отреагировать.
+2. Prevent the enemy from reacting.
 
-Вот примеры атакующих комбо, которые работают аналогично Vi Q-F:
+Here are some examples of attack combos that work similarly to Vi's Q-F:
 
 * [**Yasuo E-Q-F**](https://www.youtube.com/shorts/2NIIS4VZtwY)
 
