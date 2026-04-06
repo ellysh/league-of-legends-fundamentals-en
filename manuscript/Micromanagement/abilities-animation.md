@@ -143,7 +143,7 @@ I> In all further examples, Vi has level is 1 and no attack speed items or runes
 
 Figure 3-9 shows the timeline diagram of Vi AA-E combo.
 
-{caption: "Figure 3-9. The timeline diagram of Vi AA-E combo", width: "100%"}
+{caption: "Figure 3-9. The timeline diagram of the Vi AA-E combo", width: "100%"}
 ![Vi AA-E combo](images/Micromanagement/vi-aa-e-combo.png)
 
 The steps of this combo are as follows:
@@ -183,9 +183,9 @@ You can issue an attacking ability after a combo with an attack modifier. This w
 
 >>>R1
 
-The uncancellable windup property of the attack modifier ability allows the champion to change position before the firing phase. This technique is useful only for retreating. It allows you to break distance with opponents after diving, initiating a teamfight, or flanking.
+The uncancellable windup property of the attack modifier ability allows the champion to change position before the firing phase. This technique is useful only for retreating. It allows you to increase the distance from opponents after diving, initiating a teamfight, or flanking.
 
-Let us introduce names for combos with changing position. **Defensive combo** changes the champion's position for retreating. **Offensive combo** changes champion's position for attacking.
+Let us introduce names for combos with changing position. **Defensive combo** changes the champion's position for retreating. **Offensive combo** changes the champion's position for attacking.
 
 Changing the champion's position before the firing phase works not only with attack modifiers but also with the basic attack. We start with the second case with AA because it is simpler.
 
@@ -287,7 +287,7 @@ The main drawback of Darius Q ability is its long windup phase. The strike area 
 
 Figure 3-12 shows the timeline diagram of the Darius Q-F combo.
 
-{caption: "Figure 3-12. The timeline diagram of Darius Q-F combo", width: "100%"}
+{caption: "Figure 3-12. The timeline diagram of the Darius Q-F combo", width: "100%"}
 ![Darius Q-F combo](images/Micromanagement/darius-q-f-combo.png)
 
 The steps of this combo are as follows:
@@ -320,7 +320,7 @@ I> **Animation masking** is the overlay of the animation of one action on top of
 
 Figure 3-13 shows the timeline diagram for Ezreal Q-F combo.
 
-{caption: "Figure 3-13. The timeline diagram of Ezreal Q-F combo", width: "100%"}
+{caption: "Figure 3-13. The timeline diagram of the Ezreal Q-F combo", width: "100%"}
 ![Ezreal Q-F combo](images/Micromanagement/ezreal-q-f-combo.png)
 
 The steps of this combo are as follows:
@@ -335,7 +335,7 @@ The steps of this combo are as follows:
 
 Figure 3-14 shows the projectile flight animation when the Ezreal Q-F combo is executed correctly.
 
-{caption: "Figure 3-14. The projectile flight animation in Ezreal Q-F combo", width: "100%"}
+{caption: "Figure 3-14. The projectile flight animation in the Ezreal Q-F combo", width: "100%"}
 ![Projectile in Ezreal Q-F combo](images/Micromanagement/ezreal-q-animation-masking.png)
 
 The projectile only travels halfway before hitting the target. This occurs because the projectile's animation differs from its actual trajectory.
@@ -356,7 +356,7 @@ The R-F defensive combo solves both problems. Its idea is to mask the windup R a
 
 Figure 3-15 shows the timeline diagram for Ezreal R-F combo.
 
-{caption: "Figure 3-15. The timeline diagram of Ezreal R-F combo", width: "100%"}
+{caption: "Figure 3-15. The timeline diagram of the Ezreal R-F combo", width: "100%"}
 ![Ezreal R-F combo](images/Micromanagement/ezreal-r-f-combo.png)
 
 The steps of this combo are as follows:
@@ -489,16 +489,16 @@ When a champion performs a static ability, he can only change position during th
 
 Let us look at changing a champion's position using the **Vi Q-F combo** as an example. It has two variants: offensive and defensive. First, we will consider the animation of the Vi Q ability itself. Figure 3-20 shows its timeline diagram.
 
-{caption: "Figure 3-20. The timeline diagram of Vi Q ability", width: "100%"}
+{caption: "Figure 3-20. The timeline diagram of the Vi Q ability", width: "100%"}
 ![Vi Q ability](images/Micromanagement/vi-q-ability-animation.png)
 
 In this ability, the windup phase is replaced with charging. It has four animation phases in total: windup (charging), charged, firing, and recovery. The second phase occurs when the champion fully charges the ability. You can skip it if you issue a firing before the ability is fully charged.
 
 Vi Q ability does not have a lockout move property. [**Lockout**]((https://wiki.leagueoflegends.com/en-us/Terminology#Lockout)) prevents the champion from performing certain actions during the ability's windup phase. **Lockout move** prevents the champion from moving.
 
-Now let us consider **offensive combo Vi Q-F**. Figure 3-21 shows its timeline diagram.
+Now let us consider the **offensive combo Vi Q-F**. Figure 3-21 shows its timeline diagram.
 
-{caption: "Figure 3-21. The timeline diagram of offensive combo Vi Q-F", width: "100%"}
+{caption: "Figure 3-21. The timeline diagram of the offensive combo Vi Q-F", width: "100%"}
 ![Offensive combo Vi Q-F](images/Micromanagement/vi-q-f-attacking-combo.png)
 
 I> We consider the execution of the combo when Vi Q ability is set to Normal Cast.
@@ -521,6 +521,8 @@ The offensive combo with a dynamic ability and Flash serves the following purpos
 
 2. Prevent the enemy from reacting.
 
+I> There is a more complex version of the Vi Q-F combo. It allows you to push the enemy in the opposite direction of the Q ability. The [following video](https://www.instagram.com/p/DWwRzZRFR_g/) demonstrates it.
+
 Here are some examples of attack combos that work similarly to Vi's Q-F:
 
 * [**Yasuo E-Q-F**](https://www.youtube.com/shorts/2NIIS4VZtwY)
@@ -531,32 +533,32 @@ Here are some examples of attack combos that work similarly to Vi's Q-F:
 
 #### 3.2.5.2 Position Change in defensive Vi combo
 
->>>W
+>>>R1
 
-Теперь рассмотрим **защитное комбо Vi Q-F**. Его временную диаграмму демонстрирует иллюстрация 3-22.
+Now let us consider the **defensive combo Vi Q-F**. Figure 3-22 shows its timeline diagram.
 
-{caption: "Иллюстрация 3-22. Временная диаграмма защитного комбо Vi Q-F", width: "100%"}
-![Защитное комбо Vi Q-F](images/Micromanagement/vi-q-f-defensive-combo.png)
+{caption: "Figure 3-22. The timeline diagram of the defensive combo Vi Q-F", width: "100%"}
+![Defensive combo Vi Q-F](images/Micromanagement/vi-q-f-defensive-combo.png)
 
-Шаги этого комбо следующие:
+The steps of this combo are as follows:
 
-1. В точке A игрок нажимает кнопку Q. Чемпион начинает проигрывать фазу анимации Q windup.
+1. At point A, the player presses the Q button. The champion begins the Q windup animation phase.
 
-2. В точке B сразу после начала анимации Q windup игрок нажимает flash. Так он может разорвать дистанцию с противником или уклониться от летящего снаряда.
+2. At point B, the player presses Flash immediately after the Q windup animation begins. This allows the champion to increase the distance from the opponent or dodge the incoming projectile.
 
-3. В точке C чемпион заканчивает фазу Q windup. После этого он находится в состоянии Q charged и сохраняет заряд.
+3. At point C, the champion completes the Q windup phase. After this, she is in a Q-charged state and retains her charge.
 
-4. В точке D игрок нажимает кнопку Q. Чемпион выполняет фазу Q firing: рывок в указанном направлении. Это может быть отступление или контратака.
+4. At point D, the player presses the Q button. The champion performs the Q firing phase: a dash in the designated direction. This can be a retreat or a counterattack.
 
-5. В точке E чемпион начинает фазу Q recovery. Её можно отменить атакой, передвижением, заклинанием призывателя, активным эффектом предмета или другим умением чемпиона.
+5. At point E, the champion begins the Q recovery phase. This can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
-Защитные комбо динамического умения и flash решают следующие задачи:
+The defensive combo with a dynamic ability and Flash serves the following purposes:
 
-1. Позволяют уклониться от умений противника и контратаковать.
+1. Dodge enemy abilities and counterattack.
 
-2. Разрывают дистанцию с противником и выигрывают время в сражении.
+2. Create distance between the champion and the enemy, buying time in teamfight.
 
-Вот примеры защитных комбо, которые работают аналогично Vi Q-F:
+Here are some examples of defensive combos that work similarly to Vi Q-F:
 
 * [**Ezreal E-F**](https://mobalytics.gg/lol/champions/ezreal/combos)
 
