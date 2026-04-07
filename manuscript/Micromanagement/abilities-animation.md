@@ -566,51 +566,51 @@ Here are some examples of defensive combos that work similarly to Vi Q-F:
 
 #### 3.2.5.3 Premature end of the firing phase
 
->>>W
+>>>R1
 
-Некоторые динамические умения дают дополнительный эффект после применения. В определённых ситуация он полезнее, чем смена позиции. Эффект можно получить быстрее, если сократить фазу firing умения.
+Some dynamic abilities provide an additional effect after cast. In certain situations, this effect is more useful than changing the champion's position. You can get it faster by shortening the firing animation phase of the ability.
 
-Рассмотрим преждевременное завершение фазы firing на примере **динамического быстрого умения Vayne Q**. Его временную диаграмму демонстрирует иллюстрация 3-23.
+Let us consider the premature end of the firing phase using **Vayne Q dynamic fast ability** as an example. Figure 3-23 shows its timeline diagram.
 
-{caption: "Иллюстрация 3-23. Временная диаграмма умения Vayne Q", width: "100%"}
-![Умение Vayne Q](images/Micromanagement/vayne-q-ability-animation.png)
+{caption: "Figure 3-23. The timeline diagram of the Vayne Q ability", width: "100%"}
+![Vayne Q ability](images/Micromanagement/vayne-q-ability-animation.png)
 
-У умения Q нет фазы windup. Сразу после его применения чемпион начинает анимацию Q firing. Когда она закончится, чемпион получит три эффекта:
+The Q ability has no windup phase. Immediately after casting it, the champion begins the Q firing animation. When it ends, the champion receives three effects:
 
-1. Следующая автоатака наносит дополнительный урон.
+1. The next basic attack deals bonus damage.
 
-2. Следующая автоатака получает свойство uncancellable windup.
+2. The next basic attack gains an uncancellable windup.
 
-3. Сброс таймера автоатаки.
+3. The basic attack timer is reset.
 
-Всё это увеличивает DPS. Если в сражении не нужно менять позицию, эффекты будут важнее перемещения. Поэтому выгодно получить их как можно быстрее.
+All of these buffs increase the champion's DPS. If you do not need to change the champion's position in a fight, buffs will be more important than the movement. Therefore, it is beneficial to get them as quickly as possible.
 
-Обратите внимание, что фазу Q recovery нельзя отменить стандартными способами: атакой, передвижением, другим умением или активным эффектом предмета.
+Note that you cannot cancel the Q recovery phase in standard ways: attacking, moving, using another ability, or using an active item effect.
 
-Чтобы **преждевременно завершить фазу Q firing**, надо направить кувырок в стену. Перед этим чемпион уже должен стоять вплотную к ней. Этот приём демонстрирует [следующее видео](https://www.youtube.com/watch?v=2A3EFucqXbY). Он в два раза сокращает задержку перед усиленной автоатакой.
+You need to aim the Q ability at a wall to **prematurely end its firing phase**. The champion must already stand close to the wall before doing so. The [following video](https://www.youtube.com/watch?v=2A3EFucqXbY) demonstrates this technique. It halves the delay before the empowered basic attack.
 
-Иллюстрация 3-24 демонстрирует временную диаграмму умения Vayne Q с сокращённой фазой firing.
+Figure 3-24 shows the timing diagram for the Vayne Q ability with a shortened firing phase.
 
-{caption: "Иллюстрация 3-24. Временная диаграмма умения Vayne Q с сокращённой фазой firing", width: "100%"}
-![Умение Vayne Q без firing](images/Micromanagement/vayne-q-no-firing.png)
+{caption: "Figure 3-24. The timeline diagram of the Vayne Q ability with a shortened firing phase", width: "100%"}
+![Vayne Q ability without firing](images/Micromanagement/vayne-q-no-firing.png)
 
-Шаги этого приёма следующие:
+The steps of this technique are as follows:
 
-1. В точке A игрок наводит курсор мыши в сторону стены и нажимает Q. Чемпион начинает проигрывать фазу анимации Q firing: делает кувырок.
+1. At point A, the player moves the mouse cursor over a wall and presses Q. The champion begins the Q firing animation phase: she tumbles.
 
-2. В точке B чемпион прерывает фазу Q firing, потому что стена блокирует движение. Начинается фаза Q recovery: чемпион поднимается на ноги.
+2. At point B, the champion interrupts the Q firing phase because the wall blocks her movement. The Q recovery phase begins: the champion rises to her feet.
 
-3. В точке C заканчивается фаза Q recovery. Теперь чемпион может выполнить усиленную автоатаку.
+3. At point C, the Q recovery phase ends. The champion can now perform a charged basic attack.
 
-Вот примеры динамических умений, для которых можно сократить фазу firing:
+Here are some examples of dynamic abilities that you can reduce the firing animation phase:
 
-* [**Kayn Q**](https://www.youtube.com/watch?v=4Num03szneM) — если сократить фазу firing, уменьшится задержка между первым и вторым ударами.
+* [**Kayn Q**](https://www.youtube.com/watch?v=4Num03szneM) — reducing the firing phase decreases the delay between the first and second strikes.
 
-* **Fiora Q** — если сократить фазу firing, чемпион быстрее нанесёт удар по противнику.
+* **Fiora Q** — reducing the firing phase allows the champion to strike the enemy faster.
 
-* **Graves E** — если сократить фазу firing, чемпион быстрее получит дополнительный патрон для автоатаки.
+* **Graves E** — reducing the firing phase allows the champion to gain an additional ammo for his basic attack faster.
 
-* **Ekko E** — если сократить фазу firing, чемпион быстрее получит усиление следующей автоатаки.
+* **Ekko E** — reducing the firing phase allows the champion to gain an empower to his next basic attack faster.
 
 #### 3.2.5.4 Hiding animation
 
