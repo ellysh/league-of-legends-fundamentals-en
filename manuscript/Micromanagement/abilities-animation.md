@@ -614,57 +614,57 @@ Here are some examples of dynamic abilities that you can reduce the firing anima
 
 #### 3.2.5.4 Hiding animation
 
->>>W
+>>>R1
 
-Мы уже познакомились с двумя способами маскировки анимации:
+We have already covered two methods of animation masking:
 
-1. Комбинация двух статических умений
-2. Статическое умение и flash.
+1. Combining two static abilities
+2. Combining a static ability and Flash.
 
-Теперь рассмотрим третий способ маскировки анимации: комбинация статического и динамического умений. Цели такого приёма следующие:
+Now, let us consider a third method of animation masking: combining a static and a dynamic ability. The goals of this technique are as follows:
 
-1. Сменить позицию чемпиона для нападения или отступления.
+1. Reposition the champion for attack or retreat.
 
-2. Увеличить DPS чемпиона в сражении.
+2. Increase the champion's DPS in the fight.
 
-3. Скрыть направление снаряда или удар.
+3. Hide the projectile's direction or strike.
 
-Рассмотрим **защитное комбо Caitlyn E-Q**. Его демонстрирует [следующее видео](https://www.youtube.com/shorts/Y5t984dWvDg). Сначала разберём умения, из которых оно состоит.
+We will consider **defensive combo Caitlyn E-Q**. The [following video](https://www.youtube.com/shorts/Y5t984dWvDg) demonstrates this technique. First, we will look at the abilities it consists of.
 
-**Статическое медленное умение Caitlyn Q** похоже на Ezreal Q. Дальность Caitlyn Q немного больше, но его фаза windup почти в три раза длиннее. Из-за этого направление снаряда легко предсказать. Также во время подготовки чемпион становится уязвимым в командном сражении.
+Caitlyn's **static slow ability Q** is similar to Ezreal's Q. Caitlyn's Q has a slightly longer range, but its windup phase is almost three times longer. This makes the projectile's direction easy to predict. During the windup phase, the champion also becomes vulnerable in a teamfight.
 
-Иллюстрация 3-25 демонстрирует временную диаграмму умения Q Caitlyn.
+Figure 3-25 shows the timeline diagram of Caitlyn's Q ability.
 
-{caption: "Иллюстрация 3-25. Временная диаграмма умения Caitlyn Q", width: "100%"}
-![Умение Caitlyn Q](images/Micromanagement/caitlyn-q-ability-animation.png)
+{caption: "Figure 3-25. The timeline diagram of the Caitlyn Q ability", width: "100%"}
+![Caitlyn Q ability](images/Micromanagement/caitlyn-q-ability-animation.png)
 
-Фаза Q windup длится 0.63 секунды. За это время противнику легко уклониться от умения.
+The Q windup animation phase lasts 0.63 seconds. During this time, the enemy can easily dodge the ability.
 
-**Динамическое медленное умение E Caitlyn** имеет фазу windup. После неё чемпион выпускает снаряд и делает рывок назад. Временную диаграмму умения демонстрирует иллюстрация 3-26.
+Caitlyn's **dynamic slow E ability** has a windup animation phase. When this phase finishes, the champion fires a projectile and dashes back. Figure 3-26 shows the timeline diagram of the ability.
 
-{caption: "Иллюстрация 3-26. Временная диаграмма умения Caitlyn E", width: "100%"}
-![Умение Caitlyn E](images/Micromanagement/caitlyn-e-ability-animation.png)
+{caption: "Figure 3-26. The timeline diagram of the Caitlyn E ability", width: "100%"}
+![Caitlyn E ability](images/Micromanagement/caitlyn-e-ability-animation.png)
 
-**Защитное комбо Caitlyn E-Q** решает проблему умения Q. При его исполнении чемпион перемещается на фазе Q windup. Так он разрывает дистанцию с противником и скрывает направление снаряда Q.
+**Defensive combo Caitlyn E-Q** solves the problem of the long windup phase of the Q ability. When performing the combo, the champion moves during this phase. This creates distance between her and the enemy. Also, the movement hides the direction of the Q projectile.
 
-Иллюстрация 3-27 демонстрирует временную диаграмму комбо Caitlyn E-Q.
+Figure 3-27 shows the timeline diagram of the Caitlyn E-Q combo.
 
-{caption: "Иллюстрация 3-27. Временная диаграмма комбо Caitlyn E-Q", width: "100%"}
-![Комбо Caitlyn E-Q](images/Micromanagement/caitlyn-e-q-combo.png)
+{caption: "Figure 3-27. The timeline diagram of the Caitlyn E-Q combo", width: "100%"}
+![Caitlyn E-Q combo](images/Micromanagement/caitlyn-e-q-combo.png)
 
-Шаги этого комбо следующие:
+The steps of this combo are as follows:
 
-1. В точке A игрок нажимает кнопку E. Чемпион начинает проигрывать фазу анимации E windup. Она длится 0.15 секунды.
+1. At point A, the player presses the E button. The champion begins the E windup animation phase. It lasts 0.15 seconds.
 
-2. В точке B начинается фаза анимации E firing. Она длится примерно 0.4 секунды.
+2. At point B, the E firing animation phase begins. It lasts approximately 0.4 seconds.
 
-3. В точке C сразу после начала анимации E firing игрок нажимает кнопку Q. Чемпион начнёт исполнять фазу Q windup. Её анимация наложится на анимацию E firing.
+3. At point C, the player presses the Q button immediately after the E firing animation begins. The champion begins the Q windup phase. Its animation overlaps with the E firing animation.
 
-4. В точке D чемпион начнёт фазу Q firing. При правильном исполнении комбо снаряд вылетит из позиции, в которой находился чемпион в момент нажатия кнопки Q.
+4. At point D, the champion begins the Q firing phase. If the combo is executed correctly, the projectile launches from the starting champion's position at point C.
 
-5. В точке E чемпион начнёт фазу Q recovery. Она длится примерно 1.28 секунды. Её можно отменить атакой, передвижением, заклинанием призывателя, активным эффектом предмета или другим умением чемпиона.
+5. At point E, the champion begins the Q recovery phase. This phase lasts approximately 1.28 seconds. It can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
-Вот примеры других комбо, которые работают аналогично Caitlyn E-Q:
+Here are several examples of other combos that work similarly to Caitlyn E-Q:
 
 * [**Caitlyn E-W**](https://youtu.be/bkvlyU1csIQ?si=tL3lcstUSnXZMAMw&t=284)
 
@@ -676,7 +676,7 @@ Here are some examples of dynamic abilities that you can reduce the firing anima
 
 * **Samira E-Q**
 
-В последних двух комбо наложение умений приводит к проигрыванию специальной анимации. Несмотря на это, они исполняются точно так же как типичные комбо для маскировки анимации.
+In the last two combos, combining two abilities triggers a special animation. Despite this, they are executed the same as typical animation masking combos.
 
 ### 3.2.6 Complex combos
 
