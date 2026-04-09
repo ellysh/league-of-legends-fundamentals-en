@@ -433,6 +433,6 @@ Give your screenshot files descriptive names, such as "do-not-take-dragon-withou
 
 Taking screenshots is also beneficial when watching guides, streams, competitions, and any coaching sessions. Save and review any significant patterns that you observe in this content.
 
-I> Professional player Bwipo discusses the economic aspects of League of Legends in more detail in the [following video](https://www.youtube.com/watch?v=fJ-C4PEk-9Y).
+I> Esports player Bwipo discusses the economic aspects of League of Legends in more detail in the [following video](https://www.youtube.com/watch?v=fJ-C4PEk-9Y).
 
 {pagebreak}
