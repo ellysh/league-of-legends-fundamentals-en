@@ -714,35 +714,35 @@ The player must understand each of these techniques and be able to apply them. O
 
 ### 3.2.7.1 Search for information
 
->>>W
+>>>R1
 
-Лучший источник информации по комбо для конкретного чемпиона — видео гайды на Youtube. Вот пример хорошего [гайда для Darius](https://www.youtube.com/watch?v=83n-RIxQ25k).
+The best source of information on combos for a specific champion is YouTube video guides. Here is an example of a good [guide for Darius](https://www.youtube.com/watch?v=83n-RIxQ25k).
 
-Второй по качеству источник информации — это сайт [mobafire.com](https://www.mobafire.com). В некоторых гайдах по чемпионам авторы приводят основные комбо. Вот пример хорошего [гайда для Ezreal](https://www.mobafire.com/league-of-legends/build/the-complete-ezreal-guide-627978).
+The second best source of information is [mobafire.com](https://www.mobafire.com). Some champion guides provide the most commonly used combos. Here is an example of a good [guide for Ezreal](https://www.mobafire.com/league-of-legends/build/the-complete-ezreal-guide-627978).
 
-Также основные комбо для каждого чемпиона есть на сайте [mobalytics.gg](https://mobalytics.gg). Бесплатно можно посмотреть описания комбо. Чтобы проиграть видео с демонстрацией, нужна платная подписка. Вот пример [страницы с комбо для Ezreal](https://mobalytics.gg/lol/champions/ezreal/combos).
+Basic combos for each champion are also available on [mobalytics.gg](https://mobalytics.gg). You can view combo descriptions for free. But you need a paid subscription to watch the videos. Here is an example [combo page for Ezreal](https://mobalytics.gg/lol/champions/ezreal/combos).
 
-Если вы не нашли нужной информации, протестируйте потенциальные комбо в "Practice tool" самостоятельно. Для этого сделайте следующее:
+If you have not found the required information, you can check possible combos in the "Practice Tool". Here are the steps to do this:
 
-1. Определите тип каждого умения чемпиона по таблице 3-1.
+1. Determine the type of your champion's abilities using Table 3-1.
 
-2. Для каждого умения составьте список комбо, которые должны работать для его типа.
+2. For each ability, create a list of combos that should work for its type.
 
-3. Пройдите по списку и проверьте, работает ли каждое комбо на самом деле.
+3. Go through the list and check whether each combo actually works.
 
-Обратите внимание, что в механике игры есть исключения из общих правил. Например, какое-то умение теоретически должно комбинироваться с flash. На практике может оказаться, что механика игры этого не позволяет.
+Note that game mechanics have exceptions to the general rules. For example, some abilities should, in theory, combine with Flash. In practice, the game mechanics may not allow this.
 
-Рассмотрим, как работает поиск комбо на примере. Допустим, что у чемпиона есть динамическое медленное умение. С таким типом обычно работают следующие приёмы:
+We can consider how searching combos could work with an example. Let us assume our champion has a dynamic slow ability. The following techniques typically work with this type of ability:
 
-1. Сменить позицию чемпиона до или во время фазы firing умения.
+1. Changing the champion's position before or during the firing phase of the ability.
 
-2. Преждевременно завершить фазу анимации firing.
+2. Ending the firing animation phase prematurely.
 
-3. Маскировать анимацию одного умения анимацией другого умения.
+3. Masking the animation of one ability with the animation of another ability.
 
-4. Отменить recovery анимацию автоатаки или умения.
+4. Canceling the recovery animation of an auto-attack or ability.
 
-Проверьте каждый вариант и составьте список сработавших приёмов. Подумайте, какие преимущества они дают в сражении. Попробуйте объединить найденные приёмы в более сложные комбинации, чтобы усилить эффект.
+Try each option and make a list of the techniques that worked. Estimate the advantages that each combo could provide you in a fight. Try combining the techniques you find into more complex combos to enhance their effect.
 
 ### 3.2.7.2 Player skills development
 
