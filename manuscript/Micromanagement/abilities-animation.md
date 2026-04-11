@@ -1,10 +1,8 @@
 ## 3.2 Ability animation
 
->>>R1
+The basic attack pattern is consistent across all champions and consists of three phases. However, the proportions of these phases can vary. For instance, Volibear's windup phase accounts for 30% of his attack animation, while Ashe's windup phase is only 21.93%. Additionally, the base attack speed and its growth per level differ among champions, but these are minor details. The algorithms for executing the attack moves and attack ability techniques are the same for all champions.
 
-The basic attack pattern is the same for all champions: it always has three phases. The proportions of these phases vary. For example, Volibear's windup phase takes up 30% of his attack animation, while Ashe's only 21.93%. The base attack speed and its growth per level also vary. But these are minor details. The algorithms for executing the attack moves and attack ability techniques are the same for all champions.
-
-Working with ability animations is much more complex. Abilities are executed according to different algorithms and interact differently with the champion's other actions. This is an advanced micromanagement topic. Let us look at its basic techniques.
+In contrast, working with ability animations is more complex. Abilities are executed using different algorithms and interact in unique ways with the champion's other actions. This complexity demands advanced micromanagement skills from the player. Let us explore some of the basic techniques involved.
 
 ### 3.2.1 Phases of ability animation
 
