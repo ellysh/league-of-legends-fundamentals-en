@@ -746,32 +746,32 @@ Try each option and make a list of the techniques that worked. Estimate the adva
 
 ### 3.2.7.2 Player skills development
 
->>>W
+>>>R1
 
-Для хорошего исполнения комбо нужна регулярная тренировка. Типичная рейтинговая игра не даёт возможности для достаточной практики. Поэтому перед каждой игровой сессией запускайте "Practice tool" и отрабатывайте основные комбо своего чемпиона.
+Performing combos well requires regular practice. A typical ranked game does not provide sufficient opportunity for such practice. Therefore, it could help a lot to launch the "Practice Tool" and repeat your champion's basic combos before each game session.
 
-Интенсивность тренировок в "Practice tool" зависит от чемпиона. Если он механический, освоение его комбо займет намного больше времени. В некоторых случаях это могут быть недели и даже месяцы. Вы должны научиться исполнять основные комбо своего чемпиона на автомате.
+The intensity of practicing combos varies by champion. If this is a mechanical champion, mastering his combos will take much longer. In some cases, it can take weeks or even months. You must learn to execute your champion's basic combos on autopilot.
 
-I> [**Механический чемпион**](https://www.mobafire.com/league-of-legends/tier-list/champion-difficulty-tier-list-including-milio-4120) (mechanical champion) имеет самые высокие требования к навыкам микроменеджмента игрока. Комбо такого чемпиона сложны. Они требуют точных таймингов и правильного позиционирования. Примеры: Riven, Lee Sin, Yasuo, Azir, Nidalee.
+I> [**Mechanical champion**](https://www.mobafire.com/league-of-legends/tier-list/champion-difficulty-tier-list-including-milio-4120) has the highest requirements for players' micromanagement skills. Combos of such champions are complex, requiring precise timing and proper positioning. Examples: Riven, Lee Sin, Yasuo, Azir, Nidalee.
 
-Для качественного исполнения комбо недостаточно правильно прожимать кнопки. Если у вашего чемпиона есть дальнобойные умения, надо научиться ими попадать. Этот навык можно тренировать с помощью следующих инструментов:
+To execute combos well, it is not enough to press the buttons correctly. If your champion has long-range abilities, you need to land them. You can train this skill using the following tools:
 
-1. Программа [Skill Gap](https://skillgap.pro/) с набором тренировочных режимов. Часть из них бесплатная, а часть платная.
+1. The [Skill Gap](https://skillgap.pro/) program with a variety of training modes. Some are free, while others are paid.
 
-2. Сайт [loldodgegame.com](https://loldodgegame.com/choose_game). Все режимы в нём бесплатные.
+2. The [loldodgegame.com](https://loldodgegame.com/choose_game) website. All modes are free.
 
-Обе программы имитируют упрощённую механику игры League of Legends.
+Both programs simulate simplified League of Legends game mechanics.
 
-Кроме этих инструментов могут быть полезны общие тренажёры на скорость и точность действий:
+In addition to these tools, general speed and accuracy trainers may be useful:
 
-1. Игра [Don’t Tap](https://www.donttap.com/) на точность нажатий мыши.
+1. The [Don't Tap](https://www.donttap.com/) game for mouse click accuracy.
 
-2. [Тренажёр для APM](https://www.arealme.com/apm-actions-per-minute-test/ru/)
+2. [APM Trainer](https://www.arealme.com/apm-actions-per-minute-test/ru/)
 
-3. [Тренажёр на точность нажатий мыши](https://mouseaccuracy.com/).
+3. [Mouse Accuracy Trainer](https://mouseaccuracy.com/).
 
-I> **APM** (actions per minute) — это количество действий игрока в минуту.
+I> **APM** (actions per minute) is the number of actions a player takes per minute.
 
-Используйте эти инструменты, чтобы разогреться перед игровой сессией.
+Use these tools to warm up before your gaming sessions.
 
 {pagebreak}
