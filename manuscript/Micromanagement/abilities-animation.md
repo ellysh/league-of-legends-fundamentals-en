@@ -103,19 +103,17 @@ Let us examine each ability type and consider which actions may change their ani
 
 ### 3.2.3 Auto-attack modifiers
 
->>>R1
+The ability of the **auto-attack modifier** type empowers a champion's next basic attack. When a player uses this ability, the champion performs a special windup animation that cannot be canceled. During this animation, the champion can carry out extra actions. Auto-attack modifier animation is the animation of an empowered auto-attack that applies the ability effect.
 
-The ability of the **auto-attack modifier** type empowers the next champion's basic attack. When a player issues the ability command, the champion performs a special windup animation. You cannot cancel this animation, and it allows the champion to perform some actions in parallel. Auto-attack modifier animation is the animation of an empowered auto-attack that applies the ability effect.
-
-Most auto-attack modifier abilities have two properties:
+Most auto-attack modifier abilities have two key properties:
 
 1. [**Basic attack reset**](https://wiki.leagueoflegends.com/en-us/Basic_attack#Resets)
 
 2. [**Uncancellable windup**](https://wiki.leagueoflegends.com/en-us/Basic_attack#Uncancellable_Windup).
 
-The work with auto-attack modifier animation is based on these properties. The first one allows you to increase the DPS of the champion. The second one allows you to change the champion's position before the firing phase of the empowered auto attack.
+When you work with auto-attack modifier animation, you rely on these properties. The first property allows you to increase the DPS of the champion. The second property allows you to change the champion's position before the firing phase of the empowered auto-attack.
 
-So, here are the goals of working with the auto-attack modifier animation:
+Here are the goals when working with the auto-attack modifier animation:
 
 1. Increase the champion's damage per second (DPS)
 
