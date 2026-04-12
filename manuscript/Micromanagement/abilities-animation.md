@@ -6,50 +6,48 @@ In contrast, working with ability animations is more complex. Abilities are exec
 
 ### 3.2.1 Phases of ability animation
 
->>>R1
+When a player issues an ability command, the champion executes a complete animation cycle. This cycle includes three phases, similar to an auto-attack for most abilities:
 
-When a player issues an ability command, the champion performs its full animation cycle. It has the same phases as auto-attack for most abilities:
+1. **Windup** — preparation for the action.
 
-1. **Windup** — the preparation for action.
+2. **Firing** — execution of the strike, shot, or application of an effect.
 
-2. **Firing** — the execution of the strike, shot, or application of an effect.
+3. **Recovery** — returning to the starting position.
 
-3. **Recovery** — the return to the starting position.
+Abilities that follow this sequence can be referred to as adhering to a **basic scheme**. Some abilities deviate from this structure. We will consider these variations as deviations from the basic scheme.
 
-Let us consider abilities with these three phases as a **basic scheme**. Some abilities deviate from it. We will consider these differences as deviations from the basic scheme.
+Let us start with simple abilities that fit within the basic scheme, such as the Ashe W ability. Figure 3-8 illustrates its timeline diagram.
 
-We start with simple abilities that fit within the basic scheme, for example, Ashe W.  Figure 3-8 shows its timeline diagram.
+{caption: "Figure 3-8. The timeline diagram for the Ashe W ability", width: "100%"}
+![Ashe W ability](images/Micromanagement/ashe-w-ability-animation.png)
 
-{caption: "Figure 3-8. The timeline diagram for Ashe's W ability", width: "100%"}
-![Ashe W ability animation timeline](images/Micromanagement/ashe-w-ability-animation.png)
+Now, let us examine the diagram step by step:
 
-Let us look at the diagram step by step:
+1. At point A, the player issues the ability command. The champion begins the windup animation phase: drawing the bowstring. This phase always lasts 0.25 seconds for the W ability.
 
-1. At point A, the player issues the ability command. The champion performs the windup animation phase: drawing the bowstring. This always lasts 0.25 seconds for the W ability.
+2. At point B, the champion begins the firing phase: launching a volley of arrows. This phase lasts approximately 0.1 seconds.
 
-2. At point B, the champion begins the firing phase: firing a volley of arrows. This lasts approximately 0.1 seconds.
+3. At point C, the champion begins the recovery phase: drawing the next arrow from the quiver. This phase lasts approximately 1.65 seconds.
 
-3. At point C, the champion begins the recovery phase: drawing the next arrow from the quiver. This lasts approximately 1.65 seconds.
+4. At point D, the champion completes the full animation cycle. A total of two seconds have passed since the player issued the command at point A.
 
-4. At point D, the champion completes the full animation cycle. Two seconds have passed since the player issued the command at point A.
+It is important to note that the duration of all phases of the W ability animation is constant. It does not vary based on attack speed, champion level, or ability level. However, some other abilities may have their animation durations affected by these factors.
 
-Note that the duration of all phases of the W ability animation is constant. It does not depend on attack speed, champion level, or ability level. However, the animation of some abilities does depend on this.
-
-We have considered the basic scheme of an ability animation. There are two main deviations from it:
+We have discussed the basic scheme of an ability animation. There are three primary deviations from it:
 
 1. **Charging** replaces the windup phase.
-
+  
 2. **Channeling** replaces the firing phase.
 
-3. There is no windup phase. The ability animation begins with firing.
+3. There is no windup phase, and the ability animation starts directly with firing.
 
-If a charging replaces windup or channeling replaces the firing phase, its meaning remains the same. The difference is that the corresponding phase lasts longer. The replacement rules are as follows:
+When charging replaces the windup or channeling replaces the firing phase, the intention of the corresponding phase remains unchanged. However, the duration of this phase becomes longer. The rules for replacements are as follows:
 
 * If a charging replaces a windup, the champion prepares to cast the ability during this phase. After this, he performs the firing animation.
 
-* If a channeling replaces a firing animation, this phase begins after the windup. During the channeling, the champion deals damage or applies some effect.
+* If a channeling replaces a firing animation, this phase begins after windup. During the channeling, the champion deals damage or applies the ability effect.
 
-You can cancel or change the animation of one of the phases of abilities: windup, firing, or recovery. There is no general rule here. It all depends on the specific ability and the champion.
+You can cancel or change the animation of any of the ability phases: windup, firing, or recovery. There are no general rules for this. It depends on the specific ability and the champion.
 
 ### 3.2.2 Ability classification
 
