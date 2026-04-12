@@ -51,15 +51,13 @@ You can cancel or change the animation of any of the ability phases: windup, fir
 
 ### 3.2.2 Ability classification
 
->>>R1
+Let us focus only on the abilities animation. Their effects are not so important at the moment. We can categorize all abilities into five types. Each type has its own specific animation pattern.
 
-Let us focus only on the abilities animation. Their effects are not so important right now. We can divide all abilities into five types. Each has its own specific animation pattern.
+If two abilities follow the same animation pattern, you can apply the same techniques to both. Therefore, classification is crucial. By using this system, you do not need to remember the rules for every ability in the game. Instead, it suffices to understand how animation works for each ability type.
 
-If two abilities have the same animation pattern, then you can work with them using the same techniques. Therefore, classification is important. Using it, you do not need to memorize the rules for every ability in the game. Instead, it is enough to remember how animation works for each ability type.
+Table 3-1 lists all ability types classified by their animation patterns.
 
-Table 3-1 lists all possible ability types by animation pattern.
-
-{caption: "Таблица 3-1. Champion abilities classification by animation pattern", width: "100%"}
+{caption: "Таблица 3-1. Classification of champion abilities by animation pattern", width: "100%"}
 | Ability type | Moves Champion | Animation Phases | Examples |
 |  | | | |
 | --- | :---: | --- | --- |
@@ -74,34 +72,34 @@ Table 3-1 lists all possible ability types by animation pattern.
 |  | | | |
 | Dynamic fast ability | Yes | Firing, recovery | Kayn - Q, Vayne - Q, Riven - E |
 
-This classification is based on two features.
+This classification is based on two key features.
 
-The **first feature** is a deviation from the basic animation scheme. For simplicity, we consider only one possible deviation: the absence of a windup phase. The second possible deviation is the replacement of some phase with charging or channeling. This replacement is not significant for now.
+The **first feature** is the deviation from the basic animation scheme. For simplicity, we consider only one possible deviation: the absence of a windup phase. Another possible deviation is replacing some animation phase with charging or channeling. We can ignore this deviation for now.
 
-Three types of abilities fit into the basic animation scheme:
+Three types of abilities in Table 3-1 follow the basic animation scheme:
 
 1. Basic attack modifier
 2. Static slow ability
 3. Dynamic slow ability.
 
-The champion performs all three phases of the animation for these abilities. We call them **slow** because their firing phase begins with a delay. This delay occurs due to preparations during the windup phase.
+For these abilities, the champion performs all three phases of the animation. We call them **slow** because their firing phase begins with a delay. This delay occurs due to preparations during the windup phase.
 
-The remaining two types of abilities deviate from the basic scheme. They do not have the windup phase. Therefore, we call them **fast**. Their firing phase begins immediately after issuing the command.
+The remaining two types of abilities deviate from the basic scheme. They do not have the windup phase. Therefore, we call them **fast**. Their firing phase begins immediately after using the ability.
 
-The **second classification feature** is champion movement. If the firing phase of animation moves the champion, the ability is called **dynamic**. Otherwise, it is a **static** ability.
+The **second classification feature** is the champion movement. If the firing phase of the ability animation results in moving the champion, the ability is categorized as **dynamic**. If the champion stays at the same position, the ability is classified as **static**.
 
-Note that the champion can move during the firing animation of some static abilities. Example: Darius Q. In this case, the movement happens because the player issues the move command. The firing animation of the ability does not cause it. If the player does not issue the move command, the champion performs the entire animation of the ability, staying in one place.
+It is important to note that a champion can move during the firing animation phase of some static abilities. A good example is the Darius Q ability. In this case, the movement occurs because the player issues a move command. If the player does not issue the move command, the champion performs the entire animation of the ability, staying in one place.
 
-The following player's commands can change one of the ability animation phases:
+The following player commands can change the phases of an ability’s animation:
 
 1. Auto-attack
 2. Using another ability
 3. Moving
-4. Using a summoner spell
-5. Casting a dynamic ability towards the wall
-6. Using an item's active effect.
+4. Casting a summoner spell
+5. Using a dynamic ability towards the wall
+6. Activating an item’s effect.
 
-Let us go through all ability types and consider which actions change their animations.
+Let us examine each ability type and consider which actions may change their animations.
 
 ### 3.2.3 Auto-attack modifiers
 
