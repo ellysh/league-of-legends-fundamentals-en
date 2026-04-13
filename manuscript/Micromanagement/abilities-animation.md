@@ -121,47 +121,45 @@ Here are the goals when working with the auto-attack modifier animation:
 
 #### 3.2.3.1 Auto-attack reset
 
->>>R1
+A combo that resets the auto-attack cooldown timer allows a champion to deal burst damage. This technique is useful in various scenarios, including ganks, tower dives, lane trading, teamfight initiation, and flanking.
 
-A combo that resets the auto-attack cooldown timer allows a champion to deal burst damage. This technique is useful during ganks, tower dives, lane trading, teamfight initiation, and flanking.
+I> **Dive** is an attack on the enemy champion located in a dangerous area for the player. Examples of such areas are under an enemy tower or behind the enemy frontline.
 
-I> **Dive** is an attack on the enemy champion who is located in a dangerous area for the player. Examples of such areas are under an enemy tower or behind the enemy frontline.
+The mechanics of resetting the auto-attack cooldown timer work as follows. When a player issues an ability command, the current AA timer is reset. This reset means the champion can perform his next attack. If the AA timer is not running when the ability is issued, the timer reset has no effect. Therefore, you need to perform an AA and start the reset timer every time before issuing the ability.
 
-The mechanics of resetting the auto-attack cooldown timer are as follows. When a player issues the ability command, the current AA timer is reset. This means the champion can perform his next attack. If the AA timer is not running when the ability is issued, the timer reset effect is ineffective. Therefore, you need to perform an AA and start the reset timer every time before issuing the ability.
+Let us look at how to build a combo around resetting the auto-attack cooldown timer. We take the **Vi AA-E combo** as an example. Vi E ability has both an attack reset and an uncancellable windup effect.
 
-Let us look at how to build a combo around resetting the auto-attack cooldown timer. For example, we take the **Vi AA-E combo**. Her E ability has both an attack reset and an uncancellable windup effect.
+I> In all further examples, Vi is at level 1 and has no attack speed items or runes.
 
-I> In all further examples, Vi has level is 1 and no attack speed items or runes.
-
-Figure 3-9 shows the timeline diagram of Vi AA-E combo.
+Figure 3-9 shows the timeline diagram of the Vi AA-E combo.
 
 {caption: "Figure 3-9. The timeline diagram of the Vi AA-E combo", width: "100%"}
 ![Vi AA-E combo](images/Micromanagement/vi-aa-e-combo.png)
 
 The steps of this combo are as follows:
 
-1. At point A, the player right-clicks the target. From this point on, the champion performs the windup animation phase: swinging her fist back to strike. This phase lasts 22.5% of the auto-attack 1.55 second cooldown. This is approximately 0.35 seconds, according to the following calculation:
+1. At point A, the player right-clicks the target. From this moment, the champion begins the windup animation phase: swinging her fist back to strike. This phase lasts 22.5% of the auto-attack cooldown, which equals 1.55 seconds. This duration is approximately 0.35 seconds, according to the following calculation:
 {line-numbers: false, format: text}
 ```
 windup = 1.55 * 22.5 / 100 ~ 0.35
 ```
 
-2. At point B, the AA firing animation begins: the champion punches the target. It lasts approximately 0.25 seconds.
+2. At point B, the AA firing animation phase begins: the champion punches the target. This phase lasts approximately 0.25 seconds.
 
-3. At point C, the player presses the E button and issues the next attack on the target. Then, the E ability cancels the AA recovery animation and resets the attack cooldown. The champion performs the next attack. Its windup phase lasts 0.35 seconds as usual.
+3. At point C, the player presses the E button and issues the next attack on the target. The E ability cancels the AA recovery animation and resets the attack cooldown, which allows the champion to perform the next attack. Its windup phase lasts 0.35 seconds as usual.
 
-4. At point D, the E firing animation begins. It lasts 0.25 seconds, the same as a regular auto-attack.
+4. At point D, the E firing animation begins. It lasts 0.25 seconds, the same duration as a regular auto-attack.
 
-5. At point E, the champion begins her E recovery phase. It lasts 0.95 seconds, the same as a regular auto-attack.
+5. At point E, the champion begins the E recovery phase. It lasts 0.95 seconds, similar to a regular auto-attack.
 
-You can cancel the E recovery animation on the E-G segment by the following actions:
+You can cancel the E recovery animation during the E-G segment by the following actions:
 
 1. Using another ability
 2. Moving
 3. Using a summoner spell
-4. Using an active item effect.
+4. Activating an item effect.
 
-The auto-attack cannot cancel the E recovery animation. Its cooldown timer begins at point C when the player issues the E ability. The AA cooldown is 1.55 seconds. The C-E segment is only 0.6 seconds. Therefore, the champion can only perform his next auto-attack at point G.
+The auto-attack cannot cancel the E recovery animation. The cooldown timer for the auto-attack begins at point C when the player issues the E ability. The AA cooldown is 1.55 seconds. The C-E segment is only 0.6 seconds. Therefore, the champion can only perform his next auto-attack at point G.
 
 You can issue an attacking ability after a combo with an attack modifier. This way, the champion deals a maximum burst damage. After the attacking ability, you can issue another AA. Here are examples of burst combos that rely on the attack reset property:
 
