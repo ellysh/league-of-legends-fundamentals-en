@@ -233,25 +233,23 @@ I> The **silence** effect prevents the enemy from using abilities, active item e
 
 ### 3.2.4 Static abilities
 
->>>R1
+Now let us consider the **static abilities**. Most abilities in the game are of this type. They can have various effects: dealing extra damage, crowd control, healing, buffs, and shields.
 
-Now let us consider the **static abilities**. These are the most common types of abilities in the game. They could have various effects: extra damage, crowd control, healing, buff, and shield.
-
-Most static abilities follow the basic animation scheme shown in Figure 3-8. Some static abilities deviate from it. The deviation could be one of the following or both:
+Most static abilities adhere to the basic animation scheme shown in Figure 3-8. However, some static abilities may deviate from this scheme in the following ways:
 
 1. Replacing one of the animation phases with charging or channeling
 
-2. Omitting the windup phase.
+2. Omitting the windup phase entirely.
 
-Working with the animation of a static ability serves the following purposes:
+You can achieve the following purposes when working with the animations of a static ability:
 
-1. To change the champion's position before the firing phase of an ability.
+1. Changing the champion's position before the firing phase of an ability.
 
-2. To mask the animation of one ability with the animation of another ability.
+2. Masking the animation of one ability with the animation of another.
 
-3. To cancel the recovery animation of an auto-attack or ability.
+3. Canceling the recovery animation of an auto-attack or ability.
 
-The first purpose is relevant only to slow, static abilities with a windup phase. Fast static abilities do not have it. Their animation begins with the firing phase.
+The first purpose applies only to slow, static abilities with a windup phase. The animation of fast static abilities begins with the firing phase, without windup.
 
 #### 3.2.4.1 Position Change in attacking Darius combo
 
