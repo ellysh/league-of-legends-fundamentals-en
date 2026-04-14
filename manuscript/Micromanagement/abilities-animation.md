@@ -206,32 +206,30 @@ The uncancellable windup property of the attack modifier ability solves the seco
 
 #### 3.2.3.3 Position change and auto-attack modifier
 
->>>R1
-
-Now we will consider combos with Flash and the attack modifier ability. Our example is the **defensive combo Vi E-F**. Figure 3-11 shows its timeline diagram.
+Now we will consider combos that involve Flash and the attack modifier ability. Our example is the **defensive combo Vi E-F**. Figure 3-11 shows its timeline diagram.
 
 {caption: "Figure 3-11. Timeline diagram of the defensive combo Vi E-F", width: "100%"}
 ![Vi E-F combo](images/Micromanagement/vi-e-f-combo.png)
 
 The steps of this combo are as follows:
 
-1. At point A, the player presses the E button and right-clicks the target. The champion uses the ability and begins the E windup phase.
+1. At point A, the player presses the E button and right-clicks the target. The champion uses the ability and begins the E windup animation.
 
-2. At point B, immediately after the E windup animation begins, the player presses Flash. The champion increases the distance to the target. At the new position, she completes the remaining E windup animation. This is segment B-C in the diagram.
+2. At point B, immediately after the E windup animation begins, the player presses Flash. The champion increases the distance to the target. At the new position, she completes the remaining E windup animation. This corresponds to segment B-C in the diagram.
 
-3. At point C, the E firing animation begins. At this point, the target takes damage.
+3. At point C, the E firing animation begins. At this moment, the target takes damage.
 
-4. At point D, the champion begins the E recovery phase. It can be canceled by movement, a summoner spell, an active item effect, or another champion's ability.
+4. At point D, the champion begins the E recovery phase. This phase can be canceled by movement, a summoner spell, an active item effect, or another champion's ability.
 
-A player could make only one mistake when executing this combo. He can start it when the target is out of the champion's attack range. In this case, the player could press Flash before the E windup animation begins.
+A player could make only one mistake when executing this combo. He can start it when the target is outside of the champion's attack range. In this case, the player could press Flash before the E windup animation begins.
 
-There are several similar defensive combos with an attack modifier and Flash. Here are some examples:
+Several similar defensive combos involve an attack modifier ability and Flash. Here are a few examples:
 
-* **Darius W-F** — it slows the enemy and increases the distance to him.
+* **Darius W-F** — it slows the enemy and increases the distance from him.
 
-* **Garen Q-F** — it silences the enemy and increases the distance to him.
+* **Garen Q-F** — it silences the enemy and increases the distance from him.
 
-I> The **silence** effect prevents the enemy from using abilities, active item effects, and some summoner spells.
+I> The **silence** effect prevents the enemy from using abilities, active item effects, and certain summoner spells.
 
 ### 3.2.4 Static abilities
 
@@ -390,7 +388,7 @@ The **Jinx R static slow ability** is very similar to Ezreal R. It has the same 
 
 The R windup animation phase lasts 0.6 seconds, which is quite long.
 
-The **Jinx E static fast ability** does not have a windup phase. When the player presses the E key, the champion immediately begins the firing animation phase: Jinx throws traps in front of her. Figure 3-17 shows the timeline diagram of this ability.
+The **Jinx E static fast ability** does not have a windup phase. When the player presses the E button, the champion immediately begins the firing animation phase: Jinx throws traps in front of her. Figure 3-17 shows the timeline diagram of this ability.
 
 {caption: ""Figure 3-17. Timeline diagram of the Jinx E ability", width: "100%"}
 ![Jinx E ability](images/Micromanagement/jinx-e-ability-animation.png)
