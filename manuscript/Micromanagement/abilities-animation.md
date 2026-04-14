@@ -171,34 +171,36 @@ You can issue an attacking ability after a combo with an attack modifier. This w
 
 #### 3.2.3.2 Position change and auto-attack
 
->>>R1
+The uncancellable windup property of the attack modifier ability allows a champion to change position before the firing phase. This technique is useful for retreating. It allows you to increase the distance from opponents after diving, initiating a teamfight, or flanking.
 
-The uncancellable windup property of the attack modifier ability allows the champion to change position before the firing phase. This technique is useful only for retreating. It allows you to increase the distance from opponents after diving, initiating a teamfight, or flanking.
+We can categorize position-changing combos into two types:
 
-Let us introduce names for combos with changing position. **Defensive combo** changes the champion's position for retreating. **Offensive combo** changes the champion's position for attacking.
+1. **Defensive combos**, which reposition the champion for retreating
 
-Changing the champion's position before the firing phase works not only with attack modifiers but also with the basic attack. We start with the second case with AA because it is simpler.
+2. **Offensive combos**, which reposition the champion for attacking.
 
-We will consider the **defensive combo Vi AA-F**. Figure 3-10 shows its timeline diagram.
+Changing a champion's position before the firing phase applies not only to attack modifiers but also to basic attack. We will begin with the AA case because it is simpler.
+
+Let us consider the **defensive combo Vi AA-F**. Figure 3-10 shows its timeline diagram.
 
 {caption: "Figure 3-10. Timeline diagram of the defensive combo Vi AA-F", width: "100%"}
 ![Vi AA-F combo](images/Micromanagement/vi-aa-f-combo.png)
 
 The steps of this combo are as follows:
 
-1. At point A, the player right-clicks the target. The champion begins the AA windup animation. It lasts 0.35 seconds and ends at point C.
+1. At point A, the player right-clicks the target. The champion begins the AA windup animation phase. This phase lasts 0.35 seconds and ends at point C.
 
-2. At point B, the player presses Flash immediately after the AA windup animation begins. The champion increases the distance to the target. At the new position, she completes the remaining windup animation. This is segment B-C in the diagram.
+2. At point B, the player presses Flash immediately after the AA windup animation begins. The champion moves away from the target. At the new position, she completes the remaining windup animation. This movement matches segment B-C in the diagram.
 
-3. At point C, the AA firing animation begins. At this point, the target takes damage. The damage will occur even if the distance to the target is greater than Vi's attack range.
+3. At point C, the AA firing animation begins. At this point, the target takes damage. The damage occurs even if the distance to the target exceeds Vi's attack range.
 
 4. At point D, the champion begins the AA recovery phase. It can be canceled by movement, a summoner spell, an active item effect, or another champion's ability.
 
-Players make two typical mistakes when performing this combo:
+Players make two common mistakes when executing this combo:
 
-1. They start the combo when the target is out of the champion's attack range. Then, upon receiving the attack command, the champion will move toward the target. In this case, the player could press Flash before the AA windup animation begins. As a result, the champion will not perform an auto-attack.
+1. A player begins the combo when the target is outside the champion's attack range. As a result, when he issues the attack command, the champion moves toward the target. In this case, the player could press Flash before the AA windup animation begins by mistake. Then, the champion skips an auto-attack and just performs Flash.
 
-2. They cancel the AA windup animation after the Flash. For example, a player can accidentally issue the move command. Then, the champion will interrupt the windup phase and not perform an auto-attack.
+2. A player cancels the AA windup animation after using Flash. For example, a player may accidentally issue the move command. Then, the champion stops the AA windup phase and skips an auto-attack.
 
 The uncancellable windup property of the attack modifier ability solves the second problem. It prevents the player from canceling the windup phase with a move command.
 
