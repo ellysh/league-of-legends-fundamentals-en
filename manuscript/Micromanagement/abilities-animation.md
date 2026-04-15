@@ -253,25 +253,23 @@ The first purpose applies only to slow, static abilities with a windup phase. Th
 
 #### 3.2.4.1 Position Change in attacking Darius combo
 
->>>R1
+You can change the champion's position while using static abilities, whether for attacking or retreating. Offensive combos are effective in two cases:
 
-You can change the champion's position when using static abilities, both for attack and retreat. Offensive combos are effective in two cases:
+1. When the ability has a long windup phase.
 
-1. The ability has a long windup phase.
+2. When the ability has a long range.
 
-2. The ability has a long range.
+The concept behind an offensive combo is to perform the ability's windup phase in one location and then shift its firing phase to another. This technique makes it more difficult for the enemy to dodge the ability.
 
-The idea behind an offensive combo is to perform the ability's windup phase in one location and shift its firing phase into another. This makes it harder for the enemy to dodge the ability.
-
-There are two ways to change a champion's position during the windup phase of some static ability:
+There are two ways to change a champion's position during the windup animation phase of a certain static ability:
 
 1. **Flash**. Examples of combos: Darius Q-F, Ezreal Q-F, Ezreal R-F.
 
 2. **Dynamic champion ability**. Examples of combos: Caitlyn E-Q, Caitlyn E-W.
 
-We will consider the changing champion's position using Flash. Let us take the **offensive combo Darius Q-F** as an example. The [following video](https://www.youtube.com/watch?v=bkvlyU1csIQ&t=124s) demonstrates it.
+Now, we will focus on changing the champion's position using Flash. Let us examine the **offensive combo Darius Q-F**. The [following video](https://www.youtube.com/watch?v=bkvlyU1csIQ&t=124s) demonstrates this combo.
 
-The main drawback of Darius Q ability is its long windup phase. The strike area is highlighted, giving opponents enough time to dodge it. If Darius uses the ability at a short distance, the opponent enters the internal area of the strike and takes less damage. The offensive Q-F combo solves this problem.
+The main drawback of Darius Q ability is its long windup animation phase. The strike area is highlighted, giving opponents ample time to dodge it. If Darius uses the ability from a short distance, the enemy can move into the inner area of the strike, resulting in less damage taken. The offensive Q-F combo solves this issue.
 
 Figure 3-12 shows the timeline diagram of the Darius Q-F combo.
 
@@ -280,21 +278,21 @@ Figure 3-12 shows the timeline diagram of the Darius Q-F combo.
 
 The steps of this combo are as follows:
 
-1. At point A, the player presses the Q button. From this point on, the champion performs the Q windup animation phase: swinging the axe. This always lasts 0.75 seconds.
+1. At point A, the player presses the Q button. From this moment, the champion begins the Q windup animation phase: swinging the axe. This phase lasts 0.75 seconds.
 
-2. At point B, when the Q windup animation comes to an end, the player presses Flash. The champion should reach the position where the enemy is within the outer area of the strike. After this, the champion performs the remainder of the Q windup animation. This is segment B-C in the diagram.
+2. At point B, when the Q windup animation concludes, the player presses Flash. The champion should reposition to where the enemy is within the outer area of the strike. After this movement, the champion completes the remainder of the Q windup animation. The segment B-C in the diagram represents this phase.
 
 3. At point C, the Q firing animation begins. At this point, all enemies within the strike area take damage. This phase lasts approximately 0.4 seconds.
 
-4. At point D, the champion begins the Q recovery phase. It lasts approximately 0.33 seconds. It can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
+4. At point D, the champion begins the Q recovery phase. It lasts approximately 0.33 seconds. This phase can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
-When a player executes the Darius Q-F combo, the opponent sees the animation of the ability in advance. However, he still has little time to react. If he flashes too early in the A-B segment, a Darius player will not flash. This will give him a resource advantage. The opponent can only dodge the Q strike if he flashes in the B-C segment. Therefore, the shorter this segment, the better the combo execution.
+When executed properly, the Darius Q-F combo allows an opponent to see the ability's animation in advance. However, the enemy has little time to react. If he flashes too early during the A-B segment, the Darius player will not follow up with a Flash. This trade gives the player a resource advantage. The opponent can only dodge the Q strike by using Flash in the B-C segment. Therefore, the shorter this segment is, the better the combo execution.
 
-Here are the general rules for using Flash in all combos with changing the champion's position:
+Here are the general rules for using Flash in combos that involve changing a champion's position:
 
-> In offensive combos, use Flash as late as possible. This will not give the opponent time to react.
+> In offensive combos, use Flash as late as possible. This minimizes the time the opponent has to react.
 
-> In defensive combos, use Flash as early as possible. This allows the champion to reach a safe distance sooner.
+> In defensive combos, use Flash as early as possible. This allows the champion to reach a safe distance more quickly.
 
 #### 3.2.4.2 Position Change in attacking Ezreal combo
 
@@ -353,7 +351,7 @@ The steps of this combo are as follows:
 
 2. At point B, the player presses Flash immediately after the R windup animation begins. The champion increases the distance to the target. At the new position, he completes the remaining windup animation. This is segment B-C in the diagram.
 
-3. At point C, the champion performs the R firing phase animation. This lasts approximately 0.02 seconds.
+3. At point C, the champion performs the R firing animation phase. This lasts approximately 0.02 seconds.
 
 4. At point D, the champion begins the R recovery phase. This lasts approximately 0.65 seconds. It can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
