@@ -296,26 +296,24 @@ Here are the general rules for using Flash in combos that involve changing a cha
 
 #### 3.2.4.2 Position Change in attacking Ezreal combo
 
->>>R1
+The second example of a position change using Flash is the **offensive combo Ezreal Q-F**. It is also known as the "Ghost Q" combo. The [following video](https://www.youtube.com/shorts/QG7wX79RXAg) demonstrates it.
 
-The second example of position change using Flash is **offensive combo Ezreal Q-F**. It is also known as the "Ghost Q" combo. The [following video](https://www.youtube.com/shorts/QG7wX79RXAg) demonstrates it.
+Ezreal's Q ability has a long range and a clearly visible windup animation. At high Elo ranks, players often watch this animation and dodge the projectile. The Q-F combo solves this issue by increasing the ability's range while masking its animation. This masking makes it harder for opponents to predict the projectile's trajectory.
 
-Ezreal's Q ability has a long range and a clearly visible windup animation. At high ranks, players watch the animation and dodge the projectile. The Q-F combo solves this problem. It increases the range of the ability and masks its animation. This makes it difficult for the opponent to predict the projectile trajectory.
+I> **Animation masking** is the technique of overlaying the animation of one action over another. The champion performs both actions, but the second action's animation is distorted or concealed.
 
-I> **Animation masking** is the overlay of the animation of one action on top of another. The champion performs both actions, but the animation of the second one is distorted or hidden.
-
-Figure 3-13 shows the timeline diagram for Ezreal Q-F combo.
+Figure 3-13 shows the timeline diagram for the Ezreal Q-F combo.
 
 {caption: "Figure 3-13. The timeline diagram of the Ezreal Q-F combo", width: "100%"}
 ![Ezreal Q-F combo](images/Micromanagement/ezreal-q-f-combo.png)
 
 The steps of this combo are as follows:
 
-1. At point A, the player presses the Q button. The champion performs the Q windup animation phase: he extends his gauntlet forward. It always lasts 0.25 seconds.
+1. At point A, the player presses the Q button. The champion performs the Q windup animation phase: he extends his gauntlet forward. This phase always lasts 0.25 seconds.
 
-2. At point B, the player presses Flash. The champion closes the distance with the target. Flash should be pressed so that its firing animation ends simultaneously with the Q windup animation at point C. This will not only increase the ability's range but also mask the windup animation on the B-C segment.
+2. At point B, the player presses Flash. The champion closes the distance to the target. Flash should be activated so that its firing animation ends simultaneously with the Q windup phase at point C. This timing not only extends the ability's range but also masks the windup animation during the B-C segment.
 
-3. At point C, the champion performs the Q firing animation. This is masked similarly to the Q windup phase: the projectile animation begins at Ezreal's initial position. Its actual trajectory begins at the champion's new position. The firing phase lasts approximately 0.02 seconds.
+3. At point C, the champion performs the Q firing animation phase. This phase is masked similarly to the Q windup phase: the projectile animation begins from Ezreal's initial position. However, its actual trajectory starts from the champion's new location. The firing phase lasts approximately 0.02 seconds.
 
 4. At point D, the champion begins the Q recovery phase. This phase lasts approximately 0.9 seconds. It can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
@@ -324,11 +322,11 @@ Figure 3-14 shows the projectile flight animation when the Ezreal Q-F combo is e
 {caption: "Figure 3-14. The projectile flight animation in the Ezreal Q-F combo", width: "100%"}
 ![Projectile in Ezreal Q-F combo](images/Micromanagement/ezreal-q-animation-masking.png)
 
-The projectile only travels halfway before hitting the target. This occurs because the projectile's animation differs from its actual trajectory.
+You can see that the projectile only travels halfway before striking the target. This effect occurs because the projectile's animation differs from its actual trajectory.
 
-During the Ezreal Q-F combo, the champion can flash away from the projectile's direction. The [following video](https://www.youtube.com/watch?v=Ze-nz6w21EE) demonstrates this variation of the combo. It allows you to hit a target while minions or another champion are covering it.
+During the Ezreal Q-F combo, the champion can flash away from the direction of the projectile. The [following video](https://www.youtube.com/watch?v=Ze-nz6w21EE) demonstrates this variation of the combo. It allows you to hit a target that might be obscured by minions or another champion.
 
-Many static slow abilities are combined with Flash in the same way as Ezreal's Q. For example, Ashe's W. If you press Flash during the Ashe W windup phase, the champion flashes and fires a volley of arrows from a new position. This combo increases the range of the ability.
+Many static slow abilities are combined with Flash in a manner similar to the Ezreal Q ability. For example, the Ashe W ability can be executed this way. If you press Flash during the Ashe W windup phase, the champion flashes and fires a volley of arrows from a new position. This combo increases the range of the ability.
 
 #### 3.2.4.3 Position Change in defensive Ezreal combo
 
