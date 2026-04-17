@@ -136,7 +136,7 @@ Figure 3-9 shows the timeline diagram of the Vi AA-E combo.
 {caption: "Figure 3-9. The timeline diagram of the Vi AA-E combo", width: "100%"}
 ![Vi AA-E combo](images/Micromanagement/vi-aa-e-combo.png)
 
-The steps of this combo are as follows:
+The steps to execute this combo are as follows:
 
 1. At point A, the player right-clicks the target. From this moment, the champion begins the windup animation phase: swinging her fist back to strike. This phase lasts 22.5% of the auto-attack cooldown, which equals 1.55 seconds. This duration is approximately 0.35 seconds, according to the following calculation:
 {line-numbers: false, format: text}
@@ -186,7 +186,7 @@ Let us consider the **defensive combo Vi AA-F**. Figure 3-10 shows its timeline 
 {caption: "Figure 3-10. Timeline diagram of the defensive combo Vi AA-F", width: "100%"}
 ![Vi AA-F combo](images/Micromanagement/vi-aa-f-combo.png)
 
-The steps of this combo are as follows:
+The steps to execute this combo are as follows:
 
 1. At point A, the player right-clicks the target. The champion begins the AA windup animation phase. This phase lasts 0.35 seconds and ends at point C.
 
@@ -211,7 +211,7 @@ Now we will consider combos that involve Flash and the attack modifier ability. 
 {caption: "Figure 3-11. Timeline diagram of the defensive combo Vi E-F", width: "100%"}
 ![Vi E-F combo](images/Micromanagement/vi-e-f-combo.png)
 
-The steps of this combo are as follows:
+The steps to execute this combo are as follows:
 
 1. At point A, the player presses the E button and right-clicks the target. The champion uses the ability and begins the E windup animation.
 
@@ -276,7 +276,7 @@ Figure 3-12 shows the timeline diagram of the Darius Q-F combo.
 {caption: "Figure 3-12. The timeline diagram of the Darius Q-F combo", width: "100%"}
 ![Darius Q-F combo](images/Micromanagement/darius-q-f-combo.png)
 
-The steps of this combo are as follows:
+The steps to execute this combo are as follows:
 
 1. At point A, the player presses the Q button. From this moment, the champion begins the Q windup animation phase: swinging the axe. This phase lasts 0.75 seconds.
 
@@ -307,7 +307,7 @@ Figure 3-13 shows the timeline diagram for the Ezreal Q-F combo.
 {caption: "Figure 3-13. The timeline diagram of the Ezreal Q-F combo", width: "100%"}
 ![Ezreal Q-F combo](images/Micromanagement/ezreal-q-f-combo.png)
 
-The steps of this combo are as follows:
+The steps to execute this combo are as follows:
 
 1. At point A, the player presses the Q button. The champion performs the Q windup animation phase: he extends his gauntlet forward. This phase always lasts 0.25 seconds.
 
@@ -330,36 +330,34 @@ Many static slow abilities are combined with Flash in a manner similar to the Ez
 
 #### 3.2.4.3 Position Change in defensive Ezreal combo
 
->>>R1
+The third example of position change using Flash is the **defensive combo Ezreal R-F**. The [following video](https://www.youtube.com/watch?v=huqdC11CJmU) demonstrates this combo.
 
-The third example of position change using Flash is **defensive combo Ezreal R-F**. The [following video](https://www.youtube.com/watch?v=huqdC11CJmU) demonstrates it.
+Ezreal's R ability has two problems. **First**, the windup phase lasts one second. During this time, the champion cannot move, making him an easy target in a teamfight. **Second**, the trajectory of the projectile is predictable. The windup animation clearly shows where the projectile will go.
 
-Ezreal's R ability has two problems. **First**, the windup phase lasts one second. During this time, the champion is unable to move, making it an easy target in a teamfight. **Second**, the projectile's trajectory is predictable. The windup animation clearly indicates where the projectile will hit.
+The R-F defensive combo solves both problems. The idea of the combo is to mask the R windup animation with Flash while simultaneously increasing the distance from the opponent. This move provides extra time and hides the projectile's intended direction.
 
-The R-F defensive combo solves both problems. Its idea is to mask the windup R animation with the Flash while simultaneously breaking distance from the opponent. This buys time and hides the projectile's direction.
-
-Figure 3-15 shows the timeline diagram for Ezreal R-F combo.
+Figure 3-15 shows the timeline diagram for the Ezreal R-F combo.
 
 {caption: "Figure 3-15. The timeline diagram of the Ezreal R-F combo", width: "100%"}
 ![Ezreal R-F combo](images/Micromanagement/ezreal-r-f-combo.png)
 
-The steps of this combo are as follows:
+The steps to execute this combo are as follows:
 
-1. At point A, the player presses the R button. The champion performs the R windup animation phase: he flies up and extends his gauntlet forward. This always lasts 1 second.
+1. At point A, the player presses the R button. The champion begins the R windup animation phase: he flies up and extends his gauntlet forward. This phase always lasts 1 second.
 
-2. At point B, the player presses Flash immediately after the R windup animation begins. The champion increases the distance to the target. At the new position, he completes the remaining windup animation. This is segment B-C in the diagram.
+2. At point B, the player presses Flash immediately after the R windup animation begins. The champion increases the distance from the target. At the new position, he continues the remaining windup animation. The segment B-C in the diagram represents this phase.
 
-3. At point C, the champion performs the R firing animation phase. This lasts approximately 0.02 seconds.
+3. At point C, the champion performs the R firing animation. This phase lasts approximately 0.02 seconds.
 
-4. At point D, the champion begins the R recovery phase. This lasts approximately 0.65 seconds. It can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
+4. At point D, the champion begins the R recovery phase. This phase lasts approximately 0.65 seconds. It can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
-When performing the R-F combo, it is important to press Flash as early as possible. Otherwise, the R windup animation will be incompletely masked. The champion will perform one part of the animation in the starting position and the other in the final position. This is bad because the opponent will see the projectile's direction.
+When performing the R-F combo, it is crucial to press Flash as early as possible. Otherwise, the R windup animation will be partially masked. The champion will perform part of the animation in the starting position and the other part in the final position. This mistake can reveal the projectile's direction to the opponent.
 
-Note that after the Flash, the champion will aim in the wrong direction. This distorts the animation. The projectile will still fly in the direction that the player intended when casting the R ability.
+Note that after using Flash, the champion will aim in the wrong direction. This feature distorts the animation. However, the projectile will still travel in the direction that the player has pointed when casting the R ability.
 
-During a teamfight, it is better to Flash through a wall or into bushes. This puts the champion in a safe position and gives him time to complete the R windup animation.
+During a teamfight, it is better to Flash through a wall or into bushes. This move places the champion in a safer position and provides time to complete the R windup animation.
 
-I> There is a more complex E-R-F combo with Flash and Ezreal's ultimate ability. The [following video](https://www.youtube.com/watch?v=nxw-9TFjkF0) demonstrates it.
+I> There is a more complex E-R-F combo with Flash and Ezreal's ultimate ability R. The [following video](https://www.youtube.com/watch?v=nxw-9TFjkF0) demonstrates this advanced technique.
 
 #### 3.2.4.4 Hiding animation in Jinx combo
 
