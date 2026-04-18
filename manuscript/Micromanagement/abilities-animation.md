@@ -361,52 +361,50 @@ I> There is a more complex E-R-F combo with Flash and Ezreal's ultimate ability 
 
 #### 3.2.4.4 Hiding animation in Jinx combo
 
->>>R1
+Using Flash is not the only way to mask ability animations. Some static abilities of a champion can also serve this purpose.
 
-Using Flash is not the only option to mask the ability animation. Some static abilities of a champion are also suitable for this purpose.
+When overlaying animations of two static abilities, you gain the following benefits:
 
-When you overlay animations of two static abilities, you get the following benefits:
+1. Increased damage per second (DPS) in teamfights.
 
-1. Increase the champion's DPS in teamfight.
-
-2. Hide the projectile's direction or strike.
+2. Hide a strike or projectile direction.
 
 Let us look at the **Jinx E-R combo**. The [following video](https://www.instagram.com/p/DAgwmuDMVq-) demonstrates it. First, we will consider animation of the E and R abilities.
 
-The **Jinx R static slow ability** is very similar to Ezreal R. It has the same two drawbacks: a long windup phase and a predictable projectile trajectory. Figure 3-16 shows the timeline diagram of this ability.
+The **Jinx R static slow ability** is quite similar to Ezreal R. It has the same two drawbacks: a long windup phase and a predictable projectile trajectory. Figure 3-16 shows the timeline diagram of this ability.
 
 {caption: "Figure 3-16. Timeline diagram of the Jinx R ability", width: "100%"}
 ![Jinx R ability](images/Micromanagement/jinx-r-ability-animation.png)
 
-The R windup animation phase lasts 0.6 seconds, which is quite long.
+The R windup animation phase lasts 0.6 seconds, which is relatively long.
 
 The **Jinx E static fast ability** does not have a windup phase. When the player presses the E button, the champion immediately begins the firing animation phase: Jinx throws traps in front of her. Figure 3-17 shows the timeline diagram of this ability.
 
 {caption: ""Figure 3-17. Timeline diagram of the Jinx E ability", width: "100%"}
 ![Jinx E ability](images/Micromanagement/jinx-e-ability-animation.png)
 
-The **Jinx E-R combo** solves both problems of the R ability. The E ability animation hides the R windup phase. Because of this, the enemy does not see that the champion is immobilized and vulnerable. The projectile's direction is also hidden.
+The **Jinx E-R combo** solves both problems of the R ability. The E ability animation hides the R windup phase. Because of this, the enemy does not realize that the champion is immobilized and vulnerable. The projectile direction is also hidden.
 
 Figure 3-18 shows the timeline diagram of the Jinx E-R combo.
 
 {caption: "Figure 3-18. Timeline diagram of the Jinx E-R combo", width: "100%"}
 ![Jinx E-R combo](images/Micromanagement/jinx-e-r-combo.png)
 
-The steps of this combo are as follows:
+The steps for executing this combo are as follows:
 
-1. At point A, the player presses the E button. The champion performs the E firing animation phase. It lasts 0.08 seconds.
+1. At point A, the player presses the E button. The champion begins the E firing animation phase. It lasts 0.08 seconds.
 
-2. At point B, the E recovery animation phase begins. The player presses the R button. The R windup phase then begins, but its animation is partially hidden.
+2. At point B, the E recovery animation phase starts. The player presses the R button. The R windup phase then begins, but its animation is partially hidden.
 
 3. At point C, the R firing animation phase begins. It lasts 0.07 seconds. It is also masked by the E recovery animation.
 
-4. At point D, the R firing phase ends. Starting from this point, the champion performs only the remainder of the E recovery animation. It hides the R recovery phase.
+4. At point D, the R firing phase ends. Starting from this point, the champion continues only the remainder of the E recovery animation. It hides the R recovery phase.
 
-5. At point E, the E recovery phase ends. The champion then plays the remainder of the R recovery animation.
+5. At point E, the E recovery phase ends. Then the champion completes the remaining R recovery animation.
 
 You can cancel both E and R recovery animations at point D. This can be done by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
-In our example, the recovery animation phase of one static ability masks the windup phase of another. The following combos work on the same manner:
+In this example, the recovery animation of one static ability masks the windup phase of another. The following combos function in the same manner:
 
 * [**Riven R-W**](https://youtu.be/bXO-5CpNqJc?si=as1A5boOdGEIUlLg&t=240)
 
