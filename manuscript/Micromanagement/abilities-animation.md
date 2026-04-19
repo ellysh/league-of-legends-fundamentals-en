@@ -412,11 +412,9 @@ In this example, the recovery animation of one static ability masks the windup p
 
 #### 3.2.4.5 Hiding animation in Darius combo
 
->>>R1
+The second example of animation masking is the **Darius W-Q combo**. The [following video](https://www.youtube.com/watch?v=83n-RIxQ25k&t=86s) demonstrates it
 
-The second example of animation masking is **Darius W-Q combo**. The [following video](https://www.youtube.com/watch?v=83n-RIxQ25k&t=86s) demonstrates it
-
-The idea behind the combo is to perform both the W and Q abilities simultaneously. The W attack modifier has an uncancellable windup property. This allows you to start the W windup phase and immediately begin the Q ability. Then the Q animation will overlay on the W animation.
+The idea behind the combo is to use the W and Q abilities simultaneously. The W attack modifier has the uncancellable windup property. This technique allows you to start the W windup phase and immediately use the Q ability. This results in the Q animation overlaying the W animation.
 
 Figure 3-19 shows the timeline diagram of the Darius W-Q combo.
 
@@ -427,15 +425,15 @@ The steps of this combo are as follows:
 
 1. At point A, the player presses W and issues an auto-attack. The champion begins the W windup animation phase, swinging the axe from below.
 
-2. At point B, the player presses Q immediately after the W windup animation begins. The champion begins the Q windup animation, swinging the axe from above. This animation hides the W windup animation, which happens in parallel.
+2. At point B, the player presses Q immediately after the W windup animation starts. The champion begins the Q windup animation, swinging the axe from above. This Q animation hides the W windup animation, which continues in parallel.
 
-3. At point C, the W firing phase begins. The champion deals damage to the enemy with his attack modifier. The Q windup phase hides the strike animation.
+3. At point C, the W firing phase begins. The champion deals damage to the enemy with the attack modifier. The Q windup phase hides the strike animation.
 
 4. At point D, the Q firing phase begins. All enemies within the strike area take damage.
 
-5. At point E, the champion begins the Q recovery phase. This can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
+5. At point E, the champion begins the Q recovery phase. This phase can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
-There are several similar combos with an attack modifier and a static ability. Here are some examples:
+There are several similar combos with an attack modifier and a static ability. Here are a few examples:
 
 * **Dr. Mundo E-W**
 
