@@ -441,11 +441,9 @@ There are several similar combos with an attack modifier and a static ability. H
 
 ### 3.2.5 Dynamic abilities
 
->>>R1
+Now, let us explore **dynamic abilities**. These abilities can be categorized as offensive, which increase damage, or defensive, which enhance survivability. Both types of abilities change the champion's position in some way.
 
-Now we consider **dynamic abilities**. They can be offensive, which increases damage, or defensive, which provides some survivability. Both types of abilities move the champion in some way.
-
-Working with the animation of a dynamic ability serves the following purposes:
+Working with the animation of a dynamic ability serves several purposes:
 
 1. Change the champion's position before or during the firing phase of an ability.
 
@@ -455,7 +453,7 @@ Working with the animation of a dynamic ability serves the following purposes:
 
 4. Cancel the recovery animation of an auto-attack or ability.
 
-Let us look at an example combo for each of these purposes.
+We will look at an example combo for each of these purposes.
 
 #### 3.2.5.1 Position Change in attacking Vi combo
 
