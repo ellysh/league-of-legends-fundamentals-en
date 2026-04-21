@@ -507,8 +507,6 @@ Here are some examples of attack combos that function similarly to the Vi Q-F co
 
 #### 3.2.5.2 Position Change in defensive Vi combo
 
->>>R1
-
 Now let us consider the **defensive combo Vi Q-F**. Figure 3-22 shows its timeline diagram.
 
 {caption: "Figure 3-22. The timeline diagram of the defensive combo Vi Q-F", width: "100%"}
@@ -518,21 +516,21 @@ The steps of this combo are as follows:
 
 1. At point A, the player presses the Q button. The champion begins the Q windup animation phase.
 
-2. At point B, the player presses Flash immediately after the Q windup animation begins. This allows the champion to increase the distance from the opponent or dodge the incoming projectile.
+2. At point B, the player presses Flash immediately after the Q windup animation begins. This technique allows the champion to increase the distance from the opponent or dodge the incoming projectile.
 
-3. At point C, the champion completes the Q windup phase. After this, she is in a Q-charged state and retains her charge.
+3. At point C, the champion completes the Q windup phase. Then, she enters the Q-charged state.
 
-4. At point D, the player presses the Q button. The champion performs the Q firing phase: a dash in the designated direction. This can be a retreat or a counterattack.
+4. At point D, the player presses the Q button again. The champion executes the Q firing phase: dashing in the specified direction. This move can be a retreat or a counterattack.
 
-5. At point E, the champion begins the Q recovery phase. This can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
+5. At point E, the champion begins the Q recovery phase. This phase can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
 The defensive combo with a dynamic ability and Flash serves the following purposes:
 
-1. Dodge enemy abilities and counterattack.
+1. Dodge enemy abilities and execute a counterattack.
 
-2. Create distance between the champion and the enemy, buying time in teamfight.
+2. Create distance between the champion and the enemy.
 
-Here are some examples of defensive combos that work similarly to Vi Q-F:
+Here are some examples of defensive combos that function similarly to Vi Q-F:
 
 * [**Ezreal E-F**](https://mobalytics.gg/lol/champions/ezreal/combos)
 
