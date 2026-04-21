@@ -457,39 +457,37 @@ We will look at an example combo for each of these purposes.
 
 #### 3.2.5.1 Position Change in attacking Vi combo
 
->>>R1
-
 The player can change the champion's position for attack and defense when using dynamic abilities. This technique works well for both slow and fast abilities.
 
-When a champion performs a static ability, he can only change position during the windup animation phase. In contrast, most dynamic abilities allow changing position during the firing phase. Only Flash summoner spell allows you to do it.
+When a champion performs a static ability, he can change position during the windup and recovery phases. In contrast, most dynamic abilities allow changing position during the firing phase. Flash summoner spell is the only option to do it.
 
-Let us look at changing a champion's position using the **Vi Q-F combo** as an example. It has two variants: offensive and defensive. First, we will consider the animation of the Vi Q ability itself. Figure 3-20 shows its timeline diagram.
+Let us examine changing a champion's position using the **Vi Q-F combo** as an example. This combo has two variants: offensive and defensive. First, we will consider the animation of the Vi Q ability. Figure 3-20 shows its timeline diagram.
 
 {caption: "Figure 3-20. The timeline diagram of the Vi Q ability", width: "100%"}
 ![Vi Q ability](images/Micromanagement/vi-q-ability-animation.png)
 
-In this ability, the windup phase is replaced with charging. It has four animation phases in total: windup (charging), charged, firing, and recovery. The second phase occurs when the champion fully charges the ability. You can skip it if you issue a firing before the ability is fully charged.
+In this ability, the windup phase is replaced with charging. There are four animation phases in total: windup (charging), charged, firing, and recovery. The charged phase occurs when the ability is fully charged. You can skip it by issuing a firing command before full charge is reached.
 
-Vi Q ability does not have a lockout move property. [**Lockout**]((https://wiki.leagueoflegends.com/en-us/Terminology#Lockout)) prevents the champion from performing certain actions during the ability's windup phase. **Lockout move** prevents the champion from moving.
+The Vi Q ability does not have a lockout move property. [**Lockout**]((https://wiki.leagueoflegends.com/en-us/Terminology#Lockout)) prevents the champion from performing certain actions during the ability's windup phase. **Lockout move** prevents the champion from moving.
 
 Now let us consider the **offensive combo Vi Q-F**. Figure 3-21 shows its timeline diagram.
 
 {caption: "Figure 3-21. The timeline diagram of the offensive combo Vi Q-F", width: "100%"}
 ![Offensive combo Vi Q-F](images/Micromanagement/vi-q-f-attacking-combo.png)
 
-I> We consider the execution of the combo when Vi Q ability is set to Normal Cast.
+I> We consider how to execute this combo when the Vi Q ability is set to Normal Cast.
 
 The steps of this combo are as follows:
 
-1. At point A, the player presses the Q button. The champion begins the Q windup animation phase: charging her fist. This lasts a maximum of 1.25 seconds. The champion can move during this phase.
+1. At point A, the player presses the Q button. The champion begins the Q windup animation phase: charging her fist. This phase lasts a maximum of 1.25 seconds, during which the champion can move.
 
-2. At point B, the champion completes the Q windup phase. After this, she is in a Q-charged state and retains her charge. This lasts up to 2.75 seconds. The champion can move during this phase.
+2. At point B, the champion completes the Q windup phase and enters a Q-charged state. This state lasts up to 2.75 seconds. The champion can move during this time.
 
-3. At point C, the player presses the Q button. The champion performs the Q firing phase: a dash in the designated direction. At full charge and without impact, the Q firing phase lasts approximately 0.52 seconds.
+3. At point C, the player presses the Q button again. The champion performs the Q firing phase: a dash in the specified direction. When fully charged and without any impact, this phase lasts approximately 0.52 seconds.
 
-4. At point D, which is near the end of the Q firing animation, the player presses Flash at the target's location. The champion will flash and end the Q firing animation at a new position. This is guaranteed to hit the target, dealing damage and knocking him back.
+4. At point D, which is near the end of the Q firing animation, the player presses Flash toward the target's location. This action causes the champion to flash and concludes the Q firing animation at a new position. Using flash guarantees to hit the target, dealing damage, and knocking him back.
 
-5. At point E, the firing phase ends. Immediately after, the champion will perform a basic attack on the target. This action can be canceled with a movement command.
+5. At point E, the firing phase ends. Immediately after that, the champion performs a basic attack on the target. This action can be canceled with a movement command.
 
 The offensive combo with a dynamic ability and Flash serves the following purposes:
 
@@ -499,7 +497,7 @@ The offensive combo with a dynamic ability and Flash serves the following purpos
 
 I> There is a more complex version of the Vi Q-F combo. It allows you to push the enemy in the opposite direction of the Q ability. The [following video](https://www.instagram.com/p/DWwRzZRFR_g/) demonstrates it.
 
-Here are some examples of attack combos that work similarly to Vi's Q-F:
+Here are some examples of attack combos that function similarly to the Vi Q-F combo:
 
 * [**Yasuo E-Q-F**](https://www.youtube.com/shorts/2NIIS4VZtwY)
 
