@@ -538,16 +538,14 @@ Here are some examples of defensive combos that function similarly to Vi Q-F:
 
 #### 3.2.5.3 Premature end of the firing phase
 
->>>R1
+Some dynamic abilities provide an additional effect after being cast. In certain situations, this effect can be more useful than repositioning the champion. You can activate the effect more quickly by shortening the firing animation of the ability.
 
-Some dynamic abilities provide an additional effect after cast. In certain situations, this effect is more useful than changing the champion's position. You can get it faster by shortening the firing animation phase of the ability.
-
-Let us consider the premature end of the firing phase using **Vayne Q dynamic fast ability** as an example. Figure 3-23 shows its timeline diagram.
+Let us consider the premature end of the firing phase using the **Vayne Q dynamic fast ability** as an example. Figure 3-23 shows its timeline diagram.
 
 {caption: "Figure 3-23. The timeline diagram of the Vayne Q ability", width: "100%"}
 ![Vayne Q ability](images/Micromanagement/vayne-q-ability-animation.png)
 
-The Q ability has no windup phase. Immediately after casting it, the champion begins the Q firing animation. When it ends, the champion receives three effects:
+The Q ability has no windup phase. Immediately after casting it, the champion begins the Q firing animation. When this animation ends, the champion gains three effects:
 
 1. The next basic attack deals bonus damage.
 
@@ -555,11 +553,11 @@ The Q ability has no windup phase. Immediately after casting it, the champion be
 
 3. The basic attack timer is reset.
 
-All of these buffs increase the champion's DPS. If you do not need to change the champion's position in a fight, buffs will be more important than the movement. Therefore, it is beneficial to get them as quickly as possible.
+These buffs increase the champion's DPS. If repositioning is not necessary during a fight, obtaining the buffs quickly becomes more important than movement. Therefore, it is beneficial to activate them as soon as possible.
 
-Note that you cannot cancel the Q recovery phase in standard ways: attacking, moving, using another ability, or using an active item effect.
+Note that you cannot cancel the Q recovery phase in usual ways: attacking, moving, using another ability, or using an active item effect.
 
-You need to aim the Q ability at a wall to **prematurely end its firing phase**. The champion must already stand close to the wall before doing so. The [following video](https://www.youtube.com/watch?v=2A3EFucqXbY) demonstrates this technique. It halves the delay before the empowered basic attack.
+You need to aim the Q ability at a wall to **prematurely end its firing phase**. The champion should already stand close to the wall before doing this. The [following video](https://www.youtube.com/watch?v=2A3EFucqXbY) demonstrates this technique. It halves the delay before the empowered basic attack.
 
 Figure 3-24 shows the timing diagram for the Vayne Q ability with a shortened firing phase.
 
@@ -572,9 +570,9 @@ The steps of this technique are as follows:
 
 2. At point B, the champion interrupts the Q firing phase because the wall blocks her movement. The Q recovery phase begins: the champion rises to her feet.
 
-3. At point C, the Q recovery phase ends. The champion can now perform a charged basic attack.
+3. At point C, the Q recovery phase ends, allowing the champion to perform a charged basic attack.
 
-Here are some examples of dynamic abilities that you can reduce the firing animation phase:
+Here are some examples of dynamic abilities where you can reduce the firing animation phase:
 
 * [**Kayn Q**](https://www.youtube.com/watch?v=4Num03szneM) — reducing the firing phase decreases the delay between the first and second strikes.
 
@@ -582,7 +580,7 @@ Here are some examples of dynamic abilities that you can reduce the firing anima
 
 * **Graves E** — reducing the firing phase allows the champion to gain an additional ammo for his basic attack faster.
 
-* **Ekko E** — reducing the firing phase allows the champion to gain an empower to his next basic attack faster.
+* **Ekko E** — reducing the firing phase allows the champion to empower his next basic attack faster.
 
 #### 3.2.5.4 Hiding animation
 
