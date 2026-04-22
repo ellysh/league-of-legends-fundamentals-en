@@ -584,38 +584,36 @@ Here are some examples of dynamic abilities where you can reduce the firing anim
 
 #### 3.2.5.4 Hiding animation
 
->>>R1
-
-We have already covered two methods of animation masking:
+We have already discussed two methods of animation masking:
 
 1. Combining two static abilities
-2. Combining a static ability and Flash.
+2. Combining a static ability with Flash.
 
-Now, let us consider a third method of animation masking: combining a static and a dynamic ability. The goals of this technique are as follows:
+Now, let us consider the third method of animation masking: combining a static and a dynamic ability. The goals of this technique are as follows:
 
 1. Reposition the champion for attack or retreat.
 
-2. Increase the champion's DPS in the fight.
+2. Increase the champion's DPS during the fight.
 
-3. Hide the projectile's direction or strike.
+3. Hide a strike or projectile's direction.
 
-We will consider **defensive combo Caitlyn E-Q**. The [following video](https://www.youtube.com/shorts/Y5t984dWvDg) demonstrates this technique. First, we will look at the abilities it consists of.
+We will consider the **defensive combo Caitlyn E-Q**. The [following video](https://www.youtube.com/shorts/Y5t984dWvDg) demonstrates this technique. First, we will look at the abilities it consists of.
 
-Caitlyn's **static slow ability Q** is similar to Ezreal's Q. Caitlyn's Q has a slightly longer range, but its windup phase is almost three times longer. This makes the projectile's direction easy to predict. During the windup phase, the champion also becomes vulnerable in a teamfight.
+The **static slow ability Caitlyn Q** is similar to Ezreal Q. Caitlyn Q has a slightly longer range, but its windup phase is nearly three times longer. This timing makes the projectile's direction easy to predict. During the windup phase, the champion also becomes vulnerable in a teamfight.
 
-Figure 3-25 shows the timeline diagram of Caitlyn's Q ability.
+Figure 3-25 shows the timeline diagram of the Caitlyn Q ability.
 
 {caption: "Figure 3-25. The timeline diagram of the Caitlyn Q ability", width: "100%"}
 ![Caitlyn Q ability](images/Micromanagement/caitlyn-q-ability-animation.png)
 
 The Q windup animation phase lasts 0.63 seconds. During this time, the enemy can easily dodge the ability.
 
-Caitlyn's **dynamic slow E ability** has a windup animation phase. When this phase finishes, the champion fires a projectile and dashes back. Figure 3-26 shows the timeline diagram of the ability.
+The **dynamic slow ability Caitlyn E** has a windup animation phase. When this phase finishes, the champion fires a projectile and dashes back. Figure 3-26 shows the timeline diagram of the ability.
 
 {caption: "Figure 3-26. The timeline diagram of the Caitlyn E ability", width: "100%"}
 ![Caitlyn E ability](images/Micromanagement/caitlyn-e-ability-animation.png)
 
-**Defensive combo Caitlyn E-Q** solves the problem of the long windup phase of the Q ability. When performing the combo, the champion moves during this phase. This creates distance between her and the enemy. Also, the movement hides the direction of the Q projectile.
+The **defensive combo Caitlyn E-Q** solves the issue of the long windup phase of her Q ability. The champion moves during this phase when executing the combo. This move creates distance between Caitlyn and the enemy and hides the direction of the Q projectile.
 
 Figure 3-27 shows the timeline diagram of the Caitlyn E-Q combo.
 
@@ -628,13 +626,13 @@ The steps of this combo are as follows:
 
 2. At point B, the E firing animation phase begins. It lasts approximately 0.4 seconds.
 
-3. At point C, the player presses the Q button immediately after the E firing animation begins. The champion begins the Q windup phase. Its animation overlaps with the E firing animation.
+3. At point C, the player presses the Q button immediately after the E firing animation starts. The champion begins the Q windup phase. Its animation overlaps with the E firing animation.
 
-4. At point D, the champion begins the Q firing phase. If the combo is executed correctly, the projectile launches from the starting champion's position at point C.
+4. At point D, Caitlyn begins the Q firing phase. If the combo is executed correctly, the projectile launches from her starting position at point C.
 
-5. At point E, the champion begins the Q recovery phase. This phase lasts approximately 1.28 seconds. It can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
+5. At point E, the champion begins the Q recovery phase, which lasts approximately 1.28 seconds. This phase can be canceled by an attack, movement, a summoner spell, an active item effect, or another champion ability.
 
-Here are several examples of other combos that work similarly to Caitlyn E-Q:
+Here are several examples of other combos that function similarly to Caitlyn E-Q:
 
 * [**Caitlyn E-W**](https://youtu.be/bkvlyU1csIQ?si=tL3lcstUSnXZMAMw&t=284)
 
@@ -646,7 +644,7 @@ Here are several examples of other combos that work similarly to Caitlyn E-Q:
 
 * **Samira E-Q**
 
-In the last two combos, combining two abilities triggers a special animation. Despite this, they are executed the same as typical animation masking combos.
+In the last two combos, combining two abilities triggers a special animation. Despite this, they are executed in the same manner as typical animation masking combos.
 
 ### 3.2.6 Complex combos
 
