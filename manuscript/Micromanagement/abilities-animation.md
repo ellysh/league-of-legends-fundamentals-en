@@ -648,25 +648,23 @@ In the last two combos, combining two abilities triggers a special animation. De
 
 ### 3.2.6 Complex combos
 
->>>R1
+We have covered the basic techniques for working with ability animations. For each technique, we examined a simple combo consisting of two actions. However, some champions have much more complex combos that involve four or more actions. You cannot perform them properly without knowing the basic techniques.
 
-We have covered the basic techniques for working with ability animations. For each of them, we looked at an example of a simple combo with two actions. Combos of some champions are much more complex, consisting of four or more actions. You cannot perform them properly without knowing the basic techniques.
-
-Let us look at an example of a complex combo: **Samira fastest S combo**. It deals six hits to the enemy in one second: two basic attacks and four from abilities. Each hit is different from the previous one. They fully stack the passive ability that allows Samira to use her R ability.
+Let us look at an example of a complex combo: **Samira fastest S combo**. This combo deals six hits to the enemy in just one second: two basic attacks and four strikes by abilities. Each hit is distinct from the previous one. This way, Samira gets six stacks on her passive ability and can cast her ultimate.
 
 The [following video](https://www.youtube.com/watch?v=S2Uxl5v_f6Q) demonstrates the Samira fastest S combo. The esports player Jackspektra explains the combo step by step in the [following video](https://www.youtube.com/shorts/Ksvye6VP7-M?app=desktop).
 
-The sequence of commands, which you need to perform the combo, looks like this:
+The sequence of commands needed to perform the combo is as follows:
 {line-numbers: false, format: text}
 ```
 AA-W-E-Q-AA-R
 ```
 
-This sequence looks simple. But it does not take into account a whole series of actions with the abilities animation.
+At first glance, this sequence seems simple. However, it does not account for a series of actions related to ability animations.
 
-Take a break and watch the video with the combo demonstration in slow motion. You will notice that each hyphen in the sequence corresponds to one of the animation techniques. There are five of these techniques in the combo:
+Take a moment to watch the video demonstrating the combo in slow motion. You will notice that each hyphen in the sequence corresponds to a specific animation technique. There are five of these techniques involved in this combo:
 
-1. AA-W — the W ability cancels the AA recovery animation.
+1. AA-W — the W ability cancels the recovery animation of the basic attack (AA).
 
 2. W-E — the E ability masks the W ability animation.
 
@@ -676,7 +674,7 @@ Take a break and watch the video with the combo demonstration in slow motion. Yo
 
 5. AA-R — the R ability cancels the AA recovery animation.
 
-The player must understand each of these techniques and be able to apply them. Only then could he execute the combo effectively in the shortest possible time.
+A player must understand each of these techniques and apply them effectively. Only with this knowledge can he execute the combo effectively in the shortest possible time.
 
 ### 3.2.7 Training of combos
 
