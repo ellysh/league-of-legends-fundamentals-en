@@ -680,25 +680,23 @@ A player must understand each of these techniques and apply them effectively. On
 
 ### 3.2.7.1 Search for information
 
->>>R1
+The best source of information on combos for a specific champion is YouTube video guides. For example, here is a good [guide for Darius](https://www.youtube.com/watch?v=83n-RIxQ25k).
 
-The best source of information on combos for a specific champion is YouTube video guides. Here is an example of a good [guide for Darius](https://www.youtube.com/watch?v=83n-RIxQ25k).
+The second best source of information is [mobafire.com](https://www.mobafire.com). Many champion guides there provide commonly used combos. For instance, you can check out this [guide for Ezreal](https://www.mobafire.com/league-of-legends/build/the-complete-ezreal-guide-627978).
 
-The second best source of information is [mobafire.com](https://www.mobafire.com). Some champion guides provide the most commonly used combos. Here is an example of a good [guide for Ezreal](https://www.mobafire.com/league-of-legends/build/the-complete-ezreal-guide-627978).
+Basic combos for each champion are also available on [mobalytics.gg](https://mobalytics.gg). You can view combo descriptions for free. However, you need a paid subscription to watch the videos. Here is an example of a [page with Ezreal combos](https://mobalytics.gg/lol/champions/ezreal/combos).
 
-Basic combos for each champion are also available on [mobalytics.gg](https://mobalytics.gg). You can view combo descriptions for free. But you need a paid subscription to watch the videos. Here is an example [combo page for Ezreal](https://mobalytics.gg/lol/champions/ezreal/combos).
+If you still have not found the information you need, you can check possible combos yourself in the "Practice Tool". Follow these steps to do it:
 
-If you have not found the required information, you can check possible combos in the "Practice Tool". Here are the steps to do this:
-
-1. Determine the type of your champion's abilities using Table 3-1.
+1. Determine the type of each champion's ability using Table 3-1.
 
 2. For each ability, create a list of combos that should work for its type.
 
-3. Go through the list and check whether each combo actually works.
+3. Go through the list to check whether each combo actually works.
 
-Note that game mechanics have exceptions to the general rules. For example, some abilities should, in theory, combine with Flash. In practice, the game mechanics may not allow this.
+Note that game mechanics often have exceptions to the general rules. For example, while some abilities should theoretically combine with Flash, the game may not allow this.
 
-We can consider how searching combos could work with an example. Let us assume our champion has a dynamic slow ability. The following techniques typically work with this type of ability:
+To illustrate how to check combos in "Practice tool", let us assume our champion has a dynamic slow ability. The following techniques typically work well with this type of ability:
 
 1. Changing the champion's position before or during the firing phase of the ability.
 
@@ -708,7 +706,7 @@ We can consider how searching combos could work with an example. Let us assume o
 
 4. Canceling the recovery animation of an auto-attack or ability.
 
-Try each option and make a list of the techniques that worked. Estimate the advantages that each combo could provide you in a fight. Try combining the techniques you find into more complex combos to enhance their effect.
+Try each option and make a list of the techniques that worked. Estimate the advantages that each combo could provide you in a fight. Try combining the techniques you discovered into more complex combos to enhance their effectiveness.
 
 ### 3.2.7.2 Player skills development
 
