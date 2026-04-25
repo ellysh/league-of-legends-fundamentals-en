@@ -1,3 +1,8 @@
+## Version 25.04.2026 0186e97d892569d2a65bcc1745463b29be494a49
+
+* Translate the "3.2 Ability animation" section
+
+
 ## Version 09.03.2026 b36b7c0dca98ebcd6e9d96e8b8be42594a0472c2
 
 * Translate the "3.1 Basic attack animation" section
