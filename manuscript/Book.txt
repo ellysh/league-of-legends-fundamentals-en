@@ -14,6 +14,7 @@ mainmatter:
   Micromanagement/README.md
   Micromanagement/attack-animation.md
   Micromanagement/abilities-animation.md
+  Micromanagement/positioning.md
 
   glossary.md
   version.md

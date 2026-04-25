@@ -720,7 +720,7 @@ To execute combos successfully, it is not enough just to press the buttons in th
 
 1. The [Skill Gap](https://skillgap.pro/) program offers a variety of training modes. Some modes are free, and others are paid.
 
-2. The [loldodgegame.com](https://loldodgegame.com/choose_game) website, where all modes are free.
+2. The [loldodgegame.com](https://loldodgegame.com) website, where all modes are free.
 
 Both programs simulate simplified League of Legends mechanics.
 
